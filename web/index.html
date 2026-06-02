@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Viral - Análise Diária</title>
+  
+  <!-- Fontes do Google -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Estilos Personalizados -->
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- FontAwesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- Layout Principal -->
+  <div class="app-container">
+    
+    <!-- Barra Lateral: Histórico de Relatórios -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo-area">
+          <i class="fa-solid fa-bolt logo-icon"></i>
+          <h1>Agente Viral</h1>
+        </div>
+        <p class="subtitle">Análise Diária de Tendências</p>
+      </div>
+      
+      <div class="history-section">
+        <h3><i class="fa-solid fa-calendar-days"></i> Histórico</h3>
+        <ul id="history-list" class="history-list">
+          <!-- Inserido dinamicamente via JS -->
+          <li class="loading-placeholder">Carregando histórico...</li>
+        </ul>
+      </div>
+      
+    </aside>
+    
+    <!-- Painel Central Principal -->
+    <main class="main-content">
+      
+      <!-- Cabeçalho Principal -->
+      <header class="main-header">
+        <div class="header-info">
+          <span class="badge">Relatório Ativo</span>
+          <h2 id="report-date-display">Carregando data...</h2>
+        </div>
+      </header>
+      
+      <!-- Área dos Cartões (Cards Grid) -->
+      <div class="cards-grid">
+        
+        <!-- Card 1: Google Trends Brasil -->
+        <section class="card glass-card card-trends-br">
+          <div class="card-header">
+            <div class="card-icon icon-br">
+              <span>🇧🇷</span>
+            </div>
+            <div class="card-title">
+              <h3>Google Notícias</h3>
+              <p>Brasil</p>
+            </div>
+          </div>
+          <div class="card-body">
+            <ul id="trends-br-list" class="trend-list">
+              <!-- JS dinâmico -->
+            </ul>
+          </div>
+        </section>
+        
+        <!-- Card 2: Google Trends Global -->
+        <section class="card glass-card card-trends-global">
+          <div class="card-header">
+            <div class="card-icon icon-global">
+              <span>🌎</span>
+            </div>
+            <div class="card-title">
+              <h3>Google Notícias</h3>
+              <p>Global (EUA - Traduzido)</p>
+            </div>
+          </div>
+          <div class="card-body">
+            <ul id="trends-global-list" class="trend-list">
+              <!-- JS dinâmico -->
+            </ul>
+          </div>
+        </section>
+        
+        <!-- Card 3: YouTube Brasil -->
+        <section class="card glass-card card-youtube-br">
+          <div class="card-header">
+            <div class="card-icon icon-yt">
+              <i class="fa-brands fa-youtube"></i>
+            </div>
+            <div class="card-title">
+              <h3>Vídeos em Alta</h3>
+              <p>YouTube Brasil</p>
+            </div>
+          </div>
+          <div class="card-body">
+            <ul id="yt-br-list" class="video-list">
+              <!-- JS dinâmico -->
+            </ul>
+          </div>
+        </section>
+        
+        <!-- Card 4: YouTube Global -->
+        <section class="card glass-card card-youtube-global">
+          <div class="card-header">
+            <div class="card-icon icon-yt-global">
+              <i class="fa-brands fa-youtube text-orange"></i>
+            </div>
+            <div class="card-title">
+              <h3>Vídeos em Alta</h3>
+              <p>YouTube Global (Traduzido)</p>
+            </div>
+          </div>
+          <div class="card-body">
+            <ul id="yt-global-list" class="video-list">
+              <!-- JS dinâmico -->
+            </ul>
+          </div>
+        </section>
+        
+      </div>
+      
+    </main>
+    
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
