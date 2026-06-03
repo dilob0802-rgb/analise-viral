@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-03",
+    "trends_br": [
+      {
+        "title": "Brasil, China e Reino Unido: Veja 60 economias que podem ter taxa dos EUA",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Entenda como deve ser o último dia do julgamento do caso Henry, com os réus Jairinho e Monique Medeiros",
+        "traffic": "O Globo"
+      },
+      {
+        "title": "\"Noite das astronautas\": entenda como foi a farra de Vorcaro com políticos brasileiros",
+        "traffic": "Brasil 247"
+      },
+      {
+        "title": "Mulher é presa suspeita de fraude milionária envolvendo obras de arte e imóveis de alto valor; prejuízo é de mais de R$ 2 milhões",
+        "traffic": "Extra online"
+      },
+      {
+        "title": "FAB contradiz influenciador e diz não ter detectado suposto Ovni visto no Paraná",
+        "traffic": "UOL"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Oito conclusões de uma grande noite de primárias em Iowa, Califórnia e muito mais",
+        "original": "Eight takeaways from a big primary night in Iowa, California and more",
+        "traffic": "O Washington Post"
+      },
+      {
+        "title": "Agentes do FBI matam suposto sequestrador na Califórnia",
+        "original": "FBI agents fatally shoot alleged hostage-taker in California",
+        "traffic": "Al Jazeera"
+      },
+      {
+        "title": "O grande fracasso da Big Tech na noite das primárias",
+        "original": "Big Tech's big flop on primary night",
+        "traffic": "Político"
+      },
+      {
+        "title": "Novo papel da inteligência coloca em dúvida a agenda habitacional de Bill Pulte",
+        "original": "New Intelligence Role Puts Bill Pulte’s Housing Agenda in Doubt",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Drones ucranianos atingem terminal petrolífero de São Petersburgo antes de sediar fórum econômico russo",
+        "original": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
+        "traffic": "Notícias da AP"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-05-29",
     "trends_br": [
       {
