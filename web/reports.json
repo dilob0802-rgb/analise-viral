@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-05",
+    "trends_br": [
+      {
+        "title": "\"Crime doloso contra vida pode ter perdão judicial?\", contesta pai de Henry",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Falsa adolescente de 38 anos presa em Santa Catarina aplicava golpes desde 2010",
+        "traffic": "O Globo"
+      },
+      {
+        "title": "Onde pode chover muito no Sul do Brasil no começo do El Niño",
+        "traffic": "MetSul Meteorologia"
+      },
+      {
+        "title": "Inscrições para o Enem terminam nesta sexta-feira (5); saiba como fazer",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Justiça manda prender jornalista perseguido por Carla Zambelli",
+        "traffic": "Valor Econômico"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Graham Platner enfrenta acusações de relacionamentos 'tóxicos' e comportamento perturbador - dias após escândalo de sexting",
+        "original": "Graham Platner Faces Accusations Of 'Toxic' Relationships And Disturbing Behavior—Days After Sexting Scandal",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "A maioria dos professores do ensino fundamental e médio dizem que o impacto da IA ​​​​na educação eclipsará a Internet ou os computadores",
+        "original": "Most K-12 teachers say AI's impact on education will eclipse the internet or computers",
+        "traffic": "NPR"
+      },
+      {
+        "title": "O DOJ ainda poderia pagar aos manifestantes de 6 de janeiro, mesmo sem o fundo “anti-armamento”",
+        "original": "DOJ could still pay Jan. 6 rioters even without ‘anti-weaponization’ fund",
+        "traffic": "Notícias da NBC"
+      },
+      {
+        "title": "Atualizações ao vivo: Julgamento de assassinato de Karmelo Anthony em esfaqueamento fatal de Austin Metcalf no encontro de atletismo ISD de Frisco",
+        "original": "Live Updates: Karmelo Anthony murder trial in fatal stabbing of Austin Metcalf at Frisco ISD track meet",
+        "traffic": "Notícias da CBS"
+      },
+      {
+        "title": "Raman vence Pratt na corrida para prefeito de Los Angeles, mas muitas votações permanecem",
+        "original": "Raman Gains on Pratt in L.A. Mayor Race, but Many Ballots Remain",
+        "traffic": "O jornal New York Times"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-04",
     "trends_br": [
       {
