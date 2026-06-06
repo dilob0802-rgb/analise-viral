@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-06",
+    "trends_br": [
+      {
+        "title": "UE oficializa veto à carne do Brasil a partir de setembro",
+        "traffic": "G1"
+      },
+      {
+        "title": "Por que classificar PCC e CV como terroristas pode fortalecer facções, segundo especialista dos EUA",
+        "traffic": "BBC"
+      },
+      {
+        "title": "Flávio pede que Mendonça assuma ação sobre “Dark Horse”",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Irã lança mísseis contra países do Golfo; EUA dizem ter interceptado ataque",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Fachin rejeita afastar Nunes Marques de ação da CPI do Master",
+        "traffic": "Poder360"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Em meio à crescente preocupação democrática, Platner diz que seu passado está sendo ‘armado’",
+        "original": "Amid Mounting Democratic Concern, Platner Says His Past Is Being ‘Weaponized’",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Dezenas de drones ucranianos têm como alvo São Petersburgo em ataque que a Rússia chama de “sem precedentes”",
+        "original": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "traffic": "BBC"
+      },
+      {
+        "title": "Departamento de Justiça diz ao tribunal que fundo de pagamento de US$ 1,8 bilhão ‘não vai avançar’",
+        "original": "Justice Department tells court $1.8 billion payout fund is ‘not going forward’",
+        "traffic": "O Washington Post"
+      },
+      {
+        "title": "Oficial da CIA que tinha milhões em barras de ouro acusado de criar falso programa de espionagem",
+        "original": "CIA officer who had millions in gold bars accused of creating fake spy program",
+        "traffic": "O Washington Post"
+      },
+      {
+        "title": "O Serviço Florestal diz que está fechando escritórios para reduzir custos. Mas a matemática não bate",
+        "original": "The Forest Service says it's closing offices to cut costs. But the math doesn't add up",
+        "traffic": "NPR"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-05",
     "trends_br": [
       {
