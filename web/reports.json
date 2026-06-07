@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-07",
+    "trends_br": [
+      {
+        "title": "CNJ descobre salários de mais de R$ 1 milhão por mês a juízes",
+        "traffic": "Revista Oeste"
+      },
+      {
+        "title": "Millenials estudam mais que os pais, mas não superam padrão de vida da geração X",
+        "traffic": "O Globo"
+      },
+      {
+        "title": "UE oficializa veto à compra de carne do Brasil a partir de setembro",
+        "traffic": "Poder360"
+      },
+      {
+        "title": "Brasil não taxa nenhum dos produtos mais importados dos EUA",
+        "traffic": "Poder360"
+      },
+      {
+        "title": "Parada LGBT+ em SP terá segurança reforçada com mais de 1,5 mil policiais",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Pelo menos 12 pessoas foram baleadas em um festival em Ohio e a busca por suspeitos ainda está em andamento, diz a polícia",
+        "original": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+        "traffic": "NPR"
+      },
+      {
+        "title": "O discurso do Dia D de Pete Hegseth sobre a imigração foi condenado como “estupidez grotesca”",
+        "original": "Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’",
+        "traffic": "O Guardião"
+      },
+      {
+        "title": "RFK Jr. parece desinteressado em muitos assuntos do Departamento de Saúde além das vacinas",
+        "original": "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Os EUA lutaram contra a bicheira carnívora durante décadas. Agora deve começar de novo.",
+        "original": "The U.S. fought the flesh-eating screwworm for decades. Now it must begin again.",
+        "traffic": "Notícias da NBC"
+      },
+      {
+        "title": "Vice-PM do Reino Unido diz que disse a Vance ‘Você está errado’ sobre o caso Nowak",
+        "original": "UK Deputy PM Says He Told Vance ‘You’re Wrong’ Over Nowak Case",
+        "traffic": "Bloomberg"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-06",
     "trends_br": [
       {
