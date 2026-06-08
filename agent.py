@@ -46,11 +46,13 @@ def translate_text(text, source='auto', target='pt'):
         return text
 
 def get_google_trends(geo="BR", limit=5):
-    """Coleta as principais notícias do Google Notícias (Google News) como tendências atuais."""
+    """Coleta as principais notícias de Entretenimento/Famosos do Google Notícias via busca estável."""
     if geo == "BR":
-        url = "https://news.google.com/rss?hl=pt-BR&gl=BR&ceid=BR:pt-419"
+        # Busca por termos de famosos, entretenimento, fofocas, cinema, séries, música e novelas no Brasil
+        url = "https://news.google.com/rss/search?q=famosos+OR+entretenimento+OR+celebridades+OR+fofoca+OR+cinema+OR+s%C3%A9ries+OR+m%C3%BAsica+OR+show+OR+novela&hl=pt-BR&gl=BR&ceid=BR:pt-419"
     else:
-        url = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+        # Busca por termos semelhantes no feed global (EUA)
+        url = "https://news.google.com/rss/search?q=celebrities+OR+entertainment+OR+gossip+OR+movies+OR+series+OR+music+OR+shows&hl=en-US&gl=US&ceid=US:en"
         
     trends = []
     try:
@@ -84,8 +86,20 @@ def get_google_trends(geo="BR", limit=5):
         print(f"Erro ao obter Google Notícias ({geo}): {e}", file=sys.stderr)
         return []
 
+def format_views(view_count_str):
+    """Formata número de visualizações de forma abreviada e legível (ex: 1,5M ou 240K)."""
+    try:
+        views = int(view_count_str)
+        if views >= 1_000_000:
+            return f"{views / 1_000_000:.1f}M".replace('.', ',')
+        elif views >= 1_000:
+            return f"{views / 1_000:.0f}K"
+        return str(views)
+    except ValueError:
+        return view_count_str or "0"
+
 def get_youtube_trending(api_key, region_code="BR", limit=5):
-    """Busca os vídeos mais populares do YouTube no momento via API oficial."""
+    """Busca os vídeos de entretenimento mais populares do YouTube no momento via API oficial."""
     if not api_key:
         print(f"Chave da API do YouTube não fornecida. Pulando busca para região {region_code}.", file=sys.stderr)
         return []
@@ -96,7 +110,8 @@ def get_youtube_trending(api_key, region_code="BR", limit=5):
             part="snippet,statistics",
             chart="mostPopular",
             regionCode=region_code,
-            maxResults=limit * 3  # Pede mais para garantir que teremos o suficiente após o filtro de política
+            videoCategoryId="24",  # Categoria Entretenimento (Shows, Famosos, Fofocas, Humor)
+            maxResults=limit * 3
         )
         response = request.execute()
         
@@ -107,6 +122,10 @@ def get_youtube_trending(api_key, region_code="BR", limit=5):
             channel = item['snippet']['channelTitle']
             description = item['snippet']['description']
             
+            # Obtém e formata as visualizações
+            view_count = item.get('statistics', {}).get('viewCount', '0')
+            formatted_views_count = format_views(view_count)
+            
             # Filtro de política
             if contains_politics(title) or contains_politics(description) or contains_politics(channel):
                 continue
@@ -114,7 +133,8 @@ def get_youtube_trending(api_key, region_code="BR", limit=5):
             videos.append({
                 'title': title,
                 'channel': channel,
-                'url': f"https://youtu.be/{video_id}"
+                'url': f"https://youtu.be/{video_id}",
+                'views': formatted_views_count
             })
             
             if len(videos) >= limit:
@@ -159,7 +179,7 @@ def format_report_fallback(trends_br, trends_global, yt_br, yt_global):
     lines.append("🎥 *Vídeos em Alta - YouTube Brasil*")
     if yt_br:
         for idx, video in enumerate(yt_br, 1):
-            lines.append(f"{idx}. {video['title']}\n   Canal: _{video['channel']}_\n   🔗 {video['url']}")
+            lines.append(f"{idx}. {video['title']}\n   Canal: _{video['channel']}_ | Visualizações: *{video.get('views', '0')}*\n   🔗 {video['url']}")
     else:
         lines.append("Sem vídeos disponíveis ou todos filtrados.")
     lines.append("")
@@ -169,7 +189,7 @@ def format_report_fallback(trends_br, trends_global, yt_br, yt_global):
     if yt_global:
         for idx, video in enumerate(yt_global, 1):
             translated_title = translate_text(video['title'], source='en', target='pt')
-            lines.append(f"{idx}. {translated_title}\n   Canal: _{video['channel']}_\n   🔗 {video['url']}")
+            lines.append(f"{idx}. {translated_title}\n   Canal: _{video['channel']}_ | Visualizações: *{video.get('views', '0')}*\n   🔗 {video['url']}")
     else:
         lines.append("Sem vídeos disponíveis ou todos filtrados.")
         
@@ -253,7 +273,8 @@ def save_to_json_file(trends_br, trends_global, yt_br, yt_global, output_dir="we
             'title': translated,
             'original': v['title'],
             'channel': v['channel'],
-            'url': v['url']
+            'url': v['url'],
+            'views': v.get('views', '0')
         })
         
     # Estrutura do relatório diário
