@@ -69,26 +69,11 @@ body {
   min-height: 100vh;
 }
 
-/* Barra Lateral (Sidebar) */
-.sidebar {
-  width: 300px;
-  background-color: var(--bg-secondary);
-  border-right: 1px solid var(--border-color);
-  display: flex;
-  flex-direction: column;
-  padding: 2rem 1.5rem;
-  flex-shrink: 0;
-}
-
-.sidebar-header {
-  margin-bottom: 2.5rem;
-}
-
+/* Estilos do Logotipo (Cabeçalho) */
 .logo-area {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  margin-bottom: 0.5rem;
 }
 
 .logo-icon {
@@ -99,99 +84,16 @@ body {
   animation: pulse 2s infinite;
 }
 
-.logo-area h1 {
-  font-size: 1.5rem;
+.logo-text h1 {
+  font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: -0.5px;
+  line-height: 1.1;
 }
 
-.sidebar-header .subtitle {
-  font-size: 0.85rem;
-  color: var(--text-muted);
-}
-
-/* Histórico de Datas */
-.history-section {
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
-
-.history-section h3 {
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: var(--text-muted);
-  margin-bottom: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.history-list {
-  list-style: none;
-  overflow-y: auto;
-  padding-right: 0.25rem;
-}
-
-.history-list li {
-  margin-bottom: 0.5rem;
-}
-
-.history-btn {
-  width: 100%;
-  padding: 0.85rem 1rem;
-  background-color: rgba(255, 255, 255, 0.02);
-  border: 1px solid var(--border-color);
-  border-radius: 12px;
-  color: var(--text-main);
-  text-align: left;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  transition: var(--transition-smooth);
-}
-
-.history-btn:hover {
-  background-color: rgba(255, 255, 255, 0.06);
-  border-color: rgba(255, 255, 255, 0.2);
-  transform: translateX(4px);
-}
-
-.history-btn.active {
-  background: var(--grad-primary);
-  border-color: transparent;
-  font-weight: 600;
-  box-shadow: 0 4px 15px rgba(6, 182, 212, 0.25);
-}
-
-.history-btn .arrow-icon {
-  font-size: 0.8rem;
-  opacity: 0.6;
-}
-
-.loading-placeholder {
-  color: var(--text-muted);
-  font-size: 0.9rem;
-  text-align: center;
-  padding: 2rem 0;
-}
-
-.sidebar-footer {
-  margin-top: 2rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border-color);
+.logo-text .subtitle {
   font-size: 0.8rem;
   color: var(--text-muted);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.sidebar-footer i {
-  color: var(--accent-red);
 }
 
 /* Painel Principal (Main Content) */
@@ -512,38 +414,6 @@ body {
    RESPONSIVIDADE (TELA MOBILE / TABLET)
    ========================================== */
 @media screen and (max-width: 1024px) {
-  .app-container {
-    flex-direction: column;
-  }
-  
-  .sidebar {
-    width: 100%;
-    border-right: none;
-    border-bottom: 1px solid var(--border-color);
-    padding: 1.5rem;
-    height: auto;
-  }
-  
-  .history-list {
-    display: flex;
-    gap: 0.5rem;
-    overflow-x: auto;
-    padding-bottom: 0.5rem;
-  }
-  
-  .history-list li {
-    margin-bottom: 0;
-    flex-shrink: 0;
-  }
-  
-  .history-btn {
-    width: auto;
-    white-space: nowrap;
-  }
-  
-  .history-btn:hover {
-    transform: translateY(-2px);
-  }
   
   .main-content {
     padding: 1.5rem;

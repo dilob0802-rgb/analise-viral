@@ -27,9 +27,6 @@ async function fetchReports() {
       return;
     }
     
-    // Popula o histórico de datas na barra lateral
-    renderHistorySidebar(reportsData);
-    
     // Carrega o relatório mais recente por padrão (primeiro item)
     loadReport(reportsData[0].date);
     
@@ -39,45 +36,7 @@ async function fetchReports() {
   }
 }
 
-// ==================================================
-// RENDERIZAÇÃO DA BARRA LATERAL (SIDEBAR)
-// ==================================================
-function renderHistorySidebar(reports) {
-  const historyList = document.getElementById("history-list");
-  historyList.innerHTML = ""; // Limpa placeholder de carregamento
-  
-  reports.forEach((report, index) => {
-    const li = document.createElement("li");
-    
-    const button = document.createElement("button");
-    button.classList.add("history-btn");
-    button.dataset.date = report.date;
-    
-    // Formata a data de forma curta para o botão
-    const formattedDate = formatShortDate(report.date);
-    button.innerHTML = `
-      <span><i class="fa-regular fa-file-lines"></i> ${formattedDate}</span>
-      <i class="fa-solid fa-chevron-right arrow-icon"></i>
-    `;
-    
-    button.addEventListener("click", () => {
-      // Remove classe ativa de todos
-      document.querySelectorAll(".history-btn").forEach(btn => btn.classList.remove("active"));
-      // Adiciona classe ativa ao botão clicado
-      button.classList.add("active");
-      // Carrega o relatório da data selecionada
-      loadReport(report.date);
-    });
-    
-    // O primeiro botão fica ativo por padrão no carregamento inicial
-    if (index === 0) {
-      button.classList.add("active");
-    }
-    
-    li.appendChild(button);
-    historyList.appendChild(li);
-  });
-}
+
 
 // ==================================================
 // CARREGAMENTO E RENDERIZAÇÃO DO RELATÓRIO SELECIONADO
@@ -199,11 +158,6 @@ function showErrorState(message) {
       el.innerHTML = `<li class="no-data">${message}</li>`;
     }
   });
-  
-  const historyList = document.getElementById("history-list");
-  if (historyList) {
-    historyList.innerHTML = `<li class="no-data">Sem histórico.</li>`;
-  }
 }
 
 // ==================================================
