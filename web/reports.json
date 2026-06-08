@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-08",
+    "trends_br": [
+      {
+        "title": "Por que Xi Jinping visita a Coreia do Norte — e o que está em jogo na disputa com a Rússia",
+        "traffic": "G1"
+      },
+      {
+        "title": "'Ele me afundava na piscina até eu encostar no chão', relata filha de ex-namorada de Jairinho em depoimento",
+        "traffic": "O Globo"
+      },
+      {
+        "title": "Brasil quer convencer EUA de que acordo seria melhor que taxar em 25%",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Semana começa com chegada de frente fria e chuva intensa pelo país; veja situação na sua região",
+        "traffic": "G1"
+      },
+      {
+        "title": "Terremoto de magnitude 7,8 atinge ilha das Filipinas; alerta de tsunami chegou a ser ativado",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Irã e Israel interrompem trocas de tiros",
+        "original": "Iran and Israel Halt Exchanges of Fire",
+        "traffic": "WSJ"
+      },
+      {
+        "title": "Filipinas suspende alerta de tsunami após terremoto mortal de 7,8",
+        "original": "Philippines lifts tsunami alert after deadly 7.8 earthquake",
+        "traffic": "DW.com"
+      },
+      {
+        "title": "A divisão entre estado vermelho e estado azul é real. Mas é impulsionado por mais do que apenas política",
+        "original": "The red state, blue state divide is real. But it's driven by more than just politics",
+        "traffic": "NPR"
+      },
+      {
+        "title": "O primeiro-ministro armênio, Nikol Pashinyan, afirma que a vitória nas eleições é vista como um teste à influência da Rússia",
+        "original": "Armenian PM Nikol Pashinyan claims victory in election seen as test of Russia’s influence",
+        "traffic": "AP Notícias"
+      },
+      {
+        "title": "Em discurso ao parlamento espanhol, papa exige respeito pela dignidade de todas as pessoas",
+        "original": "In speech to Spanish parliament, pope demands respect for the dignity of all people",
+        "traffic": "NPR"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-07",
     "trends_br": [
       {
