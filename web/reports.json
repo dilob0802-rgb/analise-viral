@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-09",
+    "trends_br": [
+      {
+        "title": "Um coro de mil vozes para espalhar a música do Evangelho",
+        "traffic": "Vatican News"
+      },
+      {
+        "title": "Ex-consultora da Cacau Show é investigada por desviar R$ 370 mil de franqueadas no DF",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 8 de junho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Música transforma unidade de saúde em arraial e leva acolhimento a pacientes do SUS no Hospital Ortopédico",
+        "traffic": "saude.ba.gov.br"
+      },
+      {
+        "title": "Abertura Oficial da Feira de Fogos reúne música e comidas típicas no Parque Ecológico das Timbaúbas",
+        "traffic": "Prefeitura de Juazeiro do Norte"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Os conflitos estão a aumentar a nível mundial, ao nível mais elevado desde a Segunda Guerra Mundial, mostram os dados",
+        "original": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Veja quais celebridades compareceram ao jogo 3 das finais da NBA do Knicks-Spurs no MSG",
+        "original": "See which celebrities attended Knicks-Spurs NBA Finals Game 3 at MSG",
+        "traffic": "Bom dia América"
+      },
+      {
+        "title": "'A Little Night Music' da LOON une gerações entre os Portos Gêmeos",
+        "original": "LOON’s ‘A Little Night Music’ bridges generations across the Twin Ports",
+        "traffic": "WPR"
+      },
+      {
+        "title": "Professor de música da URI, um ‘Herói da Guitarra’ no ensino de crianças ao redor do mundo na última década – Rhody Today",
+        "original": "URI music professor a ‘Guitar Hero’ in teaching children around the world for past decade – Rhody Today",
+        "traffic": "A Universidade de Rhode Island"
+      },
+      {
+        "title": "Hall da Fama e Museu da Música Country inicia acampamentos de composição de músicas em 2026",
+        "original": "Country Music Hall Of Fame & Museum Kicks Off 2026 Songwriting Camps",
+        "traffic": "MusicRow. com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-08",
     "trends_br": [
       {
