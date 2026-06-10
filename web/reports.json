@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-10",
+    "trends_br": [
+      {
+        "title": "Quinta no Cinema exibe documentário reconhecido mundialmente “Lixo Extraordinário”, nesta quinta-feira (11)",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Cantor Nando Reis será atração do show de encerramento do Salipi 2026 no domingo (14)",
+        "traffic": "pi.gov.br"
+      },
+      {
+        "title": "Orlando Senna, referência do Cinema Novo, morre aos 86 anos",
+        "traffic": "G1"
+      },
+      {
+        "title": "ÁUDIO: Sanidade animal é foco de capacitação técnica na Bahia Farm Show",
+        "traffic": "ba.gov.br"
+      },
+      {
+        "title": "Indústria do entretenimento e cultura popular",
+        "traffic": "Universidade Federal de Santa Catarina"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Dividindo as 8 equipes que vão para Omaha para a Men's College World Series",
+        "original": "Breaking down the 8 teams heading to Omaha for the Men's College World Series",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "'A música é uma linguagem universal'",
+        "original": "'Music is a Universal Language'",
+        "traffic": "Veteranos de Guerras Estrangeiras"
+      },
+      {
+        "title": "SonoThera fecha financiamento série B de US$ 125 milhões com excesso de assinaturas para avançar no desenvolvimento clínico de medicamentos genéticos não virais mediados por ultrassom",
+        "original": "SonoThera Closes Oversubscribed $125 Million Series B Financing to Advance Clinical Development of Ultrasound-Mediated Nonviral Genetic Medicines",
+        "traffic": "Fio Comercial"
+      },
+      {
+        "title": "Rice’s Shepherd School of Music anuncia temporada 2026-27",
+        "original": "Rice’s Shepherd School of Music announces 2026-27 season",
+        "traffic": "Universidade do Arroz"
+      },
+      {
+        "title": "Uma adição impressionante ao Music Arts Center da W&M",
+        "original": "A stunning addition to W&M’s Music Arts Center",
+        "traffic": "Notícias W&M"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-09",
     "trends_br": [
       {
