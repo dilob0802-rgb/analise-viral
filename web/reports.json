@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-13",
+    "trends_br": [
+      {
+        "title": "Tom Cruise, Paris Hilton e Jamie Foxx: celebridades vão à abertura da Copa do Mundo nos EUA",
+        "traffic": "GE"
+      },
+      {
+        "title": "Chico Chico no Qualistage - RJ - 12/06/2026",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Celebridades marcam presença em EUA x Paraguai na Copa do Mundo; veja",
+        "traffic": "Lance!"
+      },
+      {
+        "title": "Arraial de Santo Antônio começa hoje com show do Munhoz e Mariano – CGNotícias",
+        "traffic": "campogrande.ms.gov.br"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 13 de junho",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Beisebol abre College World Series com derrota por 6-2 para a Carolina do Norte",
+        "original": "Baseball Opens College World Series with 6-2 Loss to North Carolina",
+        "traffic": "Ole Miss Atletismo"
+      },
+      {
+        "title": "Men's College World Series: resultados completos, repescagens e pontuações",
+        "original": "Men's College World Series: Complete results, recaps, box scores",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "O primeiro jogo da Men’s College World Series do Alabama em 27 anos ajuda a flexibilizar os músculos da SEC",
+        "original": "Alabama’s first Men’s College World Series game in 27 years helps flex SEC muscle",
+        "traffic": "AL.com"
+      },
+      {
+        "title": "20 programas de streaming novos e recorrentes para ficar de olho neste verão",
+        "original": "20 New & Returning Streaming Shows To Look Out For This Summer",
+        "traffic": "Prazo final"
+      },
+      {
+        "title": "Em que canal está OU baseball vs Alabama hoje? Horário da College World Series, programação da TV",
+        "original": "What channel is OU baseball vs Alabama on today? College World Series time, TV schedule",
+        "traffic": "O oklahoma"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-12",
     "trends_br": [
       {
