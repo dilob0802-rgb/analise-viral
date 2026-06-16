@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-16",
+    "trends_br": [
+      {
+        "title": "5º Festival de Música de Jundiaí abre inscrições para artistas da Região Metropolitana",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Alunos de escolas de Santos participam de sessão especial de cinema",
+        "traffic": "santos.sp.gov.br"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 15 de junho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "SMAS promove “Tarde de Cinema” trazendo reflexão sobre violência contra a mulher no CRAM",
+        "traffic": "Prefeitura Três Lagoas"
+      },
+      {
+        "title": "Música no Centro de Cultura reúne todos os grupos do Programa Institucional de Música da UFLA em edição especial - UFLA",
+        "traffic": "Universidade Federal de Lavras"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Os melhores programas de TV de 2026, até agora",
+        "original": "The Best TV Shows of 2026, So Far",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Cidade de Toledo e parceiros comunitários anunciam programação da série musical Levitt BLOC Toledo",
+        "original": "City of Toledo and Community Partners Announce Levitt BLOC Toledo Music Series Lineup",
+        "traffic": "Cidade de Toledo (.gov)"
+      },
+      {
+        "title": "Meus locais favoritos de filmes e TV filmados em Wilmington | John Staton",
+        "original": "My favorite locations from Wilmington-shot movies and TV | John Staton",
+        "traffic": "Wilmington Star-News"
+      },
+      {
+        "title": "Qobuz é o streamer de música anti-Spotify que você estava esperando",
+        "original": "Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For",
+        "traffic": "COM FIO"
+      },
+      {
+        "title": "SFMOMA lança série mensal de música ao ar livre",
+        "original": "SFMOMA throwing monthly outdoor music series",
+        "traffic": "Examinador de São Francisco"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-15",
     "trends_br": [
       {
