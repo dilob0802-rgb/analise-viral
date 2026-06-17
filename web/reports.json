@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-17",
+    "trends_br": [
+      {
+        "title": "Filho do Arthur na novela Quem Ama Cuida, Heitor chega para mexer com segunda fase",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Filmes e séries para conhecer melhor as cidades-sede da Copa do Mundo",
+        "traffic": "G1"
+      },
+      {
+        "title": "Cortejo Junino leva tradição, música e cultura popular para o Centro do Paulista no dia 19 de junho",
+        "traffic": "Prefeitura Municipal de Paulista"
+      },
+      {
+        "title": "Onze Minutos na Copa: Messi, Mbappé e Haaland comandam show de gols na Copa",
+        "traffic": "Senado Federal"
+      },
+      {
+        "title": "Cinema brasileiro e memória audiovisual em destaque no Tarde 98",
+        "traffic": "Assembleia Legislativa do Piauí"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Montanhistas excluíram Troy para permanecerem vivos na College World Series",
+        "original": "Mountaineers Shut Out Troy to Stay Alive in College World Series",
+        "traffic": "Atletismo da Universidade de West Virginia"
+      },
+      {
+        "title": "Astros Legends Série 26: Tim Byrdak",
+        "original": "Astros Legends Series 26: Tim Byrdak",
+        "traffic": "As caixas de lagostins"
+      },
+      {
+        "title": "Comentário: Uma classificação altamente pessoal dos 10 melhores brinquedos dos filmes ‘Toy Story’",
+        "original": "Commentary: A highly personal ranking of the 10 best toys in the 'Toy Story' movies",
+        "traffic": "Los Angeles Times"
+      },
+      {
+        "title": "Nova instalação de entretenimento será inaugurada em Springfield em julho",
+        "original": "New entertainment facility set to open in Springfield in July",
+        "traffic": "Capitólio agora"
+      },
+      {
+        "title": "Recomendações de música ao vivo na área de Chicago para 17 a 23 de junho",
+        "original": "Chicago-Area Live Music Recommendations for June 17-23",
+        "traffic": "WTTW"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-16",
     "trends_br": [
       {
