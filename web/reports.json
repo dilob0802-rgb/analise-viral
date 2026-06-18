@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-18",
+    "trends_br": [
+      {
+        "title": "TV Brasil apresenta final da novela \"Sangue Oculto\" nesta quinta-feira",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Banqueiro pagou ingresso de show internacional para Jaques Wagner por meio da Reag, diz PF",
+        "traffic": "Valor Econômico"
+      },
+      {
+        "title": "Na China, 28º Festival Internacional de Cinema de Xangai recebe mostra dedicada ao audiovisual brasileiro",
+        "traffic": "www.gov.br"
+      },
+      {
+        "title": "Dia do Cinema Brasileiro: Samsung TV Plus celebra a data com obras que marcaram a história do cinema nacional",
+        "traffic": "Samsung"
+      },
+      {
+        "title": "Navegantes vive uma programação de cultura, música e histórias",
+        "traffic": "Prefeitura de Navegantes -"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Oklahoma Championship Series vinculado após despachar a Geórgia - Universidade de Oklahoma",
+        "original": "Oklahoma Championship Series Bound After Dispatching Georgia - University of Oklahoma",
+        "traffic": "mais cedosports.com"
+      },
+      {
+        "title": "A série College World Series da Geórgia termina com derrota para Oklahoma",
+        "original": "Georgia's College World Series run ends with loss to Oklahoma",
+        "traffic": "FOX 5 Atlanta"
+      },
+      {
+        "title": "Filmes sobre bebida: Down and Out em Cannes, de Inney Prakash",
+        "original": "Drinking Movies: Down and Out at Cannes by Inney Prakash",
+        "traffic": "A Revisão de Paris"
+      },
+      {
+        "title": "11 maneiras de curtir música ao vivo na Grande Boston e arredores neste verão",
+        "original": "11 ways to enjoy live music in and around Greater Boston this summer",
+        "traffic": "WBUR"
+      },
+      {
+        "title": "Tar Heels Top WVU, 12-7, para vaga na CWS Championship Series",
+        "original": "Tar Heels Top WVU, 12-7, For Berth In CWS Championship Series",
+        "traffic": "Atletismo da Universidade da Carolina do Norte"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-17",
     "trends_br": [
       {
