@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-20",
+    "trends_br": [
+      {
+        "title": "De Mauro Shampoo a Pelé, futebol rende boas histórias; veja lista de filmes e séries",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Fé, tradição e música marcam programação deste sábado no Arraial do Banho de São João",
+        "traffic": "Município de Corumbá"
+      },
+      {
+        "title": "Muito além dos jogos da Seleção: veja como os famosos brasileiros estão aproveitando os EUA durante o Mundial",
+        "traffic": "O Globo"
+      },
+      {
+        "title": "No Dia do Cinema Brasileiro, audiovisual de Mato Grosso do Sul celebra expansão e projeta novos desafios",
+        "traffic": "agenciadenoticias.ms.gov.br"
+      },
+      {
+        "title": "Música no Mercado neste sábado",
+        "traffic": "Prefeitura Estância Turística Guaratinguetá – Prefeitura Estância Turística Guaratinguetá"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Layne Riggs vence o thriller Truck Series OT no Qualcomm Circuit",
+        "original": "Layne Riggs wins Truck Series OT thriller at Qualcomm Circuit",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Em que canal está OU baseball vs UNC hoje? College World Series Game 1 vez, programação de TV",
+        "original": "What channel is OU baseball vs UNC on today? College World Series Game 1 time, TV schedule",
+        "traffic": "O oklahoma"
+      },
+      {
+        "title": "Cronograma da College World Series: horários e pontuações dos jogos de beisebol da Carolina do Norte x Oklahoma",
+        "original": "College World Series schedule: North Carolina vs Oklahoma baseball game times, scores",
+        "traffic": "Austin Americano-Estadista"
+      },
+      {
+        "title": "Em que canal de TV está passando o beisebol UNC vs Oklahoma hoje? Time, TV para o jogo 1 da College World Series",
+        "original": "What TV channel is UNC vs Oklahoma baseball on today? Time, TV for College World Series Game 1",
+        "traffic": "O Observador de Fayetteville"
+      },
+      {
+        "title": "Brandi Carlile: reflexões sobre a vida, o amor, a música e seu concerto em Montauk",
+        "original": "Brandi Carlile: Reflections on Life, Love, Music and Her Montauk Concert",
+        "traffic": "O purista"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-19",
     "trends_br": [
       {
