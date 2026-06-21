@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-21",
+    "trends_br": [
+      {
+        "title": "The Rose - São Paulo - 21/06/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Novo cinema será inaugurado em shopping de Palmas com cinco salas e tecnologia a laser",
+        "traffic": "G1"
+      },
+      {
+        "title": "Música, cerveja artesanal, gastronomia e diversão para as crianças: vem aí mais uma edição do Cerveja na Barão",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 22 de junho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "TAC recebe show internacional de música gospel da The Metro Big Band - FCC",
+        "traffic": "Fundação Catarinense de Cultura"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Austin Hill reivindica vitória na O’Reilly Series na Base Naval de Coronado",
+        "original": "Austin Hill claims O’Reilly Series win at Naval Base Coronado",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Lendária banda de música country lançará música com cantor icônico",
+        "original": "Legendary country music band to release song with iconic late singer",
+        "traffic": "AL.com"
+      },
+      {
+        "title": "Lucas: Uma Série",
+        "original": "Lucas: A Series",
+        "traffic": "Atletismo da Universidade da Carolina do Norte"
+      },
+      {
+        "title": "\"Levítico\" de Adrian Chiarella mostra que os últimos garotos do terror podem encontrar o amor",
+        "original": "Adrian Chiarella’s \"Leviticus\" shows that horror’s final boys can find love",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Keith Spera: Meu falecido pai foi o músico original da nossa família",
+        "original": "Keith Spera: My late father was the original music man in our family",
+        "traffic": "NOLA.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-20",
     "trends_br": [
       {
