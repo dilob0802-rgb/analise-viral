@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-23",
+    "trends_br": [
+      {
+        "title": "Mostra de cinema português traz quatro filmes contemporâneos à Cinemateca de Curitiba",
+        "traffic": "Prefeitura de Curitiba"
+      },
+      {
+        "title": "VÍDEO: Estrutura de palco desaba durante show de Amado Batista em festa de São João na Bahia",
+        "traffic": "G1"
+      },
+      {
+        "title": "Visita técnica ao Museu de Cinema de Xangai materializa a importância da salvaguarda audiovisual no país",
+        "traffic": "www.gov.br"
+      },
+      {
+        "title": "Filomove promove curso de Cinema, filosofia e culturas populares latino-americanas",
+        "traffic": "Universidade Federal de Alagoas"
+      },
+      {
+        "title": "Mostra Acadêmica da Escola de Música Villa-Lobos reúne apresentações de diferentes ritmos e formações musicais em Joinville",
+        "traffic": "Prefeitura de Joinville"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "FSU College of Music anuncia temporada de concertos 2026-27 com mais de 30 apresentações",
+        "original": "FSU College of Music announces 2026-27 Concert Season featuring more than 30 performances",
+        "traffic": "Notícias da Universidade Estadual da Flórida"
+      },
+      {
+        "title": "Como funciona: PGA TOUR Challenger Series",
+        "original": "How it works: PGA TOUR Challenger Series",
+        "traffic": "Tour PGA"
+      },
+      {
+        "title": "Oklahoma vence o campeonato de beisebol NCAA DI de 2026",
+        "original": "Oklahoma wins the 2026 NCAA DI baseball championship",
+        "traffic": "NCAA. com"
+      },
+      {
+        "title": "Olivia Rodrigo anuncia Daisy Chain Fields, um novo festival de música com programação exclusivamente feminina em Irvine, Califórnia, em agosto",
+        "original": "Olivia Rodrigo announces Daisy Chain Fields, a new music festival with an all-women lineup in Irvine, California this August",
+        "traffic": "ABC7 Los Angeles"
+      },
+      {
+        "title": "O festival de música Blue Ox de Wisconsin é uma ‘reunião de família’ para o bluegrass do Upper Midwest",
+        "original": "Wisconsin’s Blue Ox music festival is a ‘family reunion’ for Upper Midwest bluegrass",
+        "traffic": "WPR"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-22",
     "trends_br": [
       {
