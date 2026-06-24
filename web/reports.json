@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-24",
+    "trends_br": [
+      {
+        "title": "Como a música viral do Brasil na Copa foi feita inteiramente com IA: 'Tem que me colocar no Guinness'",
+        "traffic": "G1"
+      },
+      {
+        "title": "Quinta no Cinema encerra programação de junho com documentário poético | Notícias | Cultura",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Cinema itinerante leva Mostra de Cinema e Direitos Humanos a Goitacazes",
+        "traffic": "Prefeitura de Campos dos Goytacazes"
+      },
+      {
+        "title": "Famosos apagam apoio a Rodrigo Branco após críticas em caso de racismo",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Sesc Canoas projeta agenda cultural diversificada após lotação em show de Duca Leindecker",
+        "traffic": "Sesc/RS"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Como funciona: PGA TOUR Challenger Series",
+        "original": "How it works: PGA TOUR Challenger Series",
+        "traffic": "Tour PGA"
+      },
+      {
+        "title": "Detalhes anunciados para a Commonwealth Concert Series no Point State Park",
+        "original": "Details announced for Commonwealth Concert Series at Point State Park",
+        "traffic": "Cidade de Pittsburgh (.gov)"
+      },
+      {
+        "title": "Equipe nº 23 23XI Racing penalizada após fim de semana da Base Naval de Coronado",
+        "original": "No. 23 23XI Racing team penalized after Naval Base Coronado weekend",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Recomendações de música ao vivo na área de Chicago para 24 a 30 de junho",
+        "original": "Chicago-Area Live Music Recommendations for June 24-30",
+        "traffic": "Notícias WTTW"
+      },
+      {
+        "title": "Netflix revela análise inicial de ‘Ray Gunn’ e ‘Ghostbusters: Night Shift’ em Annecy",
+        "original": "Netflix Unveils ‘Ray Gunn’ First Look, ‘Ghostbusters: Night Shift’ at Annecy",
+        "traffic": "O repórter de Hollywood"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-23",
     "trends_br": [
       {
