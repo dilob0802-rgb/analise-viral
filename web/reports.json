@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-29",
+    "trends_br": [
+      {
+        "title": "Programação de julho reúne música, cinema, cultura geek e stand up comedy no Centro de Convenções e Teatro Carlos Pitta",
+        "traffic": "ba.gov.br"
+      },
+      {
+        "title": "Quarta Cultural abre programação de julho com show em comemoração aos 10 anos da Elevatto; entrada sujeita a lotação | Notícias | Cultura",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Fundação de Cultura lança projeto de cinema inclusivo - PMRO",
+        "traffic": "Rio das Ostras"
+      },
+      {
+        "title": "Show religioso encerra festa de São Pedro e emociona o público neste domingo (28/06)",
+        "traffic": "Prefeitura Municipal de São Francisco de Itabapoana -"
+      },
+      {
+        "title": "Vai ter novela hoje na Globo? Veja a programação da emissora nesta segunda-feira, 29 de junho, com jogo do Brasil",
+        "traffic": "AdoroCinema"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Os melhores programas de TV de 2026 até agora",
+        "original": "The Best TV Shows of 2026 So Far",
+        "traffic": "Pedra rolando"
+      },
+      {
+        "title": "Os melhores filmes de 2026 até agora e onde assisti-los",
+        "original": "The Best Movies of 2026 So Far, and Where to Watch Them",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Bebê recém-nascido é encontrado morto em banheiro portátil em festival de música de Michigan",
+        "original": "Newborn baby found dead in portable bathroom at Michigan music festival",
+        "traffic": "O Guardião"
+      },
+      {
+        "title": "Crítica: A linda ‘A Little Night Music’ está viva de desejo e pavor no Marriott Theatre",
+        "original": "Review: Gorgeous ‘A Little Night Music’ is alive with desire and dread at the Marriott Theatre",
+        "traffic": "Tribuna de Chicago"
+      },
+      {
+        "title": "Recém-nascido encontrado morto dentro de banheiro portátil em festival de música de Michigan",
+        "original": "Newborn found dead inside portable toilet at Michigan music festival",
+        "traffic": "ClickOnDetroit | WDIV Local 4"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-28",
     "trends_br": [
       {
