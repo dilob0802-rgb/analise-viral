@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-06-30",
+    "trends_br": [
+      {
+        "title": "BTS: show em São Paulo ganha exibição ao vivo nos cinemas",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "Sexta no Paço tem nova edição com show da banda Tios Brothers e gastronomia de rua nesta sexta (3)",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Resumo de Coração Acelerado: Próximo capítulo da novela, segunda, 29 de junho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Laboratório gratuito de cinema abre vagas para jovens e adultos no interior de SP; veja como participar",
+        "traffic": "G1"
+      },
+      {
+        "title": "Trabalhadora que alegou ter sido alvo de fofoca entre colegas tem indenização negada",
+        "traffic": "TRT4"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Os melhores programas de TV de 2026 até agora",
+        "original": "The Best TV Shows of 2026 So Far",
+        "traffic": "Pedra rolando"
+      },
+      {
+        "title": "Série de concertos de verão 'GMA' 2026: Keith Urban, Coco Jones, Dan + Shay, Sublime e mais - ABC News",
+        "original": "'GMA' 2026 Summer Concert Series: Keith Urban, Coco Jones, Dan + Shay, Sublime and more - ABC News",
+        "traffic": "Notícias de última hora, últimas notícias e vídeos"
+      },
+      {
+        "title": "Novos filmes e séries indianas chegando à Netflix este ano",
+        "original": "New Indian Movies and Series Coming to Netflix This Year",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "Premier Lacrosse League levanta US$ 100 milhões na rodada de financiamento da Série E",
+        "original": "Premier Lacrosse League Raises $100 Million In Series E Funding Round",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "South Beach Up North marca 20 verões de música de câmara no centro-norte de Wisconsin",
+        "original": "South Beach Up North marks 20 summers of chamber music in north central Wisconsin",
+        "traffic": "WPR"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-29",
     "trends_br": [
       {
