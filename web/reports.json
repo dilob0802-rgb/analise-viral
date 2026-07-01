@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-01",
+    "trends_br": [
+      {
+        "title": "Caça na privada e prêmio de R$ 20 mil: como é o reality criado por Viih Tube com funcionários da família",
+        "traffic": "G1"
+      },
+      {
+        "title": "Festival Internacional Sesc de Música abre inscrições para alunos da 15ª edição",
+        "traffic": "Sesc/RS"
+      },
+      {
+        "title": "4 Amigos - Novo Show - FCC",
+        "traffic": "Fundação Catarinense de Cultura"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 1º de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Cinema do Dragão exibe curtas-metragens nordestinos premiados pela ACECCINE e estreias de novos longas",
+        "traffic": "Governo do Estado do Ceará"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Professor de música do ensino fundamental acusado de morte por estrangulamento da cunhada",
+        "original": "Elementary school music teacher charged in sister-in-law's strangulation death",
+        "traffic": "ABC7 Los Angeles"
+      },
+      {
+        "title": "Copa do Mundo de 2026: Fred Warner e Olivia Rodrigo são as principais celebridades",
+        "original": "2026 World Cup: Fred Warner, Olivia Rodrigo headline celebrities",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Meu filho e eu nos relacionamos por meio de programas de TV imobiliários. Eles geram ótimas conversas e nos ajudam a aumentar nossa lista de desejos de viagens.",
+        "original": "My son and I bond over real estate TV shows. They spark great conversations and help us add to our travel wish list.",
+        "traffic": "Insider de negócios"
+      },
+      {
+        "title": "‘DLA Reimagined’ é o tema do vídeo final da série AI",
+        "original": "‘DLA Reimagined’ is the theme of final video in AI series",
+        "traffic": "dla.mil"
+      },
+      {
+        "title": "Basquete masculino da USF anuncia série em casa e em casa com George Mason",
+        "original": "USF Men's Basketball Announces Home-And-Home Series With George Mason",
+        "traffic": "Atletismo da USF"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-06-30",
     "trends_br": [
       {
