@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-02",
+    "trends_br": [
+      {
+        "title": "New Order vem a São Paulo para show único em novembro; veja os preços",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "Banda New Order faz show em SP em novembro; saiba como comprar ingressos",
+        "traffic": "Guia Folha"
+      },
+      {
+        "title": "Cinema Walmir Almeida destaca documentário sobre CPI da Covid e drama premiado nesta semana",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "Fofoca de colegas depois da demissão não configura danos morais",
+        "traffic": "Consultor Jurídico"
+      },
+      {
+        "title": "Novo festival Canta Nova incentiva os novos talentos da música em Nova",
+        "traffic": "Prefeitura Municipal de Nova Andradina"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Jenny Jackson sobre o potencial literário da fofoca",
+        "original": "Jenny Jackson on the Literary Potential of Gossip",
+        "traffic": "Centro Literário"
+      },
+      {
+        "title": "Crítica: Enola Holmes 3 - Filmes para o resto de nós com Bill Newcott",
+        "original": "Review: Enola Holmes 3 — Movies for the Rest of Us with Bill Newcott",
+        "traffic": "Postagem de sábado à noite"
+      },
+      {
+        "title": "Por que novas revelações sobre o treinamento de modelos musicais de IA chegaram perto de casa",
+        "original": "Why new revelations about the training of AI music models hit close to home",
+        "traffic": "Notícias WPLN"
+      },
+      {
+        "title": "Os 50 maiores filmes americanos já feitos. Sim, nós fomos lá.",
+        "original": "The 50 greatest American movies ever made. Yes, we went there.",
+        "traffic": "EUA hoje"
+      },
+      {
+        "title": "3 séries musicais gratuitas retornam ao lado noroeste no verão",
+        "original": "3 Free Music Series Return To Northwest Side For Summer",
+        "traffic": "Bloco Clube Chicago"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-01",
     "trends_br": [
       {
@@ -1564,116 +1618,5 @@
     ],
     "yt_br": [],
     "yt_global": []
-  },
-  {
-    "date": "2026-05-29",
-    "trends_br": [
-      {
-        "title": "Fim da escala 6x1 com transição curta 'é inviável', diz dono de pizzaria: 'Como eu faço para ter um novo chef em 60 dias?'",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Carne folheada a ouro: jantar de luxo pago por Vorcaro a Castro entra na mira da PF",
-        "traffic": "Correio Braziliense"
-      },
-      {
-        "title": "Empregada se contradiz no júri, e promotoria exibe mensagens com Monique após morte de Henry",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Mulher é presa por gravar torturas a animais e vender nas redes em SP",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Gaeco deflagra 2ª fase da Carbono Oculto contra PCC no setor de combustíveis",
-        "traffic": "Correio Braziliense"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Foguete Blue Origin explode em plataforma de lançamento na Flórida",
-        "original": "Blue Origin rocket explodes on Florida launchpad",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Mãe festeira em Los Gatos: Shannon O'Connor, condenada a quase 36 anos por organizar festas sexuais entre adolescentes bêbados",
-        "original": "Los Gatos party mom: Shannon O'Connor, sentenced to nearly 36 years for hosting drunken teen sex parties",
-        "traffic": "Área da Baía ABC7"
-      },
-      {
-        "title": "Prefeito Mamdani Anuncia Comissão sobre Eficiência Governamental para Melhorar o Trabalho do Governo para os Nova-Iorquinos",
-        "original": "Mayor Mamdani Announces Commission on Government Efficiency to Make Government Work Better for New Yorkers",
-        "traffic": "NYC.gov"
-      },
-      {
-        "title": "Equipes em Dallas procuram pessoas desaparecidas depois que um grande incêndio em um apartamento matou 3 pessoas",
-        "original": "Crews in Dallas search for missing people after massive apartment fire kills 3",
-        "traffic": "CNN"
-      },
-      {
-        "title": "Gretchen Whitmer hesita em concorrer à presidência em 2028",
-        "original": "Gretchen Whitmer wavers on a run for president in 2028",
-        "traffic": "Político"
-      }
-    ],
-    "yt_br": [
-      {
-        "title": "Vai Lembrando Aí | Eliã Oliveira feat Júlia Rebeca",
-        "channel": "Eliã Oliveira",
-        "url": "https://youtu.be/PIK-FRItuR8"
-      },
-      {
-        "title": "Call of Duty: Modern Warfare 4 | Reveal Trailer",
-        "channel": "Call of Duty",
-        "url": "https://youtu.be/jLbst85USN8"
-      },
-      {
-        "title": "EU CONSTRUÍ UM CARRO E UMA CASA NO SUBNAUTICA 2!",
-        "channel": "Jazzghost",
-        "url": "https://youtu.be/4LLnmgYmSZk"
-      },
-      {
-        "title": "Hoje Tem Rodeio - Ana Castela (Clipe Oficial)",
-        "channel": "Ana Castela",
-        "url": "https://youtu.be/tX7-EVaP_RY"
-      },
-      {
-        "title": "MODERN WARFARE 4 REVELADO!! | TRAILER + TUDO sobre MULTIPLAYER, CAMPANHA e DMZ!",
-        "channel": "Hayashii - Dicas, notícias e opiniões!",
-        "url": "https://youtu.be/ZEJa4aCkt8I"
-      }
-    ],
-    "yt_global": [
-      {
-        "title": "SON TUNG M-TP x TYGA | VEM NO MEU CAMINHO | VÍDEO DE MÚSICA OFICIAL",
-        "original": "SON TUNG M-TP x TYGA | COME MY WAY | OFFICIAL MUSIC VIDEO",
-        "channel": "Sơn Tùng M-TP Official",
-        "url": "https://youtu.be/SlQR9iu09bQ"
-      },
-      {
-        "title": "Call of Duty: Guerra Moderna 4 | Revelar trailer",
-        "original": "Call of Duty: Modern Warfare 4 | Reveal Trailer",
-        "channel": "Call of Duty",
-        "url": "https://youtu.be/jLbst85USN8"
-      },
-      {
-        "title": "Furacões Carolina em Montreal Canadiens",
-        "original": "Carolina Hurricanes at Montreal Canadiens",
-        "channel": "TNT",
-        "url": "https://youtu.be/yh_Y6ouBmGo"
-      },
-      {
-        "title": "ME VALE V - Tito Double P (Vídeo Oficial)",
-        "original": "ME VALE V - Tito Double P (Video Oficial)",
-        "channel": "Tito Double P",
-        "url": "https://youtu.be/NnxPNOpXJ40"
-      },
-      {
-        "title": "X-Men '97, temporada 2 da Marvel Animation | Trailer Oficial",
-        "original": "Marvel Animation’s X-Men ‘97 Season 2 | Official Trailer",
-        "channel": "Marvel Entertainment",
-        "url": "https://youtu.be/mfUtseK27pc"
-      }
-    ]
   }
 ]
