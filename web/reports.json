@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-03",
+    "trends_br": [
+      {
+        "title": "A música de Cabo Verde sobre saudade que já foi cantada por Madonna, Ivete e Marisa Monte",
+        "traffic": "G1"
+      },
+      {
+        "title": "Ticketeira responde por não avisar comprador sobre mudanças em show",
+        "traffic": "Consultor Jurídico"
+      },
+      {
+        "title": "SESC/AL IX Mostra Sesc de Cinema divulga lista de filmes selecionados",
+        "traffic": "SESC/AL"
+      },
+      {
+        "title": "Apresentação do grupo As Grumixamas ‘Ritmos Brasileiros em Roda’ leva cultura, música e integração aos estudantes da EJA de Bertioga",
+        "traffic": "Prefeitura de Bertioga"
+      },
+      {
+        "title": "ENHYPEN - São Paulo - 04/07/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Programa de Energia da WSU lança série de webinars sobre digestores anaeróbicos",
+        "original": "WSU Energy Program launches Anaerobic Digester Webinar Series",
+        "traffic": "Insider da WSU"
+      },
+      {
+        "title": "Copa do Mundo de 2026: Drake e Shai Gilgeous-Alexander são as principais celebridades",
+        "original": "2026 World Cup: Drake, Shai Gilgeous-Alexander headline celebrities",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Gunnison, Meeker, Bayfield e Cortez planejam shows de fogos de artifício para 4 de julho, enquanto áreas do estado queimam sob estritas proibições de chamas externas",
+        "original": "Gunnison, Meeker, Bayfield and Cortez plan July 4 fireworks shows as swaths of state burn under strict prohibitions on outdoor flames",
+        "traffic": "O Sol Colorado"
+      },
+      {
+        "title": "A antiga filial do Chase reabrirá como Hidden Frequency, local de música experimental",
+        "original": "Former Chase branch will reopen as Hidden Frequency, experimental music venue",
+        "traffic": "Missão Local"
+      },
+      {
+        "title": "Fogos de artifício no centro de Ohio. Adicione esses programas à sua programação de fim de semana",
+        "original": "Fireworks in central Ohio. Add these shows to your weekend schedule",
+        "traffic": "O Despacho de Colombo"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-02",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Departamento de Justiça visa pagamentos alternativos de ‘armamento’ após resistência de fundos",
         "original": "Justice Department Eyes Alternative ‘Weaponization’ Payouts After Fund Pushback",
         "traffic": "WSJ"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-03",
-    "trends_br": [
-      {
-        "title": "Brasil, China e Reino Unido: Veja 60 economias que podem ter taxa dos EUA",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Entenda como deve ser o último dia do julgamento do caso Henry, com os réus Jairinho e Monique Medeiros",
-        "traffic": "O Globo"
-      },
-      {
-        "title": "\"Noite das astronautas\": entenda como foi a farra de Vorcaro com políticos brasileiros",
-        "traffic": "Brasil 247"
-      },
-      {
-        "title": "Mulher é presa suspeita de fraude milionária envolvendo obras de arte e imóveis de alto valor; prejuízo é de mais de R$ 2 milhões",
-        "traffic": "Extra online"
-      },
-      {
-        "title": "FAB contradiz influenciador e diz não ter detectado suposto Ovni visto no Paraná",
-        "traffic": "UOL"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Oito conclusões de uma grande noite de primárias em Iowa, Califórnia e muito mais",
-        "original": "Eight takeaways from a big primary night in Iowa, California and more",
-        "traffic": "O Washington Post"
-      },
-      {
-        "title": "Agentes do FBI matam suposto sequestrador na Califórnia",
-        "original": "FBI agents fatally shoot alleged hostage-taker in California",
-        "traffic": "Al Jazeera"
-      },
-      {
-        "title": "O grande fracasso da Big Tech na noite das primárias",
-        "original": "Big Tech's big flop on primary night",
-        "traffic": "Político"
-      },
-      {
-        "title": "Novo papel da inteligência coloca em dúvida a agenda habitacional de Bill Pulte",
-        "original": "New Intelligence Role Puts Bill Pulte’s Housing Agenda in Doubt",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Drones ucranianos atingem terminal petrolífero de São Petersburgo antes de sediar fórum econômico russo",
-        "original": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-        "traffic": "Notícias da AP"
       }
     ],
     "yt_br": [],
