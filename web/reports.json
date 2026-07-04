@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-04",
+    "trends_br": [
+      {
+        "title": "Ariela Amorim: o poder da música na saúde",
+        "traffic": "Vatican News"
+      },
+      {
+        "title": "Kid Abelha adia data de show em Salvador e exclui setores com assento",
+        "traffic": "G1"
+      },
+      {
+        "title": "Casamento de Taylor Swift e Travis Kelce: as fotos de celebridades e fãs na cerimônia",
+        "traffic": "BBC"
+      },
+      {
+        "title": "Expectativa pelo show de Ícaro e Gilmar aumenta movimentação na Expoacre Juruá",
+        "traffic": "Agência de Notícias do Acre"
+      },
+      {
+        "title": "Cinema no Gramado de 14 a 17 de julho. Grátis.",
+        "traffic": "Sesc São Paulo"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Há música em nós",
+        "original": "There’s Music in Us",
+        "traffic": "O Independente de Santa Bárbara"
+      },
+      {
+        "title": "O mundo da música country lutando contra o câncer: esses cantores estão lutando bravamente contra a doença",
+        "original": "Country music world battling cancer: These singers are bravely fighting the disease",
+        "traffic": "AL.com"
+      },
+      {
+        "title": "Melhores filmes de 2026… até agora",
+        "original": "Best Movies of 2026… So Far",
+        "traffic": "Estilo Semanal"
+      },
+      {
+        "title": "Por que amar filmes bons e ruins é tão bom",
+        "original": "Why Loving Good-Bad Movies Feels All Good",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Zoé! Gigi! Karlie! Todas as celebridades que compareceram ao casamento de Taylor Swift e Travis Kelce",
+        "original": "Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding",
+        "traffic": "Voga"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-03",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Raman vence Pratt na corrida para prefeito de Los Angeles, mas muitas votações permanecem",
         "original": "Raman Gains on Pratt in L.A. Mayor Race, but Many Ballots Remain",
         "traffic": "O jornal New York Times"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-04",
-    "trends_br": [
-      {
-        "title": "Jairinho é condenado a 43 anos pela morte de Henry Borel e Monique recebe perdão judicial",
-        "traffic": "Estadão"
-      },
-      {
-        "title": "Vorcaro temia voltar para cela comum e acelerou nova proposta de delação",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Josias de Souza: Flávio perde de goleada em casa",
-        "traffic": "UOL Notícias"
-      },
-      {
-        "title": "Por que Padre Zezinho está (de novo) na mira de católicos tradicionalistas: 'Sou agredido todos os dias, falam que sou um câncer para a Igreja'",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Marcha para Jesus leva Tarcísio e Flávio à rua pela 1ª vez após Dark Horse",
-        "traffic": "UOL Notícias"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "A escolha de Pulte desencadeia uma rebelião do Partido Republicano no Senado",
-        "original": "Pulte pick sparks a Senate GOP rebellion",
-        "traffic": "Eixos"
-      },
-      {
-        "title": "Por dentro do museu presidencial de Obama que abre este mês: o custo, os livros e uma colmeia",
-        "original": "Inside Obama's presidential museum opening this month: The cost, the books and a beehive",
-        "traffic": "Notícias da AP"
-      },
-      {
-        "title": "Grupo de controle de armas processa ATF por liberação de registros",
-        "original": "Gun control group sues ATF over records release",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Primeiro caso de bicheira nos EUA em 60 anos: a América deveria estar preocupada?",
-        "original": "First US screwworm case in 60 years: Should America be worried?",
-        "traffic": "Al Jazeera"
-      },
-      {
-        "title": "Departamento de Justiça visa pagamentos alternativos de ‘armamento’ após resistência de fundos",
-        "original": "Justice Department Eyes Alternative ‘Weaponization’ Payouts After Fund Pushback",
-        "traffic": "WSJ"
       }
     ],
     "yt_br": [],
