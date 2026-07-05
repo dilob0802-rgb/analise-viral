@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-05",
+    "trends_br": [
+      {
+        "title": "Cantora Alcione se desequilibra e cai no palco durante show em São Luís",
+        "traffic": "G1"
+      },
+      {
+        "title": "Atletas do Time Jundiaí celebram o semestre em sessão especial de cinema",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Assim como Sting: conheça 7 famosos que não deixarão herança aos filhos",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 6 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "ENHYPEN - São Paulo - 04/07/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Jones segura Elliott para a vitória da O’Reilly Series no thriller de Chicagoland",
+        "original": "Jones holds off Elliott for O’Reilly Series win in Chicagoland thriller",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Opinião: Comentário de Vance sobre o escândalo Watergate mostra ignorância da história",
+        "original": "Opinion: Vance comment on Watergate scandal shows ignorance of history",
+        "traffic": "Os tempos do cidadão de Asheville"
+      },
+      {
+        "title": "A música está na era do fracasso",
+        "original": "Music Is in Its Flop Era",
+        "traffic": "O Atlântico"
+      },
+      {
+        "title": "NASCAR O'Reilly Series Chicagoland corrida atualizações ao vivo, destaques, tabela de classificação",
+        "original": "NASCAR O'Reilly Series Chicagoland race live updates, highlights, leaderboard",
+        "traffic": "O Tennessee"
+      },
+      {
+        "title": "Lista de convidados do casamento de Taylor Swift e Travis Kelce: todas as celebridades vistas na celebração repleta de estrelas do MSG",
+        "original": "Taylor Swift and Travis Kelce's wedding guest list: Every celebrity spotted at the star-studded MSG celebration",
+        "traffic": "Yahoo"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-04",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "O Serviço Florestal diz que está fechando escritórios para reduzir custos. Mas a matemática não bate",
         "original": "The Forest Service says it's closing offices to cut costs. But the math doesn't add up",
         "traffic": "NPR"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-05",
-    "trends_br": [
-      {
-        "title": "\"Crime doloso contra vida pode ter perdão judicial?\", contesta pai de Henry",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Falsa adolescente de 38 anos presa em Santa Catarina aplicava golpes desde 2010",
-        "traffic": "O Globo"
-      },
-      {
-        "title": "Onde pode chover muito no Sul do Brasil no começo do El Niño",
-        "traffic": "MetSul Meteorologia"
-      },
-      {
-        "title": "Inscrições para o Enem terminam nesta sexta-feira (5); saiba como fazer",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Justiça manda prender jornalista perseguido por Carla Zambelli",
-        "traffic": "Valor Econômico"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Graham Platner enfrenta acusações de relacionamentos 'tóxicos' e comportamento perturbador - dias após escândalo de sexting",
-        "original": "Graham Platner Faces Accusations Of 'Toxic' Relationships And Disturbing Behavior—Days After Sexting Scandal",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "A maioria dos professores do ensino fundamental e médio dizem que o impacto da IA ​​​​na educação eclipsará a Internet ou os computadores",
-        "original": "Most K-12 teachers say AI's impact on education will eclipse the internet or computers",
-        "traffic": "NPR"
-      },
-      {
-        "title": "O DOJ ainda poderia pagar aos manifestantes de 6 de janeiro, mesmo sem o fundo “anti-armamento”",
-        "original": "DOJ could still pay Jan. 6 rioters even without ‘anti-weaponization’ fund",
-        "traffic": "Notícias da NBC"
-      },
-      {
-        "title": "Atualizações ao vivo: Julgamento de assassinato de Karmelo Anthony em esfaqueamento fatal de Austin Metcalf no encontro de atletismo ISD de Frisco",
-        "original": "Live Updates: Karmelo Anthony murder trial in fatal stabbing of Austin Metcalf at Frisco ISD track meet",
-        "traffic": "Notícias da CBS"
-      },
-      {
-        "title": "Raman vence Pratt na corrida para prefeito de Los Angeles, mas muitas votações permanecem",
-        "original": "Raman Gains on Pratt in L.A. Mayor Race, but Many Ballots Remain",
-        "traffic": "O jornal New York Times"
       }
     ],
     "yt_br": [],
