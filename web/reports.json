@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-07",
+    "trends_br": [
+      {
+        "title": "Famosos lamentam a morte de Benedito Ruy Barbosa - 07/07/2026 - Celebridades",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Última novela de Benedito Ruy Barbosa foi gravada na Bahia e teve Rio São Francisco como protagonista",
+        "traffic": "G1"
+      },
+      {
+        "title": "Secretaria de Cultura realiza o Festival de Inverno de Bauru de 14 a 17 de julho",
+        "traffic": "Prefeitura de Bauru"
+      },
+      {
+        "title": "Famosos lamentam morte de Benedito Ruy Barbosa: \"Legado eterno\"",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Jack Johnson escolhe Florianópolis para show único no Sul do Brasil; veja data e valores",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Finlândia mostra a barreira de confiança enfrentada pelos fabricantes chineses de veículos elétricos no Ocidente",
+        "original": "Finland Shows the Trust Barrier Facing Chinese EV Makers in the West",
+        "traffic": "WSJ"
+      },
+      {
+        "title": "Música ao vivo faz o mundo girar",
+        "original": "Live Music Makes the World Go Around",
+        "traffic": "o sol de Wellsville"
+      },
+      {
+        "title": "LOL. Surpresa! Bonecas ganhando sua própria série com roteiro de ação ao vivo (exclusivo)",
+        "original": "L.O.L. Surprise! Dolls Getting Their Own Live-Action Scripted Series (Exclusive)",
+        "traffic": "O repórter de Hollywood"
+      },
+      {
+        "title": "Notícias - World Music Contest une o mundo em Kerkrade",
+        "original": "News - World Music Contest unites the world in Kerkrade",
+        "traffic": "DVDs"
+      },
+      {
+        "title": "Eastern Festival of Music retorna com programação totalmente americana sob a direção de Gerard Schwarz",
+        "original": "Eastern Festival of Music returns with all-American program under Gerard Schwarz",
+        "traffic": "OrelhaRelevante"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-06",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Em discurso ao parlamento espanhol, papa exige respeito pela dignidade de todas as pessoas",
         "original": "In speech to Spanish parliament, pope demands respect for the dignity of all people",
         "traffic": "NPR"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-07",
-    "trends_br": [
-      {
-        "title": "CNJ descobre salários de mais de R$ 1 milhão por mês a juízes",
-        "traffic": "Revista Oeste"
-      },
-      {
-        "title": "Millenials estudam mais que os pais, mas não superam padrão de vida da geração X",
-        "traffic": "O Globo"
-      },
-      {
-        "title": "UE oficializa veto à compra de carne do Brasil a partir de setembro",
-        "traffic": "Poder360"
-      },
-      {
-        "title": "Brasil não taxa nenhum dos produtos mais importados dos EUA",
-        "traffic": "Poder360"
-      },
-      {
-        "title": "Parada LGBT+ em SP terá segurança reforçada com mais de 1,5 mil policiais",
-        "traffic": "CNN Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Pelo menos 12 pessoas foram baleadas em um festival em Ohio e a busca por suspeitos ainda está em andamento, diz a polícia",
-        "original": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
-        "traffic": "NPR"
-      },
-      {
-        "title": "O discurso do Dia D de Pete Hegseth sobre a imigração foi condenado como “estupidez grotesca”",
-        "original": "Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’",
-        "traffic": "O Guardião"
-      },
-      {
-        "title": "RFK Jr. parece desinteressado em muitos assuntos do Departamento de Saúde além das vacinas",
-        "original": "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Os EUA lutaram contra a bicheira carnívora durante décadas. Agora deve começar de novo.",
-        "original": "The U.S. fought the flesh-eating screwworm for decades. Now it must begin again.",
-        "traffic": "Notícias da NBC"
-      },
-      {
-        "title": "Vice-PM do Reino Unido diz que disse a Vance ‘Você está errado’ sobre o caso Nowak",
-        "original": "UK Deputy PM Says He Told Vance ‘You’re Wrong’ Over Nowak Case",
-        "traffic": "Bloomberg"
       }
     ],
     "yt_br": [],
