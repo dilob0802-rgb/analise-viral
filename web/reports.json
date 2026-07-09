@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-09",
+    "trends_br": [
+      {
+        "title": "Autor de chacina em cinema de SP deixa 'vendedores com medo' ao frequentar shopping de Salvador após deixar a cadeia",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Famosos lamentam a morte de Bonnie Tyler - 09/07/2026 - Celebridades",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Neste domingo (12), Praia do Bosque recebe show nacional de Reinaldinho, ex-Terra Samba",
+        "traffic": "Prefeitura Municipal de Barra do Garças"
+      },
+      {
+        "title": "Justin Bieber se junta a Madonna, Shakira e BTS em show do intervalo da final da Copa do Mundo",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 9 de julho",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "ASSISTIR: Série de ex-alunos estudantes-atletas do Big South - Al'Lonzo Coleman",
+        "original": "WATCH: Big South Student-Athlete Alumni Series - Al'Lonzo Coleman",
+        "traffic": "Grande Conferência Sul"
+      },
+      {
+        "title": "10 filmes e programas históricos e caprichosos como Little House on the Prairie",
+        "original": "10 Whimsical, Historical Movies and Shows Like Little House on the Prairie",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "Os melhores programas de TV de 2026 até agora",
+        "original": "The Best TV Shows of 2026 So Far",
+        "traffic": "Revista Tempo"
+      },
+      {
+        "title": "Amy Ray, do Indigo Girls, dá início à série Mercer explorando a música sulista",
+        "original": "Amy Ray of Indigo Girls kicks off Mercer series exploring Southern music",
+        "traffic": "Universidade Mercer"
+      },
+      {
+        "title": "O compositor Joe Hisaishi deseja expandir o alcance da música clássica",
+        "original": "Composer Joe Hisaishi Wishes to Expand Classical Music’s Reach",
+        "traffic": "Symphony.org"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-08",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Uma adição impressionante ao Music Arts Center da W&M",
         "original": "A stunning addition to W&M’s Music Arts Center",
         "traffic": "Notícias W&M"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-09",
-    "trends_br": [
-      {
-        "title": "Um coro de mil vozes para espalhar a música do Evangelho",
-        "traffic": "Vatican News"
-      },
-      {
-        "title": "Ex-consultora da Cacau Show é investigada por desviar R$ 370 mil de franqueadas no DF",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 8 de junho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Música transforma unidade de saúde em arraial e leva acolhimento a pacientes do SUS no Hospital Ortopédico",
-        "traffic": "saude.ba.gov.br"
-      },
-      {
-        "title": "Abertura Oficial da Feira de Fogos reúne música e comidas típicas no Parque Ecológico das Timbaúbas",
-        "traffic": "Prefeitura de Juazeiro do Norte"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Os conflitos estão a aumentar a nível mundial, ao nível mais elevado desde a Segunda Guerra Mundial, mostram os dados",
-        "original": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Veja quais celebridades compareceram ao jogo 3 das finais da NBA do Knicks-Spurs no MSG",
-        "original": "See which celebrities attended Knicks-Spurs NBA Finals Game 3 at MSG",
-        "traffic": "Bom dia América"
-      },
-      {
-        "title": "'A Little Night Music' da LOON une gerações entre os Portos Gêmeos",
-        "original": "LOON’s ‘A Little Night Music’ bridges generations across the Twin Ports",
-        "traffic": "WPR"
-      },
-      {
-        "title": "Professor de música da URI, um ‘Herói da Guitarra’ no ensino de crianças ao redor do mundo na última década – Rhody Today",
-        "original": "URI music professor a ‘Guitar Hero’ in teaching children around the world for past decade – Rhody Today",
-        "traffic": "A Universidade de Rhode Island"
-      },
-      {
-        "title": "Hall da Fama e Museu da Música Country inicia acampamentos de composição de músicas em 2026",
-        "original": "Country Music Hall Of Fame & Museum Kicks Off 2026 Songwriting Camps",
-        "traffic": "MusicRow. com"
       }
     ],
     "yt_br": [],
