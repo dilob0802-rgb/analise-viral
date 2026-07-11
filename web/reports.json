@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-11",
+    "trends_br": [
+      {
+        "title": "Como vai ser a vingança de Adriana na novela 'Quem ama cuida'? Personagem vai colocar rivais na mira",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Outro Canal: Globo vai simular efeito de 'páginas de fofoca' na vida de artistas no novo Estrelas da Casa",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Tela Brasileira recebe curadoria da Mostra Ratazana em sessão gratuita no Cinema Alameda - PJF",
+        "traffic": "Prefeitura de Juiz de Fora"
+      },
+      {
+        "title": "Tudo pronto: Lucas do Rio Verde celebra o rock neste sábado com mais de sete horas de música",
+        "traffic": "Prefeitura de Lucas do Rio Verde"
+      },
+      {
+        "title": "Artista indígena da Venezuela lança EP que une tradição Pemón e música contemporânea em RR",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "AI Bots roubou minha música",
+        "original": "AI Bots Stole My Music",
+        "traffic": "Revista Filadélfia"
+      },
+      {
+        "title": "5 shows do leste a Edimburgo",
+        "original": "5 East to Edinburgh shows",
+        "traffic": "newyorktheater.me"
+      },
+      {
+        "title": "Fim de semana ao ar livre: Produtor musical Peter Asher; Escritor de romance Kennedy Ryan",
+        "original": "Fresh Air Weekend: Music producer Peter Asher; Romance writer Kennedy Ryan",
+        "traffic": "NPR"
+      },
+      {
+        "title": "A famosa lista de aniversários de hoje para 11 de julho de 2026 apresenta as celebridades Lisa Rinna, Alessia Cara",
+        "original": "Today’s famous birthdays list for July 11, 2026 features celebrities Lisa Rinna, Alessia Cara",
+        "traffic": "Cleveland.com"
+      },
+      {
+        "title": "Série musical gratuita continuará na próxima semana",
+        "original": "Free music series to continue next week",
+        "traffic": "Notícias Diárias da Península"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-10",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Blue Ridge Music Center hospeda o primeiro Festival Fiddle and Fork",
         "original": "Blue Ridge Music Center hosts first-ever Fiddle and Fork Festival",
         "traffic": "WSLS"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-11",
-    "trends_br": [
-      {
-        "title": "Copa do Mundo 2026: quem participará do show de abertura antes de México e África do Sul?",
-        "traffic": "G1"
-      },
-      {
-        "title": "Sala de Cinema Walter da Silveira recebe filmes do cineasta Michael Fausti na mostra Cine Horror",
-        "traffic": "ba.gov.br"
-      },
-      {
-        "title": "Futebol, música, bem-estar e literatura agitam o fim de semana na Cidade das Artes",
-        "traffic": "Prefeitura da Cidade do Rio de Janeiro"
-      },
-      {
-        "title": "Show de abertura da Copa do Mundo 2026: horário e onde assistir ao vivo",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Arraial de Santo Antônio começa hoje com show do Munhoz e Mariano – CGNotícias",
-        "traffic": "campogrande.ms.gov.br"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Blossom Music Center: Black Crowes, show de Whiskey Myers cancelado devido ao clima, não será remarcado",
-        "original": "Blossom Music Center: Black Crowes, Whiskey Myers show canceled due to weather, won't be rescheduled",
-        "traffic": "WKYC"
-      },
-      {
-        "title": "A série de concertos Summer Carillon da Oakland University retorna em 10 de julho",
-        "original": "Oakland University’s Summer Carillon Concert Series returns July 10",
-        "traffic": "Universidade de Oakland"
-      },
-      {
-        "title": "Taylor Swift entre celebridades proeminentes no MSG para o jogo 4 das finais da NBA",
-        "original": "Taylor Swift among prominent celebrities at MSG for NBA Finals Game 4",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Desfrute de música ao vivo gratuita na 5ª celebração anual do décimo primeiro mês de Arlington",
-        "original": "Enjoy Free Live Music at 5th Annual Arlington Juneteenth Celebration",
-        "traffic": "Cidade de Arlington (.gov)"
-      },
-      {
-        "title": "Pergunta da semana: “Que música está na sua trilha sonora de verão?”",
-        "original": "Question of the Week: “What music is on your summer soundtrack?”",
-        "traffic": "inlander. com"
       }
     ],
     "yt_br": [],
