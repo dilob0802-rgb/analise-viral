@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-13",
+    "trends_br": [
+      {
+        "title": "Estrutura de palco cede durante show de Pocah em festival na Grande BH; VÍDEO",
+        "traffic": "G1"
+      },
+      {
+        "title": "Casa da Cultura recebe show eletroacústico na próxima quarta-feira (15)",
+        "traffic": "Prefeitura de São Pedro da Aldeia"
+      },
+      {
+        "title": "Cinema Pontos MIS | Programação de Julho",
+        "traffic": "Prefeitura Estância Turística Guaratinguetá – Prefeitura Estância Turística Guaratinguetá"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 13 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Projeto Saudade ao Ar Livre movimenta Santana Verão com música e dança",
+        "traffic": "Prefeitura de Santana/AP"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Os influenciadores musicais estão sendo pagos para promover músicas – e eles não estão contando a você",
+        "original": "Music influencers are getting paid to promote songs — and they're not telling you",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Os 10 melhores filmes de ficção científica e terror de 2026 (até agora)",
+        "original": "The 10 best sci-fi and horror movies of 2026 (so far)",
+        "traffic": "Subpilha"
+      },
+      {
+        "title": "Centro de bônus de incentivo da série O'Reilly Auto Parts 2026: informações, vencedores, mais",
+        "original": "2026 O’Reilly Auto Parts Series Incentive Bonus hub: Information, winners, more",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Incêndio em bar de música em Bangkok mata pelo menos 27 pessoas",
+        "original": "Fire at a music bar in Bangkok kills at least 27 people",
+        "traffic": "Notícias da AP"
+      },
+      {
+        "title": "Série Tóquio 2025 de Shohei Ohtani vai a leilão",
+        "original": "Shohei Ohtani's 2025 Tokyo series cleats up for auction",
+        "traffic": "ESPN"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-12",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "'Gelo nas veias': Rafaela brilha na vitória do Sox na primeira série do Fenway desde abril",
         "original": "'Ice in his veins': Rafaela shines as Sox win 1st Fenway series since April",
         "traffic": "MLB. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-13",
-    "trends_br": [
-      {
-        "title": "Tom Cruise, Paris Hilton e Jamie Foxx: celebridades vão à abertura da Copa do Mundo nos EUA",
-        "traffic": "GE"
-      },
-      {
-        "title": "Chico Chico no Qualistage - RJ - 12/06/2026",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Celebridades marcam presença em EUA x Paraguai na Copa do Mundo; veja",
-        "traffic": "Lance!"
-      },
-      {
-        "title": "Arraial de Santo Antônio começa hoje com show do Munhoz e Mariano – CGNotícias",
-        "traffic": "campogrande.ms.gov.br"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 13 de junho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Beisebol abre College World Series com derrota por 6-2 para a Carolina do Norte",
-        "original": "Baseball Opens College World Series with 6-2 Loss to North Carolina",
-        "traffic": "Ole Miss Atletismo"
-      },
-      {
-        "title": "Men's College World Series: resultados completos, repescagens e pontuações",
-        "original": "Men's College World Series: Complete results, recaps, box scores",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "O primeiro jogo da Men’s College World Series do Alabama em 27 anos ajuda a flexibilizar os músculos da SEC",
-        "original": "Alabama’s first Men’s College World Series game in 27 years helps flex SEC muscle",
-        "traffic": "AL.com"
-      },
-      {
-        "title": "20 programas de streaming novos e recorrentes para ficar de olho neste verão",
-        "original": "20 New & Returning Streaming Shows To Look Out For This Summer",
-        "traffic": "Prazo final"
-      },
-      {
-        "title": "Em que canal está OU baseball vs Alabama hoje? Horário da College World Series, programação da TV",
-        "original": "What channel is OU baseball vs Alabama on today? College World Series time, TV schedule",
-        "traffic": "O oklahoma"
       }
     ],
     "yt_br": [],
