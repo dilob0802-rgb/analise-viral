@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-14",
+    "trends_br": [
+      {
+        "title": "Pontos MIS divulga programação gratuita de cinema do mês de julho em Leme",
+        "traffic": "Prefeitura de Leme"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 13 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Suspeita de arremessar cadeira em comediante durante show em Florianópolis é identificada, diz polícia",
+        "traffic": "G1"
+      },
+      {
+        "title": "CCJ avança na aprovação de desconto de 50% no valor de ingressos para eventos culturais e de entretenimento aos garis da Comurg",
+        "traffic": "Câmara Municipal de Goiânia"
+      },
+      {
+        "title": "De Larissa Manoela a José Loreto: veja famosos na estreia \"Wicked\" no Rio",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Steve Wariner traça paralelos entre música e pintura – BGS",
+        "original": "Steve Wariner Draws Parallels Between Music and Painting – BGS",
+        "traffic": "A situação do Bluegrass"
+      },
+      {
+        "title": "O número de mortos em um incêndio em um bar de música em Bangkok sobe para 30, dezenas permanecem no hospital",
+        "original": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Lista de inscritos da NASCAR Cup Series 2026 para North Wilkesboro Speedway",
+        "original": "2026 NASCAR Cup Series entry list for North Wilkesboro Speedway",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Mesa final do evento principal da World Series of Poker 2026 definida",
+        "original": "2026 World Series of Poker main event final table set",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Reconhecendo os 50 anos do Dome Center for Art, Music and Dance de Oakland",
+        "original": "Recognizing 50 Years Of Oakland’s Dome Center For Art, Music And Dance",
+        "traffic": "Forbes"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-13",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Torneio de beisebol da NCAA de 2026: chave, cronograma e pontuações para o Men’s College World Series",
         "original": "2026 NCAA baseball tournament: Bracket, schedule, scores for the Men’s College World Series",
         "traffic": "NCAA. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-14",
-    "trends_br": [
-      {
-        "title": "De Travis Scott a Tom Brady, os famosos na torcida do Brasil na Copa",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "Travis Scott, Anitta e Tom Brady: veja famosos que assistiram à estreia do Brasil na Copa",
-        "traffic": "Lance!"
-      },
-      {
-        "title": "Vai ter novela hoje? Veja como fica a programação da Globo neste sábado, dia de Brasil na Copa",
-        "traffic": "Estadão"
-      },
-      {
-        "title": "Neymar tem \"resenha\" com Tom Brady e Travis Scott antes de jogo do Brasil; veja mais celebridades",
-        "traffic": "GE"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 15 de junho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Torneio de beisebol da NCAA de 2026: chave, cronograma e pontuações para o Men’s College World Series",
-        "original": "2026 NCAA baseball tournament: Bracket, schedule, scores for the Men’s College World Series",
-        "traffic": "NCAA. com"
-      },
-      {
-        "title": "O número 6 do beisebol cai para o número 3 da Geórgia na competição de abertura da Men’s College World Series",
-        "original": "No. 6 Baseball falls to No. 3 Georgia in opening contest of Men’s College World Series",
-        "traffic": "Atletismo da Universidade do Texas"
-      },
-      {
-        "title": "Justin Allgaier navega para a quinta vitória da O’Reilly Series de 26 em Pocono",
-        "original": "Justin Allgaier sails to fifth O’Reilly Series win of ’26 at Pocono",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Quem será o próximo jogador de beisebol da OU no College World Series? Veja suporte CWS atualizado",
-        "original": "Who will OU baseball play next in College World Series? See updated CWS bracket",
-        "traffic": "O oklahoma"
-      },
-      {
-        "title": "'Gelo nas veias': Rafaela brilha na vitória do Sox na primeira série do Fenway desde abril",
-        "original": "'Ice in his veins': Rafaela shines as Sox win 1st Fenway series since April",
-        "traffic": "MLB. com"
       }
     ],
     "yt_br": [],
