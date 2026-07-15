@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-15",
+    "trends_br": [
+      {
+        "title": "Festival Um Novo Tempo: Tarde de fé, adoração e música no Teatro Margarida Ribeiro no dia 25",
+        "traffic": "Prefeitura Municipal de Feira de Santana"
+      },
+      {
+        "title": "Juliano Floss, do 'BBB 26', fará sua primeira novela na Globo no papel do filho de um dos protagonistas",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Nei Lisboa revisita mais de quatro décadas de carreira em show no Galpão Floresta Cultural",
+        "traffic": "Sesc/RS"
+      },
+      {
+        "title": "Abba Experience In Concert – Novo Show – Bruno Rizzo ME",
+        "traffic": "Cultura Jundiaí"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 15 de julho",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "O valor das coisas: série Make or Break - Xavier Hutchinson",
+        "original": "Value of Things: Make or Break series— Xavier Hutchinson",
+        "traffic": "Blog da Batalha Vermelha"
+      },
+      {
+        "title": "Chase Koch sobre Princípios, Música e Superação da Entropia (Ep. 283)",
+        "original": "Chase Koch on Principles, Music, and Overcoming Entropy (Ep. 283)",
+        "traffic": "Conversas com Tyler"
+      },
+      {
+        "title": "Recomendações de música ao vivo na área de Chicago para 15 a 21 de julho",
+        "original": "Chicago-Area Live Music Recommendations for July 15-21",
+        "traffic": "Notícias WTTW"
+      },
+      {
+        "title": "Série de classificação de Budapeste 2026, dia 1, assistir estilo livre ao vivo",
+        "original": "Budapest Ranking Series 2026 Day 1 Watch Live Freestyle",
+        "traffic": "UWW"
+      },
+      {
+        "title": "Wilson: Os detratores de Melat Kiros não estão lendo a sala, e isso mostra",
+        "original": "Wilson: Melat Kiros’ detractors aren’t reading the room, and it shows",
+        "traffic": "O Sol Colorado"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-14",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "SFMOMA lança série mensal de música ao ar livre",
         "original": "SFMOMA throwing monthly outdoor music series",
         "traffic": "Examinador de São Francisco"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-15",
-    "trends_br": [
-      {
-        "title": "Lionel Richie anuncia show no Brasil em dezembro; veja os preços",
-        "traffic": "Billboard Brasil"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 15 de junho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Casal viaja 11 mil km de carro para assistir ao show de Roberto Carlos no São João de Campina Grande",
-        "traffic": "G1"
-      },
-      {
-        "title": "Crítica | Fiz Um Foguete Imaginando Que Você Vinha (15º Olhar de Cinema)",
-        "traffic": "Oxente Pipoca"
-      },
-      {
-        "title": "Seagri consolida participação na Bahia Farm Show com avanços para agropecuária da Bahia",
-        "traffic": "ba.gov.br"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Os melhores programas de TV de 2026, até agora",
-        "original": "The Best TV Shows of 2026, So Far",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "MIXTAPE: Playlist \"Making Music with My Friends\" de Gina Leslie - BGS",
-        "original": "MIXTAPE: Gina Leslie's \"Making Music with My Friends\" Playlist – BGS",
-        "traffic": "A situação do Bluegrass"
-      },
-      {
-        "title": "Amada casa de shows Federal Hill, The 8x10, poupada do fechamento sob nova propriedade",
-        "original": "Beloved Federal Hill music venue, The 8x10, spared from closure under new ownership",
-        "traffic": "WBAL-TV"
-      },
-      {
-        "title": "Série de romance da Icebreaker College vai esquentar o rinque",
-        "original": "Icebreaker College Romance Series Will Heat Up the Rink",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "Torneio de beisebol da NCAA de 2026: chave, cronograma e pontuações para o Men’s College World Series",
-        "original": "2026 NCAA baseball tournament: Bracket, schedule, scores for the Men’s College World Series",
-        "traffic": "NCAA. com"
       }
     ],
     "yt_br": [],
