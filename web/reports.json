@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-16",
+    "trends_br": [
+      {
+        "title": "Festival de Música da Juventude abre inscrições para a 10ª edição",
+        "traffic": "Prefeitura de Fortaleza"
+      },
+      {
+        "title": "Cinema Walmir Almeida destaca o épico Odisseia e a nova comédia estrelada por Penélope Cruz",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "Centro Cultural São Paulo recebe Cine na Praça e transforma Jardim Suspenso em cinema ao ar livre com sessões gratuitas",
+        "traffic": "Prefeitura de São Paulo"
+      },
+      {
+        "title": "Semifinal entre Inglaterra e Argentina reúne celebridades em Atlanta",
+        "traffic": "ge"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 16 de julho",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "'Fofoca' teve origens divinas. Veja como ele ganhou sua reputação pecaminosa",
+        "original": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Série de verão: Nicole Kuhl",
+        "original": "Summer Series: Nicole Kuhl",
+        "traffic": "Atletismo da Universidade de Richmond"
+      },
+      {
+        "title": "Música que comove: um bilhete de amor a capella",
+        "original": "Music that moves: a love note to a capella",
+        "traffic": "O boletim informativo da Johns Hopkins"
+      },
+      {
+        "title": "Perguntando a Eric: 60 anos depois, fã de música experimenta uma nova onda de adoração do tipo Beatlemania",
+        "original": "Asking Eric: 60 years later, music fan experiences a new rush of Beatlemania-type adoration",
+        "traffic": "OregonLive. com"
+      },
+      {
+        "title": "No Walker, o ator indígena Dallas Goldtooth explora a masculinidade por meio do cinema",
+        "original": "At the Walker, Indigenous actor Dallas Goldtooth explores masculinity through movies",
+        "traffic": "Notícias MPR"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-15",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Recomendações de música ao vivo na área de Chicago para 17 a 23 de junho",
         "original": "Chicago-Area Live Music Recommendations for June 17-23",
         "traffic": "WTTW"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-16",
-    "trends_br": [
-      {
-        "title": "5º Festival de Música de Jundiaí abre inscrições para artistas da Região Metropolitana",
-        "traffic": "Prefeitura de Jundiaí"
-      },
-      {
-        "title": "Alunos de escolas de Santos participam de sessão especial de cinema",
-        "traffic": "santos.sp.gov.br"
-      },
-      {
-        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 15 de junho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "SMAS promove “Tarde de Cinema” trazendo reflexão sobre violência contra a mulher no CRAM",
-        "traffic": "Prefeitura Três Lagoas"
-      },
-      {
-        "title": "Música no Centro de Cultura reúne todos os grupos do Programa Institucional de Música da UFLA em edição especial - UFLA",
-        "traffic": "Universidade Federal de Lavras"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Os melhores programas de TV de 2026, até agora",
-        "original": "The Best TV Shows of 2026, So Far",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Cidade de Toledo e parceiros comunitários anunciam programação da série musical Levitt BLOC Toledo",
-        "original": "City of Toledo and Community Partners Announce Levitt BLOC Toledo Music Series Lineup",
-        "traffic": "Cidade de Toledo (.gov)"
-      },
-      {
-        "title": "Meus locais favoritos de filmes e TV filmados em Wilmington | John Staton",
-        "original": "My favorite locations from Wilmington-shot movies and TV | John Staton",
-        "traffic": "Wilmington Star-News"
-      },
-      {
-        "title": "Qobuz é o streamer de música anti-Spotify que você estava esperando",
-        "original": "Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For",
-        "traffic": "COM FIO"
-      },
-      {
-        "title": "SFMOMA lança série mensal de música ao ar livre",
-        "original": "SFMOMA throwing monthly outdoor music series",
-        "traffic": "Examinador de São Francisco"
       }
     ],
     "yt_br": [],
