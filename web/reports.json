@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-18",
+    "trends_br": [
+      {
+        "title": "Harry Styles abre turnê no Brasil com show de artista no ápice do controle de pontos fortes e fracos",
+        "traffic": "G1"
+      },
+      {
+        "title": "Show do Djavan terá linha especial de ônibus na Arena MRV, neste sábado (18)",
+        "traffic": "Prefeitura de Belo Horizonte"
+      },
+      {
+        "title": "Festival Internacional de Cinema Pobre de Gibara celebra 20 anos de resistência cultural em Cuba",
+        "traffic": "Brasil de Fato"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 18 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Show do intervalo da final da Copa do Mundo 2026: veja todas as atrações musicais",
+        "traffic": "olympics.com"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Opinião | A Geração Z está indo ao cinema. Esta é uma ótima notícia para todos.",
+        "original": "Opinion | Gen Z Is Going to the Movies. This Is Great News for Everyone.",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Apple Music aumenta preços de assinatura, citando aumento nas taxas de licenciamento",
+        "original": "Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees",
+        "traffic": "Variedade"
+      },
+      {
+        "title": "A nova imagem do juiz mostra cura, mas não o suficiente para atividades de beisebol",
+        "original": "Judge's re-imaging shows healing, but not enough for baseball activities",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "BTS quebra recorde com lançamento do videoclipe de “NORMAL” no Spotify",
+        "original": "BTS Breaks Record With Music Video Release of “NORMAL” on Spotify",
+        "traffic": "Spotify"
+      },
+      {
+        "title": "Como assistir ao Grande Prêmio da Cidade da Música de 2026 da INDYCAR: programação, canais de TV, streaming",
+        "original": "How to Watch INDYCAR's 2026 Music City Grand Prix: Schedule, TV Channels, Streaming",
+        "traffic": "FOX Esportes"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-17",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Você precisa ouvir isso: novas músicas de Swamp Dogg, Allison Russell e mais – BGS",
         "original": "You Gotta Hear This: New Music From Swamp Dogg, Allison Russell, and More – BGS",
         "traffic": "A situação do Bluegrass"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-18",
-    "trends_br": [
-      {
-        "title": "TV Brasil apresenta final da novela \"Sangue Oculto\" nesta quinta-feira",
-        "traffic": "Agência Brasil"
-      },
-      {
-        "title": "Banqueiro pagou ingresso de show internacional para Jaques Wagner por meio da Reag, diz PF",
-        "traffic": "Valor Econômico"
-      },
-      {
-        "title": "Na China, 28º Festival Internacional de Cinema de Xangai recebe mostra dedicada ao audiovisual brasileiro",
-        "traffic": "www.gov.br"
-      },
-      {
-        "title": "Dia do Cinema Brasileiro: Samsung TV Plus celebra a data com obras que marcaram a história do cinema nacional",
-        "traffic": "Samsung"
-      },
-      {
-        "title": "Navegantes vive uma programação de cultura, música e histórias",
-        "traffic": "Prefeitura de Navegantes -"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Oklahoma Championship Series vinculado após despachar a Geórgia - Universidade de Oklahoma",
-        "original": "Oklahoma Championship Series Bound After Dispatching Georgia - University of Oklahoma",
-        "traffic": "mais cedosports.com"
-      },
-      {
-        "title": "A série College World Series da Geórgia termina com derrota para Oklahoma",
-        "original": "Georgia's College World Series run ends with loss to Oklahoma",
-        "traffic": "FOX 5 Atlanta"
-      },
-      {
-        "title": "Filmes sobre bebida: Down and Out em Cannes, de Inney Prakash",
-        "original": "Drinking Movies: Down and Out at Cannes by Inney Prakash",
-        "traffic": "A Revisão de Paris"
-      },
-      {
-        "title": "11 maneiras de curtir música ao vivo na Grande Boston e arredores neste verão",
-        "original": "11 ways to enjoy live music in and around Greater Boston this summer",
-        "traffic": "WBUR"
-      },
-      {
-        "title": "Tar Heels Top WVU, 12-7, para vaga na CWS Championship Series",
-        "original": "Tar Heels Top WVU, 12-7, For Berth In CWS Championship Series",
-        "traffic": "Atletismo da Universidade da Carolina do Norte"
       }
     ],
     "yt_br": [],
