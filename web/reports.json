@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-19",
+    "trends_br": [
+      {
+        "title": "Show do intervalo da final da Copa do Mundo: atrações, horário e onde assistir",
+        "traffic": "VEJA"
+      },
+      {
+        "title": "Cerimônia de encerramento da Copa: veja horário e quem vai participar do evento",
+        "traffic": "G1"
+      },
+      {
+        "title": "Quem vai cantar no encerramento da Copa do Mundo 2026? Saiba mais",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 20 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Show do intervalo da final: atrações, duração e tudo que você precisa saber",
+        "traffic": "LANCE!"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Quem tem a melhor música da Liga Principal de Beisebol?",
+        "original": "Who has the best walk-up music in Major League Baseball?",
+        "traffic": "Yahoo Esportes"
+      },
+      {
+        "title": "Eu assisto TV para viver e estes são meus três programas favoritos de 2026 (até agora)",
+        "original": "I Watch TV for a Living and These Are My 3 Favorite Shows of 2026 (So Far)",
+        "traffic": "PuroUau"
+      },
+      {
+        "title": "O mundo da música country abalou depois que a lenda de Nashville morreu após uma apresentação na igreja",
+        "original": "Country music world rocked after Nashville legend dies following performance at church",
+        "traffic": "AL.com"
+      },
+      {
+        "title": "Cubs revelam Champions Gate durante o aniversário de 10 anos da equipe da World Series 2016",
+        "original": "Cubs unveil Champions Gate during 10-year anniversary of 2016 World Series team",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "Chandler Smith obtém vitória dominante na Truck Series em North Wilkesboro",
+        "original": "Chandler Smith scores dominant Truck Series win at North Wilkesboro",
+        "traffic": "NASCAR. com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-18",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Brandi Carlile: reflexões sobre a vida, o amor, a música e seu concerto em Montauk",
         "original": "Brandi Carlile: Reflections on Life, Love, Music and Her Montauk Concert",
         "traffic": "O purista"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-19",
-    "trends_br": [
-      {
-        "title": "Os 100 melhores filmes brasileiros de todos os tempos: profissionais do cinema elegem seus favoritos; veja a lista e monte seu top 10",
-        "traffic": "O Globo"
-      },
-      {
-        "title": "Cacau Show lança chocolates inspirados em Toy Story 5",
-        "traffic": "BHB FOOD"
-      },
-      {
-        "title": "Expresso do Forró promete levar música, tradição e animação para a Avenida Fraga Maia neste fim de semana",
-        "traffic": "Prefeitura Municipal de Feira de Santana"
-      },
-      {
-        "title": "Calvos não pagam ingresso para ver \"Toy Story 5\" no cinema; saiba quando e onde",
-        "traffic": "GZH"
-      },
-      {
-        "title": "Agenda cultural convida o público a explorar museus, música e festas juninas em Joinville",
-        "traffic": "Prefeitura de Joinville"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Fui a um dos últimos shows de uma banda de rock amada. O que vi foi assustador e estranho.",
-        "original": "I Went to One of the Last-Ever Shows of a Beloved Rock Band. What I Saw Was Haunting and Strange.",
-        "traffic": "Revista Ardósia"
-      },
-      {
-        "title": "Quando o beisebol da OU joga contra a Carolina do Norte no College World Series? Horário, programação da TV",
-        "original": "When does OU baseball play North Carolina in College World Series? Time, TV schedule",
-        "traffic": "O oklahoma"
-      },
-      {
-        "title": "Eficácia da colocação de produtos: os adultos norte-americanos notam marcas em filmes, programas de TV ou streaming de conteúdo?",
-        "original": "Product placement effectiveness: Do U.S. adults notice brands in movies, TV shows or streaming content?",
-        "traffic": "VocêGov"
-      },
-      {
-        "title": "7 filmes e programas essenciais de Zoey Deutch para amantes de Rom-Com e muito mais",
-        "original": "7 Essential Zoey Deutch Movies and Shows for Rom-Com Lovers and More",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "Você precisa ouvir isso: novas músicas de Swamp Dogg, Allison Russell e mais – BGS",
-        "original": "You Gotta Hear This: New Music From Swamp Dogg, Allison Russell, and More – BGS",
-        "traffic": "A situação do Bluegrass"
       }
     ],
     "yt_br": [],
