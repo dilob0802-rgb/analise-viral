@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-20",
+    "trends_br": [
+      {
+        "title": "SHOW DO INTERVALO 🎶 Mais um rolê aleatório de Ronaldinho Gaúcho! Desta vez o craque apareceu ao lado de Madonna e Ronaldo Fenômeno na final da Copa do Mundo. ⁣ ⁣ Além dos jogadores brasileiros e da cantora pop, BTS, Shakira e Justin Bieb",
+        "traffic": "instagram.com"
+      },
+      {
+        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 20 a 25 de julho",
+        "traffic": "Globo"
+      },
+      {
+        "title": "Beyoncé, Timothée Chalamet e Matt Damon: famosos prestigiam final da Copa nos EUA",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Show do intervalo da final da Copa tem Madonna com Ronaldo e Ronaldinho Gaúcho e homenagem a Pelé",
+        "traffic": "BBC"
+      },
+      {
+        "title": "‘Quem Ama Cuida’: O que acontece na novela nesta semana? Veja o resumo",
+        "traffic": "Estadão"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "De Tom Brady a Elmo, quem foram as celebridades da final da Copa do Mundo? - O Atlético",
+        "original": "From Tom Brady to Elmo, who were the celebrities at the World Cup final? - The Athletic",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "AMC Entertainment Holdings, Inc. informa os resultados do segundo trimestre de 2026, entregando a maior receita trimestral e EBITDA ajustado em seus 106 anos de história",
+        "original": "AMC Entertainment Holdings, Inc. Reports Second Quarter 2026 Results, Delivering the Highest Quarterly Revenue and Adjusted EBITDA in Its 106-Year History",
+        "traffic": "AMC Entertainment Holdings, Inc."
+      },
+      {
+        "title": "Jelly Roll lança novo videoclipe de 'Hands Up' filmado dentro do San Quentin Rehabilitation Center - ABC News",
+        "original": "Jelly Roll releases new 'Hands Up' music video filmed inside San Quentin Rehabilitation Center - ABC News",
+        "traffic": "Notícias de última hora, últimas notícias e vídeos"
+      },
+      {
+        "title": "Três conclusões da difícil derrota do Rangers na série para o Braves",
+        "original": "Three takeaways from Rangers' tough series loss to Braves",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "4 conclusões da série dos Dodgers vencem os Yankees no Bronx",
+        "original": "4 Takeaways From The Dodgers' Series Win Over The Yankees In The Bronx",
+        "traffic": "FOX Esportes"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-19",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Keith Spera: Meu falecido pai foi o músico original da nossa família",
         "original": "Keith Spera: My late father was the original music man in our family",
         "traffic": "NOLA.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-20",
-    "trends_br": [
-      {
-        "title": "De Mauro Shampoo a Pelé, futebol rende boas histórias; veja lista de filmes e séries",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Fé, tradição e música marcam programação deste sábado no Arraial do Banho de São João",
-        "traffic": "Município de Corumbá"
-      },
-      {
-        "title": "Muito além dos jogos da Seleção: veja como os famosos brasileiros estão aproveitando os EUA durante o Mundial",
-        "traffic": "O Globo"
-      },
-      {
-        "title": "No Dia do Cinema Brasileiro, audiovisual de Mato Grosso do Sul celebra expansão e projeta novos desafios",
-        "traffic": "agenciadenoticias.ms.gov.br"
-      },
-      {
-        "title": "Música no Mercado neste sábado",
-        "traffic": "Prefeitura Estância Turística Guaratinguetá – Prefeitura Estância Turística Guaratinguetá"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Layne Riggs vence o thriller Truck Series OT no Qualcomm Circuit",
-        "original": "Layne Riggs wins Truck Series OT thriller at Qualcomm Circuit",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Em que canal está OU baseball vs UNC hoje? College World Series Game 1 vez, programação de TV",
-        "original": "What channel is OU baseball vs UNC on today? College World Series Game 1 time, TV schedule",
-        "traffic": "O oklahoma"
-      },
-      {
-        "title": "Cronograma da College World Series: horários e pontuações dos jogos de beisebol da Carolina do Norte x Oklahoma",
-        "original": "College World Series schedule: North Carolina vs Oklahoma baseball game times, scores",
-        "traffic": "Austin Americano-Estadista"
-      },
-      {
-        "title": "Em que canal de TV está passando o beisebol UNC vs Oklahoma hoje? Time, TV para o jogo 1 da College World Series",
-        "original": "What TV channel is UNC vs Oklahoma baseball on today? Time, TV for College World Series Game 1",
-        "traffic": "O Observador de Fayetteville"
-      },
-      {
-        "title": "Brandi Carlile: reflexões sobre a vida, o amor, a música e seu concerto em Montauk",
-        "original": "Brandi Carlile: Reflections on Life, Love, Music and Her Montauk Concert",
-        "traffic": "O purista"
       }
     ],
     "yt_br": [],
