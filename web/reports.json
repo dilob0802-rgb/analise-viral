@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-21",
+    "trends_br": [
+      {
+        "title": "Harry Styles cancela show em São Paulo por problemas de saúde",
+        "traffic": "G1"
+      },
+      {
+        "title": "Show de Harry Styles em SP nesta terça (21) é cancelado",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Harry Styles cancela show desta terça-feira (21) em São Paulo",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "Harry Styles | Show dessa terça-feira (21) em São Paulo é cancelado",
+        "traffic": "Omelete"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 20 de julho",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Estrela da música country está de volta depois de se afastar do palco por causa da família",
+        "original": "Country music star making comeback after stepping away from stage for family",
+        "traffic": "AL.com"
+      },
+      {
+        "title": "Desafio da temporada 2026: chave oficial, formato, cronograma, resultados e muito mais",
+        "original": "2026 In-Season Challenge: Official bracket, format, schedule, results and more",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "É hora de falar sobre como vocês atuam nos festivais de música: Pop Culture Happy Hour",
+        "original": "It's time to talk about how y'all act at music festivals : Pop Culture Happy Hour",
+        "traffic": "NPR"
+      },
+      {
+        "title": "O que está impulsionando o recente cruzamento entre balé e música pop?",
+        "original": "What’s Powering the Recent Ballet and Pop Music Crossover?",
+        "traffic": "Revista Ponto"
+      },
+      {
+        "title": "Quando ouvir música era um esporte coletivo",
+        "original": "When Listening to Music Was a Team Sport",
+        "traffic": "O jornal New York Times"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-20",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Depois de um set humilhante contra O's, os Dodgers acreditam que seu melhor beisebol está por vir",
         "original": "After humbling set vs. O's, Dodgers believe their best baseball lies ahead",
         "traffic": "MLB. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-21",
-    "trends_br": [
-      {
-        "title": "The Rose - São Paulo - 21/06/2026 - Venda Geral",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Novo cinema será inaugurado em shopping de Palmas com cinco salas e tecnologia a laser",
-        "traffic": "G1"
-      },
-      {
-        "title": "Música, cerveja artesanal, gastronomia e diversão para as crianças: vem aí mais uma edição do Cerveja na Barão",
-        "traffic": "Prefeitura de Jundiaí"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 22 de junho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "TAC recebe show internacional de música gospel da The Metro Big Band - FCC",
-        "traffic": "Fundação Catarinense de Cultura"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Austin Hill reivindica vitória na O’Reilly Series na Base Naval de Coronado",
-        "original": "Austin Hill claims O’Reilly Series win at Naval Base Coronado",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Lendária banda de música country lançará música com cantor icônico",
-        "original": "Legendary country music band to release song with iconic late singer",
-        "traffic": "AL.com"
-      },
-      {
-        "title": "Lucas: Uma Série",
-        "original": "Lucas: A Series",
-        "traffic": "Atletismo da Universidade da Carolina do Norte"
-      },
-      {
-        "title": "\"Levítico\" de Adrian Chiarella mostra que os últimos garotos do terror podem encontrar o amor",
-        "original": "Adrian Chiarella’s \"Leviticus\" shows that horror’s final boys can find love",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Keith Spera: Meu falecido pai foi o músico original da nossa família",
-        "original": "Keith Spera: My late father was the original music man in our family",
-        "traffic": "NOLA.com"
       }
     ],
     "yt_br": [],
