@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-22",
+    "trends_br": [
+      {
+        "title": "Show cancelado: entenda o direito do consumidor sobre ingressos, voos e hospedagem",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 22 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Novela reforça luta de Renata Abreu por mais direitos para quem tem fibromialgia - PODE",
+        "traffic": "Podemos"
+      },
+      {
+        "title": "Do Cinema Novo ao Oscar: relembre as obras que fizeram de Luiz Carlos Barreto um gigante do audiovisual",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Capítulos da novela das nove da Globo - 22/7 a 1º/8",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "For The Culture Series traz novas experiências, comunidade e celebração para Downtown Champaign",
+        "original": "For The Culture Series Brings New Experiences, Community, and Celebration to Downtown Champaign",
+        "traffic": "Cidade de Champaign (.gov)"
+      },
+      {
+        "title": "Estudo da UVA mostra como a política de acessibilidade habitacional, o envolvimento cívico e a participação eleitoral se conectam",
+        "original": "UVA study shows how housing affordability policy, civic engagement and voter turnout connect",
+        "traffic": "Virgínia Mercúrio"
+      },
+      {
+        "title": "Recomendações de música ao vivo na área de Chicago para 22 a 28 de julho",
+        "original": "Chicago-Area Live Music Recommendations for July 22-28",
+        "traffic": "live-news-wttw.pantheonsite.io"
+      },
+      {
+        "title": "AT&T oferece mais valor com o novo Samsung Galaxy Z8 Series",
+        "original": "AT&T Delivers More Value with New Samsung Galaxy Z8 Series",
+        "traffic": "Redação da AT&T"
+      },
+      {
+        "title": "Orquestra do Colorado Music Festival: “A banda mais feliz do país”.",
+        "original": "The Colorado Music Festival Orchestra: “The Happiest Band in the Land.”",
+        "traffic": "Rádio Pública do Colorado"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-21",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "O festival de música Blue Ox de Wisconsin é uma ‘reunião de família’ para o bluegrass do Upper Midwest",
         "original": "Wisconsin’s Blue Ox music festival is a ‘family reunion’ for Upper Midwest bluegrass",
         "traffic": "WPR"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-22",
-    "trends_br": [
-      {
-        "title": "Saiba o que não levar nas noites de show do São João Massayó 2026",
-        "traffic": "Prefeitura de Maceió"
-      },
-      {
-        "title": "Músicas para Cinema - Camerata Florianópolis - FCC",
-        "traffic": "Fundação Catarinense de Cultura"
-      },
-      {
-        "title": "De estrela do cinema a Ronald Reagan: saiba como cidade em Goiás virou refúgio de celebridades",
-        "traffic": "G1"
-      },
-      {
-        "title": "Fica 2026 chega ao último dia com cerimônia de premiação e show de Marcelo Falcão",
-        "traffic": "goias.gov"
-      },
-      {
-        "title": "Telão, show musical e vitória do Brasil reúnem centenas de pessoas no Centro de Barra de São Francisco - PREFEITURA DE BARRA DE SÃO FRANCISCO",
-        "traffic": "ES"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Clive Davis, titã da indústria musical que contratou Whitney Houston, morre aos 94 anos",
-        "original": "Clive Davis, Music Industry Titan Who Signed Whitney Houston, Dies at 94",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Clive Davis, magnata da música, morre em Nova York aos 94 anos",
-        "original": "Clive Davis, music mogul, dies in New York City at age 94",
-        "traffic": "ABC7 Nova York"
-      },
-      {
-        "title": "Centro de bônus de incentivo da série O'Reilly Auto Parts 2026: informações, vencedores, mais",
-        "original": "2026 O’Reilly Auto Parts Series Incentive Bonus hub: Information, winners, more",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Clive Davis, magnata que criou músicos de Janis Joplin a Whitney Houston, morre aos 94 anos",
-        "original": "Clive Davis, mogul who nurtured musicians from Janis Joplin to Whitney Houston, dies at 94",
-        "traffic": "Los Angeles Times"
-      },
-      {
-        "title": "Depois de um set humilhante contra O's, os Dodgers acreditam que seu melhor beisebol está por vir",
-        "original": "After humbling set vs. O's, Dodgers believe their best baseball lies ahead",
-        "traffic": "MLB. com"
       }
     ],
     "yt_br": [],
