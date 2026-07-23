@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-23",
+    "trends_br": [
+      {
+        "title": "Cinema Walmir Almeida reúne drama, documentário e épico A Odisseia em nova programação",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "“Cineminha” da Cultura leva entretenimento e incentivo à leitura ao Jaime Seiti Fujii",
+        "traffic": "Prefeitura de Lucas do Rio Verde"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 23 de julho",
+        "traffic": "noticiasdatv.uol.com.br"
+      },
+      {
+        "title": "Médico e paciente cantam antes de cirurgia e dão show em hospital: ‘Quem sabe canta ao vivo’",
+        "traffic": "G1"
+      },
+      {
+        "title": "Apple se une à Televisa para criar novela vertical mexicana",
+        "traffic": "Meio e Mensagem"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Tepper Sports & Entertainment revela novas representações das reformas dos estádios do Bank of America",
+        "original": "Tepper Sports & Entertainment Unveils New Renderings of Bank of America Stadium Renovations",
+        "traffic": "Charlotte FC"
+      },
+      {
+        "title": "Bank of America e Carolina Panthers estendem direitos de nomenclatura para o estádio do Bank of America, reforçando o compromisso de longo prazo com Charlotte e as Carolinas",
+        "original": "Bank of America and Carolina Panthers Extend Naming Rights for Bank of America Stadium, Reinforcing Long-Term Commitment to Charlotte and the Carolinas",
+        "traffic": "Carolina Panteras"
+      },
+      {
+        "title": "Northwest Tune-Up Bike and Music Festival traz grandes shows e sets altos para Bellingham",
+        "original": "Northwest Tune-Up Bike and Music Festival Brings Big Air and Loud Sets to Bellingham",
+        "traffic": "Revista Seattle"
+      },
+      {
+        "title": "Music Center recebe subsídio de US$ 5.000 para o primeiro festival de artes de Notre Dame",
+        "original": "Music Center awarded $5,000 grant for Notre Dame’s first arts festival",
+        "traffic": "Colégio Goshen"
+      },
+      {
+        "title": "Uma orquestra ao ar livre e uma música pop engraçada sobre Shakespeare: 4 escolhas artísticas para a sua semana",
+        "original": "An Outdoor Orchestra and a Funny Pop Music Take on Shakespeare: 4 Arts Picks for Your Week",
+        "traffic": "Notícias WTTW"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-22",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Netflix revela análise inicial de ‘Ray Gunn’ e ‘Ghostbusters: Night Shift’ em Annecy",
         "original": "Netflix Unveils ‘Ray Gunn’ First Look, ‘Ghostbusters: Night Shift’ at Annecy",
         "traffic": "O repórter de Hollywood"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-23",
-    "trends_br": [
-      {
-        "title": "Mostra de cinema português traz quatro filmes contemporâneos à Cinemateca de Curitiba",
-        "traffic": "Prefeitura de Curitiba"
-      },
-      {
-        "title": "VÍDEO: Estrutura de palco desaba durante show de Amado Batista em festa de São João na Bahia",
-        "traffic": "G1"
-      },
-      {
-        "title": "Visita técnica ao Museu de Cinema de Xangai materializa a importância da salvaguarda audiovisual no país",
-        "traffic": "www.gov.br"
-      },
-      {
-        "title": "Filomove promove curso de Cinema, filosofia e culturas populares latino-americanas",
-        "traffic": "Universidade Federal de Alagoas"
-      },
-      {
-        "title": "Mostra Acadêmica da Escola de Música Villa-Lobos reúne apresentações de diferentes ritmos e formações musicais em Joinville",
-        "traffic": "Prefeitura de Joinville"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "FSU College of Music anuncia temporada de concertos 2026-27 com mais de 30 apresentações",
-        "original": "FSU College of Music announces 2026-27 Concert Season featuring more than 30 performances",
-        "traffic": "Notícias da Universidade Estadual da Flórida"
-      },
-      {
-        "title": "Como funciona: PGA TOUR Challenger Series",
-        "original": "How it works: PGA TOUR Challenger Series",
-        "traffic": "Tour PGA"
-      },
-      {
-        "title": "Oklahoma vence o campeonato de beisebol NCAA DI de 2026",
-        "original": "Oklahoma wins the 2026 NCAA DI baseball championship",
-        "traffic": "NCAA. com"
-      },
-      {
-        "title": "Olivia Rodrigo anuncia Daisy Chain Fields, um novo festival de música com programação exclusivamente feminina em Irvine, Califórnia, em agosto",
-        "original": "Olivia Rodrigo announces Daisy Chain Fields, a new music festival with an all-women lineup in Irvine, California this August",
-        "traffic": "ABC7 Los Angeles"
-      },
-      {
-        "title": "O festival de música Blue Ox de Wisconsin é uma ‘reunião de família’ para o bluegrass do Upper Midwest",
-        "original": "Wisconsin’s Blue Ox music festival is a ‘family reunion’ for Upper Midwest bluegrass",
-        "traffic": "WPR"
       }
     ],
     "yt_br": [],
