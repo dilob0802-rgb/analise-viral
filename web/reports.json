@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-24",
+    "trends_br": [
+      {
+        "title": "Adeus ao cinema",
+        "traffic": "Gazeta do Povo"
+      },
+      {
+        "title": "Show da Xuxa: veja horário, como chegar e possível setlist deste sábado",
+        "traffic": "Exame"
+      },
+      {
+        "title": "Outro Canal: Camila Morgado volta à Globo após dois anos para fazer vilã na próxima novela das seis",
+        "traffic": "UOL"
+      },
+      {
+        "title": "São Leopoldo Fest 2026 reúne música, teatro e dança em programação gratuita - Município de São Leopoldo - RS - São Leopoldo",
+        "traffic": "RS"
+      },
+      {
+        "title": "'Você não sabe o quanto eu caminhei': com direito a música no meio da plateia, Toni Garrido faz show versátil e sem preconceitos",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Série de verão: Chloe Conti",
+        "original": "Summer Series: Chloe Conti",
+        "traffic": "Atletismo da Universidade de Richmond"
+      },
+      {
+        "title": "Dodgers visitam a Casa Branca para comemorar títulos consecutivos da World Series",
+        "original": "Dodgers visit White House to celebrate back-to-back World Series titles",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "Uma IA Perguntas frequentes sobre música: Posso remixar Madonna? Isso é tudo legal?",
+        "original": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Yard Act: você vai precisar de uma pequena crítica do álbum musical",
+        "original": "Yard Act: You’re Gonna Need a Little Music Album Review",
+        "traffic": "Forcado"
+      },
+      {
+        "title": "Executivo musical da Nike acusado de executar esquema de roubo de mais de US$ 1 milhão internamente",
+        "original": "Nike music exec accused of running $1M+ theft scheme from within",
+        "traffic": "KPTV"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-23",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Novo álbum da semana da WPR Music: ‘Fusions’",
         "original": "WPR Music new album of the week: ‘Fusions’",
         "traffic": "WPR"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-24",
-    "trends_br": [
-      {
-        "title": "Como a música viral do Brasil na Copa foi feita inteiramente com IA: 'Tem que me colocar no Guinness'",
-        "traffic": "G1"
-      },
-      {
-        "title": "Quinta no Cinema encerra programação de junho com documentário poético | Notícias | Cultura",
-        "traffic": "Prefeitura de Anápolis"
-      },
-      {
-        "title": "Cinema itinerante leva Mostra de Cinema e Direitos Humanos a Goitacazes",
-        "traffic": "Prefeitura de Campos dos Goytacazes"
-      },
-      {
-        "title": "Famosos apagam apoio a Rodrigo Branco após críticas em caso de racismo",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Sesc Canoas projeta agenda cultural diversificada após lotação em show de Duca Leindecker",
-        "traffic": "Sesc/RS"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Como funciona: PGA TOUR Challenger Series",
-        "original": "How it works: PGA TOUR Challenger Series",
-        "traffic": "Tour PGA"
-      },
-      {
-        "title": "Detalhes anunciados para a Commonwealth Concert Series no Point State Park",
-        "original": "Details announced for Commonwealth Concert Series at Point State Park",
-        "traffic": "Cidade de Pittsburgh (.gov)"
-      },
-      {
-        "title": "Equipe nº 23 23XI Racing penalizada após fim de semana da Base Naval de Coronado",
-        "original": "No. 23 23XI Racing team penalized after Naval Base Coronado weekend",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Recomendações de música ao vivo na área de Chicago para 24 a 30 de junho",
-        "original": "Chicago-Area Live Music Recommendations for June 24-30",
-        "traffic": "Notícias WTTW"
-      },
-      {
-        "title": "Netflix revela análise inicial de ‘Ray Gunn’ e ‘Ghostbusters: Night Shift’ em Annecy",
-        "original": "Netflix Unveils ‘Ray Gunn’ First Look, ‘Ghostbusters: Night Shift’ at Annecy",
-        "traffic": "O repórter de Hollywood"
       }
     ],
     "yt_br": [],
