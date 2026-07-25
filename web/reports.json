@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-25",
+    "trends_br": [
+      {
+        "title": "Martinho da Vila & Mart´Nália | Pai e Filha - São Paulo - 25/07/2026",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "“Último Voo da Nave”: saiba detalhes do show da Xuxa deste sábado (25)",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Jon Bon Jovi interrompe show por problema de saúde, pede desculpas aos fãs e promete remarcação",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Ingressos para o Aparecida é Show 2026 começam a ser retirados nesta sexta",
+        "traffic": "Prefeitura de Aparecida de Goiânia"
+      },
+      {
+        "title": "MEMÓRIA: Barretão, o produtor que fez do cinema \"uma coisa útil\"",
+        "traffic": "NeoFeed"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Escalação inicial para a corrida 2026 Craftsman Truck Series no Lucas Oil Indianapolis Raceway Park",
+        "original": "Starting lineup for 2026 Craftsman Truck Series race at Lucas Oil Indianapolis Raceway Park",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "LIV Golfe | Site oficial, resultados, calendário, equipes e ingressos",
+        "original": "LIV Golf | Official site, scores, schedule, teams and tickets",
+        "traffic": "Golfe LIV"
+      },
+      {
+        "title": "A música assustadora na cena da sereia da ‘Odisséia’ tem raízes antigas",
+        "original": "The Haunting Music in the ‘Odyssey’ Siren Scene Has Ancient Roots",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "A série Comet: futebol Pitt",
+        "original": "The Comet Series: Pitt football",
+        "traffic": "Subpilha"
+      },
+      {
+        "title": "Nats esperançosos de Wild Card tratando set vs. D-backs como uma série pós-temporada",
+        "original": "Wild Card-hopeful Nats treating set vs. D-backs like postseason series",
+        "traffic": "MLB. com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-24",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Portal: Fazendo Música em Lugares Remotos (Filme)",
         "original": "Portal: Making Music in Remote Places (Film)",
         "traffic": "BIKEPACKING.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-25",
-    "trends_br": [
-      {
-        "title": "Festa do Cinema Italiano é destaque da programação da semana no Cine Walmir Almeida",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "Rod Stewart, atores de Bebê Rena e Outlander: famosos torcem pela Escócia nas redes",
-        "traffic": "G1"
-      },
-      {
-        "title": "Globo confirma Dira Paes como protagonista de próxima novela das seis da emissora",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Escola de Música promove 1º Sarau de Inverno com apresentações abertas à comunidade",
-        "traffic": "Prefeitura Municipal Alvorada"
-      },
-      {
-        "title": "Início de julho no São Luiz tem programação gratuita com cinema, teatro, dança e cultura para toda a família",
-        "traffic": "Governo do Estado do Ceará"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "AMC Entertainment Holdings, Inc. anuncia fechamento de oferta direta registrada de ações ordinárias de US$ 200 milhões",
-        "original": "AMC Entertainment Holdings, Inc. Announces Closing of $200 Million Registered Direct Offering of Common Stock",
-        "traffic": "AMC Entertainment Holdings, Inc."
-      },
-      {
-        "title": "15 RBIs em uma série?! O domínio de Dansby define a história da franquia",
-        "original": "15 RBIs in one series?! Dansby's dominance sets franchise history",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "DC Studios e Warner Bros. Animation revelam a série animada ‘Absolute Batman’ enquanto Peter Safran se estabelece em Annecy",
-        "original": "DC Studios & Warner Bros. Animation Unveil ‘Absolute Batman’Animated Series As Peter Safran Sets Down In Annecy",
-        "traffic": "Prazo final"
-      },
-      {
-        "title": "‘Absolute Batman’ se tornará série animada da Warner Bros. Animation, DC Studios",
-        "original": "‘Absolute Batman’ to Become Animated Series from Warner Bros. Animation, DC Studios",
-        "traffic": "O repórter de Hollywood"
-      },
-      {
-        "title": "Novo álbum da semana da WPR Music: ‘Fusions’",
-        "original": "WPR Music new album of the week: ‘Fusions’",
-        "traffic": "WPR"
       }
     ],
     "yt_br": [],
