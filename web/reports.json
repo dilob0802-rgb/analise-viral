@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-26",
+    "trends_br": [
+      {
+        "title": "QUE SHOW DA XUXA É ESSE ✨🛸 Veja os registros 📷 do primeiro show da turnê O Último Voo da Nave, da Xuxa. O encontro foi Nubank Parque (antigo Allianz), em São Paulo, neste sábado, 25.⁣ ⁣ 🔗 Saiba mais detalhes em estadao.com.br",
+        "traffic": "instagram.com"
+      },
+      {
+        "title": "Xuxa fala de amor e tolerância em show de abertura da turnê 'O Último Voo da Nave'",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Teatro do Paço recebe música lírica nesta quarta-feira – CGNotícias",
+        "traffic": "campogrande.ms.gov.br"
+      },
+      {
+        "title": "Ryan Gosling é o novo 'Motoqueiro Fantasma' no cinema; saiba quem já interpretou o herói",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Festival de Cinema de Vitória fortalece inclusão e democratização no audiovisual",
+        "traffic": "Alma Preta Jornalismo"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "LIV Golfe | Site oficial, resultados, calendário, equipes e ingressos",
+        "original": "LIV Golf | Official site, scores, schedule, teams and tickets",
+        "traffic": "Golfe LIV"
+      },
+      {
+        "title": "Carson Kvapil conquista a primeira vitória da carreira na O’Reilly Series em Indianápolis",
+        "original": "Carson Kvapil scores first career O’Reilly Series win at Indianapolis",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Vídeo de vigilância mostra briga começando antes de um garoto de 12 anos ser atingido por uma bala fora da bodega do Bronx",
+        "original": "Surveillance video shows fight break out before 12-year-old struck by bullet outside Bronx bodega",
+        "traffic": "ABC7 Nova York"
+      },
+      {
+        "title": "Os americanos apostaram mais em jogos de azar esportivos do que gastaram em filmes, museus e música juntos",
+        "original": "Americans wagered more on sports gambling than they spent on movies, museums, and music combined",
+        "traffic": "Fortuna"
+      },
+      {
+        "title": "Comic-Con 2026: Aqui estão as maiores celebridades vistas no sábado em San Diego",
+        "original": "Comic-Con 2026: Here are the biggest celebrities spotted Saturday in San Diego",
+        "traffic": "San Diego Union-Tribune"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-25",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Vídeo recém-lançado mostra agentes penitenciários de Connecticut agredindo um preso antes de ele morrer",
         "original": "Newly released video shows Connecticut prison officers striking inmate before he died - ABC News",
         "traffic": "Notícias de última hora, últimas notícias e vídeos"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-26",
-    "trends_br": [
-      {
-        "title": "Música e emoção marcam a 4ª Mostra dos Corais Municipais no Polytheama",
-        "traffic": "Prefeitura de Jundiaí"
-      },
-      {
-        "title": "Hoje tem A Nobreza do Amor? Novela das 6 retorna nesta sexta-feira (26)",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Férias no Cinema do Dragão celebra a sétima arte com Festa do Cinema Italiano, projeto Histórias do Cinema para Infância e exibições gratuitas",
-        "traffic": "Governo do Estado do Ceará"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sexta, 26 de junho",
-        "traffic": "noticiasdatv.uol.com.br"
-      },
-      {
-        "title": "Banda Rock de Galpão apresenta o show da sua turnê De Boina, Alpargata e Bombacha no Teatro Municipal",
-        "traffic": "Prefeitura de São Leopoldo/RS"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Reanimando o programa de TV cult dos anos 60 ‘Dark Shadows’ (exclusivo)",
-        "original": "Warner Bros. Reanimating 60s Cult TV Show ‘Dark Shadows’ (Exclusive)",
-        "traffic": "O repórter de Hollywood"
-      },
-      {
-        "title": "Força Aérea demonstra o poder da música no Barefoot Country Music Fest > Air Combat Command > Article Display",
-        "original": "Air Force demonstrates the power of music at Barefoot Country Music Fest > Air Combat Command > Article Display",
-        "traffic": "acc.af.mil"
-      },
-      {
-        "title": "O negócio de chips da Intel mostra sinais de vida após anos de luta",
-        "original": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Turismo tecnológico em Detroit – o que os visitantes devem à cidade que criou a música?",
-        "original": "Techno tourism in Detroit – what do visitors owe the city that created the music?",
-        "traffic": "A conversa"
-      },
-      {
-        "title": "Portal: Fazendo Música em Lugares Remotos (Filme)",
-        "original": "Portal: Making Music in Remote Places (Film)",
-        "traffic": "BIKEPACKING.com"
       }
     ],
     "yt_br": [],
