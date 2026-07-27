@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-27",
+    "trends_br": [
+      {
+        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 27 de julho a 1º de agosto",
+        "traffic": "Globo"
+      },
+      {
+        "title": "Johnny Marr, ex The Smiths, faz show em São Paulo em novembro",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Caxias recebe grande show do cantor Pablo em comemoração aos 203 anos da Adesão de Caxias à Independência do Brasil – Prefeitura Municipal de Caxias - Prefeitura de Caxias",
+        "traffic": "MA"
+      },
+      {
+        "title": "Festa de São Cristóvão encerra com grande show do Biquíni em Cabo Frio",
+        "traffic": "Prefeitura de Cabo Frio"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Notícias de Orioles: Outra série perdida",
+        "original": "Orioles news: Another lost series",
+        "traffic": "Bate-papo em Camden"
+      },
+      {
+        "title": "Tom Holland: Alguns dos meus filmes são ‘S—’ e você ‘não deveria’ assisti-los",
+        "original": "Tom Holland: Some of My Movies Are ‘S—‘ and You ‘Shouldn’t’ Watch Them",
+        "traffic": "Variedade"
+      },
+      {
+        "title": "Transporte marítimo no Mar Vermelho desacelera após ataque Houthi à Arábia Saudita, mostram dados",
+        "original": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows",
+        "traffic": "Reuters"
+      },
+      {
+        "title": "Faixa falsa de ‘I Did It’ enviada para o perfil hackeado do Apple Music do D4vd",
+        "original": "Fake ‘I Did It’ track uploaded to D4vd’s hacked Apple Music profile",
+        "traffic": "KTLA"
+      },
+      {
+        "title": "Três estilos com uma coisa em comum: Boa música, 31 de julho no Troubadour",
+        "original": "Three styles with one thing in common: Great music, July 31 at the Troubadour",
+        "traffic": "Morristown Verde"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-26",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Série Toyota – Rio Potomac – Pesagem do dia 3 (27/06/2026)",
         "original": "Toyota Series – Potomac River – Day 3 weigh-in (6/27/2026)",
         "traffic": "Pesca da Liga Principal"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-27",
-    "trends_br": [
-      {
-        "title": "Jason Momoa se junta a grupo seleto de atores ao interpretar Lobo em 'Supergirl': 'Tenho muita sorte'",
-        "traffic": "G1"
-      },
-      {
-        "title": "Recurso terapêutico da música no CTI do HGG emociona pacientes",
-        "traffic": "Prefeitura Municipal de Campos dos Goytacazes"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 29 de junho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Primeiro dia da Festa de São Pedro movimenta Gargaú em noite de tradição e música",
-        "traffic": "Prefeitura Municipal de São Francisco de Itabapoana -"
-      },
-      {
-        "title": "Cinema brasileiro: memória, resistência e identidade nacional",
-        "traffic": "CONTEE"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "As pessoas estão compartilhando suas críticas brutalmente honestas sobre o que assistir neste fim de semana",
-        "original": "People Are Sharing Their Brutally Honest Reviews On What To Watch This Weekend",
-        "traffic": "BuzzFeed"
-      },
-      {
-        "title": "Um pouco de chuva, mas muita música",
-        "original": "A little rain, but a lot of music",
-        "traffic": "Farol de Rochester"
-      },
-      {
-        "title": "Shane van Gisbergen sobe para a pole da O’Reilly Series em Sonoma",
-        "original": "Shane van Gisbergen soars to O’Reilly Series pole at Sonoma",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Como saber se um artista musical é IA",
-        "original": "How To Tell If A Music Artist Is AI",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "Vídeo recém-lançado mostra agentes penitenciários de Connecticut agredindo um preso antes de ele morrer",
-        "original": "Newly released video shows Connecticut prison officers striking inmate before he died - ABC News",
-        "traffic": "Notícias de última hora, últimas notícias e vídeos"
       }
     ],
     "yt_br": [],
