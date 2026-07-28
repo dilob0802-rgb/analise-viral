@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-28",
+    "trends_br": [
+      {
+        "title": "Xuxa rebate críticas por look cavado em show: \"Voo da virilha\"",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Espetáculo da Orquestra Filarmônica Inclusiva 2026 reúne clássicos do cinema e do teatro",
+        "traffic": "Prefeitura Municipal de Jacareí"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 27 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Quando um tênis vira objeto de desejo e entretenimento",
+        "traffic": "Valor Econômico"
+      },
+      {
+        "title": "Vem aí show de Adilson Ramos em celebração ao Dia dos Pais",
+        "traffic": "RioMar Recife"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Ariana Grande processa hackers que supostamente venderam músicas e fotos inéditas online",
+        "original": "Ariana Grande sues hackers who allegedly sold unreleased music and photos online",
+        "traffic": "O Guardião"
+      },
+      {
+        "title": "Macon: a cidade musical mais subestimada da América",
+        "original": "Macon: America’s Most Underrated Music Town",
+        "traffic": "Postagem de sábado à noite"
+      },
+      {
+        "title": "Ted Lasso to The Shards: 10 dos melhores programas de TV para assistir em agosto",
+        "original": "Ted Lasso to The Shards: 10 of the best TV shows to watch this August",
+        "traffic": "BBC"
+      },
+      {
+        "title": "Regina Hall se junta a Dwayne Johnson em ‘Lizard Music’ de Benny Safdie, da United Artists e Amazon MGM Studios",
+        "original": "Regina Hall Joins Dwayne Johnson In Benny Safdie’s ‘Lizard Music’ From United Artists And Amazon MGM Studios",
+        "traffic": "Prazo final"
+      },
+      {
+        "title": "Ariana Grande processa hackers por vazamento de músicas e filmagens inéditas",
+        "original": "Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage",
+        "traffic": "Variedade"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-27",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Recém-nascido encontrado morto dentro de banheiro portátil em festival de música de Michigan",
         "original": "Newborn found dead inside portable toilet at Michigan music festival",
         "traffic": "ClickOnDetroit | WDIV Local 4"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-28",
-    "trends_br": [
-      {
-        "title": "Documentário sobre Jocy de Oliveira vence o festival de cinema In-Edit Brasil",
-        "traffic": "CONCERTO | Home"
-      },
-      {
-        "title": "Festa de São Pedro reúne fé, tradição e música em Gargaú",
-        "traffic": "Prefeitura Municipal de São Francisco de Itabapoana -"
-      },
-      {
-        "title": "Por Que a Geração Z Está Se Apaixonando Pela Música Clássica",
-        "traffic": "Forbes Brasil"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Capítulos da novela das nove da Globo - 29/6 a 4/7",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Curta LGBT+ feito com recursos da Lei Paulo Gustavo em Bauru estreia em festival de cinema nos EUA",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Revelado: A música da Copa do Mundo escolhida por cada equipe – AC/DC a Daft Punk a Drake",
-        "original": "Revealed: The World Cup music chosen by each team – AC/DC to Daft Punk to Drake",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Shane van Gisbergen alcança a vitória da O’Reilly Series em Sonoma",
-        "original": "Shane van Gisbergen soars to O’Reilly Series victory at Sonoma",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "A música ao vivo na Filadélfia no próximo mês está acumulada: aqui estão 5 shows para ver em julho",
-        "original": "Live music in Philly next month is stacked: Here are 5 shows to see in July",
-        "traffic": "POR QUE"
-      },
-      {
-        "title": "Cinco filmes de animação que crescem com você",
-        "original": "Five Animated Movies That Grow Up With You",
-        "traffic": "O Atlântico"
-      },
-      {
-        "title": "Série Toyota – Rio Potomac – Pesagem do dia 3 (27/06/2026)",
-        "original": "Toyota Series – Potomac River – Day 3 weigh-in (6/27/2026)",
-        "traffic": "Pesca da Liga Principal"
       }
     ],
     "yt_br": [],
