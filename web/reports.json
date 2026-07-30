@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-30",
+    "trends_br": [
+      {
+        "title": "Derrota na Justiça pode custar milhões ao príncipe Harry e outras celebridades britânicas",
+        "traffic": "G1"
+      },
+      {
+        "title": "Portal UFS - UFS recebe 5º Festival Internacional de Cinema de Itabaiana e abre credenciamento para a imprensa",
+        "traffic": "ufs.br"
+      },
+      {
+        "title": "Empresários da pesca esportiva de Corumbá participam da Fishing Show Brasil 2026",
+        "traffic": "Município de Corumbá"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 30 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "A beleza da música conduz ao encontro com Deus, afirma Papa",
+        "traffic": "noticias.cancaonova.com"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Guia do elenco do bombardeio da Pan Am 103: conheça os investigadores e os habitantes da cidade",
+        "original": "The Bombing of Pan Am 103 Cast Guide: Meet the Investigators and Townspeople",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "Passeios em Arlington: curta música ao vivo, faça compras em um mercado infantil ou assista a um jogo de basquete",
+        "original": "Out and About in Arlington: Jam out to live music, shop at a kid-run market, or catch a basketball game",
+        "traffic": "Relatório de Fort Worth"
+      },
+      {
+        "title": "Glen Hansard: um trovador incansável e caloroso cuja música uniu as pessoas",
+        "original": "Glen Hansard: a tireless, warm-hearted troubadour whose music brought people together",
+        "traffic": "A conversa"
+      },
+      {
+        "title": "Incêndio ocorre no canteiro de obras do Farmer Music Center de Cincinnati",
+        "original": "Fire breaks out at construction site for Cincinnati's Farmer Music Center",
+        "traffic": "WLWT"
+      },
+      {
+        "title": "Nossa música local favorita que ouvimos em julho",
+        "original": "Our favorite local music we heard in July",
+        "traffic": "WBUR"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-29",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Basquete masculino da USF anuncia série em casa e em casa com George Mason",
         "original": "USF Men's Basketball Announces Home-And-Home Series With George Mason",
         "traffic": "Atletismo da USF"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-06-30",
-    "trends_br": [
-      {
-        "title": "BTS: show em São Paulo ganha exibição ao vivo nos cinemas",
-        "traffic": "Billboard Brasil"
-      },
-      {
-        "title": "Sexta no Paço tem nova edição com show da banda Tios Brothers e gastronomia de rua nesta sexta (3)",
-        "traffic": "Prefeitura de Jundiaí"
-      },
-      {
-        "title": "Resumo de Coração Acelerado: Próximo capítulo da novela, segunda, 29 de junho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Laboratório gratuito de cinema abre vagas para jovens e adultos no interior de SP; veja como participar",
-        "traffic": "G1"
-      },
-      {
-        "title": "Trabalhadora que alegou ter sido alvo de fofoca entre colegas tem indenização negada",
-        "traffic": "TRT4"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Os melhores programas de TV de 2026 até agora",
-        "original": "The Best TV Shows of 2026 So Far",
-        "traffic": "Pedra rolando"
-      },
-      {
-        "title": "Série de concertos de verão 'GMA' 2026: Keith Urban, Coco Jones, Dan + Shay, Sublime e mais - ABC News",
-        "original": "'GMA' 2026 Summer Concert Series: Keith Urban, Coco Jones, Dan + Shay, Sublime and more - ABC News",
-        "traffic": "Notícias de última hora, últimas notícias e vídeos"
-      },
-      {
-        "title": "Novos filmes e séries indianas chegando à Netflix este ano",
-        "original": "New Indian Movies and Series Coming to Netflix This Year",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "Premier Lacrosse League levanta US$ 100 milhões na rodada de financiamento da Série E",
-        "original": "Premier Lacrosse League Raises $100 Million In Series E Funding Round",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "South Beach Up North marca 20 verões de música de câmara no centro-norte de Wisconsin",
-        "original": "South Beach Up North marks 20 summers of chamber music in north central Wisconsin",
-        "traffic": "WPR"
       }
     ],
     "yt_br": [],
