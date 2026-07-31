@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-31",
+    "trends_br": [
+      {
+        "title": "Daddy issues: relembre famosos que, assim como Tom Cruise, tiveram problemas familiares",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sexta, 31 de julho",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Edgar Scandurra 45 anos de música",
+        "traffic": "Senado"
+      },
+      {
+        "title": "FIM DE SEMANA INESQUECÍVEL: SOL, MÚSICA E ANIMAÇÃO TOMAM CONTA DAS PRAIAS DO MANGAL E DA MATINHA",
+        "traffic": "Prefeitura Municipal de Tucuruí"
+      },
+      {
+        "title": "Grandes festivais revisitam álbuns clássicos e celebram história da música",
+        "traffic": "VEJA RIO"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Ações da Universal Music caminham para o pior dia desde o IPO após o crescimento das assinaturas decepcionar",
+        "original": "Universal Music Shares Head for Worst Day Since IPO After Subscription Growth Disappoints",
+        "traffic": "WSJ"
+      },
+      {
+        "title": "As ações da Universal Music perderam um quarto do valor devido a preocupações com streaming",
+        "original": "Universal Music shares shed quarter of value on streaming concerns",
+        "traffic": "Reuters"
+      },
+      {
+        "title": "Cape Cod Chamber Music Festival aos 47 anos: variedade, intimidade e uma pitada de jazz",
+        "original": "Cape Cod Chamber Music Festival at 47: Variety, Intimacy, and a Dash of Jazz",
+        "traffic": "O Inteligência Musical de Boston"
+      },
+      {
+        "title": "A música fica diferente quando o andaime da percussão é removido",
+        "original": "Music stands differently when the scaffolding of percussion is removed",
+        "traffic": "Santa Fé Novo Mexicano"
+      },
+      {
+        "title": "Punch Brothers se apresentarão no Goshen College Music Center",
+        "original": "Punch Brothers to perform at Goshen College Music Center",
+        "traffic": "Colégio Goshen"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-30",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "3 séries musicais gratuitas retornam ao lado noroeste no verão",
         "original": "3 Free Music Series Return To Northwest Side For Summer",
         "traffic": "Bloco Clube Chicago"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-01",
-    "trends_br": [
-      {
-        "title": "Caça na privada e prêmio de R$ 20 mil: como é o reality criado por Viih Tube com funcionários da família",
-        "traffic": "G1"
-      },
-      {
-        "title": "Festival Internacional Sesc de Música abre inscrições para alunos da 15ª edição",
-        "traffic": "Sesc/RS"
-      },
-      {
-        "title": "4 Amigos - Novo Show - FCC",
-        "traffic": "Fundação Catarinense de Cultura"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 1º de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Cinema do Dragão exibe curtas-metragens nordestinos premiados pela ACECCINE e estreias de novos longas",
-        "traffic": "Governo do Estado do Ceará"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Professor de música do ensino fundamental acusado de morte por estrangulamento da cunhada",
-        "original": "Elementary school music teacher charged in sister-in-law's strangulation death",
-        "traffic": "ABC7 Los Angeles"
-      },
-      {
-        "title": "Copa do Mundo de 2026: Fred Warner e Olivia Rodrigo são as principais celebridades",
-        "original": "2026 World Cup: Fred Warner, Olivia Rodrigo headline celebrities",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Meu filho e eu nos relacionamos por meio de programas de TV imobiliários. Eles geram ótimas conversas e nos ajudam a aumentar nossa lista de desejos de viagens.",
-        "original": "My son and I bond over real estate TV shows. They spark great conversations and help us add to our travel wish list.",
-        "traffic": "Insider de negócios"
-      },
-      {
-        "title": "‘DLA Reimagined’ é o tema do vídeo final da série AI",
-        "original": "‘DLA Reimagined’ is the theme of final video in AI series",
-        "traffic": "dla.mil"
-      },
-      {
-        "title": "Basquete masculino da USF anuncia série em casa e em casa com George Mason",
-        "original": "USF Men's Basketball Announces Home-And-Home Series With George Mason",
-        "traffic": "Atletismo da USF"
       }
     ],
     "yt_br": [],
