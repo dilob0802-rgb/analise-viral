@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-01",
+    "trends_br": [
+      {
+        "title": "'Xuxa - O Último Voo da Nave' ganha show extra em São Paulo após apresentações com ingressos esgotados",
+        "traffic": "Gshow"
+      },
+      {
+        "title": "Feriado de aniversário de Bauru terá diversas atrações, espetáculo infantil 3 Palavrinhas e show com Dilsinho neste sábado",
+        "traffic": "Prefeitura Municipal de Bauru"
+      },
+      {
+        "title": "A Carreira de Clint Eastwood: De Ator Subestimado a Mestre do Cinema",
+        "traffic": "Forbes Brasil"
+      },
+      {
+        "title": "Kid Abelha - Salvador - 01/08/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 1º de agosto",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Novos lançamentos na Disney +, Hulu, ESPN em agosto de 2026 | Novos filmes e programas | Explorar Disney+",
+        "original": "New Releases on Disney+, Hulu, ESPN In August 2026 | New Movies & Shows | Explore Disney+",
+        "traffic": "Disney Plus"
+      },
+      {
+        "title": "Conheça as 12 equipes que competem na Little League Softball® World Series de 2026, apresentada pela DICK'S Sporting Goods",
+        "original": "Meet the 12 Teams Competing at the 2026 Little League Softball® World Series, Presented by DICK'S Sporting Goods",
+        "traffic": "Liga Infantil"
+      },
+      {
+        "title": "Tom Corson promovido a diretor de operações do Warner Music Group",
+        "original": "Tom Corson Promoted to Chief Operating Officer at Warner Music Group",
+        "traffic": "Variedade"
+      },
+      {
+        "title": "Astros vencem o Rangers e assumem a liderança da divisão, série da temporada contra o rival",
+        "original": "Astros beat Rangers to take division lead, season series against rival",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "Estrela da música country chora e termina show mais cedo: ‘Simplesmente não posso fazer esse show hoje à noite’",
+        "original": "Country music star cries, ends concert early: ‘Just can’t play this show tonight’",
+        "traffic": "AL.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-07-31",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Fogos de artifício no centro de Ohio. Adicione esses programas à sua programação de fim de semana",
         "original": "Fireworks in central Ohio. Add these shows to your weekend schedule",
         "traffic": "O Despacho de Colombo"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-02",
-    "trends_br": [
-      {
-        "title": "New Order vem a São Paulo para show único em novembro; veja os preços",
-        "traffic": "Billboard Brasil"
-      },
-      {
-        "title": "Banda New Order faz show em SP em novembro; saiba como comprar ingressos",
-        "traffic": "Guia Folha"
-      },
-      {
-        "title": "Cinema Walmir Almeida destaca documentário sobre CPI da Covid e drama premiado nesta semana",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "Fofoca de colegas depois da demissão não configura danos morais",
-        "traffic": "Consultor Jurídico"
-      },
-      {
-        "title": "Novo festival Canta Nova incentiva os novos talentos da música em Nova",
-        "traffic": "Prefeitura Municipal de Nova Andradina"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Jenny Jackson sobre o potencial literário da fofoca",
-        "original": "Jenny Jackson on the Literary Potential of Gossip",
-        "traffic": "Centro Literário"
-      },
-      {
-        "title": "Crítica: Enola Holmes 3 - Filmes para o resto de nós com Bill Newcott",
-        "original": "Review: Enola Holmes 3 — Movies for the Rest of Us with Bill Newcott",
-        "traffic": "Postagem de sábado à noite"
-      },
-      {
-        "title": "Por que novas revelações sobre o treinamento de modelos musicais de IA chegaram perto de casa",
-        "original": "Why new revelations about the training of AI music models hit close to home",
-        "traffic": "Notícias WPLN"
-      },
-      {
-        "title": "Os 50 maiores filmes americanos já feitos. Sim, nós fomos lá.",
-        "original": "The 50 greatest American movies ever made. Yes, we went there.",
-        "traffic": "EUA hoje"
-      },
-      {
-        "title": "3 séries musicais gratuitas retornam ao lado noroeste no verão",
-        "original": "3 Free Music Series Return To Northwest Side For Summer",
-        "traffic": "Bloco Clube Chicago"
       }
     ],
     "yt_br": [],
