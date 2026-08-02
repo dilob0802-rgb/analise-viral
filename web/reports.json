@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-02",
+    "trends_br": [
+      {
+        "title": "Anitta usa body ultracavado durante show em Porto Alegre; veja fotos",
+        "traffic": "Gshow"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 3 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Show com Ana Castela encerra a festa de aniversário de Bauru neste domingo",
+        "traffic": "Prefeitura Municipal de Bauru"
+      },
+      {
+        "title": "Kid Abelha - Salvador - 01/08/2026 - Venda Geral",
+        "traffic": "ticketmaster.com.br"
+      },
+      {
+        "title": "Cine Walmir Almeida receberá Mostra de Cinema Espanhol com entrada franca",
+        "traffic": "Infonet"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Novos lançamentos na Disney +, Hulu, ESPN em agosto de 2026 | Novos filmes e programas | Explorar Disney+",
+        "original": "New Releases on Disney+, Hulu, ESPN In August 2026 | New Movies & Shows | Explore Disney+",
+        "traffic": "Disney Plus"
+      },
+      {
+        "title": "Filmes para assistir antes de ‘Homem-Aranha: Novo Dia’",
+        "original": "Movies To Watch Before ‘Spider-Man: Brand New Day’",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "Por que os melhores filmes de esqui são feitos em um estacionamento atrás do 11/07",
+        "original": "Why the Best Ski Movies Are Made in a Parking Lot Behind 7/11",
+        "traffic": "Revista PÓ"
+      },
+      {
+        "title": "O mundo da música country abalado por mais 2 mortes: a lista dos perdidos em 2026 sobe para 23",
+        "original": "Country music world rocked by 2 more deaths: List of those lost in 2026 surges to 23",
+        "traffic": "Cleveland.com"
+      },
+      {
+        "title": "Locais de música indie da Austrália fecham à medida que os custos aumentam e o público cai",
+        "original": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
+        "traffic": "O jornal New York Times"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-01",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Zoé! Gigi! Karlie! Todas as celebridades que compareceram ao casamento de Taylor Swift e Travis Kelce",
         "original": "Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding",
         "traffic": "Voga"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-03",
-    "trends_br": [
-      {
-        "title": "A música de Cabo Verde sobre saudade que já foi cantada por Madonna, Ivete e Marisa Monte",
-        "traffic": "G1"
-      },
-      {
-        "title": "Ticketeira responde por não avisar comprador sobre mudanças em show",
-        "traffic": "Consultor Jurídico"
-      },
-      {
-        "title": "SESC/AL IX Mostra Sesc de Cinema divulga lista de filmes selecionados",
-        "traffic": "SESC/AL"
-      },
-      {
-        "title": "Apresentação do grupo As Grumixamas ‘Ritmos Brasileiros em Roda’ leva cultura, música e integração aos estudantes da EJA de Bertioga",
-        "traffic": "Prefeitura de Bertioga"
-      },
-      {
-        "title": "ENHYPEN - São Paulo - 04/07/2026 - Venda Geral",
-        "traffic": "Ticketmaster Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Programa de Energia da WSU lança série de webinars sobre digestores anaeróbicos",
-        "original": "WSU Energy Program launches Anaerobic Digester Webinar Series",
-        "traffic": "Insider da WSU"
-      },
-      {
-        "title": "Copa do Mundo de 2026: Drake e Shai Gilgeous-Alexander são as principais celebridades",
-        "original": "2026 World Cup: Drake, Shai Gilgeous-Alexander headline celebrities",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Gunnison, Meeker, Bayfield e Cortez planejam shows de fogos de artifício para 4 de julho, enquanto áreas do estado queimam sob estritas proibições de chamas externas",
-        "original": "Gunnison, Meeker, Bayfield and Cortez plan July 4 fireworks shows as swaths of state burn under strict prohibitions on outdoor flames",
-        "traffic": "O Sol Colorado"
-      },
-      {
-        "title": "A antiga filial do Chase reabrirá como Hidden Frequency, local de música experimental",
-        "original": "Former Chase branch will reopen as Hidden Frequency, experimental music venue",
-        "traffic": "Missão Local"
-      },
-      {
-        "title": "Fogos de artifício no centro de Ohio. Adicione esses programas à sua programação de fim de semana",
-        "original": "Fireworks in central Ohio. Add these shows to your weekend schedule",
-        "traffic": "O Despacho de Colombo"
       }
     ],
     "yt_br": [],
