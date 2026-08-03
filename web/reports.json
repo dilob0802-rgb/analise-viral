@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-03",
+    "trends_br": [
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 3 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "O novo jabá: como influenciadores ganham para viralizar músicas sem você saber",
+        "traffic": "g1.globo.com"
+      },
+      {
+        "title": "Prefeitura de Salto abre inscrições para o Festival de Música Gospel de Salto",
+        "traffic": "Prefeitura da Estância Turística de Salto"
+      },
+      {
+        "title": "País da Música – Rua do Norte encerra programação do Pernambuco Meu País com diversidade de ritmos em Gravatá",
+        "traffic": "Prefeitura de Gravatá"
+      },
+      {
+        "title": "DENILSON SHOW TENTOU CRITICAR NOTA DO VARMEIRAS, MAS NÃO SE INFORMOU QUEM PROVOCOU PRIMEIRO!",
+        "traffic": "instagram.com"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Century Music Hall divulga comunicado sobre fechamento",
+        "original": "Century Music Hall releases statement on closure",
+        "traffic": "DESCANSO 15"
+      },
+      {
+        "title": "Começam as vendas individuais da série Music Center Performing Arts",
+        "original": "Individual sales for Music Center Performing Arts Series begin",
+        "traffic": "Colégio Goshen"
+      },
+      {
+        "title": "Falando sobre novas músicas de Milwaukee com Lake Effect do WUWM (julho de 2026)",
+        "original": "Talking new Milwaukee music with WUWM’s Lake Effect (July 2026)",
+        "traffic": "Registro de Milwaukee"
+      },
+      {
+        "title": "GUIA DE SOBREVIVÊNCIA DA MSU: Bandas lideradas por estudantes oferecem oportunidades de música ao vivo para a MSU",
+        "original": "MSU SURVIVAL GUIDE: Student-led bands provide live music opportunities for MSU",
+        "traffic": "As notícias do estado"
+      },
+      {
+        "title": "Exclusivo: Newsom mostra força na arrecadação de fundos para partidos estaduais",
+        "original": "Exclusive: Newsom shows fundraising muscle for state parties",
+        "traffic": "Eixos"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-02",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Lista de convidados do casamento de Taylor Swift e Travis Kelce: todas as celebridades vistas na celebração repleta de estrelas do MSG",
         "original": "Taylor Swift and Travis Kelce's wedding guest list: Every celebrity spotted at the star-studded MSG celebration",
         "traffic": "Yahoo"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-04",
-    "trends_br": [
-      {
-        "title": "Ariela Amorim: o poder da música na saúde",
-        "traffic": "Vatican News"
-      },
-      {
-        "title": "Kid Abelha adia data de show em Salvador e exclui setores com assento",
-        "traffic": "G1"
-      },
-      {
-        "title": "Casamento de Taylor Swift e Travis Kelce: as fotos de celebridades e fãs na cerimônia",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Expectativa pelo show de Ícaro e Gilmar aumenta movimentação na Expoacre Juruá",
-        "traffic": "Agência de Notícias do Acre"
-      },
-      {
-        "title": "Cinema no Gramado de 14 a 17 de julho. Grátis.",
-        "traffic": "Sesc São Paulo"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Há música em nós",
-        "original": "There’s Music in Us",
-        "traffic": "O Independente de Santa Bárbara"
-      },
-      {
-        "title": "O mundo da música country lutando contra o câncer: esses cantores estão lutando bravamente contra a doença",
-        "original": "Country music world battling cancer: These singers are bravely fighting the disease",
-        "traffic": "AL.com"
-      },
-      {
-        "title": "Melhores filmes de 2026… até agora",
-        "original": "Best Movies of 2026… So Far",
-        "traffic": "Estilo Semanal"
-      },
-      {
-        "title": "Por que amar filmes bons e ruins é tão bom",
-        "original": "Why Loving Good-Bad Movies Feels All Good",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Zoé! Gigi! Karlie! Todas as celebridades que compareceram ao casamento de Taylor Swift e Travis Kelce",
-        "original": "Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding",
-        "traffic": "Voga"
       }
     ],
     "yt_br": [],
