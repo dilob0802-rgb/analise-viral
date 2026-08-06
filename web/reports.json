@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-06",
+    "trends_br": [
+      {
+        "title": "Mostra de produções espanholas premiadas é destaque no Cinema Walmir Almeida",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "Retomada do cinema pernambucano ganha circuito comemorativo de 30 anos com exibições pelo país",
+        "traffic": "brasildefato.com.br"
+      },
+      {
+        "title": "Festival capixaba reúne grandes nomes da música nacional e artistas locais",
+        "traffic": "CartaCapital"
+      },
+      {
+        "title": "Quem é Perez Hilton, blogueiro que ficou famoso por bastidores de celebridades e gerou preocupação em live",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Banda de Música Artur Paraguai completa 90 anos de fundação",
+        "traffic": "Prefeitura de Mossoró"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Notícias eletrônicas | Ingressos avulsos disponíveis para University Arts Series",
+        "original": "E-News | Single tickets available for University Arts Series",
+        "traffic": "Universidade da Virgínia Ocidental"
+      },
+      {
+        "title": "“Música para 8” abre nona temporada do Guarneri Hall com duas novas peças",
+        "original": "“Music for 8” Opens Guarneri Hall’s Ninth Season with Two New Pieces",
+        "traffic": "Música da Nova Cidade"
+      },
+      {
+        "title": "Grandes nomes da sitcom sobem ao palco e um painel musical: 4 escolhas artísticas para a sua semana",
+        "original": "Sitcom Greats Hit the Stage and a Music Panel: 4 Arts Picks for Your Week",
+        "traffic": "WTTW"
+      },
+      {
+        "title": "'Homem-Aranha: Novo Dia' é um dos melhores filmes de todos os tempos (crítica cheia de spoilers)",
+        "original": "'Spider-Man: Brand New Day' Is One of the Best Movies Ever (Spoiler-Filled Review)",
+        "traffic": "inc.com"
+      },
+      {
+        "title": "Opinião | Os filmes de super-heróis estão de volta? Três escritores discutem o novo Homem-Aranha.",
+        "original": "Opinion | Are superhero movies back? Three writers discuss the new Spider-Man.",
+        "traffic": "O Washington Post"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-05",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Festival de Música do Colorado comemora 50 anos",
         "original": "Colorado Music Festival Celebrates 50th Anniversary",
         "traffic": "Symphony.org"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-07",
-    "trends_br": [
-      {
-        "title": "Famosos lamentam a morte de Benedito Ruy Barbosa - 07/07/2026 - Celebridades",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Última novela de Benedito Ruy Barbosa foi gravada na Bahia e teve Rio São Francisco como protagonista",
-        "traffic": "G1"
-      },
-      {
-        "title": "Secretaria de Cultura realiza o Festival de Inverno de Bauru de 14 a 17 de julho",
-        "traffic": "Prefeitura de Bauru"
-      },
-      {
-        "title": "Famosos lamentam morte de Benedito Ruy Barbosa: \"Legado eterno\"",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Jack Johnson escolhe Florianópolis para show único no Sul do Brasil; veja data e valores",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Finlândia mostra a barreira de confiança enfrentada pelos fabricantes chineses de veículos elétricos no Ocidente",
-        "original": "Finland Shows the Trust Barrier Facing Chinese EV Makers in the West",
-        "traffic": "WSJ"
-      },
-      {
-        "title": "Música ao vivo faz o mundo girar",
-        "original": "Live Music Makes the World Go Around",
-        "traffic": "o sol de Wellsville"
-      },
-      {
-        "title": "LOL. Surpresa! Bonecas ganhando sua própria série com roteiro de ação ao vivo (exclusivo)",
-        "original": "L.O.L. Surprise! Dolls Getting Their Own Live-Action Scripted Series (Exclusive)",
-        "traffic": "O repórter de Hollywood"
-      },
-      {
-        "title": "Notícias - World Music Contest une o mundo em Kerkrade",
-        "original": "News - World Music Contest unites the world in Kerkrade",
-        "traffic": "DVDs"
-      },
-      {
-        "title": "Eastern Festival of Music retorna com programação totalmente americana sob a direção de Gerard Schwarz",
-        "original": "Eastern Festival of Music returns with all-American program under Gerard Schwarz",
-        "traffic": "OrelhaRelevante"
       }
     ],
     "yt_br": [],
