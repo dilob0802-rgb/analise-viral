@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-07",
+    "trends_br": [
+      {
+        "title": "Cultura: Cursos gratuitos de audiovisual, moda, música e produção cultural da Prefeitura estão com inscrições prorrogadas até 31 de agosto",
+        "traffic": "Prefeitura de São Paulo"
+      },
+      {
+        "title": "De Anitta a Thiaguinho: por que artistas estão apostando no feat entre música e bem-estar",
+        "traffic": "G1"
+      },
+      {
+        "title": "Aparecida é Show 2026 começa no dia 6 com grandes atrações nacionais",
+        "traffic": "aparecida.go.gov.br"
+      },
+      {
+        "title": "Resumo de Coração Acelerado: Próximo capítulo da novela, sexta, 7 de agosto",
+        "traffic": "noticiasdatv.uol.com.br"
+      },
+      {
+        "title": "A profissionalização do cinema produzido nas periferias de SP",
+        "traffic": "Nexo Jornal"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Série de verão: Mia Valerio",
+        "original": "Summer Series: Mia Valerio",
+        "traffic": "Atletismo da Universidade de Richmond"
+      },
+      {
+        "title": "O novo site do Auricular é um tesouro de conteúdo musical de Richmond",
+        "original": "The Auricular’s new website is a treasure trove of Richmond music content",
+        "traffic": "vpm.org"
+      },
+      {
+        "title": "Documentário musical e drama psicológico estreia em 7 de agosto na Ross",
+        "original": "Music documentary, psychological drama open Aug. 7 at Ross",
+        "traffic": "Nebrasca hoje"
+      },
+      {
+        "title": "A série Comet: futebol Rutgers",
+        "original": "The Comet Series: Rutgers football",
+        "traffic": "Subpilha"
+      },
+      {
+        "title": "A Chinatown de Pittsburgh desapareceu, mas a sua história mostrou-me que o meu lugar é aqui",
+        "original": "Pittsburgh’s Chinatown is gone, but its history showed me that I belong here",
+        "traffic": "Fonte pública de Pittsburgh"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-06",
     "trends_br": [
       {
@@ -1559,60 +1613,6 @@
       {
         "title": "O compositor Joe Hisaishi deseja expandir o alcance da música clássica",
         "original": "Composer Joe Hisaishi Wishes to Expand Classical Music’s Reach",
-        "traffic": "Symphony.org"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-08",
-    "trends_br": [
-      {
-        "title": "'La Cuarta Estrella': música que embala Argentina na Copa cita trauma de Maradona e Malvinas",
-        "traffic": "G1"
-      },
-      {
-        "title": "Pianista Vitor Araújo faz recital no Festival Vermelhos – Música e Artes Cênicas",
-        "traffic": "CONCERTO | Home"
-      },
-      {
-        "title": "Centro de Curitiba tem cinema, teatro, espetáculos holográficos, parque e quadrinhos para a criançada",
-        "traffic": "Prefeitura de Curitiba"
-      },
-      {
-        "title": "Cinema gratuito leva lazer e diversão para famílias de Nossa Senhora do Livramento nesta terça-feira (8) - Prefeitura de Nossa Senhora do Livramento",
-        "traffic": "MT"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 8 de julho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Série Trevo 2026",
-        "original": "2026 Shamrock Series",
-        "traffic": "Atletismo Notre Dame"
-      },
-      {
-        "title": "O futebol Notre Dame revela seu uniforme 2026 da Shamrock Series. Veja aqui",
-        "original": "Notre Dame football unveils its 2026 Shamrock Series uniform. See it here",
-        "traffic": "Tribuna de South Bend"
-      },
-      {
-        "title": "Wynton Marsalis: Abençoado por estar fazendo música",
-        "original": "Wynton Marsalis: Blessed to be Making Music",
-        "traffic": "Voz Clássica de São Francisco"
-      },
-      {
-        "title": "Introdução: O Juízo Final e o cinema",
-        "original": "Introduction: Doomsday and the movies",
-        "traffic": "Boletim dos Cientistas Atômicos"
-      },
-      {
-        "title": "Festival de Música do Colorado comemora 50 anos",
-        "original": "Colorado Music Festival Celebrates 50th Anniversary",
         "traffic": "Symphony.org"
       }
     ],
