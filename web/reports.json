@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-08",
+    "trends_br": [
+      {
+        "title": "Aparecida é Show 2026 reúne 30 mil pessoas na primeira noite",
+        "traffic": "Prefeitura de Aparecida de Goiânia"
+      },
+      {
+        "title": "Laura Pausini regrava 'Quando Chove' com Sandy e quer faixa em filme 'A viagem': 'Com quem preciso falar?'",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 8 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "“Preparei o melhor show da minha vida” 🔥 Foi assim que o @felipearaujocantor...",
+        "traffic": "Prefeitura Municipal de Além Paraíba, MG"
+      },
+      {
+        "title": "Impulsionadas por superproduções e novas tecnologias, salas de cinema quebram recordes",
+        "traffic": "VEJA"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Chuva e tempestades causam atrasos no VOA Country Music Festival sexta à noite",
+        "original": "Rain, storms cause delays at VOA Country Music Festival Friday night",
+        "traffic": "WLWT"
+      },
+      {
+        "title": "Minha histerectomia foi um presente. Kemi Doll mostra por que as mulheres precisam compartilhar nossas 'histórias do útero'",
+        "original": "My Hysterectomy Was a Gift. Dr. Kemi Doll Shows Why Women Need to Share Our 'Womb Stories'",
+        "traffic": "Sra. Revista"
+      },
+      {
+        "title": "O criador de ‘Power Book III: Raising Kanan’ Sascha Penn e as estrelas Patina Miller e Mekai Curtis no Deadly Series Finale e ‘Power: Origins’",
+        "original": "‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’",
+        "traffic": "Variedade"
+      },
+      {
+        "title": "A era do crossover da música country chegou",
+        "original": "Country music's crossover era is here",
+        "traffic": "Eixos"
+      },
+      {
+        "title": "Por dentro do Music in the Vineyards de Napa Valley, onde a música de câmara enche as vinícolas",
+        "original": "Inside Napa Valley’s Music in the Vineyards, where chamber music fills the wineries",
+        "traffic": "sfchronicle.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-07",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Paul Overstreet entra para o Hall da Fama da Música Country – Good Country",
         "original": "Paul Overstreet Joins the Country Music Hall of Fame – Good Country",
         "traffic": "A situação do Bluegrass"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-09",
-    "trends_br": [
-      {
-        "title": "Autor de chacina em cinema de SP deixa 'vendedores com medo' ao frequentar shopping de Salvador após deixar a cadeia",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Famosos lamentam a morte de Bonnie Tyler - 09/07/2026 - Celebridades",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Neste domingo (12), Praia do Bosque recebe show nacional de Reinaldinho, ex-Terra Samba",
-        "traffic": "Prefeitura Municipal de Barra do Garças"
-      },
-      {
-        "title": "Justin Bieber se junta a Madonna, Shakira e BTS em show do intervalo da final da Copa do Mundo",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 9 de julho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "ASSISTIR: Série de ex-alunos estudantes-atletas do Big South - Al'Lonzo Coleman",
-        "original": "WATCH: Big South Student-Athlete Alumni Series - Al'Lonzo Coleman",
-        "traffic": "Grande Conferência Sul"
-      },
-      {
-        "title": "10 filmes e programas históricos e caprichosos como Little House on the Prairie",
-        "original": "10 Whimsical, Historical Movies and Shows Like Little House on the Prairie",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "Os melhores programas de TV de 2026 até agora",
-        "original": "The Best TV Shows of 2026 So Far",
-        "traffic": "Revista Tempo"
-      },
-      {
-        "title": "Amy Ray, do Indigo Girls, dá início à série Mercer explorando a música sulista",
-        "original": "Amy Ray of Indigo Girls kicks off Mercer series exploring Southern music",
-        "traffic": "Universidade Mercer"
-      },
-      {
-        "title": "O compositor Joe Hisaishi deseja expandir o alcance da música clássica",
-        "original": "Composer Joe Hisaishi Wishes to Expand Classical Music’s Reach",
-        "traffic": "Symphony.org"
       }
     ],
     "yt_br": [],
