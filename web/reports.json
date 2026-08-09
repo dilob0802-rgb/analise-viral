@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-09",
+    "trends_br": [
+      {
+        "title": "Luluca Show no Qualistage - RJ - 08/08/2026",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Anitta entoa mantra, saúda Ogum e rebola de costas no show da turnê ‘Equilibrivm’ em SP",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 10 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Aparecida é Show 2026 reúne 30 mil pessoas na primeira noite",
+        "traffic": "Prefeitura de Aparecida de Goiânia"
+      },
+      {
+        "title": "Dia dos Pais: confira os famosos que vão comemorar a data pela primeira vez",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Kentucky e Carolina do Norte alcançam o jogo do título da Little League Softball World Series",
+        "original": "Kentucky, North Carolina reach Little League Softball World Series title game",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "Carson Kvapil floresce no final de Iowa e alcança a segunda vitória consecutiva na O’Reilly Auto Parts Series",
+        "original": "Carson Kvapil blooms late in Iowa, rolls to second straight O’Reilly Auto Parts Series win",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "O efeito cascata: Deadheads compartilham suas histórias",
+        "original": "The Ripple Effect: Deadheads share their stories",
+        "traffic": "NPR"
+      },
+      {
+        "title": "A famosa lista de aniversários de hoje para 9 de agosto de 2026 inclui as celebridades Anna Kendrick e Jessica Capshaw",
+        "original": "Today’s famous birthdays list for August 9, 2026 includes celebrities Anna Kendrick, Jessica Capshaw",
+        "traffic": "Cleveland.com"
+      },
+      {
+        "title": "Pearl City Little Leaguers vencem a World Series",
+        "original": "Pearl City Little Leaguers win World Series",
+        "traffic": "Notícias do Havaí agora"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-08",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Série musical gratuita continuará na próxima semana",
         "original": "Free music series to continue next week",
         "traffic": "Notícias Diárias da Península"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-10",
-    "trends_br": [
-      {
-        "title": "BTS, Madonna, Shakira e Justin Bieber: como vai ser o 'show do intervalo' da final da Copa",
-        "traffic": "G1"
-      },
-      {
-        "title": "Ritmo e ancestralidade: Fiotec participa de Festival Nacional de Música de Terreiro",
-        "traffic": "fiotec.fiocruz.br"
-      },
-      {
-        "title": "Mostra de Produção Audiovisual destaca jovens cineastas e reforça Alvorada como referência no cinema estudantil",
-        "traffic": "Prefeitura Municipal Alvorada"
-      },
-      {
-        "title": "Acordo de coprodução de cinema com a China é aprovado em Plenário",
-        "traffic": "Senado"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sexta, 10 de julho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "7 filmes e programas essenciais de Zoey Deutch para amantes de Rom-Com e muito mais",
-        "original": "7 Essential Zoey Deutch Movies and Shows for Rom-Com Lovers and More",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "EVIL MISTRESS: Um caso vitalício com a música, parte vinte e sete",
-        "original": "EVIL MISTRESS: A Lifelong Affair with Music, Part Twenty-Seven",
-        "traffic": "Postagem Diária Pagosa"
-      },
-      {
-        "title": "Como assistir a terceira temporada da série “Quarterback” da Netflix, com Baker Mayfield",
-        "original": "How to Watch Third Season of Netflix Series \"Quarterback\" Featuring Baker Mayfield",
-        "traffic": "Bucaneiros de Tampa Bay"
-      },
-      {
-        "title": "As listas de reprodução baseadas em descobertas do Spotify mantêm sua rotação musical semanal atualizada",
-        "original": "Spotify’s Discovery-Driven Playlists Keep Your Weekly Music Rotation Feeling Fresh",
-        "traffic": "Spotify"
-      },
-      {
-        "title": "Paul Overstreet entra para o Hall da Fama da Música Country – Good Country",
-        "original": "Paul Overstreet Joins the Country Music Hall of Fame – Good Country",
-        "traffic": "A situação do Bluegrass"
       }
     ],
     "yt_br": [],
