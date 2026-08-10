@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-10",
+    "trends_br": [
+      {
+        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 10 a 15 de agosto",
+        "traffic": "Globo"
+      },
+      {
+        "title": "Livro aborda as origens e a permanência da música armorial",
+        "traffic": "CONCERTO | Home"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 10 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Festival Cine Wine estreia na Serra Fluminense para unir cinema, enoturismo e turismo rural",
+        "traffic": "Mercado e Eventos"
+      },
+      {
+        "title": "Jon Batiste sobre sucesso de \"Soul\": \"A música é a linguagem do invisível\"",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Dodgers abandonam a série de temporada contra D-backs. O que isso significa para a corrida NL West?",
+        "original": "Dodgers drop season series vs. D-backs. What does that mean for NL West race?",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "'Obsessão' me levou ao teatro, mas os preços dos ingressos são muito altos | Sua vez",
+        "original": "'Obsession' got me to a theater, but ticket prices are too high | Your Turn",
+        "traffic": "EUA hoje"
+      },
+      {
+        "title": "Como as crianças, as boas letras e o amor me levaram à música country (ish)",
+        "original": "How children, good lyrics, and love brought me around to country (ish) music",
+        "traffic": "Inquirer.com"
+      },
+      {
+        "title": "Os eleitores estão cansados ​​do sistema bipartidário. Uma nova enquete mostra que eles estão abertos a grandes mudanças",
+        "original": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Recapitulação da série Braves at Yankees: Atlanta resgata uma série intensa no Bronx",
+        "original": "Braves at Yankees series recap: Atlanta salvages an intense series in the Bronx",
+        "traffic": "Energia da bateria"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-09",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Os fãs dão às celebridades alguns conselhos de golfe gratuitos no torneio ACC em Lake Tahoe",
         "original": "Fans give celebrities some free golf advice at ACC tournament in Lake Tahoe",
         "traffic": "KCRA"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-11",
-    "trends_br": [
-      {
-        "title": "Como vai ser a vingança de Adriana na novela 'Quem ama cuida'? Personagem vai colocar rivais na mira",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Outro Canal: Globo vai simular efeito de 'páginas de fofoca' na vida de artistas no novo Estrelas da Casa",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Tela Brasileira recebe curadoria da Mostra Ratazana em sessão gratuita no Cinema Alameda - PJF",
-        "traffic": "Prefeitura de Juiz de Fora"
-      },
-      {
-        "title": "Tudo pronto: Lucas do Rio Verde celebra o rock neste sábado com mais de sete horas de música",
-        "traffic": "Prefeitura de Lucas do Rio Verde"
-      },
-      {
-        "title": "Artista indígena da Venezuela lança EP que une tradição Pemón e música contemporânea em RR",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "AI Bots roubou minha música",
-        "original": "AI Bots Stole My Music",
-        "traffic": "Revista Filadélfia"
-      },
-      {
-        "title": "5 shows do leste a Edimburgo",
-        "original": "5 East to Edinburgh shows",
-        "traffic": "newyorktheater.me"
-      },
-      {
-        "title": "Fim de semana ao ar livre: Produtor musical Peter Asher; Escritor de romance Kennedy Ryan",
-        "original": "Fresh Air Weekend: Music producer Peter Asher; Romance writer Kennedy Ryan",
-        "traffic": "NPR"
-      },
-      {
-        "title": "A famosa lista de aniversários de hoje para 11 de julho de 2026 apresenta as celebridades Lisa Rinna, Alessia Cara",
-        "original": "Today’s famous birthdays list for July 11, 2026 features celebrities Lisa Rinna, Alessia Cara",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "Série musical gratuita continuará na próxima semana",
-        "original": "Free music series to continue next week",
-        "traffic": "Notícias Diárias da Península"
       }
     ],
     "yt_br": [],
