@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-11",
+    "trends_br": [
+      {
+        "title": "A realidade não é um reality show",
+        "traffic": "Jornal da USP"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 10 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Com Cinema Rodoviário da PRF e simulador de colisão, Navegantes promove Semana Municipal de Educação para o Trânsito",
+        "traffic": "Prefeitura de Navegantes -"
+      },
+      {
+        "title": "João Lucas não está só: dez celebridades que sofrem com a falta de carisma",
+        "traffic": "VEJA"
+      },
+      {
+        "title": "‘Terra Bruta’: western expõe a masculinidade no 54º Festival de Cinema de Gramado",
+        "traffic": "Brasil de Fato"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Cronograma da NASCAR 2027: datas confirmadas, pistas para todas as três séries nacionais",
+        "original": "2027 NASCAR schedule: Confirmed dates, tracks for all three national series",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Imagens da câmera do corpo da polícia de Baltimore mostram as consequências da prisão do ICE fora da escola",
+        "original": "Baltimore police body cam footage shows aftermath of ICE arrest outside school",
+        "traffic": "WBAL-TV"
+      },
+      {
+        "title": "Os políticos podem usar a música que quiserem nas redes sociais?",
+        "original": "Can politicians use whatever music they want on social media?",
+        "traffic": "Notícias da NBC"
+      },
+      {
+        "title": "A música country abalada por 3 mortes em 3 dias. Aqui está o que sabemos",
+        "original": "Country music rocked by 3 deaths in 3 days. Here’s what we know",
+        "traffic": "PennLive"
+      },
+      {
+        "title": "Veja como a Guitar Finds, proprietária de uma loja de música de Antioquia, Califórnia, ajudou a solucionar o crime de guitarra roubada",
+        "original": "Here's how Guitar Finds music shop owner from Antioch, California helped solve crime of stolen guitar",
+        "traffic": "Área da Baía ABC7"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-10",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Série Tóquio 2025 de Shohei Ohtani vai a leilão",
         "original": "Shohei Ohtani's 2025 Tokyo series cleats up for auction",
         "traffic": "ESPN"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-12",
-    "trends_br": [
-      {
-        "title": "A Copa é pop: entenda por que tantas celebridades marcaram presença nos jogos",
-        "traffic": "ge"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 13 de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Africanoise celebra vitória no Prêmio da Musica Brasileira em show",
-        "traffic": "VEJA RIO"
-      },
-      {
-        "title": "Do nada, comediante é ofendida e leva cadeirada no meio de show de stand up",
-        "traffic": "Terra"
-      },
-      {
-        "title": "Liniker abre turnê de despedida da era 'Caju' e famosos curtem show em São Paulo",
-        "traffic": "Gshow"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Ryan Blaney ganha o prêmio Busch Light Pole pela corrida noturna EchoPark Speedway",
-        "original": "Ryan Blaney wins Busch Light Pole Award for EchoPark Speedway night race",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Domingo mostra prévia: As tensões EUA-Irã aumentam; Democratas enfrentam as consequências de Platner",
-        "original": "Sunday shows preview: US-Iran tensions flare; Democrats grapple with Platner fallout",
-        "traffic": "A colina"
-      },
-      {
-        "title": "O mundo da música country está de coração partido quando três grupos queridos se separaram em 2026",
-        "original": "Country music world heartbroken as 3 beloved groups have split in 2026",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "NASCAR O'Reilly Series Atlanta corre atualizações ao vivo, destaques, tabela de classificação",
-        "original": "NASCAR O'Reilly Series Atlanta race live updates, highlights, leaderboard",
-        "traffic": "O Tennessee"
-      },
-      {
-        "title": "Os fãs dão às celebridades alguns conselhos de golfe gratuitos no torneio ACC em Lake Tahoe",
-        "original": "Fans give celebrities some free golf advice at ACC tournament in Lake Tahoe",
-        "traffic": "KCRA"
       }
     ],
     "yt_br": [],
