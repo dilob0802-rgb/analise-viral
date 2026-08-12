@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-12",
+    "trends_br": [
+      {
+        "title": "Selton Mello, Andrea Beltrão e mais de 40 obras: saiba tudo sobre o Festival de Cinema de Gramado, que começa nesta quarta-feira",
+        "traffic": "G1"
+      },
+      {
+        "title": "Quinta no Cinema exibe curta-metragem \"Ela Veio Me Ver\" nesta quinta-feira (13) | Notícias | Cultura",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 12 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Francis e Olivia Hime celebram 60 anos de música em BH",
+        "traffic": "Culturadoria"
+      },
+      {
+        "title": "‘Vergonhoso’, diz jornal espanhol sobre ‘novela Memphis’ no Corinthians",
+        "traffic": "Estadão"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "O mais recente Apple Watch Series 11 está igualando o preço da Black Friday",
+        "original": "The latest Apple Watch Series 11 is matching its Black Friday price",
+        "traffic": "Notícias da NBC"
+      },
+      {
+        "title": "Estrelas que falaram sobre os medicamentos GLP-1 – e o que disseram",
+        "original": "Stars Who’ve Spoken About GLP-1 Drugs — and What They’ve Said",
+        "traffic": "People.com"
+      },
+      {
+        "title": "Recomendações de música ao vivo na área de Chicago para 12 a 18 de agosto",
+        "original": "Chicago-Area Live Music Recommendations for Aug. 12-18",
+        "traffic": "notícias.wttw.com"
+      },
+      {
+        "title": "AI Music Generator Suno fecha acordo de licenciamento de importante gravadora musical",
+        "original": "AI Music Generator Suno Inks Major Music Label Licensing Deal",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "Festival de música de longa data do norte da Califórnia cancelado após mudança significativa de liderança",
+        "original": "Longtime Northern California music festival canceled following significant leadership change",
+        "traffic": "Crônica de São Francisco"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-11",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Reconhecendo os 50 anos do Dome Center for Art, Music and Dance de Oakland",
         "original": "Recognizing 50 Years Of Oakland’s Dome Center For Art, Music And Dance",
         "traffic": "Forbes"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-13",
-    "trends_br": [
-      {
-        "title": "Estrutura de palco cede durante show de Pocah em festival na Grande BH; VÍDEO",
-        "traffic": "G1"
-      },
-      {
-        "title": "Casa da Cultura recebe show eletroacústico na próxima quarta-feira (15)",
-        "traffic": "Prefeitura de São Pedro da Aldeia"
-      },
-      {
-        "title": "Cinema Pontos MIS | Programação de Julho",
-        "traffic": "Prefeitura Estância Turística Guaratinguetá – Prefeitura Estância Turística Guaratinguetá"
-      },
-      {
-        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 13 de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Projeto Saudade ao Ar Livre movimenta Santana Verão com música e dança",
-        "traffic": "Prefeitura de Santana/AP"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Os influenciadores musicais estão sendo pagos para promover músicas – e eles não estão contando a você",
-        "original": "Music influencers are getting paid to promote songs — and they're not telling you",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Os 10 melhores filmes de ficção científica e terror de 2026 (até agora)",
-        "original": "The 10 best sci-fi and horror movies of 2026 (so far)",
-        "traffic": "Subpilha"
-      },
-      {
-        "title": "Centro de bônus de incentivo da série O'Reilly Auto Parts 2026: informações, vencedores, mais",
-        "original": "2026 O’Reilly Auto Parts Series Incentive Bonus hub: Information, winners, more",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Incêndio em bar de música em Bangkok mata pelo menos 27 pessoas",
-        "original": "Fire at a music bar in Bangkok kills at least 27 people",
-        "traffic": "Notícias da AP"
-      },
-      {
-        "title": "Série Tóquio 2025 de Shohei Ohtani vai a leilão",
-        "original": "Shohei Ohtani's 2025 Tokyo series cleats up for auction",
-        "traffic": "ESPN"
       }
     ],
     "yt_br": [],
