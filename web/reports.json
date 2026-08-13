@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-13",
+    "trends_br": [
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 13 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Prefeitura de Bertioga divulga oportunidade do BNDES para projetos de cinema e festivais audiovisuais",
+        "traffic": "Prefeitura de Bertioga"
+      },
+      {
+        "title": "Biblioteca tem música e cinema na programação desta semana",
+        "traffic": "Portal do Município de Piracicaba"
+      },
+      {
+        "title": "iPhone 17 Pro \"faz mosh\" em clube de música eletrônica de Berlim",
+        "traffic": "Meio e Mensagem"
+      },
+      {
+        "title": "Famosos em polvorosa: psicóloga explica o que, afinal, faz uma pessoa ter carisma",
+        "traffic": "VEJA"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Anúncios de programação de 2027: datas, faixas, mais",
+        "original": "2027 schedule announcements: Dates, tracks, more",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "O mais recente Apple Watch Series 11 está igualando o preço da Black Friday",
+        "original": "The latest Apple Watch Series 11 is matching its Black Friday price",
+        "traffic": "Notícias da NBC"
+      },
+      {
+        "title": "Tabela, pontuações e horários do torneio regional da Little League World Series hoje",
+        "original": "Little League World Series Region Tournament bracket, scores, and times today",
+        "traffic": "Yahoo Esportes"
+      },
+      {
+        "title": "Os arremessadores do Colorado andam na corda bamba, mas garantem a primeira vitória dos Rockies na série no Arizona desde 22",
+        "original": "Colorado's pitchers walk tightrope, but secure Rockies' first series win in Arizona since '22",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "Revelada a primeira fase do cronograma da SÉRIE NTT INDYCAR 2027",
+        "original": "Phase One of 2027 NTT INDYCAR SERIES Schedule Unveiled",
+        "traffic": "INDYCAR. com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-12",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Wilson: Os detratores de Melat Kiros não estão lendo a sala, e isso mostra",
         "original": "Wilson: Melat Kiros’ detractors aren’t reading the room, and it shows",
         "traffic": "O Sol Colorado"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-14",
-    "trends_br": [
-      {
-        "title": "Pontos MIS divulga programação gratuita de cinema do mês de julho em Leme",
-        "traffic": "Prefeitura de Leme"
-      },
-      {
-        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 13 de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Suspeita de arremessar cadeira em comediante durante show em Florianópolis é identificada, diz polícia",
-        "traffic": "G1"
-      },
-      {
-        "title": "CCJ avança na aprovação de desconto de 50% no valor de ingressos para eventos culturais e de entretenimento aos garis da Comurg",
-        "traffic": "Câmara Municipal de Goiânia"
-      },
-      {
-        "title": "De Larissa Manoela a José Loreto: veja famosos na estreia \"Wicked\" no Rio",
-        "traffic": "CNN Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Steve Wariner traça paralelos entre música e pintura – BGS",
-        "original": "Steve Wariner Draws Parallels Between Music and Painting – BGS",
-        "traffic": "A situação do Bluegrass"
-      },
-      {
-        "title": "O número de mortos em um incêndio em um bar de música em Bangkok sobe para 30, dezenas permanecem no hospital",
-        "original": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Lista de inscritos da NASCAR Cup Series 2026 para North Wilkesboro Speedway",
-        "original": "2026 NASCAR Cup Series entry list for North Wilkesboro Speedway",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Mesa final do evento principal da World Series of Poker 2026 definida",
-        "original": "2026 World Series of Poker main event final table set",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Reconhecendo os 50 anos do Dome Center for Art, Music and Dance de Oakland",
-        "original": "Recognizing 50 Years Of Oakland’s Dome Center For Art, Music And Dance",
-        "traffic": "Forbes"
       }
     ],
     "yt_br": [],
