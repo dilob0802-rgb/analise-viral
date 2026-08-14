@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-14",
+    "trends_br": [
+      {
+        "title": "Quinta na Praça leva música e lazer ao distrito de Ipuaçu",
+        "traffic": "Prefeitura Municipal de Feira de Santana"
+      },
+      {
+        "title": "Coração Acelerado: último capítulo traz casamento de Duda e Zilá em retiro espiritual",
+        "traffic": "Gshow"
+      },
+      {
+        "title": "Caravana da Cultura promove sessão de cinema e debate com cineasta gaúcho",
+        "traffic": "bage.rs.gov.br"
+      },
+      {
+        "title": "Depois de dois dias de atividades voltadas principalmente ao cinema estudantil e à formação, a Rua Coberta se prepara para receber a abertura oficial do Festival de Cinema de Gramado nesta sexta-feira (14). Com a montagem dos últimos preparativos par",
+        "traffic": "instagram.com"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, sexta, 14 de agosto",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Anúncios de programação de 2027: datas, faixas, mais",
+        "original": "2027 schedule announcements: Dates, tracks, more",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Opinião: Os filmes hoje em dia carecem de profundidade",
+        "original": "Opinion: Movies these days are severely lacking depth",
+        "traffic": "Notícias locais são importantes"
+      },
+      {
+        "title": "Os consumidores querem assistir filmes em casa",
+        "original": "Consumers want to watch movies at home",
+        "traffic": "O Washington Post"
+      },
+      {
+        "title": "Troye Sivan traz Nicole Kidman ao clube para o videoclipe de ‘She’s the Best’",
+        "original": "Troye Sivan Brings Nicole Kidman to the Club for ‘She’s the Best’ Music Video",
+        "traffic": "Variedade"
+      },
+      {
+        "title": "Com destino a Williamsport! SoundView de Tacoma avança para a Little League World Series",
+        "original": "Williamsport-bound! Tacoma’s SoundView advances to Little League World Series",
+        "traffic": "Tribuna de notícias de Tacoma"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-13",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "No Walker, o ator indígena Dallas Goldtooth explora a masculinidade por meio do cinema",
         "original": "At the Walker, Indigenous actor Dallas Goldtooth explores masculinity through movies",
         "traffic": "Notícias MPR"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-15",
-    "trends_br": [
-      {
-        "title": "Festival Um Novo Tempo: Tarde de fé, adoração e música no Teatro Margarida Ribeiro no dia 25",
-        "traffic": "Prefeitura Municipal de Feira de Santana"
-      },
-      {
-        "title": "Juliano Floss, do 'BBB 26', fará sua primeira novela na Globo no papel do filho de um dos protagonistas",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Nei Lisboa revisita mais de quatro décadas de carreira em show no Galpão Floresta Cultural",
-        "traffic": "Sesc/RS"
-      },
-      {
-        "title": "Abba Experience In Concert – Novo Show – Bruno Rizzo ME",
-        "traffic": "Cultura Jundiaí"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 15 de julho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "O valor das coisas: série Make or Break - Xavier Hutchinson",
-        "original": "Value of Things: Make or Break series— Xavier Hutchinson",
-        "traffic": "Blog da Batalha Vermelha"
-      },
-      {
-        "title": "Chase Koch sobre Princípios, Música e Superação da Entropia (Ep. 283)",
-        "original": "Chase Koch on Principles, Music, and Overcoming Entropy (Ep. 283)",
-        "traffic": "Conversas com Tyler"
-      },
-      {
-        "title": "Recomendações de música ao vivo na área de Chicago para 15 a 21 de julho",
-        "original": "Chicago-Area Live Music Recommendations for July 15-21",
-        "traffic": "Notícias WTTW"
-      },
-      {
-        "title": "Série de classificação de Budapeste 2026, dia 1, assistir estilo livre ao vivo",
-        "original": "Budapest Ranking Series 2026 Day 1 Watch Live Freestyle",
-        "traffic": "UWW"
-      },
-      {
-        "title": "Wilson: Os detratores de Melat Kiros não estão lendo a sala, e isso mostra",
-        "original": "Wilson: Melat Kiros’ detractors aren’t reading the room, and it shows",
-        "traffic": "O Sol Colorado"
       }
     ],
     "yt_br": [],
