@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-15",
+    "trends_br": [
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 15 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Quem está no 'Dança dos Famosos 2026'? Confira os nomes anunciados para a nova temporada",
+        "traffic": "Jornal Correio"
+      },
+      {
+        "title": "Café com Música agita Associação dos Aposentados na quarta-feira, 19",
+        "traffic": "Prefeitura Municipal de Ubatuba"
+      },
+      {
+        "title": "Além de 'Corrida dos Bichos', veja 20 filmes, novelas e séries que retratam o jogo do bicho",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 17 de agosto",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Sinal verde para ‘Kingdom Hearts’ para a primeira série de TV original no Disney Channel e Disney+",
+        "original": "‘Kingdom Hearts’ Greenlit for First-Ever Original TV Series on Disney Channel and Disney+",
+        "traffic": "thewaltdisneycompany.com"
+      },
+      {
+        "title": "Corrida da Craftsman Truck Series em Richmond adiada devido ao mau tempo",
+        "original": "Craftsman Truck Series race at Richmond delayed due to inclement weather",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "O que assistir neste fim de semana: novos programas e filmes para transmitir no Netflix, Hulu, Prime Video, Apple TV e muito mais",
+        "original": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "Bayonne, N.J., derrota Connecticut e segue para a Little League World Series",
+        "original": "Bayonne, N.J., defeats Connecticut to head to Little League World Series",
+        "traffic": "ABC7 Nova York"
+      },
+      {
+        "title": "'Kingdom Hearts' anime series announced at D23 - ABC News",
+        "original": "'Kingdom Hearts' anime series announced at D23 - ABC News",
+        "traffic": "Notícias de última hora, últimas notícias e vídeos"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-14",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Truck Series: Analisando a bolha do Chase com quatro corridas restantes da temporada regular",
         "original": "Truck Series: Analyzing Chase bubble with four regular-season races remaining",
         "traffic": "NASCAR. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-16",
-    "trends_br": [
-      {
-        "title": "Festival de Música da Juventude abre inscrições para a 10ª edição",
-        "traffic": "Prefeitura de Fortaleza"
-      },
-      {
-        "title": "Cinema Walmir Almeida destaca o épico Odisseia e a nova comédia estrelada por Penélope Cruz",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "Centro Cultural São Paulo recebe Cine na Praça e transforma Jardim Suspenso em cinema ao ar livre com sessões gratuitas",
-        "traffic": "Prefeitura de São Paulo"
-      },
-      {
-        "title": "Semifinal entre Inglaterra e Argentina reúne celebridades em Atlanta",
-        "traffic": "ge"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 16 de julho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "'Fofoca' teve origens divinas. Veja como ele ganhou sua reputação pecaminosa",
-        "original": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Série de verão: Nicole Kuhl",
-        "original": "Summer Series: Nicole Kuhl",
-        "traffic": "Atletismo da Universidade de Richmond"
-      },
-      {
-        "title": "Música que comove: um bilhete de amor a capella",
-        "original": "Music that moves: a love note to a capella",
-        "traffic": "O boletim informativo da Johns Hopkins"
-      },
-      {
-        "title": "Perguntando a Eric: 60 anos depois, fã de música experimenta uma nova onda de adoração do tipo Beatlemania",
-        "original": "Asking Eric: 60 years later, music fan experiences a new rush of Beatlemania-type adoration",
-        "traffic": "OregonLive. com"
-      },
-      {
-        "title": "No Walker, o ator indígena Dallas Goldtooth explora a masculinidade por meio do cinema",
-        "original": "At the Walker, Indigenous actor Dallas Goldtooth explores masculinity through movies",
-        "traffic": "Notícias MPR"
       }
     ],
     "yt_br": [],
