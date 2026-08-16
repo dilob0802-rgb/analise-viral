@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-16",
+    "trends_br": [
+      {
+        "title": "Show de Roberto Carlos é cancelado horas antes da apresentação no Rio",
+        "traffic": "G1"
+      },
+      {
+        "title": "Deezer Aposta em Superfãs para Ganhar Mercado no Streaming de Música no Brasil",
+        "traffic": "forbes.com.br"
+      },
+      {
+        "title": "YouTube, WhatsApp e Netflix lideram entretenimento nas favelas, aponta estudo",
+        "traffic": "Alma Preta Jornalismo"
+      },
+      {
+        "title": "Resumo da novela 'Quem Ama Cuida' da semana: capítulos de 17/8 a 22/8",
+        "traffic": "UOL"
+      },
+      {
+        "title": "3 filmes para conferir no… Festival de Cinema Infantil (FICI)",
+        "traffic": "VEJA RIO"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Cantor icônico que alcançou a fama na década de 1960 morre aos 78 anos: ‘Ele era uma força importante’",
+        "original": "Iconic singer who rose to fame in the 1960s dies at 78: ‘He was a major force’",
+        "traffic": "PennLive.com"
+      },
+      {
+        "title": "Ryan Blaney domina a Etapa 1 na corrida da Richmond Cup",
+        "original": "Ryan Blaney dominates Stage 1 in Richmond Cup race",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "‘Já tentei fazer sexo com minha própria música? Deus, não!’: Playlist honesta de Natalie Imbruglia",
+        "original": "‘Have I tried having sex to my own music? God, no!’: Natalie Imbruglia’s honest playlist",
+        "traffic": "O Guardião"
+      },
+      {
+        "title": "Domingo mostra uma prévia: as principais corridas primárias preparam o cenário para batalhas acirradas em novembro, os democratas levantam preocupações sobre as condições do USS Lincoln",
+        "original": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
+        "traffic": "A colina"
+      },
+      {
+        "title": "A famosa lista de aniversários de hoje para 16 de agosto de 2026 inclui as celebridades Angela Bassett, Madonna",
+        "original": "Today’s famous birthdays list for August 16, 2026 includes celebrities Angela Bassett, Madonna",
+        "traffic": "Cleveland.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-15",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Como assistir ao Grande Prêmio da Cidade da Música de 2026 da INDYCAR: programação, canais de TV, streaming",
         "original": "How to Watch INDYCAR's 2026 Music City Grand Prix: Schedule, TV Channels, Streaming",
         "traffic": "FOX Esportes"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-17",
-    "trends_br": [
-      {
-        "title": "'Wonderwall' vira música mais ouvida do mundo após eliminação da Inglaterra na Copa",
-        "traffic": "G1"
-      },
-      {
-        "title": "O poder da música sobre o nosso cérebro",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Nova onda de cinebiografias musicais leva ídolos brasileiros ao cinema",
-        "traffic": "VEJA RIO"
-      },
-      {
-        "title": "Filmes indicados por Janis Joplin serão exibidos na Mostra Janis e o Cinema, no MIS",
-        "traffic": "agenciasp.sp.gov.br"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sexta, 17 de julho",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Opinião | Zoomers estão indo ao cinema. Esta é uma ótima notícia para todos.",
-        "original": "Opinion | Zoomers Are Going to the Movies. This Is Great News for Everyone.",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "11 filmes e séries de aventura para levar você a uma jornada épica",
-        "original": "11 Adventurous Movies and Series to Take You on an Epic Journey",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "BTS desabafou após uma grande noite no videoclipe ‘NORMAL’: assistir",
-        "original": "BTS Let Off Steam After a Big Night In ‘NORMAL’ Music Video: Watch",
-        "traffic": "Painel publicitário"
-      },
-      {
-        "title": "Fandango agora permite assistir filmes grátis sem criar uma conta",
-        "original": "Fandango now lets you watch free movies without creating an account",
-        "traffic": "Mashável"
-      },
-      {
-        "title": "Truck Series: Analisando a bolha do Chase com quatro corridas restantes da temporada regular",
-        "original": "Truck Series: Analyzing Chase bubble with four regular-season races remaining",
-        "traffic": "NASCAR. com"
       }
     ],
     "yt_br": [],
