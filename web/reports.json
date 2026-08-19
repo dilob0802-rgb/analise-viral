@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-19",
+    "trends_br": [
+      {
+        "title": "Glória Menezes fez mais de 40 novelas e brilhou com filme premiado em Cannes; relembre",
+        "traffic": "G1"
+      },
+      {
+        "title": "Biblioteca Municipal tem programação com cinema, literatura e música no sábado, 22/08",
+        "traffic": "Portal do Município de Piracicaba"
+      },
+      {
+        "title": "Roberta Campos apresenta show gratuito em Campinas dentro da Semana da Música",
+        "traffic": "Prefeitura de Campinas"
+      },
+      {
+        "title": "Semana de cinema negro de Belo Horizonte é cancelada por falta de patrocínio",
+        "traffic": "Alma Preta Jornalismo"
+      },
+      {
+        "title": "Papa: na liturgia, a música não é decoração, cantar e tocar significa rezar",
+        "traffic": "Vatican News"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Uma icônica empresa de música e vídeo por correspondência está fechando",
+        "original": "An iconic mail-order music and video company is shutting down",
+        "traffic": "NPR"
+      },
+      {
+        "title": "2026 Little League World Series: programação completa, como assistir aos jogos",
+        "original": "2026 Little League World Series: Full schedule, how to watch games",
+        "traffic": "Yahoo Esportes"
+      },
+      {
+        "title": "A famosa lista de aniversários de hoje para 19 de agosto de 2026 inclui as celebridades John Stamos, Lee Ann Womack",
+        "original": "Today’s famous birthdays list for August 19, 2026 includes celebrities John Stamos, Lee Ann Womack",
+        "traffic": "Cleveland.com"
+      },
+      {
+        "title": "Resultados da semana 2 + scorecards | 10ª temporada da série Contender de Dana White",
+        "original": "Week 2 Results + Scorecards | Dana White's Contender Series Season 10",
+        "traffic": "UFC. com"
+      },
+      {
+        "title": "Papa em audiência: A música sacra é para glorificar a Deus e santificar os fiéis",
+        "original": "Pope at Audience: Sacred music is to glorify God and sanctify the faithful",
+        "traffic": "Notícias do Vaticano"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-18",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Quando ouvir música era um esporte coletivo",
         "original": "When Listening to Music Was a Team Sport",
         "traffic": "O jornal New York Times"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-20",
-    "trends_br": [
-      {
-        "title": "SHOW DO INTERVALO 🎶 Mais um rolê aleatório de Ronaldinho Gaúcho! Desta vez o craque apareceu ao lado de Madonna e Ronaldo Fenômeno na final da Copa do Mundo. ⁣ ⁣ Além dos jogadores brasileiros e da cantora pop, BTS, Shakira e Justin Bieb",
-        "traffic": "instagram.com"
-      },
-      {
-        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 20 a 25 de julho",
-        "traffic": "Globo"
-      },
-      {
-        "title": "Beyoncé, Timothée Chalamet e Matt Damon: famosos prestigiam final da Copa nos EUA",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Show do intervalo da final da Copa tem Madonna com Ronaldo e Ronaldinho Gaúcho e homenagem a Pelé",
-        "traffic": "BBC"
-      },
-      {
-        "title": "‘Quem Ama Cuida’: O que acontece na novela nesta semana? Veja o resumo",
-        "traffic": "Estadão"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "De Tom Brady a Elmo, quem foram as celebridades da final da Copa do Mundo? - O Atlético",
-        "original": "From Tom Brady to Elmo, who were the celebrities at the World Cup final? - The Athletic",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "AMC Entertainment Holdings, Inc. informa os resultados do segundo trimestre de 2026, entregando a maior receita trimestral e EBITDA ajustado em seus 106 anos de história",
-        "original": "AMC Entertainment Holdings, Inc. Reports Second Quarter 2026 Results, Delivering the Highest Quarterly Revenue and Adjusted EBITDA in Its 106-Year History",
-        "traffic": "AMC Entertainment Holdings, Inc."
-      },
-      {
-        "title": "Jelly Roll lança novo videoclipe de 'Hands Up' filmado dentro do San Quentin Rehabilitation Center - ABC News",
-        "original": "Jelly Roll releases new 'Hands Up' music video filmed inside San Quentin Rehabilitation Center - ABC News",
-        "traffic": "Notícias de última hora, últimas notícias e vídeos"
-      },
-      {
-        "title": "Três conclusões da difícil derrota do Rangers na série para o Braves",
-        "original": "Three takeaways from Rangers' tough series loss to Braves",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "4 conclusões da série dos Dodgers vencem os Yankees no Bronx",
-        "original": "4 Takeaways From The Dodgers' Series Win Over The Yankees In The Bronx",
-        "traffic": "FOX Esportes"
       }
     ],
     "yt_br": [],
