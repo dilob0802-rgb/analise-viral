@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-22",
+    "trends_br": [
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 22 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Festa do Peão de Barretos 2026: famosos marcam presença no segundo dia do festival",
+        "traffic": "Gshow"
+      },
+      {
+        "title": "Memphis Depay lança clipe de música nova com Parque São Jorge 'em chamas'; veja",
+        "traffic": "ESPN Brasil"
+      },
+      {
+        "title": "Sábado tem rock, cinema e atrações culturais no ES",
+        "traffic": "ES Brasil"
+      },
+      {
+        "title": "NitTrans prepara operação especial de trânsito para show de Anitta no Caminho Niemeyer",
+        "traffic": "Prefeitura Municipal de Niterói"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Little League Baseball® World Series – Recapitulação do Jogo 11",
+        "original": "Little League Baseball® World Series – Game 11 Recap",
+        "traffic": "Liga Infantil"
+      },
+      {
+        "title": "Atualizações ao vivo da Little League World Series: pontuações de 22 de agosto, chave, horários de TV",
+        "original": "Little League World Series live updates: Aug. 22 scores, bracket, TV times",
+        "traffic": "Yahoo Esportes"
+      },
+      {
+        "title": "Novos detalhes sobre professor particular de música de Oregon City acusado de estuprar criança revelados no tribunal",
+        "original": "New details about Oregon City private music teacher accused of raping child revealed in court",
+        "traffic": "KPTV"
+      },
+      {
+        "title": "NASCAR em New Hampshire: principais informações, links e resultados para o fim de semana de corrida",
+        "original": "NASCAR at New Hampshire: Key info, links, results for race weekend",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Novos documentos detalham a decisão do VOA Country Music Fest de deixar West Chester",
+        "original": "New documents detail decision for VOA Country Music Fest to leave West Chester",
+        "traffic": "WLWT"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-21",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Executivo musical da Nike acusado de executar esquema de roubo de mais de US$ 1 milhão internamente",
         "original": "Nike music exec accused of running $1M+ theft scheme from within",
         "traffic": "KPTV"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-23",
-    "trends_br": [
-      {
-        "title": "Cinema Walmir Almeida reúne drama, documentário e épico A Odisseia em nova programação",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "“Cineminha” da Cultura leva entretenimento e incentivo à leitura ao Jaime Seiti Fujii",
-        "traffic": "Prefeitura de Lucas do Rio Verde"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 23 de julho",
-        "traffic": "noticiasdatv.uol.com.br"
-      },
-      {
-        "title": "Médico e paciente cantam antes de cirurgia e dão show em hospital: ‘Quem sabe canta ao vivo’",
-        "traffic": "G1"
-      },
-      {
-        "title": "Apple se une à Televisa para criar novela vertical mexicana",
-        "traffic": "Meio e Mensagem"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Tepper Sports & Entertainment revela novas representações das reformas dos estádios do Bank of America",
-        "original": "Tepper Sports & Entertainment Unveils New Renderings of Bank of America Stadium Renovations",
-        "traffic": "Charlotte FC"
-      },
-      {
-        "title": "Bank of America e Carolina Panthers estendem direitos de nomenclatura para o estádio do Bank of America, reforçando o compromisso de longo prazo com Charlotte e as Carolinas",
-        "original": "Bank of America and Carolina Panthers Extend Naming Rights for Bank of America Stadium, Reinforcing Long-Term Commitment to Charlotte and the Carolinas",
-        "traffic": "Carolina Panteras"
-      },
-      {
-        "title": "Northwest Tune-Up Bike and Music Festival traz grandes shows e sets altos para Bellingham",
-        "original": "Northwest Tune-Up Bike and Music Festival Brings Big Air and Loud Sets to Bellingham",
-        "traffic": "Revista Seattle"
-      },
-      {
-        "title": "Music Center recebe subsídio de US$ 5.000 para o primeiro festival de artes de Notre Dame",
-        "original": "Music Center awarded $5,000 grant for Notre Dame’s first arts festival",
-        "traffic": "Colégio Goshen"
-      },
-      {
-        "title": "Uma orquestra ao ar livre e uma música pop engraçada sobre Shakespeare: 4 escolhas artísticas para a sua semana",
-        "original": "An Outdoor Orchestra and a Funny Pop Music Take on Shakespeare: 4 Arts Picks for Your Week",
-        "traffic": "Notícias WTTW"
       }
     ],
     "yt_br": [],
