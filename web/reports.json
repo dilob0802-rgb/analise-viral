@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-23",
+    "trends_br": [
+      {
+        "title": "Anitta: Saiba onde e quando assistir a show da turnê Equilibrivm na TV e no streaming",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Festival de Cinema de Gramado 2026: veja os vencedores da 54ª edição",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Aspirações da periferia na música embalam curtas no festival Kinoforum",
+        "traffic": "CartaCapital"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 24 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Confira a lista completa dos vencedores do Festival de Cinema de Gramado em 2026",
+        "traffic": "VEJA"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Little League Baseball® World Series – Recapitulação do Jogo 13",
+        "original": "Little League Baseball® World Series – Game 13 Recap",
+        "traffic": "Liga Infantil"
+      },
+      {
+        "title": "Craftsman Truck Series fará estreia no Bowman Gray Stadium em 2027",
+        "original": "Craftsman Truck Series to make Bowman Gray Stadium debut in 2027",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Programação da Little League World Series TV de 2026, jogos de hoje: domingo, 23 de agosto",
+        "original": "2026 Little League World Series TV schedule, games on today: Sunday, August 23",
+        "traffic": "Yahoo Esportes"
+      },
+      {
+        "title": "Câmera corporal mostra que agente federal foi ‘injustificado’ no tiroteio em Memphis, diz advogado",
+        "original": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Papa Leão chama a música sacra de “um tesouro de profundo valor”",
+        "original": "Pope Leo calls sacred music 'a treasure of profound value'",
+        "traffic": "Repórter Católico Nacional"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-22",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Nats esperançosos de Wild Card tratando set vs. D-backs como uma série pós-temporada",
         "original": "Wild Card-hopeful Nats treating set vs. D-backs like postseason series",
         "traffic": "MLB. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-24",
-    "trends_br": [
-      {
-        "title": "Adeus ao cinema",
-        "traffic": "Gazeta do Povo"
-      },
-      {
-        "title": "Show da Xuxa: veja horário, como chegar e possível setlist deste sábado",
-        "traffic": "Exame"
-      },
-      {
-        "title": "Outro Canal: Camila Morgado volta à Globo após dois anos para fazer vilã na próxima novela das seis",
-        "traffic": "UOL"
-      },
-      {
-        "title": "São Leopoldo Fest 2026 reúne música, teatro e dança em programação gratuita - Município de São Leopoldo - RS - São Leopoldo",
-        "traffic": "RS"
-      },
-      {
-        "title": "'Você não sabe o quanto eu caminhei': com direito a música no meio da plateia, Toni Garrido faz show versátil e sem preconceitos",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Série de verão: Chloe Conti",
-        "original": "Summer Series: Chloe Conti",
-        "traffic": "Atletismo da Universidade de Richmond"
-      },
-      {
-        "title": "Dodgers visitam a Casa Branca para comemorar títulos consecutivos da World Series",
-        "original": "Dodgers visit White House to celebrate back-to-back World Series titles",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "Uma IA Perguntas frequentes sobre música: Posso remixar Madonna? Isso é tudo legal?",
-        "original": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Yard Act: você vai precisar de uma pequena crítica do álbum musical",
-        "original": "Yard Act: You’re Gonna Need a Little Music Album Review",
-        "traffic": "Forcado"
-      },
-      {
-        "title": "Executivo musical da Nike acusado de executar esquema de roubo de mais de US$ 1 milhão internamente",
-        "original": "Nike music exec accused of running $1M+ theft scheme from within",
-        "traffic": "KPTV"
       }
     ],
     "yt_br": [],
