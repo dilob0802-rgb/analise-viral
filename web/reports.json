@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-25",
+    "trends_br": [
+      {
+        "title": "Lito Sousa: veja famosos que mandaram mensagem de apoio para influencer",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Academia Brasileira de Cinema divulga filmes que disputam vaga para representar o Brasil no Oscar",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Por Você: Próximo capítulo da novela, terça, 25 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Piracicaba, 259 anos: encerramento do mês de aniversário terá inaugurações, música, cultura e esporte",
+        "traffic": "Portal do Município de Piracicaba"
+      },
+      {
+        "title": "Espetáculo “A mulher que virou bode” une teatro, música e documentário para revisitar a trajetória da escritora Jurema Finamour",
+        "traffic": "cultura.rs.gov.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Little League Baseball® World Series – Game 24 Recap",
+        "original": "Little League Baseball® World Series – Game 24 Recap",
+        "traffic": "Little League"
+      },
+      {
+        "title": "Songs created by AI banned from Australia's music charts",
+        "original": "Songs created by AI banned from Australia's music charts",
+        "traffic": "BBC"
+      },
+      {
+        "title": "Olson Great Plains series highlights Black history on the Plains",
+        "original": "Olson Great Plains series highlights Black history on the Plains",
+        "traffic": "Nebraska Today"
+      },
+      {
+        "title": "Best new music: Death Valley Girls find love amid heavy loss",
+        "original": "Best new music: Death Valley Girls find love amid heavy loss",
+        "traffic": "Radio Milwaukee"
+      },
+      {
+        "title": "2026 NASCAR Cup Series entry list for Daytona International Speedway summer race",
+        "original": "2026 NASCAR Cup Series entry list for Daytona International Speedway summer race",
+        "traffic": "NASCAR.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-24",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Três estilos com uma coisa em comum: Boa música, 31 de julho no Troubadour",
         "original": "Three styles with one thing in common: Great music, July 31 at the Troubadour",
         "traffic": "Morristown Verde"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-26",
-    "trends_br": [
-      {
-        "title": "QUE SHOW DA XUXA É ESSE ✨🛸 Veja os registros 📷 do primeiro show da turnê O Último Voo da Nave, da Xuxa. O encontro foi Nubank Parque (antigo Allianz), em São Paulo, neste sábado, 25.⁣ ⁣ 🔗 Saiba mais detalhes em estadao.com.br",
-        "traffic": "instagram.com"
-      },
-      {
-        "title": "Xuxa fala de amor e tolerância em show de abertura da turnê 'O Último Voo da Nave'",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Teatro do Paço recebe música lírica nesta quarta-feira – CGNotícias",
-        "traffic": "campogrande.ms.gov.br"
-      },
-      {
-        "title": "Ryan Gosling é o novo 'Motoqueiro Fantasma' no cinema; saiba quem já interpretou o herói",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Festival de Cinema de Vitória fortalece inclusão e democratização no audiovisual",
-        "traffic": "Alma Preta Jornalismo"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "LIV Golfe | Site oficial, resultados, calendário, equipes e ingressos",
-        "original": "LIV Golf | Official site, scores, schedule, teams and tickets",
-        "traffic": "Golfe LIV"
-      },
-      {
-        "title": "Carson Kvapil conquista a primeira vitória da carreira na O’Reilly Series em Indianápolis",
-        "original": "Carson Kvapil scores first career O’Reilly Series win at Indianapolis",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Vídeo de vigilância mostra briga começando antes de um garoto de 12 anos ser atingido por uma bala fora da bodega do Bronx",
-        "original": "Surveillance video shows fight break out before 12-year-old struck by bullet outside Bronx bodega",
-        "traffic": "ABC7 Nova York"
-      },
-      {
-        "title": "Os americanos apostaram mais em jogos de azar esportivos do que gastaram em filmes, museus e música juntos",
-        "original": "Americans wagered more on sports gambling than they spent on movies, museums, and music combined",
-        "traffic": "Fortuna"
-      },
-      {
-        "title": "Comic-Con 2026: Aqui estão as maiores celebridades vistas no sábado em San Diego",
-        "original": "Comic-Con 2026: Here are the biggest celebrities spotted Saturday in San Diego",
-        "traffic": "San Diego Union-Tribune"
       }
     ],
     "yt_br": [],
