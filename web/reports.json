@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-26",
+    "trends_br": [
+      {
+        "title": "Xande de Pilares",
+        "traffic": "Sesc São Paulo"
+      },
+      {
+        "title": "Dolly Parton deixou música inédita em cápsula do tempo que só poderá ser aberta em 2045",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 26 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "“Agenda Cultural” traz atrações em música, sarau literário, cinema na zona rural e mais",
+        "traffic": "Prefeitura de Mossoró"
+      },
+      {
+        "title": "José Loreto disseca preparação intensa para viver Chorão no cinema",
+        "traffic": "Omelete"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Little League Baseball® World Series – Game 27 Recap",
+        "original": "Little League Baseball® World Series – Game 27 Recap",
+        "traffic": "Little League"
+      },
+      {
+        "title": "Harry Styles and the Residencies Taking Over the Music Industry",
+        "original": "Harry Styles and the Residencies Taking Over the Music Industry",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Dolly Parton, beloved music star, actor and philanthropist, dies at 80",
+        "original": "Dolly Parton, beloved music star, actor and philanthropist, dies at 80",
+        "traffic": "PBS"
+      },
+      {
+        "title": "Dolly Parton Movies Ranked by Tomatometer",
+        "original": "Dolly Parton Movies Ranked by Tomatometer",
+        "traffic": "Rotten Tomatoes"
+      },
+      {
+        "title": "Remembering Dolly Parton: A look at music icon's impact on Bay Area from LGBTQ community, human rights, and child literacy",
+        "original": "Remembering Dolly Parton: A look at music icon's impact on Bay Area from LGBTQ community, human rights, and child literacy",
+        "traffic": "ABC7 Bay Area"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-25",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Ariana Grande processa hackers por vazamento de músicas e filmagens inéditas",
         "original": "Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage",
         "traffic": "Variedade"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-27",
-    "trends_br": [
-      {
-        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 27 de julho a 1º de agosto",
-        "traffic": "Globo"
-      },
-      {
-        "title": "Johnny Marr, ex The Smiths, faz show em São Paulo em novembro",
-        "traffic": "Billboard Brasil"
-      },
-      {
-        "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Caxias recebe grande show do cantor Pablo em comemoração aos 203 anos da Adesão de Caxias à Independência do Brasil – Prefeitura Municipal de Caxias - Prefeitura de Caxias",
-        "traffic": "MA"
-      },
-      {
-        "title": "Festa de São Cristóvão encerra com grande show do Biquíni em Cabo Frio",
-        "traffic": "Prefeitura de Cabo Frio"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Notícias de Orioles: Outra série perdida",
-        "original": "Orioles news: Another lost series",
-        "traffic": "Bate-papo em Camden"
-      },
-      {
-        "title": "Tom Holland: Alguns dos meus filmes são ‘S—’ e você ‘não deveria’ assisti-los",
-        "original": "Tom Holland: Some of My Movies Are ‘S—‘ and You ‘Shouldn’t’ Watch Them",
-        "traffic": "Variedade"
-      },
-      {
-        "title": "Transporte marítimo no Mar Vermelho desacelera após ataque Houthi à Arábia Saudita, mostram dados",
-        "original": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows",
-        "traffic": "Reuters"
-      },
-      {
-        "title": "Faixa falsa de ‘I Did It’ enviada para o perfil hackeado do Apple Music do D4vd",
-        "original": "Fake ‘I Did It’ track uploaded to D4vd’s hacked Apple Music profile",
-        "traffic": "KTLA"
-      },
-      {
-        "title": "Três estilos com uma coisa em comum: Boa música, 31 de julho no Troubadour",
-        "original": "Three styles with one thing in common: Great music, July 31 at the Troubadour",
-        "traffic": "Morristown Verde"
       }
     ],
     "yt_br": [],
