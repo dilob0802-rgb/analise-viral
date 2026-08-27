@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-27",
+    "trends_br": [
+      {
+        "title": "Resumo de Avenida Brasil: Próximo capítulo da novela, sexta, 28 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Humorista Marco Luque apresenta show “É disso que eu tô falando” em setembro no Teatro Mario Covas",
+        "traffic": "Prefeitura de Caraguatatuba"
+      },
+      {
+        "title": "Projeto ‘Um Canto no Botânico’ terá abertura da 18ª temporada com show de Pedro do Cordel e Bando neste domingo",
+        "traffic": "Prefeitura de Bauru"
+      },
+      {
+        "title": "SP Gastronomia volta ao Parque Villa-Lobos com show de Gabriel O Pensador e cerveja 'liberada' no começo da noite",
+        "traffic": "Valor Econômico"
+      },
+      {
+        "title": "Penedo Sabor & Jazz promove aula-show exclusiva para merendeiras da rede municipal",
+        "traffic": "Prefeitura de Penedo / AL"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Iowa eliminado da Little League World Series",
+        "original": "Iowa eliminated from Little League World Series",
+        "traffic": "KWQC"
+      },
+      {
+        "title": "VCSU Music apresentando \"Clarinet Day\" em 23 de setembro",
+        "original": "VCSU Music Hosting \"Clarinet Day\" on Sept. 23",
+        "traffic": "Universidade Estadual de Valley City"
+      },
+      {
+        "title": "SB Nation Reacts: Os fãs dos Cubs querem os Diamondbacks em uma série Wild Card. Você tem certeza disso?",
+        "original": "SB Nation Reacts: Cubs fans want the Diamondbacks in a Wild Card series. You sure about that?",
+        "traffic": "Sangrar Cubbie Azul"
+      },
+      {
+        "title": "15 noites de comédia pouco conhecidas em Los Angeles que farão você rir alto",
+        "original": "15 under-the-radar L.A. comedy nights that’ll make you laugh out loud",
+        "traffic": "Los Angeles Times"
+      },
+      {
+        "title": "Taylor Swift lança videoclipe animado como 'Toy Story 5' definido para streaming - ABC News",
+        "original": "Taylor Swift drops animated music video as 'Toy Story 5' set for streaming - ABC News",
+        "traffic": "Notícias de última hora, últimas notícias e vídeos"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-26",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "A série vencedora do Emmy da Apple TV, “Ted Lasso”, retorna ao campo no trailer da quarta temporada",
         "original": "Apple TV’s Emmy Award-winning series “Ted Lasso” returns to the pitch in season four trailer",
         "traffic": "Maçã"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-28",
-    "trends_br": [
-      {
-        "title": "Xuxa rebate críticas por look cavado em show: \"Voo da virilha\"",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Espetáculo da Orquestra Filarmônica Inclusiva 2026 reúne clássicos do cinema e do teatro",
-        "traffic": "Prefeitura Municipal de Jacareí"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 27 de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Quando um tênis vira objeto de desejo e entretenimento",
-        "traffic": "Valor Econômico"
-      },
-      {
-        "title": "Vem aí show de Adilson Ramos em celebração ao Dia dos Pais",
-        "traffic": "RioMar Recife"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Ariana Grande processa hackers que supostamente venderam músicas e fotos inéditas online",
-        "original": "Ariana Grande sues hackers who allegedly sold unreleased music and photos online",
-        "traffic": "O Guardião"
-      },
-      {
-        "title": "Macon: a cidade musical mais subestimada da América",
-        "original": "Macon: America’s Most Underrated Music Town",
-        "traffic": "Postagem de sábado à noite"
-      },
-      {
-        "title": "Ted Lasso to The Shards: 10 dos melhores programas de TV para assistir em agosto",
-        "original": "Ted Lasso to The Shards: 10 of the best TV shows to watch this August",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Regina Hall se junta a Dwayne Johnson em ‘Lizard Music’ de Benny Safdie, da United Artists e Amazon MGM Studios",
-        "original": "Regina Hall Joins Dwayne Johnson In Benny Safdie’s ‘Lizard Music’ From United Artists And Amazon MGM Studios",
-        "traffic": "Prazo final"
-      },
-      {
-        "title": "Ariana Grande processa hackers por vazamento de músicas e filmagens inéditas",
-        "original": "Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage",
-        "traffic": "Variedade"
       }
     ],
     "yt_br": [],
