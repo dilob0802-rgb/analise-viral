@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-28",
+    "trends_br": [
+      {
+        "title": "Resumo da novela Avenida Brasil, de 31/08/2026 a 04/09/2026",
+        "traffic": "NaTelinha"
+      },
+      {
+        "title": "Ruas do cinema",
+        "traffic": "Sesc São Paulo"
+      },
+      {
+        "title": "Teatro Mario Covas recebe show “Raul Seixas Cover” em setembro",
+        "traffic": "Prefeitura de Caraguatatuba"
+      },
+      {
+        "title": "Festival de Música Instrumental de Araçatuba é aberto com o show Encontros Instrumentais, projeto do Selo Sesc",
+        "traffic": "Prefeitura Municipal de Araçatuba"
+      },
+      {
+        "title": "Getúlio Abelha anuncia show no Rock in Rio 2026 e celebra: 'É um lugar ao qual pertenço'",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "A New Series from the Manifest World Is Arriving",
+        "original": "A New Series from the Manifest World Is Arriving",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "The School of Performing Arts announces its fall season of music, theatre, and cinema",
+        "original": "The School of Performing Arts announces its fall season of music, theatre, and cinema",
+        "traffic": "Virginia Tech News"
+      },
+      {
+        "title": "Rivalry renewed as Red Sox, Yankees meet with October stakes",
+        "original": "Rivalry renewed as Red Sox, Yankees meet with October stakes",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Our Most Anticipated Movies of Fall and Winter",
+        "original": "Our Most Anticipated Movies of Fall and Winter",
+        "traffic": "Sojourners"
+      },
+      {
+        "title": "Braves vs. Dodgers series recap: A spectacularly strange sweep",
+        "original": "Braves vs. Dodgers series recap: A spectacularly strange sweep",
+        "traffic": "Battery Power"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-27",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Nossa música local favorita que ouvimos em julho",
         "original": "Our favorite local music we heard in July",
         "traffic": "WBUR"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-29",
-    "trends_br": [
-      {
-        "title": "Show histórico de Frei Gilson atrai cerca de 100 mil pessoas à Navegantes",
-        "traffic": "Prefeitura de Navegantes -"
-      },
-      {
-        "title": "Teatro Aracy Balabanian sedia show da BatuqueCanta – CGNotícias",
-        "traffic": "campogrande.ms.gov.br"
-      },
-      {
-        "title": "Ingressos para o show do Jão: pré-venda abre hoje; veja preços e setores",
-        "traffic": "Exame"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 29 de julho",
-        "traffic": "noticiasdatv.uol.com.br"
-      },
-      {
-        "title": "Menina de 3 anos impressiona em show ao cantar clássico sertanejo do Chico Rey e Paraná: 'Goiânia é diferenciado'",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Recapitulando um fim de semana de música ao vivo em Vermont",
-        "original": "Recapping a Weekend of Live Music in Vermont",
-        "traffic": "Sete dias em Vermont"
-      },
-      {
-        "title": "Uma educadora musical leva sua carreira para o próximo nível (VÍDEO)",
-        "original": "A music educator takes her career to the next level (VIDEO)",
-        "traffic": "UT San Antonio hoje"
-      },
-      {
-        "title": "EXCLUSIVO: Unilever concorda com proteção de dois anos ao trabalhador após fusão de US$ 65 bilhões com McCormick, mostra memorando",
-        "original": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows",
-        "traffic": "Reuters"
-      },
-      {
-        "title": "Recomendações de música ao vivo na área de Chicago para 29 de julho a agosto. 4",
-        "original": "Chicago-Area Live Music Recommendations for July 29-Aug. 4",
-        "traffic": "Notícias WTTW"
-      },
-      {
-        "title": "A série vencedora do Emmy da Apple TV, “Ted Lasso”, retorna ao campo no trailer da quarta temporada",
-        "original": "Apple TV’s Emmy Award-winning series “Ted Lasso” returns to the pitch in season four trailer",
-        "traffic": "Maçã"
       }
     ],
     "yt_br": [],
