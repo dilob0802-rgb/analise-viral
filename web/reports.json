@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-29",
+    "trends_br": [
+      {
+        "title": "Harry Potter E A Pedra Filosofal (Relançamento)",
+        "traffic": "Ingresso.com"
+      },
+      {
+        "title": "Casamento de Ana Hickmann e Edu Guedes terá show do Double You",
+        "traffic": "UOL"
+      },
+      {
+        "title": "‘O Brasil precisa entender que Rock Doido é música pop da Amazônia’, afirma Gaby Amarantos",
+        "traffic": "Brasil de Fato"
+      },
+      {
+        "title": "Zezé Di Camargo surpreende fãs com 'after' ao amanhecer na Festa do Peão de Barretos 2026",
+        "traffic": "G1"
+      },
+      {
+        "title": "Museu Audiovisual da UFF propõe viagem no tempo pela história do cinema",
+        "traffic": "A Tribuna RJ"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Olivia Rodrigo será a atração principal do Daisy Chain Fields, festival de música com programação exclusivamente feminina em Irvine hoje",
+        "original": "Olivia Rodrigo to headline Daisy Chain Fields, music festival with an all-women lineup in Irvine today",
+        "traffic": "ABC7 Los Angeles"
+      },
+      {
+        "title": "Conjunto de campo Chase da série 2026 O'Reilly Auto Parts",
+        "original": "2026 O’Reilly Auto Parts Series Chase field set",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Little League World Series chega às quatro finais neste fim de semana",
+        "original": "Little League World Series reaches final four this weekend",
+        "traffic": "Northeast Times"
+      },
+      {
+        "title": "September At SALA Brings Movies, Community Events, Science, Music And More To Los Alamos",
+        "original": "September At SALA Brings Movies, Community Events, Science, Music And More To Los Alamos",
+        "traffic": "Los Alamos Reporter"
+      },
+      {
+        "title": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+        "original": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+        "traffic": "O jornal New York Times"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-28",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Punch Brothers se apresentarão no Goshen College Music Center",
         "original": "Punch Brothers to perform at Goshen College Music Center",
         "traffic": "Colégio Goshen"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-30",
-    "trends_br": [
-      {
-        "title": "Derrota na Justiça pode custar milhões ao príncipe Harry e outras celebridades britânicas",
-        "traffic": "G1"
-      },
-      {
-        "title": "Portal UFS - UFS recebe 5º Festival Internacional de Cinema de Itabaiana e abre credenciamento para a imprensa",
-        "traffic": "ufs.br"
-      },
-      {
-        "title": "Empresários da pesca esportiva de Corumbá participam da Fishing Show Brasil 2026",
-        "traffic": "Município de Corumbá"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 30 de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "A beleza da música conduz ao encontro com Deus, afirma Papa",
-        "traffic": "noticias.cancaonova.com"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Guia do elenco do bombardeio da Pan Am 103: conheça os investigadores e os habitantes da cidade",
-        "original": "The Bombing of Pan Am 103 Cast Guide: Meet the Investigators and Townspeople",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "Passeios em Arlington: curta música ao vivo, faça compras em um mercado infantil ou assista a um jogo de basquete",
-        "original": "Out and About in Arlington: Jam out to live music, shop at a kid-run market, or catch a basketball game",
-        "traffic": "Relatório de Fort Worth"
-      },
-      {
-        "title": "Glen Hansard: um trovador incansável e caloroso cuja música uniu as pessoas",
-        "original": "Glen Hansard: a tireless, warm-hearted troubadour whose music brought people together",
-        "traffic": "A conversa"
-      },
-      {
-        "title": "Incêndio ocorre no canteiro de obras do Farmer Music Center de Cincinnati",
-        "original": "Fire breaks out at construction site for Cincinnati's Farmer Music Center",
-        "traffic": "WLWT"
-      },
-      {
-        "title": "Nossa música local favorita que ouvimos em julho",
-        "original": "Our favorite local music we heard in July",
-        "traffic": "WBUR"
       }
     ],
     "yt_br": [],
