@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-30",
+    "trends_br": [
+      {
+        "title": "O que aconteceu em show de MC Pipokinha em MS que terminou em condenação de R$ 100 mil",
+        "traffic": "G1"
+      },
+      {
+        "title": "Flashback reúne gerações com música e dança no Horto – CGNotícias",
+        "traffic": "Prefeitura de Campo Grande"
+      },
+      {
+        "title": "Temos que falar de sexo, diz Luisa Arraes, protagonista de filme de humor em motel",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Os famosos ‘quem’: defensores de famosos ganham notoriedade por ‘osmose’",
+        "traffic": "VEJA"
+      },
+      {
+        "title": "Falta uma semana para 1º show de Maroon 5 no Brasil: veja tudo o que você precisa saber sobre o evento",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Campo Chase da NASCAR Cup Series 2026 definido após Daytona",
+        "original": "2026 NASCAR Cup Series Chase field set after Daytona",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "OPINIÃO: Como a música transformou minha experiência universitária",
+        "original": "OPINION: How music has transformed my college experience",
+        "traffic": "Estudante Diário de Indiana"
+      },
+      {
+        "title": "O mundo da música country abalou quando a lenda morreu durante o sono aos 89: ‘É o fim de uma era’",
+        "original": "Country music world rocked as legend dies in his sleep at 89: ‘It’s the end of an era’",
+        "traffic": "PennLive. com"
+      },
+      {
+        "title": "Editoras musicais processam a Anthropic, alegando “roubo flagrante” de músicas protegidas por direitos autorais",
+        "original": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+        "traffic": "Eixos"
+      },
+      {
+        "title": "Série Jon Sumrall, Parte II: O Ball Boy Texarkana que se esforçou em tudo",
+        "original": "Jon Sumrall Series, Part II: The Texarkana Ball Boy Who Went Hard at Everything",
+        "traffic": "Jacarés da Flórida"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-29",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Estrela da música country chora e termina show mais cedo: ‘Simplesmente não posso fazer esse show hoje à noite’",
         "original": "Country music star cries, ends concert early: ‘Just can’t play this show tonight’",
         "traffic": "AL.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-07-31",
-    "trends_br": [
-      {
-        "title": "Daddy issues: relembre famosos que, assim como Tom Cruise, tiveram problemas familiares",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sexta, 31 de julho",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Edgar Scandurra 45 anos de música",
-        "traffic": "Senado"
-      },
-      {
-        "title": "FIM DE SEMANA INESQUECÍVEL: SOL, MÚSICA E ANIMAÇÃO TOMAM CONTA DAS PRAIAS DO MANGAL E DA MATINHA",
-        "traffic": "Prefeitura Municipal de Tucuruí"
-      },
-      {
-        "title": "Grandes festivais revisitam álbuns clássicos e celebram história da música",
-        "traffic": "VEJA RIO"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Ações da Universal Music caminham para o pior dia desde o IPO após o crescimento das assinaturas decepcionar",
-        "original": "Universal Music Shares Head for Worst Day Since IPO After Subscription Growth Disappoints",
-        "traffic": "WSJ"
-      },
-      {
-        "title": "As ações da Universal Music perderam um quarto do valor devido a preocupações com streaming",
-        "original": "Universal Music shares shed quarter of value on streaming concerns",
-        "traffic": "Reuters"
-      },
-      {
-        "title": "Cape Cod Chamber Music Festival aos 47 anos: variedade, intimidade e uma pitada de jazz",
-        "original": "Cape Cod Chamber Music Festival at 47: Variety, Intimacy, and a Dash of Jazz",
-        "traffic": "O Inteligência Musical de Boston"
-      },
-      {
-        "title": "A música fica diferente quando o andaime da percussão é removido",
-        "original": "Music stands differently when the scaffolding of percussion is removed",
-        "traffic": "Santa Fé Novo Mexicano"
-      },
-      {
-        "title": "Punch Brothers se apresentarão no Goshen College Music Center",
-        "original": "Punch Brothers to perform at Goshen College Music Center",
-        "traffic": "Colégio Goshen"
       }
     ],
     "yt_br": [],
