@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-08-31",
+    "trends_br": [
+      {
+        "title": "Semana do Cinema 2026 oferece ingressos a R$ 10 em salas de todo o país; saiba como participar",
+        "traffic": "Ingresso.com"
+      },
+      {
+        "title": "Campinas/SP: encontro histórico da música litúrgica no Brasil com mons. Frisina",
+        "traffic": "Vatican News"
+      },
+      {
+        "title": "Participante da 'Dança dos Famosos' expõe incoerência do júri e vontade de desistir",
+        "traffic": "Terra"
+      },
+      {
+        "title": "Resumo de Avenida Brasil: Próximo capítulo da novela, segunda, 31 de agosto",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "SUMÉ PB – VI Mostra Sumé de Cinema promove cinco dias de programação com cinema, formação, cultura e debate sobre a memória dos cinemas de rua - Prefeitura de Sumé",
+        "traffic": "PB"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Equipes combatem fogo no Music Hall em Detroit",
+        "original": "Crews battle fire at Music Hall in Detroit",
+        "traffic": "ClickOnDetroit | WDIV Local 4"
+      },
+      {
+        "title": "Sony e Warner Music processam Anthropic por músicas usadas em treinamento de IA",
+        "original": "Sony, Warner Music sue Anthropic over songs used in AI training",
+        "traffic": "Reuters"
+      },
+      {
+        "title": "Shows de sucesso do festival Fringe de Edimburgo estão chegando à América. Aqui estão nossas principais escolhas",
+        "original": "Hit shows from Edinburgh’s Fringe festival are coming to America. Here are our top picks",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Novos lançamentos da Disney+ em setembro de 2026 | Novos filmes e programas para assistir",
+        "original": "Disney+ New Releases In September 2026 | New Movies & Shows to Watch",
+        "traffic": "Disney Plus"
+      },
+      {
+        "title": "Série do 30º Aniversário: Jogos Essenciais",
+        "original": "30th Anniversary Series: Essential Games",
+        "traffic": "Atletismo da USF"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-30",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Locais de música indie da Austrália fecham à medida que os custos aumentam e o público cai",
         "original": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
         "traffic": "O jornal New York Times"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-01",
-    "trends_br": [
-      {
-        "title": "'Xuxa - O Último Voo da Nave' ganha show extra em São Paulo após apresentações com ingressos esgotados",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Feriado de aniversário de Bauru terá diversas atrações, espetáculo infantil 3 Palavrinhas e show com Dilsinho neste sábado",
-        "traffic": "Prefeitura Municipal de Bauru"
-      },
-      {
-        "title": "A Carreira de Clint Eastwood: De Ator Subestimado a Mestre do Cinema",
-        "traffic": "Forbes Brasil"
-      },
-      {
-        "title": "Kid Abelha - Salvador - 01/08/2026 - Venda Geral",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 1º de agosto",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Novos lançamentos na Disney +, Hulu, ESPN em agosto de 2026 | Novos filmes e programas | Explorar Disney+",
-        "original": "New Releases on Disney+, Hulu, ESPN In August 2026 | New Movies & Shows | Explore Disney+",
-        "traffic": "Disney Plus"
-      },
-      {
-        "title": "Conheça as 12 equipes que competem na Little League Softball® World Series de 2026, apresentada pela DICK'S Sporting Goods",
-        "original": "Meet the 12 Teams Competing at the 2026 Little League Softball® World Series, Presented by DICK'S Sporting Goods",
-        "traffic": "Liga Infantil"
-      },
-      {
-        "title": "Tom Corson promovido a diretor de operações do Warner Music Group",
-        "original": "Tom Corson Promoted to Chief Operating Officer at Warner Music Group",
-        "traffic": "Variedade"
-      },
-      {
-        "title": "Astros vencem o Rangers e assumem a liderança da divisão, série da temporada contra o rival",
-        "original": "Astros beat Rangers to take division lead, season series against rival",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "Estrela da música country chora e termina show mais cedo: ‘Simplesmente não posso fazer esse show hoje à noite’",
-        "original": "Country music star cries, ends concert early: ‘Just can’t play this show tonight’",
-        "traffic": "AL.com"
       }
     ],
     "yt_br": [],
