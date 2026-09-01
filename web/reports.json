@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-01",
+    "trends_br": [
+      {
+        "title": "Escola de Música Villa-Lobos abre vagas para Oficinas Criativas em Joinville",
+        "traffic": "Prefeitura de Joinville"
+      },
+      {
+        "title": "Resumo Quem Ama Cuida: tudo sobre a novela de 01 a 05/09",
+        "traffic": "Terra"
+      },
+      {
+        "title": "Projeto Gira Musical abre inscrições para oficina gratuita “Direito Autoral, Música e Trilha Sonora”",
+        "traffic": "cultura.rs.gov.br"
+      },
+      {
+        "title": "Sonoridades afro-brasileiras marcam show no Teatro Raul Belém Machado",
+        "traffic": "Prefeitura de Belo Horizonte"
+      },
+      {
+        "title": "Gean Pankararu apresenta show gratuito em Pelotas",
+        "traffic": "sesc-rs.com.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Crítica: Quarteto PRISM \"Gerar Música\"",
+        "original": "Review: PRISM Quartet \"Generate Music\"",
+        "traffic": "Eu me importo se você ouvir"
+      },
+      {
+        "title": "Os 50 filmes mais esperados do outono de 2026",
+        "original": "The 50 Most Anticipated Movies of Fall 2026",
+        "traffic": "Pedra rolando"
+      },
+      {
+        "title": "Daisy Chain Fields de Olivia Rodrigo: um novo festival de música feminista toma forma",
+        "original": "Olivia Rodrigo’s Daisy Chain Fields: A New Feminist Music Festival Takes Shape",
+        "traffic": "nytimes. com"
+      },
+      {
+        "title": "Série Jon Sumrall, Parte IV: A vida de um treinador nascido em Kentucky",
+        "original": "Jon Sumrall Series, Part IV: A Coach's Life Born In Kentucky",
+        "traffic": "Jacarés da Flórida"
+      },
+      {
+        "title": "A carteira de pedidos do Medicaid no Texas cresce para mais de 210.000, mostram dados estaduais",
+        "original": "Texas’ Medicaid application backlog grows to more than 210,000, state data shows",
+        "traffic": "Mídia Pública de Houston"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-08-31",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Exclusivo: Newsom mostra força na arrecadação de fundos para partidos estaduais",
         "original": "Exclusive: Newsom shows fundraising muscle for state parties",
         "traffic": "Eixos"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-02",
-    "trends_br": [
-      {
-        "title": "Anitta usa body ultracavado durante show em Porto Alegre; veja fotos",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 3 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Show com Ana Castela encerra a festa de aniversário de Bauru neste domingo",
-        "traffic": "Prefeitura Municipal de Bauru"
-      },
-      {
-        "title": "Kid Abelha - Salvador - 01/08/2026 - Venda Geral",
-        "traffic": "ticketmaster.com.br"
-      },
-      {
-        "title": "Cine Walmir Almeida receberá Mostra de Cinema Espanhol com entrada franca",
-        "traffic": "Infonet"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Novos lançamentos na Disney +, Hulu, ESPN em agosto de 2026 | Novos filmes e programas | Explorar Disney+",
-        "original": "New Releases on Disney+, Hulu, ESPN In August 2026 | New Movies & Shows | Explore Disney+",
-        "traffic": "Disney Plus"
-      },
-      {
-        "title": "Filmes para assistir antes de ‘Homem-Aranha: Novo Dia’",
-        "original": "Movies To Watch Before ‘Spider-Man: Brand New Day’",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "Por que os melhores filmes de esqui são feitos em um estacionamento atrás do 11/07",
-        "original": "Why the Best Ski Movies Are Made in a Parking Lot Behind 7/11",
-        "traffic": "Revista PÓ"
-      },
-      {
-        "title": "O mundo da música country abalado por mais 2 mortes: a lista dos perdidos em 2026 sobe para 23",
-        "original": "Country music world rocked by 2 more deaths: List of those lost in 2026 surges to 23",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "Locais de música indie da Austrália fecham à medida que os custos aumentam e o público cai",
-        "original": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-        "traffic": "O jornal New York Times"
       }
     ],
     "yt_br": [],
