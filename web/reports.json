@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-02",
+    "trends_br": [
+      {
+        "title": "Gracindo Jr. morre no Rio: famosos prestam homenagens ao ator e diretor",
+        "traffic": "g1.globo.com"
+      },
+      {
+        "title": "Rainer Cadete faz show de MPB e diz que vai levar a música a sério",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Famosos lamentam morte do ator Gracindo Jr.",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Alegrete celebra 80 anos do Sesc e Senac com mateada e música na Praça Getúlio Vargas em Alegrete",
+        "traffic": "Sesc/RS"
+      },
+      {
+        "title": "Centro Cultural São Paulo, onde é possível dançar e aprender conforme a música",
+        "traffic": "Prefeitura de São Paulo"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Os 20 novos programas de TV mais esperados do outono",
+        "original": "The 20 Most Anticipated New TV Shows of Fall",
+        "traffic": "Pedra rolando"
+      },
+      {
+        "title": "Finais da World Series of Darts 2026: programação, prêmio em dinheiro, local, datas, mais",
+        "original": "World Series of Darts Finals 2026: Schedule, prize money, venue, dates, more",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Série de concertos do Centenário retorna ao Centro de Visitantes da Rota 66",
+        "original": "Centennial Concert Series Returns to Route 66 Visitor Center",
+        "traffic": "cabq.gov"
+      },
+      {
+        "title": "Deacs mais bem classificados começarão a Road Series em Tampa",
+        "original": "Top-Ranked Deacs to Begin Road Series in Tampa",
+        "traffic": "Atletismo da Universidade Wake Forest"
+      },
+      {
+        "title": "Os bolsistas da Band of Blue conhecem os doadores por trás da música",
+        "original": "Band of Blue scholarship recipients meet the donors behind the music",
+        "traffic": "Notícias MTSU"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-01",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "O popular Collage Concert da KU School of Music retorna em 25 de setembro para apoiar estudantes de música",
         "original": "KU School of Music’s popular Collage Concert returns Sept. 25 to support music students",
         "traffic": "Notícias KU"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-03",
-    "trends_br": [
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 3 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "O novo jabá: como influenciadores ganham para viralizar músicas sem você saber",
-        "traffic": "g1.globo.com"
-      },
-      {
-        "title": "Prefeitura de Salto abre inscrições para o Festival de Música Gospel de Salto",
-        "traffic": "Prefeitura da Estância Turística de Salto"
-      },
-      {
-        "title": "País da Música – Rua do Norte encerra programação do Pernambuco Meu País com diversidade de ritmos em Gravatá",
-        "traffic": "Prefeitura de Gravatá"
-      },
-      {
-        "title": "DENILSON SHOW TENTOU CRITICAR NOTA DO VARMEIRAS, MAS NÃO SE INFORMOU QUEM PROVOCOU PRIMEIRO!",
-        "traffic": "instagram.com"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Century Music Hall divulga comunicado sobre fechamento",
-        "original": "Century Music Hall releases statement on closure",
-        "traffic": "DESCANSO 15"
-      },
-      {
-        "title": "Começam as vendas individuais da série Music Center Performing Arts",
-        "original": "Individual sales for Music Center Performing Arts Series begin",
-        "traffic": "Colégio Goshen"
-      },
-      {
-        "title": "Falando sobre novas músicas de Milwaukee com Lake Effect do WUWM (julho de 2026)",
-        "original": "Talking new Milwaukee music with WUWM’s Lake Effect (July 2026)",
-        "traffic": "Registro de Milwaukee"
-      },
-      {
-        "title": "GUIA DE SOBREVIVÊNCIA DA MSU: Bandas lideradas por estudantes oferecem oportunidades de música ao vivo para a MSU",
-        "original": "MSU SURVIVAL GUIDE: Student-led bands provide live music opportunities for MSU",
-        "traffic": "As notícias do estado"
-      },
-      {
-        "title": "Exclusivo: Newsom mostra força na arrecadação de fundos para partidos estaduais",
-        "original": "Exclusive: Newsom shows fundraising muscle for state parties",
-        "traffic": "Eixos"
       }
     ],
     "yt_br": [],
