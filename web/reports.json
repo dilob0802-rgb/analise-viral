@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-03",
+    "trends_br": [],
+    "trends_global": [],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-02",
     "trends_br": [
       {
@@ -1560,60 +1567,6 @@
         "title": "Parada nos playoffs não considerada para a Championship Series do PGA Tour",
         "original": "Playoff stop not considered for PGA Tour’s Championship Series",
         "traffic": "Canal de golfe"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-04",
-    "trends_br": [
-      {
-        "title": "\"Por Você\": conheça os personagens da nova novela das sete",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 3 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Festival do Bolinho Caipira 2026 reúne gastronomia, música e cultura popular em Jacareí",
-        "traffic": "Prefeitura Municipal de Jacareí"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida de 10 a 15 agosto tem primeira noite de Adriana e Pedro",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Espaço Núcleo Cupinzeiro recebe o show de finalização da oficina Vozes Sábias",
-        "traffic": "Prefeitura de Campinas"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Concertos da Música das Américas no outono de 2026",
-        "original": "Music of the Americas Fall 2026 Concerts",
-        "traffic": "as-coa.org"
-      },
-      {
-        "title": "Para Deadheads de todo o país, a música nunca para",
-        "original": "For Deadheads across the country, the music never stops",
-        "traffic": "NPR"
-      },
-      {
-        "title": "O ‘concerto crawl’ da música local retorna a St. Louis em novembro",
-        "original": "Local music ‘concert crawl’ returns to St. Louis in November",
-        "traffic": "STLPR"
-      },
-      {
-        "title": "Chapel Thrill Game Day apresentará uma grande variedade de apresentações neste outono em uma série de concertos gratuitos",
-        "original": "Chapel Thrill Game Day To Feature Wide Variety Of Acts This Fall In Free Concert Series",
-        "traffic": "Atletismo da Universidade da Carolina do Norte"
-      },
-      {
-        "title": "O popular Collage Concert da KU School of Music retorna em 25 de setembro para apoiar estudantes de música",
-        "original": "KU School of Music’s popular Collage Concert returns Sept. 25 to support music students",
-        "traffic": "Notícias KU"
       }
     ],
     "yt_br": [],
