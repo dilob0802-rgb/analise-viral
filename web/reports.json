@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-04",
+    "trends_br": [
+      {
+        "title": "aespa em SP: tudo o que você precisa saber sobre o show",
+        "traffic": "billboard.com.br"
+      },
+      {
+        "title": "Rock in Rio 2026 anuncia mudança de horários de shows do dia 7, com Elton John",
+        "traffic": "G1"
+      },
+      {
+        "title": "Restauração do antigo Cinema Icaraí avança",
+        "traffic": "niteroi.rj.gov.br"
+      },
+      {
+        "title": "Resumo de Iludida: Capítulos da novela turca da Record - 4/9",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Sabadou Botucatu leva música, lazer e diversão para a Orl...",
+        "traffic": "Prefeitura Municipal de Botucatu"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Você pode trazer filmes de volta",
+        "original": "You Can Bring Movies Back",
+        "traffic": "O Oriente Bowdoin"
+      },
+      {
+        "title": "Um álbum de música artística e abstrata para seu próximo estudo bíblico",
+        "original": "An Abstract, Artistic Music Album For Your Next Bible Study",
+        "traffic": "Cristianismo hoje"
+      },
+      {
+        "title": "Relatório de empregos de agosto mostra que os EUA criaram 162 mil empregos, mais que o dobro das previsões dos economistas",
+        "original": "August jobs report shows U.S. added 162,000 jobs, more than double economists' forecasts",
+        "traffic": "cbsnews. com"
+      },
+      {
+        "title": "Enormes implicações pós-temporada em jogo na série Braves-Phillies",
+        "original": "Huge postseason implications at stake in Braves-Phillies series",
+        "traffic": "MLB. com"
+      },
+      {
+        "title": "De 'The Mandalorian and Grogu' a 'Mayday', 10 filmes para transmitir agora",
+        "original": "From 'The Mandalorian and Grogu' to 'Mayday,' 10 movies to stream now",
+        "traffic": "EUA hoje"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-03",
     "trends_br": [],
     "trends_global": [],
@@ -1513,60 +1567,6 @@
         "title": "Opinião | Os filmes de super-heróis estão de volta? Três escritores discutem o novo Homem-Aranha.",
         "original": "Opinion | Are superhero movies back? Three writers discuss the new Spider-Man.",
         "traffic": "O Washington Post"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-05",
-    "trends_br": [
-      {
-        "title": "'Homem-Aranha: Um novo dia' entra para top 5 dos filmes do herói: veja lista (do pior para o melhor)",
-        "traffic": "G1"
-      },
-      {
-        "title": "Festival da Música Gospel de Juazeiro do Norte acontece neste sábado, 8",
-        "traffic": "Prefeitura de Juazeiro do Norte"
-      },
-      {
-        "title": "Simone inicia nova fase em show em BH",
-        "traffic": "culturadoria.com.br"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 5 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Simpósio debate perspectivas da música popular na universidade pública",
-        "traffic": "Jornal da Unicamp"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Coluna | Tocar música é minha vida. Devo parar com isso? Os leitores do Hax dão conselhos.",
-        "original": "Column | Playing music is my life. Must I quit that? Hax readers give advice.",
-        "traffic": "O Washington Post"
-      },
-      {
-        "title": "'Homem-Aranha: Novo Dia' é um dos melhores filmes de todos os tempos (crítica cheia de spoilers)",
-        "original": "'Spider-Man: Brand New Day' Is One of the Best Movies Ever (Spoiler-Filled Review)",
-        "traffic": "inc.com"
-      },
-      {
-        "title": "As cenas musicais e cinematográficas de Austin convergem para o festival Sound Unseen",
-        "original": "Austin's music and film scenes converge for Sound Unseen festival",
-        "traffic": "KUT"
-      },
-      {
-        "title": "Recomendações de música ao vivo na área de Chicago para 5 a 11 de agosto",
-        "original": "Chicago-Area Live Music Recommendations for Aug. 5-11",
-        "traffic": "notícias.wttw.com"
-      },
-      {
-        "title": "Parada nos playoffs não considerada para a Championship Series do PGA Tour",
-        "original": "Playoff stop not considered for PGA Tour’s Championship Series",
-        "traffic": "Canal de golfe"
       }
     ],
     "yt_br": [],
