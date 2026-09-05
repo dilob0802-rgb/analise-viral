@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-05",
+    "trends_br": [
+      {
+        "title": "Bad Omens no Rock in Rio 2026: que horas é o show, onde assistir e o que esperar",
+        "traffic": "G1"
+      },
+      {
+        "title": "Após aula-show no Sabor & Jazz, Bolo de Laranja é incorporado ao cardápio das escolas",
+        "traffic": "Prefeitura de Penedo / AL"
+      },
+      {
+        "title": "Avenged Sevenfold: setlist e o que esperar de show do Rock in Rio",
+        "traffic": "Rolling Stone Brasil"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 5 de setembro",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "1º dia de Rock in Rio tem Foo Fighters em boa forma e nostalgia com Detonautas, Biquini e Capital; veja resumo",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "A portas fechadas, John Fetterman mostra pouco interesse no trabalho de um senador",
+        "original": "Behind Closed Doors, John Fetterman Shows Little Interest in the Work of a Senator",
+        "traffic": "WSJ"
+      },
+      {
+        "title": "The 10 Greatest Sports TV Shows of All Time, Ranked",
+        "original": "The 10 Greatest Sports TV Shows of All Time, Ranked",
+        "traffic": "O repórter de Hollywood"
+      },
+      {
+        "title": "Senadores pedem investigação sobre escolas profissionais de GI Bill, citando a série Post",
+        "original": "Senators call for investigation into GI Bill trade schools, citing Post series",
+        "traffic": "O Washington Post"
+      },
+      {
+        "title": "Um documentário brasileiro me ensinou o poder curativo da música",
+        "original": "A Brazilian documentary taught me the healing power of music",
+        "traffic": "O Guardião"
+      },
+      {
+        "title": "Aniversários famosos de hoje, 5 de setembro de 2026, incluem uma ex-estrela de “Charmed”, ator de James Bond",
+        "original": "Famous birthdays today, September 5, 2026, include a former “Charmed” star, James Bond actor",
+        "traffic": "Cleveland.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-04",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "A Chinatown de Pittsburgh desapareceu, mas a sua história mostrou-me que o meu lugar é aqui",
         "original": "Pittsburgh’s Chinatown is gone, but its history showed me that I belong here",
         "traffic": "Fonte pública de Pittsburgh"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-06",
-    "trends_br": [
-      {
-        "title": "Mostra de produções espanholas premiadas é destaque no Cinema Walmir Almeida",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "Retomada do cinema pernambucano ganha circuito comemorativo de 30 anos com exibições pelo país",
-        "traffic": "brasildefato.com.br"
-      },
-      {
-        "title": "Festival capixaba reúne grandes nomes da música nacional e artistas locais",
-        "traffic": "CartaCapital"
-      },
-      {
-        "title": "Quem é Perez Hilton, blogueiro que ficou famoso por bastidores de celebridades e gerou preocupação em live",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Banda de Música Artur Paraguai completa 90 anos de fundação",
-        "traffic": "Prefeitura de Mossoró"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Notícias eletrônicas | Ingressos avulsos disponíveis para University Arts Series",
-        "original": "E-News | Single tickets available for University Arts Series",
-        "traffic": "Universidade da Virgínia Ocidental"
-      },
-      {
-        "title": "“Música para 8” abre nona temporada do Guarneri Hall com duas novas peças",
-        "original": "“Music for 8” Opens Guarneri Hall’s Ninth Season with Two New Pieces",
-        "traffic": "Música da Nova Cidade"
-      },
-      {
-        "title": "Grandes nomes da sitcom sobem ao palco e um painel musical: 4 escolhas artísticas para a sua semana",
-        "original": "Sitcom Greats Hit the Stage and a Music Panel: 4 Arts Picks for Your Week",
-        "traffic": "WTTW"
-      },
-      {
-        "title": "'Homem-Aranha: Novo Dia' é um dos melhores filmes de todos os tempos (crítica cheia de spoilers)",
-        "original": "'Spider-Man: Brand New Day' Is One of the Best Movies Ever (Spoiler-Filled Review)",
-        "traffic": "inc.com"
-      },
-      {
-        "title": "Opinião | Os filmes de super-heróis estão de volta? Três escritores discutem o novo Homem-Aranha.",
-        "original": "Opinion | Are superhero movies back? Three writers discuss the new Spider-Man.",
-        "traffic": "O Washington Post"
       }
     ],
     "yt_br": [],
