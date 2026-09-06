@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-06",
+    "trends_br": [
+      {
+        "title": "Sepultura aposta em show exclusivo só com 'era Derrick' na penúltima apresentação da carreira no Brasil",
+        "traffic": "G1"
+      },
+      {
+        "title": "Após anunciar cancelamento, Semana de Cinema Negro de Belo Horizonte confirma 6ª edição​",
+        "traffic": "Alma Preta Jornalismo"
+      },
+      {
+        "title": "Filho do Piseiro encerra primeira noite de programação com show nacional no palco Malcher do ‘#SouManaus 2026’",
+        "traffic": "Prefeitura de Manaus"
+      },
+      {
+        "title": "Rádio MEC: Caderno de Música lembra 130 anos da morte de Carlos Gomes",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Nega do Babado e Rayssa Dias unem gerações do brega em música contra o feminicídio",
+        "traffic": "Brasil de Fato"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "MEMÓRIA MUSICAL: Tocando música country no Eel River Valley Honky Tonks em meados dos anos 70",
+        "original": "MUSICAL MEMOIR: Playing Country Music in the Eel River Valley Honky Tonks in the Mid-’70s",
+        "traffic": "Posto Avançado da Costa Perdida"
+      },
+      {
+        "title": "Seis filmes para entrar no clima de outono",
+        "original": "Six Movies to Get You in the Fall Mood",
+        "traffic": "O Atlântico"
+      },
+      {
+        "title": "Sheldon Creed vence a abertura do O'Reilly Auto Parts Series Chase em Darlington",
+        "original": "Sheldon Creed wins O’Reilly Auto Parts Series Chase opener at Darlington",
+        "traffic": "NASCAR. com"
+      },
+      {
+        "title": "Parecia que o mundo estava cansado do rock, mas Geese é a trilha sonora perfeita para esta época de inquietação | João Harris",
+        "original": "It felt as if the world had tired of rock music, yet Geese are the perfect soundtrack for this age of disquiet | John Harris",
+        "traffic": "theguardian.com"
+      },
+      {
+        "title": "Programação da NASCAR Cup Series: o clima prejudica a qualificação em Darlington",
+        "original": "NASCAR Cup Series Lineup: Weather wipes out qualifying at Darlington",
+        "traffic": "Hendrick Motorsports"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-05",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Por dentro do Music in the Vineyards de Napa Valley, onde a música de câmara enche as vinícolas",
         "original": "Inside Napa Valley’s Music in the Vineyards, where chamber music fills the wineries",
         "traffic": "sfchronicle.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-07",
-    "trends_br": [
-      {
-        "title": "Cultura: Cursos gratuitos de audiovisual, moda, música e produção cultural da Prefeitura estão com inscrições prorrogadas até 31 de agosto",
-        "traffic": "Prefeitura de São Paulo"
-      },
-      {
-        "title": "De Anitta a Thiaguinho: por que artistas estão apostando no feat entre música e bem-estar",
-        "traffic": "G1"
-      },
-      {
-        "title": "Aparecida é Show 2026 começa no dia 6 com grandes atrações nacionais",
-        "traffic": "aparecida.go.gov.br"
-      },
-      {
-        "title": "Resumo de Coração Acelerado: Próximo capítulo da novela, sexta, 7 de agosto",
-        "traffic": "noticiasdatv.uol.com.br"
-      },
-      {
-        "title": "A profissionalização do cinema produzido nas periferias de SP",
-        "traffic": "Nexo Jornal"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Série de verão: Mia Valerio",
-        "original": "Summer Series: Mia Valerio",
-        "traffic": "Atletismo da Universidade de Richmond"
-      },
-      {
-        "title": "O novo site do Auricular é um tesouro de conteúdo musical de Richmond",
-        "original": "The Auricular’s new website is a treasure trove of Richmond music content",
-        "traffic": "vpm.org"
-      },
-      {
-        "title": "Documentário musical e drama psicológico estreia em 7 de agosto na Ross",
-        "original": "Music documentary, psychological drama open Aug. 7 at Ross",
-        "traffic": "Nebrasca hoje"
-      },
-      {
-        "title": "A série Comet: futebol Rutgers",
-        "original": "The Comet Series: Rutgers football",
-        "traffic": "Subpilha"
-      },
-      {
-        "title": "A Chinatown de Pittsburgh desapareceu, mas a sua história mostrou-me que o meu lugar é aqui",
-        "original": "Pittsburgh’s Chinatown is gone, but its history showed me that I belong here",
-        "traffic": "Fonte pública de Pittsburgh"
       }
     ],
     "yt_br": [],
