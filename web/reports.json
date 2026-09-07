@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-07",
+    "trends_br": [
+      {
+        "title": "Semana do cinema 2ª edição: ingressos a partir de R$ 10 em todo o Brasil",
+        "traffic": "G1"
+      },
+      {
+        "title": "Dança dos Famosos: Breno Ferreira, Giovana Cordeiro, Kenya Sade e Otaviano vão para repescagem",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Sexta no Centro tem música, gastronomia e artesanato no dia 11 de setembro",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Ex-namorados, Tatá Werneck e Renato Góes devem contracenar em novela das 9",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Bring Me the Horizon controla o público e faz o melhor show do Rock in Rio 2026 até aqui",
+        "traffic": "Omelete"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Interview: Amy Speace on Weaving Together Poetry and Music For “The Cardinals” And “Days Of Letting Go”",
+        "original": "Interview: Amy Speace on Weaving Together Poetry and Music For “The Cardinals” And “Days Of Letting Go”",
+        "traffic": "Americana Highways"
+      },
+      {
+        "title": "Music consumption trends 2026: Who's listening more – and what's driving discovery?",
+        "original": "Music consumption trends 2026: Who's listening more – and what's driving discovery?",
+        "traffic": "YouGov"
+      },
+      {
+        "title": "Covington Parks & Recreation to Host Free Historical Walking Series in Licking Riverside Neighborhood",
+        "original": "Covington Parks & Recreation to Host Free Historical Walking Series in Licking Riverside Neighborhood",
+        "traffic": "The City of Covington, KY (.gov)"
+      },
+      {
+        "title": "Yankees’ World Series champion pitcher dead at 89",
+        "original": "Yankees’ World Series champion pitcher dead at 89",
+        "traffic": "PennLive.com"
+      },
+      {
+        "title": "Universal Music Group N.V. Reports Weekly Transactions under and Completion of its €250 Million Share Buyback Program",
+        "original": "Universal Music Group N.V. Reports Weekly Transactions under and Completion of its €250 Million Share Buyback Program",
+        "traffic": "PR Newswire"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-06",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Pearl City Little Leaguers vencem a World Series",
         "original": "Pearl City Little Leaguers win World Series",
         "traffic": "Notícias do Havaí agora"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-08",
-    "trends_br": [
-      {
-        "title": "Aparecida é Show 2026 reúne 30 mil pessoas na primeira noite",
-        "traffic": "Prefeitura de Aparecida de Goiânia"
-      },
-      {
-        "title": "Laura Pausini regrava 'Quando Chove' com Sandy e quer faixa em filme 'A viagem': 'Com quem preciso falar?'",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 8 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "“Preparei o melhor show da minha vida” 🔥 Foi assim que o @felipearaujocantor...",
-        "traffic": "Prefeitura Municipal de Além Paraíba, MG"
-      },
-      {
-        "title": "Impulsionadas por superproduções e novas tecnologias, salas de cinema quebram recordes",
-        "traffic": "VEJA"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Chuva e tempestades causam atrasos no VOA Country Music Festival sexta à noite",
-        "original": "Rain, storms cause delays at VOA Country Music Festival Friday night",
-        "traffic": "WLWT"
-      },
-      {
-        "title": "Minha histerectomia foi um presente. Kemi Doll mostra por que as mulheres precisam compartilhar nossas 'histórias do útero'",
-        "original": "My Hysterectomy Was a Gift. Dr. Kemi Doll Shows Why Women Need to Share Our 'Womb Stories'",
-        "traffic": "Sra. Revista"
-      },
-      {
-        "title": "O criador de ‘Power Book III: Raising Kanan’ Sascha Penn e as estrelas Patina Miller e Mekai Curtis no Deadly Series Finale e ‘Power: Origins’",
-        "original": "‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’",
-        "traffic": "Variedade"
-      },
-      {
-        "title": "A era do crossover da música country chegou",
-        "original": "Country music's crossover era is here",
-        "traffic": "Eixos"
-      },
-      {
-        "title": "Por dentro do Music in the Vineyards de Napa Valley, onde a música de câmara enche as vinícolas",
-        "original": "Inside Napa Valley’s Music in the Vineyards, where chamber music fills the wineries",
-        "traffic": "sfchronicle.com"
       }
     ],
     "yt_br": [],
