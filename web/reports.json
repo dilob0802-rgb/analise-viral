@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-09",
+    "trends_br": [
+      {
+        "title": "Prefeitura de Fortaleza promove sessão de cinema inclusivo para estudantes com deficiência da Rede Municipal",
+        "traffic": "Prefeitura de Fortaleza"
+      },
+      {
+        "title": "Semana do Cinema terá ingressos a partir de R$ 10 em Juiz de Fora",
+        "traffic": "G1"
+      },
+      {
+        "title": "IV Liberta Gravatá reúne música e louvor neste sábado (12)",
+        "traffic": "Prefeitura de Gravatá"
+      },
+      {
+        "title": "Consuni aprova novas habilitações em Música e títulos",
+        "traffic": "UnB Notícias"
+      },
+      {
+        "title": "9ª Mostra Sesc de Cinema levará produções independentes a 12 cidades do Rio Grande do Sul",
+        "traffic": "Sesc/RS"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Library Celebrates Hispanic Heritage Month with New Collections Resources, Music and Cultural Traditions",
+        "original": "Library Celebrates Hispanic Heritage Month with New Collections Resources, Music and Cultural Traditions",
+        "traffic": "Biblioteca do Congresso (.gov)"
+      },
+      {
+        "title": "Uma IA Giant se tornou inimigo das gravadoras. Pode jogar bem?",
+        "original": "An A.I. Giant Made an Enemy of Record Labels. Can It Play Nice?",
+        "traffic": "O jornal New York Times"
+      },
+      {
+        "title": "Federal data shows Enbridge leak is the largest reported oil and gas spill in Wisconsin",
+        "original": "Federal data shows Enbridge leak is the largest reported oil and gas spill in Wisconsin",
+        "traffic": "WPR"
+      },
+      {
+        "title": "Indonesian wildfire emissions surge to world's highest, data shows",
+        "original": "Indonesian wildfire emissions surge to world's highest, data shows",
+        "traffic": "Reuters"
+      },
+      {
+        "title": "How music at the Oklahoma State Fair unites people | Opinion",
+        "original": "How music at the Oklahoma State Fair unites people | Opinion",
+        "traffic": "oklahoman. com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-08",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Veja como a Guitar Finds, proprietária de uma loja de música de Antioquia, Califórnia, ajudou a solucionar o crime de guitarra roubada",
         "original": "Here's how Guitar Finds music shop owner from Antioch, California helped solve crime of stolen guitar",
         "traffic": "Área da Baía ABC7"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-10",
-    "trends_br": [
-      {
-        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 10 a 15 de agosto",
-        "traffic": "Globo"
-      },
-      {
-        "title": "Livro aborda as origens e a permanência da música armorial",
-        "traffic": "CONCERTO | Home"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 10 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Festival Cine Wine estreia na Serra Fluminense para unir cinema, enoturismo e turismo rural",
-        "traffic": "Mercado e Eventos"
-      },
-      {
-        "title": "Jon Batiste sobre sucesso de \"Soul\": \"A música é a linguagem do invisível\"",
-        "traffic": "CNN Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Dodgers abandonam a série de temporada contra D-backs. O que isso significa para a corrida NL West?",
-        "original": "Dodgers drop season series vs. D-backs. What does that mean for NL West race?",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "'Obsessão' me levou ao teatro, mas os preços dos ingressos são muito altos | Sua vez",
-        "original": "'Obsession' got me to a theater, but ticket prices are too high | Your Turn",
-        "traffic": "EUA hoje"
-      },
-      {
-        "title": "Como as crianças, as boas letras e o amor me levaram à música country (ish)",
-        "original": "How children, good lyrics, and love brought me around to country (ish) music",
-        "traffic": "Inquirer.com"
-      },
-      {
-        "title": "Os eleitores estão cansados ​​do sistema bipartidário. Uma nova enquete mostra que eles estão abertos a grandes mudanças",
-        "original": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Recapitulação da série Braves at Yankees: Atlanta resgata uma série intensa no Bronx",
-        "original": "Braves at Yankees series recap: Atlanta salvages an intense series in the Bronx",
-        "traffic": "Energia da bateria"
       }
     ],
     "yt_br": [],
