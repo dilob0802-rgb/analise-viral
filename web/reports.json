@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-10",
+    "trends_br": [
+      {
+        "title": "Salvador terá 'Semana do Cinema' com ingressos a partir de R$ 10; saiba mais detalhes",
+        "traffic": "G1"
+      },
+      {
+        "title": "Semana do Cinema: veja quais filmes estão em cartaz a partir de R$ 10",
+        "traffic": "cnnbrasil.com.br"
+      },
+      {
+        "title": "Shows gospel levam música e fé ao público na quarta noite da Expofeira",
+        "traffic": "Prefeitura Municipal de Feira de Santana"
+      },
+      {
+        "title": "BTS exibirá mundialmente show do Brasil nos cinemas: saiba como comprar",
+        "traffic": "portalpopline.com.br"
+      },
+      {
+        "title": "Clássico do cinema, Nosferatu ganha sessão com trilha sonora ao vivo na Biblioteca Mário de Andrade nesta quinta (10)",
+        "traffic": "Prefeitura"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "O que assistir neste outono: aqui estão 16 programas de TV que estamos ansiosos",
+        "original": "What to watch this fall: Here are 16 TV shows we're looking forward to",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Apresentando o Apple Watch Series 12, com o novo Health Sensing System",
+        "original": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+        "traffic": "Maçã"
+      },
+      {
+        "title": "Informações do jogo: Semana 2 – Legacy Series no Alabama A&M",
+        "original": "Game Information: Week 2 — Legacy Series at Alabama A&M",
+        "traffic": "tsutigers.com"
+      },
+      {
+        "title": "VB definido para séries Home-and-Home com Illinois",
+        "original": "VB Set for Home-and-Home Series with Illinois",
+        "traffic": "Atletismo da Universidade Marquette"
+      },
+      {
+        "title": "5 álbuns de música clássica que você pode ouvir agora mesmo",
+        "original": "5 Classical Music Albums You Can Listen to Right Now",
+        "traffic": "O jornal New York Times"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-09",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Festival de música de longa data do norte da Califórnia cancelado após mudança significativa de liderança",
         "original": "Longtime Northern California music festival canceled following significant leadership change",
         "traffic": "Crônica de São Francisco"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-11",
-    "trends_br": [
-      {
-        "title": "A realidade não é um reality show",
-        "traffic": "Jornal da USP"
-      },
-      {
-        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 10 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Com Cinema Rodoviário da PRF e simulador de colisão, Navegantes promove Semana Municipal de Educação para o Trânsito",
-        "traffic": "Prefeitura de Navegantes -"
-      },
-      {
-        "title": "João Lucas não está só: dez celebridades que sofrem com a falta de carisma",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "‘Terra Bruta’: western expõe a masculinidade no 54º Festival de Cinema de Gramado",
-        "traffic": "Brasil de Fato"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Cronograma da NASCAR 2027: datas confirmadas, pistas para todas as três séries nacionais",
-        "original": "2027 NASCAR schedule: Confirmed dates, tracks for all three national series",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Imagens da câmera do corpo da polícia de Baltimore mostram as consequências da prisão do ICE fora da escola",
-        "original": "Baltimore police body cam footage shows aftermath of ICE arrest outside school",
-        "traffic": "WBAL-TV"
-      },
-      {
-        "title": "Os políticos podem usar a música que quiserem nas redes sociais?",
-        "original": "Can politicians use whatever music they want on social media?",
-        "traffic": "Notícias da NBC"
-      },
-      {
-        "title": "A música country abalada por 3 mortes em 3 dias. Aqui está o que sabemos",
-        "original": "Country music rocked by 3 deaths in 3 days. Here’s what we know",
-        "traffic": "PennLive"
-      },
-      {
-        "title": "Veja como a Guitar Finds, proprietária de uma loja de música de Antioquia, Califórnia, ajudou a solucionar o crime de guitarra roubada",
-        "original": "Here's how Guitar Finds music shop owner from Antioch, California helped solve crime of stolen guitar",
-        "traffic": "Área da Baía ABC7"
       }
     ],
     "yt_br": [],
