@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-11",
+    "trends_br": [
+      {
+        "title": "Stray Kids no Rock in Rio: onde assistir e horário do show",
+        "traffic": "g1.globo.com"
+      },
+      {
+        "title": "Paulista amplia acesso à música com oficinas de musicalização para estudantes da rede municipal",
+        "traffic": "Paulista-PE"
+      },
+      {
+        "title": "Stray Kids no Rock in Rio 2026: que dia é o show, horário e onde assistir ao vivo",
+        "traffic": "Exame"
+      },
+      {
+        "title": "Curtas produzidos em Alvorada são selecionados para Festival Internacional de Cinema em Curitiba",
+        "traffic": "Prefeitura Municipal Alvorada"
+      },
+      {
+        "title": "Clássicos dos anos 80 marcam noite de música e nostalgia na Expofeira",
+        "traffic": "Prefeitura Municipal de Feira de Santana"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "24 new movies worth checking out this fall",
+        "original": "24 new movies worth checking out this fall",
+        "traffic": "NPR"
+      },
+      {
+        "title": "9 movies that best capture the mood of 9/11",
+        "original": "9 movies that best capture the mood of 9/11",
+        "traffic": "Los Angeles Times"
+      },
+      {
+        "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention",
+        "original": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention",
+        "traffic": "Mashable"
+      },
+      {
+        "title": "Inside Arc 2026",
+        "original": "Inside Arc 2026",
+        "traffic": "Música da Nova Cidade"
+      },
+      {
+        "title": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
+        "original": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
+        "traffic": "O Guardião"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-10",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Revelada a primeira fase do cronograma da SÉRIE NTT INDYCAR 2027",
         "original": "Phase One of 2027 NTT INDYCAR SERIES Schedule Unveiled",
         "traffic": "INDYCAR. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-12",
-    "trends_br": [
-      {
-        "title": "Selton Mello, Andrea Beltrão e mais de 40 obras: saiba tudo sobre o Festival de Cinema de Gramado, que começa nesta quarta-feira",
-        "traffic": "G1"
-      },
-      {
-        "title": "Quinta no Cinema exibe curta-metragem \"Ela Veio Me Ver\" nesta quinta-feira (13) | Notícias | Cultura",
-        "traffic": "Prefeitura de Anápolis"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 12 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Francis e Olivia Hime celebram 60 anos de música em BH",
-        "traffic": "Culturadoria"
-      },
-      {
-        "title": "‘Vergonhoso’, diz jornal espanhol sobre ‘novela Memphis’ no Corinthians",
-        "traffic": "Estadão"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "O mais recente Apple Watch Series 11 está igualando o preço da Black Friday",
-        "original": "The latest Apple Watch Series 11 is matching its Black Friday price",
-        "traffic": "Notícias da NBC"
-      },
-      {
-        "title": "Estrelas que falaram sobre os medicamentos GLP-1 – e o que disseram",
-        "original": "Stars Who’ve Spoken About GLP-1 Drugs — and What They’ve Said",
-        "traffic": "People.com"
-      },
-      {
-        "title": "Recomendações de música ao vivo na área de Chicago para 12 a 18 de agosto",
-        "original": "Chicago-Area Live Music Recommendations for Aug. 12-18",
-        "traffic": "notícias.wttw.com"
-      },
-      {
-        "title": "AI Music Generator Suno fecha acordo de licenciamento de importante gravadora musical",
-        "original": "AI Music Generator Suno Inks Major Music Label Licensing Deal",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "Festival de música de longa data do norte da Califórnia cancelado após mudança significativa de liderança",
-        "original": "Longtime Northern California music festival canceled following significant leadership change",
-        "traffic": "Crônica de São Francisco"
       }
     ],
     "yt_br": [],
