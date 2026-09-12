@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-12",
+    "trends_br": [
+      {
+        "title": "Qual foi o melhor show de ontem no Rock in Rio? Críticos do GLOBO dão notas para apresentações no dia do k-pop",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Centro Cultural São Paulo tem cinema a céu aberto, apresentações de piano, aulas de yoga e forró e muito mais",
+        "traffic": "Prefeitura"
+      },
+      {
+        "title": "Neste final de semana, Cinema do Dragão tem exibição gratuita de minissérie sobre a vida e obra de Belchior",
+        "traffic": "Brasil de Fato"
+      },
+      {
+        "title": "Curta Canedo celebra 10 anos com programação gratuita",
+        "traffic": "Prefeitura de Senador Canedo"
+      },
+      {
+        "title": "Resumo de Por Você: Próximo capítulo da novela, sábado, 12 de setembro",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Underselling? Overselling? Let's break down World Series odds",
+        "original": "Underselling? Overselling? Let's break down World Series odds",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+        "original": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+        "traffic": "Apple"
+      },
+      {
+        "title": "Calls for investigation after video shows ICE officers using batons on protesters",
+        "original": "Calls for investigation after video shows ICE officers using batons on protesters",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "Gary Oldman Says HBO's 'Harry Potter' TV Series Will Be \"More Satisfying\" Than The Movies",
+        "original": "Gary Oldman Says HBO's 'Harry Potter' TV Series Will Be \"More Satisfying\" Than The Movies",
+        "traffic": "Deadline"
+      },
+      {
+        "title": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS",
+        "original": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS",
+        "traffic": "Clarksville Now"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-11",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Com destino a Williamsport! SoundView de Tacoma avança para a Little League World Series",
         "original": "Williamsport-bound! Tacoma’s SoundView advances to Little League World Series",
         "traffic": "Tribuna de notícias de Tacoma"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-13",
-    "trends_br": [
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quinta, 13 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Prefeitura de Bertioga divulga oportunidade do BNDES para projetos de cinema e festivais audiovisuais",
-        "traffic": "Prefeitura de Bertioga"
-      },
-      {
-        "title": "Biblioteca tem música e cinema na programação desta semana",
-        "traffic": "Portal do Município de Piracicaba"
-      },
-      {
-        "title": "iPhone 17 Pro \"faz mosh\" em clube de música eletrônica de Berlim",
-        "traffic": "Meio e Mensagem"
-      },
-      {
-        "title": "Famosos em polvorosa: psicóloga explica o que, afinal, faz uma pessoa ter carisma",
-        "traffic": "VEJA"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Anúncios de programação de 2027: datas, faixas, mais",
-        "original": "2027 schedule announcements: Dates, tracks, more",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "O mais recente Apple Watch Series 11 está igualando o preço da Black Friday",
-        "original": "The latest Apple Watch Series 11 is matching its Black Friday price",
-        "traffic": "Notícias da NBC"
-      },
-      {
-        "title": "Tabela, pontuações e horários do torneio regional da Little League World Series hoje",
-        "original": "Little League World Series Region Tournament bracket, scores, and times today",
-        "traffic": "Yahoo Esportes"
-      },
-      {
-        "title": "Os arremessadores do Colorado andam na corda bamba, mas garantem a primeira vitória dos Rockies na série no Arizona desde 22",
-        "original": "Colorado's pitchers walk tightrope, but secure Rockies' first series win in Arizona since '22",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "Revelada a primeira fase do cronograma da SÉRIE NTT INDYCAR 2027",
-        "original": "Phase One of 2027 NTT INDYCAR SERIES Schedule Unveiled",
-        "traffic": "INDYCAR. com"
       }
     ],
     "yt_br": [],
