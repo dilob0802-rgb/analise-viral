@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-14",
+    "trends_br": [
+      {
+        "title": "Rock in Rio 2026: qual foi o melhor show do festival? Vote",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Demi Lovato - São Paulo - 15/09/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Semana do Cinema e tempo chuvoso impulsionam bilheterias dos cinemas no fim de semana",
+        "traffic": "Valor Econômico"
+      },
+      {
+        "title": "Bienal de Música Eletroacústica anuncia programação para outubro",
+        "traffic": "CONCERTO | Home"
+      },
+      {
+        "title": "Pianista basca Garazi Goñi apresenta recital gratuito dedicado à música brasileira no Multipalco Eva Sopher",
+        "traffic": "cultura.rs.gov.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Rookie Series: Five Takeaways from Flyers Sweep",
+        "original": "Rookie Series: Five Takeaways from Flyers Sweep",
+        "traffic": "NHL.com"
+      },
+      {
+        "title": "LETTER: Help keep the music playing",
+        "original": "LETTER: Help keep the music playing",
+        "traffic": "Marblehead Current"
+      },
+      {
+        "title": "WPR Music Library picks: Vol. 4",
+        "original": "WPR Music Library picks: Vol. 4",
+        "traffic": "WPR"
+      },
+      {
+        "title": "Country music star’s fans praying after ‘family emergency’ forces him to postpone shows",
+        "original": "Country music star’s fans praying after ‘family emergency’ forces him to postpone shows",
+        "traffic": "PennLive.com"
+      },
+      {
+        "title": "UNCG Connects Music, Art, and Culture at the N.C. Folk Festival",
+        "original": "UNCG Connects Music, Art, and Culture at the N.C. Folk Festival",
+        "traffic": "The University of North Carolina at Greensboro"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-13",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "A famosa lista de aniversários de hoje para 16 de agosto de 2026 inclui as celebridades Angela Bassett, Madonna",
         "original": "Today’s famous birthdays list for August 16, 2026 includes celebrities Angela Bassett, Madonna",
         "traffic": "Cleveland.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-15",
-    "trends_br": [
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 15 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Quem está no 'Dança dos Famosos 2026'? Confira os nomes anunciados para a nova temporada",
-        "traffic": "Jornal Correio"
-      },
-      {
-        "title": "Café com Música agita Associação dos Aposentados na quarta-feira, 19",
-        "traffic": "Prefeitura Municipal de Ubatuba"
-      },
-      {
-        "title": "Além de 'Corrida dos Bichos', veja 20 filmes, novelas e séries que retratam o jogo do bicho",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Coração de Mãe: Próximo capítulo da novela turca, segunda, 17 de agosto",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Sinal verde para ‘Kingdom Hearts’ para a primeira série de TV original no Disney Channel e Disney+",
-        "original": "‘Kingdom Hearts’ Greenlit for First-Ever Original TV Series on Disney Channel and Disney+",
-        "traffic": "thewaltdisneycompany.com"
-      },
-      {
-        "title": "Corrida da Craftsman Truck Series em Richmond adiada devido ao mau tempo",
-        "original": "Craftsman Truck Series race at Richmond delayed due to inclement weather",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "O que assistir neste fim de semana: novos programas e filmes para transmitir no Netflix, Hulu, Prime Video, Apple TV e muito mais",
-        "original": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "Bayonne, N.J., derrota Connecticut e segue para a Little League World Series",
-        "original": "Bayonne, N.J., defeats Connecticut to head to Little League World Series",
-        "traffic": "ABC7 Nova York"
-      },
-      {
-        "title": "'Kingdom Hearts' anime series announced at D23 - ABC News",
-        "original": "'Kingdom Hearts' anime series announced at D23 - ABC News",
-        "traffic": "Notícias de última hora, últimas notícias e vídeos"
       }
     ],
     "yt_br": [],
