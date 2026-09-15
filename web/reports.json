@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-15",
+    "trends_br": [
+      {
+        "title": "Demi Lovato - São Paulo - 15/09/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Péricles canta Motown é eleito o melhor show nacional do Rock in Rio 2026 pelo g1",
+        "traffic": "G1"
+      },
+      {
+        "title": "Sete de Abril recebe show internacional, peça teatral e mostra de dança nesta semana",
+        "traffic": "Prefeitura de Pelotas"
+      },
+      {
+        "title": "Resumo Quem Ama Cuida: tudo sobre a novela de 15 a 19/09",
+        "traffic": "Terra"
+      },
+      {
+        "title": "Resumo de Iludida: Capítulos da novela turca da Record - 15 a 18/9",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Democracy indicators in US at lowest levels for 50 years, data shows",
+        "original": "Democracy indicators in US at lowest levels for 50 years, data shows",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "‘Harry Potter’ HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey",
+        "original": "‘Harry Potter’ HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey",
+        "traffic": "Variety"
+      },
+      {
+        "title": "'Harry Potter' Series Casts Arthur Weasley, Moaning Myrtle",
+        "original": "'Harry Potter' Series Casts Arthur Weasley, Moaning Myrtle",
+        "traffic": "Deadline"
+      },
+      {
+        "title": "PGA Tour shares details of its 2 new series debuting in 2028",
+        "original": "PGA Tour shares details of its 2 new series debuting in 2028",
+        "traffic": "espn.com"
+      },
+      {
+        "title": "PGA Tour announces membership criteria and eligibility for new competitive structure",
+        "original": "PGA Tour announces membership criteria and eligibility for new competitive structure",
+        "traffic": "PGA Tour"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-14",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Editorial dos ciclos da música com Dave Columbo Jenkins",
         "original": "The Cycles Of Music Editorial With Dave Columbo Jenkins",
         "traffic": "ukf. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-16",
-    "trends_br": [
-      {
-        "title": "Show de Roberto Carlos é cancelado horas antes da apresentação no Rio",
-        "traffic": "G1"
-      },
-      {
-        "title": "Deezer Aposta em Superfãs para Ganhar Mercado no Streaming de Música no Brasil",
-        "traffic": "forbes.com.br"
-      },
-      {
-        "title": "YouTube, WhatsApp e Netflix lideram entretenimento nas favelas, aponta estudo",
-        "traffic": "Alma Preta Jornalismo"
-      },
-      {
-        "title": "Resumo da novela 'Quem Ama Cuida' da semana: capítulos de 17/8 a 22/8",
-        "traffic": "UOL"
-      },
-      {
-        "title": "3 filmes para conferir no… Festival de Cinema Infantil (FICI)",
-        "traffic": "VEJA RIO"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Cantor icônico que alcançou a fama na década de 1960 morre aos 78 anos: ‘Ele era uma força importante’",
-        "original": "Iconic singer who rose to fame in the 1960s dies at 78: ‘He was a major force’",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "Ryan Blaney domina a Etapa 1 na corrida da Richmond Cup",
-        "original": "Ryan Blaney dominates Stage 1 in Richmond Cup race",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "‘Já tentei fazer sexo com minha própria música? Deus, não!’: Playlist honesta de Natalie Imbruglia",
-        "original": "‘Have I tried having sex to my own music? God, no!’: Natalie Imbruglia’s honest playlist",
-        "traffic": "O Guardião"
-      },
-      {
-        "title": "Domingo mostra uma prévia: as principais corridas primárias preparam o cenário para batalhas acirradas em novembro, os democratas levantam preocupações sobre as condições do USS Lincoln",
-        "original": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
-        "traffic": "A colina"
-      },
-      {
-        "title": "A famosa lista de aniversários de hoje para 16 de agosto de 2026 inclui as celebridades Angela Bassett, Madonna",
-        "original": "Today’s famous birthdays list for August 16, 2026 includes celebrities Angela Bassett, Madonna",
-        "traffic": "Cleveland.com"
       }
     ],
     "yt_br": [],
