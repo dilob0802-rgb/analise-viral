@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-16",
+    "trends_br": [
+      {
+        "title": "Jovem de 16 anos morre antes de show do Stray Kids na Argentina",
+        "traffic": "G1"
+      },
+      {
+        "title": "Loyle Carner fará sua estreia no Brasil com show único em São Paulo",
+        "traffic": "Tenho Mais Discos Que Amigos"
+      },
+      {
+        "title": "Fernanda Torres fala de amizade com Débora Bloch: 'Passamos horas no telefone'",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Notícia - Sabadou Botucatu leva música, cultura e lazer gratuitos à Vila Cidade Jardim",
+        "traffic": "botucatu.sp.gov.br"
+      },
+      {
+        "title": "Festival MAIS celebra a diversidade da música autoral em Santos",
+        "traffic": "Prefeitura de Santos |"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "865 Neyland Unveiled as Official Name of University of Tennessee Entertainment District",
+        "original": "865 Neyland Unveiled as Official Name of University of Tennessee Entertainment District",
+        "traffic": "University of Tennessee Athletics"
+      },
+      {
+        "title": "Nebraska, Notre Dame Announce Home-and-Home Football Series - University of Nebraska - Official Athletics Website",
+        "original": "Nebraska, Notre Dame Announce Home-and-Home Football Series - University of Nebraska - Official Athletics Website",
+        "traffic": "huskers.com"
+      },
+      {
+        "title": "Tennessee reveals official name of Neyland entertainment district, new renderings",
+        "original": "Tennessee reveals official name of Neyland entertainment district, new renderings",
+        "traffic": "Knoxville News Sentinel"
+      },
+      {
+        "title": "All of Taylor Swift’s Official Music Videos Are Now on Spotify",
+        "original": "All of Taylor Swift’s Official Music Videos Are Now on Spotify",
+        "traffic": "Spotify"
+      },
+      {
+        "title": "10 great sci-fi and horror TV shows that ran for 10+ seasons - the ultimate long-term binge guide",
+        "original": "10 great sci-fi and horror TV shows that ran for 10+ seasons - the ultimate long-term binge guide",
+        "traffic": "Substack"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-15",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Dave Marsh, biógrafo e crítico musical de Bruce Springsteen, morre aos 76 anos",
         "original": "Bruce Springsteen biographer and music critic Dave Marsh dies at 76",
         "traffic": "WTVM. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-17",
-    "trends_br": [
-      {
-        "title": "Dança dos Famosos 2026 terá grupos; veja divisão e entenda as fases!",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Dança dos Famosos 2026: Conheça os participantes da edição - 16/08/2026 - Televisão",
-        "traffic": "f5.folha.uol.com.br"
-      },
-      {
-        "title": "System Of A Down anuncia show único no Brasil em 2027; veja data, preços e como comprar ingressos",
-        "traffic": "Exame"
-      },
-      {
-        "title": "Tubarão participa de Travel Show promovido pela SETUR SC e da AVIRRP",
-        "traffic": "Prefeitura de Tubarão"
-      },
-      {
-        "title": "System Of A Down e Faith No More no Maracanã: saiba tudo sobre show histórico",
-        "traffic": "Tenho Mais Discos Que Amigos"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Guia completo para a Little League World Series de 2026: equipes, programação e muito mais",
-        "original": "Full guide to the 2026 Little League World Series: Teams, schedule and more",
-        "traffic": "NBC10 Filadélfia"
-      },
-      {
-        "title": "Henderson vence Skubal enquanto os Brewers vencem a série da temporada dos Dodgers",
-        "original": "Henderson outduels Skubal as Brewers take season series from Dodgers",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "A famosa lista de aniversários de hoje para 17 de agosto de 2026 inclui as celebridades Austin Butler e Belinda Carlisle",
-        "original": "Today’s famous birthdays list for August 17, 2026 includes celebrities Austin Butler, Belinda Carlisle",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "Dave Roberts espera que abandonar a série para Brewers ‘não volte a morder’ Dodgers",
-        "original": "Dave Roberts hopes dropping series to Brewers ‘doesn’t come back to bite’ Dodgers",
-        "traffic": "Los Angeles Times"
-      },
-      {
-        "title": "Editorial dos ciclos da música com Dave Columbo Jenkins",
-        "original": "The Cycles Of Music Editorial With Dave Columbo Jenkins",
-        "traffic": "ukf. com"
       }
     ],
     "yt_br": [],
