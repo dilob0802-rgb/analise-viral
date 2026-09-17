@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-17",
+    "trends_br": [
+      {
+        "title": "XBOX na Tokyo Game Show 2026: todos os anúncios, incluindo uma aparição de Hideo Kojima",
+        "traffic": "XBOX Wire"
+      },
+      {
+        "title": "Cinema nacional é destaque no Cine Walmir Almeida; confira a programação",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "Shopping Uberaba participa do Circuito Jazz e traz show à Praça de Alimentação",
+        "traffic": "G1"
+      },
+      {
+        "title": "Primeira edição da Seresta Dançante 60 Up leva música, cultura e lazer para a Zona Norte de Niterói",
+        "traffic": "niteroi.rj.gov.br"
+      },
+      {
+        "title": "Paula Lima estreia novo show em São Paulo; saiba mais",
+        "traffic": "Rolling Stone Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "NASCAR and FedEx Freight announce long-term Truck Series entitlement partnership starting in 2027",
+        "original": "NASCAR and FedEx Freight announce long-term Truck Series entitlement partnership starting in 2027",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Apple Watch Series 12 Review: I’m Loving the Subscription-Free Life",
+        "original": "Apple Watch Series 12 Review: I’m Loving the Subscription-Free Life",
+        "traffic": "cnet.com"
+      },
+      {
+        "title": "How classical music became Alec Baldwin's companion and muse",
+        "original": "How classical music became Alec Baldwin's companion and muse",
+        "traffic": "WHYY"
+      },
+      {
+        "title": "‘Rose Hill’ Amazon Series Adds Siobhan McGroarty, Sophia Reid-Gantzert, West Mulholland",
+        "original": "‘Rose Hill’ Amazon Series Adds Siobhan McGroarty, Sophia Reid-Gantzert, West Mulholland",
+        "traffic": "variety.com"
+      },
+      {
+        "title": "Intermittent fasting shows promise in slowing Huntington’s disease progression",
+        "original": "Intermittent fasting shows promise in slowing Huntington’s disease progression",
+        "traffic": "OHSU News"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-16",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Papa em audiência: A música sacra é para glorificar a Deus e santificar os fiéis",
         "original": "Pope at Audience: Sacred music is to glorify God and sanctify the faithful",
         "traffic": "Notícias do Vaticano"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-18",
-    "trends_br": [
-      {
-        "title": "Famosos lamentam morte de Laura Cardoso aos 98 anos: 'Eterna'",
-        "traffic": "G1"
-      },
-      {
-        "title": "Opinião - Música em Letras: Estrela Leminski, filha do poeta Paulo Leminski, lança álbum e faz show em SP",
-        "traffic": "Folha de S.Paulo"
-      },
-      {
-        "title": "Show do Paysanos Trio abre a segunda temporada artística do Teatro Municipal",
-        "traffic": "Prefeitura de São Leopoldo/RS"
-      },
-      {
-        "title": "Preços de pista para show de System of a Down com Faith no More no Rio geram críticas nas redes sociais",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Nova novela das sete, Por Você mastiga relação para entregar gancho potente",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "A luta exaustiva sobre quem lucra com a música AI: Planet Money",
-        "original": "The grueling fight over who profits from AI music : Planet Money",
-        "traffic": "NPR"
-      },
-      {
-        "title": "A música evoca atividade cerebral semelhante a uma história, além do processamento auditivo, mostram imagens cerebrais",
-        "original": "Music evokes story-like brain activity beyond auditory processing, brain imaging shows",
-        "traffic": "Xpress Médico"
-      },
-      {
-        "title": "Sintonize o concerto final da série Music of Origin",
-        "original": "Tune into Final Concert in the Music of Origin Series",
-        "traffic": "Leitor Erie"
-      },
-      {
-        "title": "Conservatório de Música de São Francisco nomeia presidente de música de câmara de cordas e piano",
-        "original": "San Francisco Conservatory of Music appoints chair of string and piano chamber music",
-        "traffic": "thestrad. com"
-      },
-      {
-        "title": "Dave Marsh, biógrafo e crítico musical de Bruce Springsteen, morre aos 76 anos",
-        "original": "Bruce Springsteen biographer and music critic Dave Marsh dies at 76",
-        "traffic": "WTVM. com"
       }
     ],
     "yt_br": [],
