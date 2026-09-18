@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-18",
+    "trends_br": [
+      {
+        "title": "Dança, música, arte e oficinas movimentam a programação cultural de Jundiaí neste final de semana",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Quinta na Praça encerra temporada 2026 com música, cultura e diversidade de ritmos",
+        "traffic": "Prefeitura Municipal de Feira de Santana"
+      },
+      {
+        "title": "Tardezinha no Dique vai levar música e lazer neste domingo em Cabedelo - Prefeitura de Cabedelo",
+        "traffic": "PB"
+      },
+      {
+        "title": "Cena de Mulher une música e dança com ‘O Groove Delas’",
+        "traffic": "Prefeitura de São José dos Campos"
+      },
+      {
+        "title": "“Vontade de Querer” une música neoclássica com experiência imersiva no Palco Central - UFJF",
+        "traffic": "Universidade Federal de Juiz de Fora"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Jake Garcia scores first Truck win at Bristol; top Chase drivers struggle in final stage",
+        "original": "Jake Garcia scores first Truck win at Bristol; top Chase drivers struggle in final stage",
+        "traffic": "nascar.com"
+      },
+      {
+        "title": "2027 BMW 3 Series Rendering Is Likely Close To The Real Thing",
+        "original": "2027 BMW 3 Series Rendering Is Likely Close To The Real Thing",
+        "traffic": "bmwblog"
+      },
+      {
+        "title": "Resident Evil is one of the best horror movies of the year - and a perfect reset for the franchise",
+        "original": "Resident Evil is one of the best horror movies of the year - and a perfect reset for the franchise",
+        "traffic": "Substack"
+      },
+      {
+        "title": "Changes to the Rochester music scene",
+        "original": "Changes to the Rochester music scene",
+        "traffic": "WXXI News"
+      },
+      {
+        "title": "169th edition edition of My Random Thoughts: Sports, TV, music, food, life.....",
+        "original": "169th edition edition of My Random Thoughts: Sports, TV, music, food, life.....",
+        "traffic": "700WLW"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-17",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Fotos da Academy Of Country Music homenageia 2026: Sheryl Crow, Trisha Yearwood, Brandi Cyrus e mais",
         "original": "Academy Of Country Music Honors 2026 Photos: Sheryl Crow, Trisha Yearwood, Brandi Cyrus & More",
         "traffic": "Prazo final"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-19",
-    "trends_br": [
-      {
-        "title": "Glória Menezes fez mais de 40 novelas e brilhou com filme premiado em Cannes; relembre",
-        "traffic": "G1"
-      },
-      {
-        "title": "Biblioteca Municipal tem programação com cinema, literatura e música no sábado, 22/08",
-        "traffic": "Portal do Município de Piracicaba"
-      },
-      {
-        "title": "Roberta Campos apresenta show gratuito em Campinas dentro da Semana da Música",
-        "traffic": "Prefeitura de Campinas"
-      },
-      {
-        "title": "Semana de cinema negro de Belo Horizonte é cancelada por falta de patrocínio",
-        "traffic": "Alma Preta Jornalismo"
-      },
-      {
-        "title": "Papa: na liturgia, a música não é decoração, cantar e tocar significa rezar",
-        "traffic": "Vatican News"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Uma icônica empresa de música e vídeo por correspondência está fechando",
-        "original": "An iconic mail-order music and video company is shutting down",
-        "traffic": "NPR"
-      },
-      {
-        "title": "2026 Little League World Series: programação completa, como assistir aos jogos",
-        "original": "2026 Little League World Series: Full schedule, how to watch games",
-        "traffic": "Yahoo Esportes"
-      },
-      {
-        "title": "A famosa lista de aniversários de hoje para 19 de agosto de 2026 inclui as celebridades John Stamos, Lee Ann Womack",
-        "original": "Today’s famous birthdays list for August 19, 2026 includes celebrities John Stamos, Lee Ann Womack",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "Resultados da semana 2 + scorecards | 10ª temporada da série Contender de Dana White",
-        "original": "Week 2 Results + Scorecards | Dana White's Contender Series Season 10",
-        "traffic": "UFC. com"
-      },
-      {
-        "title": "Papa em audiência: A música sacra é para glorificar a Deus e santificar os fiéis",
-        "original": "Pope at Audience: Sacred music is to glorify God and sanctify the faithful",
-        "traffic": "Notícias do Vaticano"
       }
     ],
     "yt_br": [],
