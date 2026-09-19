@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-19",
+    "trends_br": [
+      {
+        "title": "Moradores de 90% das cidades de MT precisam viajar para ter acesso a cinema",
+        "traffic": "G1"
+      },
+      {
+        "title": "Letícia Colin fala sobre morar separada do marido após reconciliação: 'A vida pede adaptação'",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Lauren Jauregui chega a São Paulo para show neste sábado",
+        "traffic": "Portal ABC do ABC"
+      },
+      {
+        "title": "Ildefonso Milcharek leva música e tradição aos Festejos Farroupilhas de Alvorada",
+        "traffic": "Prefeitura Municipal Alvorada"
+      },
+      {
+        "title": "Após polêmica, show de Ed Sheeran tem ingressos sobrando e preço reduzido",
+        "traffic": "cnnbrasil.com.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Here are 8 movies we loved at the Toronto International Film Festival",
+        "original": "Here are 8 movies we loved at the Toronto International Film Festival",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Cup Series qualifying canceled by rain; Larson on pole for Bristol Night Race",
+        "original": "Cup Series qualifying canceled by rain; Larson on pole for Bristol Night Race",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Duncan Sheik, celebrated music artist, dies",
+        "original": "Duncan Sheik, celebrated music artist, dies",
+        "traffic": "The Arkansas Democrat-Gazette"
+      },
+      {
+        "title": "Rad Radio DFW launches with focus on local personalities, 1990s alternative music",
+        "original": "Rad Radio DFW launches with focus on local personalities, 1990s alternative music",
+        "traffic": "NBC 5 Dallas-Fort Worth"
+      },
+      {
+        "title": "Lake Oswego event to showcase music, food and more from many cultures",
+        "original": "Lake Oswego event to showcase music, food and more from many cultures",
+        "traffic": "Lake Oswego Review"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-18",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Mark Bryan: Ainda fazendo música depois de fazer história na música de SC",
         "original": "Mark Bryan: Still making music after making S.C. music history",
         "traffic": "Jornal da cidade de Charleston"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-20",
-    "trends_br": [
-      {
-        "title": "Sessão sob as estrelas ou refúgio para namorados? Conheça a história do cinema 'drive-in' em Sorocaba",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Por Você: Próximo capítulo da novela, quinta, 20 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Resumo Por Você: tudo sobre a novela de 20 a 29/08",
-        "traffic": "Terra"
-      },
-      {
-        "title": "Símbolo do cinema, Kikito completa 60 anos de história cultural",
-        "traffic": "Jornal do Comércio"
-      },
-      {
-        "title": "Opinião - Música em Letras: Quarteto instrumental lança álbum gravado na França em show em São Paulo",
-        "traffic": "Folha de S.Paulo"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "2027 NHL Global Series Germany contará com Bruins, Oilers",
-        "original": "2027 NHL Global Series Germany to feature Bruins, Oilers",
-        "traffic": "NHL. com"
-      },
-      {
-        "title": "‘Música, Moda, Cinema’: A it girl e o escaton",
-        "original": "’Music, Fashion, Film’: The it girl and the eschaton",
-        "traffic": "ndsmcobserver.com"
-      },
-      {
-        "title": "Estarão os navios mais dispostos a desafiar o Irão ou os EUA? O que os dados mostram",
-        "original": "Are ships through more willing to defy Iran or the US? What the data shows",
-        "traffic": "Al Jazeera"
-      },
-      {
-        "title": "Como entender 4.000 programas de Edimburgo: basta absorver tudo",
-        "original": "How to Make Sense of 4,000 Edinburgh Shows: Just Soak It All Up",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Fotos da Academy Of Country Music homenageia 2026: Sheryl Crow, Trisha Yearwood, Brandi Cyrus e mais",
-        "original": "Academy Of Country Music Honors 2026 Photos: Sheryl Crow, Trisha Yearwood, Brandi Cyrus & More",
-        "traffic": "Prazo final"
       }
     ],
     "yt_br": [],
