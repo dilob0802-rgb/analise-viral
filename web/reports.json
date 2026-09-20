@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-20",
+    "trends_br": [
+      {
+        "title": "Veja os filmes premiados no 59º Festival de Brasília do Cinema Brasileiro",
+        "traffic": "G1"
+      },
+      {
+        "title": "Cinema da Boca apresenta ficção científica neste domingo – CGNotícias",
+        "traffic": "Prefeitura de Campo Grande"
+      },
+      {
+        "title": "Ed Sheeran admite ter cometido 'erros' após polêmica pela exclusão do rapper Macklemore de turnê nos EUA",
+        "traffic": "BBC"
+      },
+      {
+        "title": "BK’ faz história no rap com show para 50 mil pessoas em São Paulo; veja setlist",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "MC Cabelinho, Guilherme Magon e artistas prestigiam livro de Manuela Dias",
+        "traffic": "UOL"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Jelly Roll reveals what could make him leave music",
+        "original": "Jelly Roll reveals what could make him leave music",
+        "traffic": "Cleveland.com"
+      },
+      {
+        "title": "Denny Hamlin set for 750th career Cup Series start at Bristol",
+        "original": "Denny Hamlin set for 750th career Cup Series start at Bristol",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Mobile to look at expanding entertainment districts",
+        "original": "Mobile to look at expanding entertainment districts",
+        "traffic": "fox10tv.com"
+      },
+      {
+        "title": "'Good chance' Ohtani will be activated for next series",
+        "original": "'Good chance' Ohtani will be activated for next series",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Music Guild at St. Matthew’s Announces 2026–2027 Season",
+        "original": "Music Guild at St. Matthew’s Announces 2026–2027 Season",
+        "traffic": "Palisadian-Post"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-19",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Novos documentos detalham a decisão do VOA Country Music Fest de deixar West Chester",
         "original": "New documents detail decision for VOA Country Music Fest to leave West Chester",
         "traffic": "WLWT"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-21",
-    "trends_br": [
-      {
-        "title": "Show de Zezé Di Camargo marcado para dia ‘12 + 1’ em Goiás gera discussão na web",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sexta, 21 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Show do grupo sul-coreano NCT 127 vai ser transmitido ao vivo nos cinemas do Brasil",
-        "traffic": "Ingresso.com"
-      },
-      {
-        "title": "Entre filosofia, esporte e natureza, Tainá Müller mira no cinema e na TV",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "Troféu Check Up 2026 surpreende homenageados em noite de cinema no Iguatemi Bosque",
-        "traffic": "Balada IN"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Programação da Little League World Series TV de 2026, jogos de hoje: sexta-feira, 21 de agosto",
-        "original": "2026 Little League World Series TV schedule, games on today: Friday, August 21",
-        "traffic": "Yahoo Esportes"
-      },
-      {
-        "title": "Coluna | Os filmes de verão sempre foram tão bons? E sempre tão gay?",
-        "original": "Column | Were summer movies always this good? And always so gay?",
-        "traffic": "O Washington Post"
-      },
-      {
-        "title": "Harry e Meghan tinham grandes ambições de entretenimento. Veja como funcionou.",
-        "original": "Harry and Meghan Had Big Entertainment Ambitions. Here’s How It Worked Out.",
-        "traffic": "WSJ"
-      },
-      {
-        "title": "Trio de apaziguadores Brewers entrega vitória na série – e será fundamental em outubro",
-        "original": "Trio of Brewers relievers delivers in series win -- and will be key in October",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "Mark Bryan: Ainda fazendo música depois de fazer história na música de SC",
-        "original": "Mark Bryan: Still making music after making S.C. music history",
-        "traffic": "Jornal da cidade de Charleston"
       }
     ],
     "yt_br": [],
