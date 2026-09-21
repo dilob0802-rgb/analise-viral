@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-21",
+    "trends_br": [
+      {
+        "title": "'Toquei como fosse 67 mil', diz Fiuk sobre show de despedida da carreira solo com público de 67 pessoas",
+        "traffic": "G1"
+      },
+      {
+        "title": "Teatro Mario Covas recebe show de lançamento do novo álbum de NiAn neste domingo",
+        "traffic": "Prefeitura de Caraguatatuba"
+      },
+      {
+        "title": "Fiuk comenta repercussão de show para 67 pessoas: 'Deveria estar envergonhado?'",
+        "traffic": "UOL"
+      },
+      {
+        "title": "XXX Mostra de Cinema",
+        "traffic": "Portal PUC-Campinas"
+      },
+      {
+        "title": "Show do Demônios da Garoa abre o Festival da Primavera e lota o Memorial de Curitiba; confira as próximas atrações",
+        "traffic": "Prefeitura de Curitiba"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Lumen Field & WAMU Theater Named Best Live Music Venue In The PNW",
+        "original": "Lumen Field & WAMU Theater Named Best Live Music Venue In The PNW",
+        "traffic": "Seattle Seahawks"
+      },
+      {
+        "title": "UTA Baseball Reveals 2027 Cleburne College Baseball Series Schedule",
+        "original": "UTA Baseball Reveals 2027 Cleburne College Baseball Series Schedule",
+        "traffic": "University of Texas Arlington Athletics"
+      },
+      {
+        "title": "Beloved country music singer dead at 75: ‘Rest in peace Chief’",
+        "original": "Beloved country music singer dead at 75: ‘Rest in peace Chief’",
+        "traffic": "PennLive.com"
+      },
+      {
+        "title": "Manfred Honeck to Lead San Francisco Symphony’s Newly Created Music Festival, Debuting in 2028-29",
+        "original": "Manfred Honeck to Lead San Francisco Symphony’s Newly Created Music Festival, Debuting in 2028-29",
+        "traffic": "symphony.org"
+      },
+      {
+        "title": "AMC Entertainment Holdings, Inc. Announces Cash Tender Offer for 7.500% Senior Secured Notes Due 2029",
+        "original": "AMC Entertainment Holdings, Inc. Announces Cash Tender Offer for 7.500% Senior Secured Notes Due 2029",
+        "traffic": "AMC Entertainment Holdings, Inc."
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-20",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Papa Leão chama a música sacra de “um tesouro de profundo valor”",
         "original": "Pope Leo calls sacred music 'a treasure of profound value'",
         "traffic": "Repórter Católico Nacional"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-22",
-    "trends_br": [
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 22 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Festa do Peão de Barretos 2026: famosos marcam presença no segundo dia do festival",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Memphis Depay lança clipe de música nova com Parque São Jorge 'em chamas'; veja",
-        "traffic": "ESPN Brasil"
-      },
-      {
-        "title": "Sábado tem rock, cinema e atrações culturais no ES",
-        "traffic": "ES Brasil"
-      },
-      {
-        "title": "NitTrans prepara operação especial de trânsito para show de Anitta no Caminho Niemeyer",
-        "traffic": "Prefeitura Municipal de Niterói"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Little League Baseball® World Series – Recapitulação do Jogo 11",
-        "original": "Little League Baseball® World Series – Game 11 Recap",
-        "traffic": "Liga Infantil"
-      },
-      {
-        "title": "Atualizações ao vivo da Little League World Series: pontuações de 22 de agosto, chave, horários de TV",
-        "original": "Little League World Series live updates: Aug. 22 scores, bracket, TV times",
-        "traffic": "Yahoo Esportes"
-      },
-      {
-        "title": "Novos detalhes sobre professor particular de música de Oregon City acusado de estuprar criança revelados no tribunal",
-        "original": "New details about Oregon City private music teacher accused of raping child revealed in court",
-        "traffic": "KPTV"
-      },
-      {
-        "title": "NASCAR em New Hampshire: principais informações, links e resultados para o fim de semana de corrida",
-        "original": "NASCAR at New Hampshire: Key info, links, results for race weekend",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Novos documentos detalham a decisão do VOA Country Music Fest de deixar West Chester",
-        "original": "New documents detail decision for VOA Country Music Fest to leave West Chester",
-        "traffic": "WLWT"
       }
     ],
     "yt_br": [],
