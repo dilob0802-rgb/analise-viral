@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-22",
+    "trends_br": [
+      {
+        "title": "Rick fez show em Campo Grande três dias antes de desaparecer em helicóptero em SC",
+        "traffic": "G1"
+      },
+      {
+        "title": "Cinema Pontos MIS apresenta clássicos “Sabrina” e “Charada” no Anfiteatro Municipal",
+        "traffic": "Prefeitura de Leme"
+      },
+      {
+        "title": "Fábricas de Cultura têm programação gratuita com música, moda, ciência e cultura em Diadema, Iguape e Osasco",
+        "traffic": "agenciasp.sp.gov.br"
+      },
+      {
+        "title": "Bom Gosto reúne multidão em show de comemoração pelos 248 anos de Corumbá",
+        "traffic": "Município de Corumbá"
+      },
+      {
+        "title": "Da magia do cinema aos clássicos: confira a programação da Sinfônica de Campinas em outubro",
+        "traffic": "Prefeitura de Campinas"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "The Cubs’ final series of the year at Fenway Park could be threatened by a nor’easter",
+        "original": "The Cubs’ final series of the year at Fenway Park could be threatened by a nor’easter",
+        "traffic": "Bleed Cubbie Blue"
+      },
+      {
+        "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+        "original": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+        "traffic": "Apple"
+      },
+      {
+        "title": "St. Paul & the Broken Bones: Proxy Music",
+        "original": "St. Paul & the Broken Bones: Proxy Music",
+        "traffic": "Relix"
+      },
+      {
+        "title": "A celebration of “maple-fired” punk highlights challenging times for Vermont’s live music",
+        "original": "A celebration of “maple-fired” punk highlights challenging times for Vermont’s live music",
+        "traffic": "VTDigger"
+      },
+      {
+        "title": "Jensen Ackles to Star in Crime Thriller Series ‘Rules of Prey’ at MGM+",
+        "original": "Jensen Ackles to Star in Crime Thriller Series ‘Rules of Prey’ at MGM+",
+        "traffic": "Variety"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-21",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Filmes sob as estrelas: Os Incríveis",
         "original": "Movies Under the Stars: The Incredibles",
         "traffic": "City of Sonoma"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-23",
-    "trends_br": [
-      {
-        "title": "Anitta: Saiba onde e quando assistir a show da turnê Equilibrivm na TV e no streaming",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Festival de Cinema de Gramado 2026: veja os vencedores da 54ª edição",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Aspirações da periferia na música embalam curtas no festival Kinoforum",
-        "traffic": "CartaCapital"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 24 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Confira a lista completa dos vencedores do Festival de Cinema de Gramado em 2026",
-        "traffic": "VEJA"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Little League Baseball® World Series – Recapitulação do Jogo 13",
-        "original": "Little League Baseball® World Series – Game 13 Recap",
-        "traffic": "Liga Infantil"
-      },
-      {
-        "title": "Craftsman Truck Series fará estreia no Bowman Gray Stadium em 2027",
-        "original": "Craftsman Truck Series to make Bowman Gray Stadium debut in 2027",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "Programação da Little League World Series TV de 2026, jogos de hoje: domingo, 23 de agosto",
-        "original": "2026 Little League World Series TV schedule, games on today: Sunday, August 23",
-        "traffic": "Yahoo Esportes"
-      },
-      {
-        "title": "Câmera corporal mostra que agente federal foi ‘injustificado’ no tiroteio em Memphis, diz advogado",
-        "original": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Papa Leão chama a música sacra de “um tesouro de profundo valor”",
-        "original": "Pope Leo calls sacred music 'a treasure of profound value'",
-        "traffic": "Repórter Católico Nacional"
       }
     ],
     "yt_br": [],
