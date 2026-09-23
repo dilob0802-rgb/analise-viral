@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-23",
+    "trends_br": [
+      {
+        "title": "Hilary Duff anuncia show único no Brasil em 2027; data, preços, cidade, ingressos e mais",
+        "traffic": "Rolling Stone Brasil"
+      },
+      {
+        "title": "Biblioteca tem recital de piano na sexta e tarde de cinema no sábado",
+        "traffic": "Portal do Município de Piracicaba"
+      },
+      {
+        "title": "Hilary Duff anuncia show em São Paulo para 2027; saiba mais",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Centro Cultural São Paulo recebe show gratuito de grupo de Cabo Verde",
+        "traffic": "Prefeitura de São Paulo"
+      },
+      {
+        "title": "Ufal lança programação oficial do Festival de Música de Penedo 2026",
+        "traffic": "Universidade Federal de Alagoas"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
+        "original": "How weather in Boston could affect a series vs. Cubs with seeding implications",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Notre Dame and Purdue do music badly, but who does it worse?",
+        "original": "Notre Dame and Purdue do music badly, but who does it worse?",
+        "traffic": "One Foot Down"
+      },
+      {
+        "title": "UNCG’s Concert and Lecture Series hosts a wide array of talent",
+        "original": "UNCG’s Concert and Lecture Series hosts a wide array of talent",
+        "traffic": "UNC Greensboro"
+      },
+      {
+        "title": "Honoring Indiana Avenue means keeping the music alive",
+        "original": "Honoring Indiana Avenue means keeping the music alive",
+        "traffic": "Indianapolis Recorder"
+      },
+      {
+        "title": "JAMBALOO announces 2027 free week festival & music prize dates",
+        "original": "JAMBALOO announces 2027 free week festival & music prize dates",
+        "traffic": "fortworthreport.org"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-22",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "2026 NASCAR Cup Series entry list for Daytona International Speedway summer race",
         "original": "2026 NASCAR Cup Series entry list for Daytona International Speedway summer race",
         "traffic": "NASCAR.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-24",
-    "trends_br": [
-      {
-        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 24 a 29 de agosto",
-        "traffic": "Globo"
-      },
-      {
-        "title": "Boca Rosa em trecho da 'Dança dos Famosos' de hoje publicado nas redes sociais do 'Domingão'",
-        "traffic": "Estadão"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Capítulos da novela das nove da Globo - 24 a 29/8",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "‘Nosso Segredo’ leva melhor filme em premiação do 54º Festival de Cinema de Gramado",
-        "traffic": "Sul 21"
-      },
-      {
-        "title": "“Nosso Segredo” é o vencedor do 54º Festival de Cinema de Gramado",
-        "traffic": "Grandes Nomes da Propaganda"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Little League Baseball® World Series – Game 20 Recap",
-        "original": "Little League Baseball® World Series – Game 20 Recap",
-        "traffic": "Little League"
-      },
-      {
-        "title": "Lenda da música country que moldou algumas das maiores estrelas do gênero, morta aos 89 anos",
-        "original": "Country music legend who shaped some of the genre’s biggest stars dead at 89",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "The hill I will die on: A music festival isn’t a music festival without children | Iman Amrani",
-        "original": "The hill I will die on: A music festival isn’t a music festival without children | Iman Amrani",
-        "traffic": "O Guardião"
-      },
-      {
-        "title": "Denny Hamlin clinches No. 1 seed in Cup Series Chase",
-        "original": "Denny Hamlin clinches No. 1 seed in Cup Series Chase",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Filmes sob as estrelas: Os Incríveis",
-        "original": "Movies Under the Stars: The Incredibles",
-        "traffic": "City of Sonoma"
       }
     ],
     "yt_br": [],
