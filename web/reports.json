@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-24",
+    "trends_br": [],
+    "trends_global": [],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-23",
     "trends_br": [
       {
@@ -1513,60 +1520,6 @@
         "title": "Remembering Dolly Parton: A look at music icon's impact on Bay Area from LGBTQ community, human rights, and child literacy",
         "original": "Remembering Dolly Parton: A look at music icon's impact on Bay Area from LGBTQ community, human rights, and child literacy",
         "traffic": "ABC7 Bay Area"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-25",
-    "trends_br": [
-      {
-        "title": "Lito Sousa: veja famosos que mandaram mensagem de apoio para influencer",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Academia Brasileira de Cinema divulga filmes que disputam vaga para representar o Brasil no Oscar",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Por Você: Próximo capítulo da novela, terça, 25 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Piracicaba, 259 anos: encerramento do mês de aniversário terá inaugurações, música, cultura e esporte",
-        "traffic": "Portal do Município de Piracicaba"
-      },
-      {
-        "title": "Espetáculo “A mulher que virou bode” une teatro, música e documentário para revisitar a trajetória da escritora Jurema Finamour",
-        "traffic": "cultura.rs.gov.br"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Little League Baseball® World Series – Game 24 Recap",
-        "original": "Little League Baseball® World Series – Game 24 Recap",
-        "traffic": "Little League"
-      },
-      {
-        "title": "Songs created by AI banned from Australia's music charts",
-        "original": "Songs created by AI banned from Australia's music charts",
-        "traffic": "BBC"
-      },
-      {
-        "title": "Olson Great Plains series highlights Black history on the Plains",
-        "original": "Olson Great Plains series highlights Black history on the Plains",
-        "traffic": "Nebraska Today"
-      },
-      {
-        "title": "Best new music: Death Valley Girls find love amid heavy loss",
-        "original": "Best new music: Death Valley Girls find love amid heavy loss",
-        "traffic": "Radio Milwaukee"
-      },
-      {
-        "title": "2026 NASCAR Cup Series entry list for Daytona International Speedway summer race",
-        "original": "2026 NASCAR Cup Series entry list for Daytona International Speedway summer race",
-        "traffic": "NASCAR.com"
       }
     ],
     "yt_br": [],
