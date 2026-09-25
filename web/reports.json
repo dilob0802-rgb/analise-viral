@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-25",
+    "trends_br": [
+      {
+        "title": "BK’ celebra 10 anos de Castelos & Ruínas com show em BH em novembro",
+        "traffic": "SouBH"
+      },
+      {
+        "title": "Show do Jão: veja horário, como chegar e possível setlist desta sexta-feira",
+        "traffic": "Exame"
+      },
+      {
+        "title": "Karol G faz espetáculo latino em megashow que vem ao Brasil, país que ela ainda quer conquistar",
+        "traffic": "G1"
+      },
+      {
+        "title": "Eli e Grace Carvalho fazem show em homenagem a Alcione e Beth Carvalho no Parque Ipiranga no domingo (27); espetáculo é gratuito | Notícias | Cultura",
+        "traffic": "anapolis.go.gov.br"
+      },
+      {
+        "title": "Quarta edição da “Mostra Especial Preservação e História do Cinema Gaúcho” exibe cinejornais da D.G. Filmes",
+        "traffic": "cultura.rs.gov.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "The 100 Best TV Shows of the 21st Century",
+        "original": "The 100 Best TV Shows of the 21st Century",
+        "traffic": "nytimes.com"
+      },
+      {
+        "title": "Elton John, Charli xcx, Burna Boy and More Set Shows at New Apple Music Hall in London",
+        "original": "Elton John, Charli xcx, Burna Boy and More Set Shows at New Apple Music Hall in London",
+        "traffic": "Variety"
+      },
+      {
+        "title": "Oceans Calling cancels three-day music festival due to nor'easter",
+        "original": "Oceans Calling cancels three-day music festival due to nor'easter",
+        "traffic": "WBFF"
+      },
+      {
+        "title": "Elton John to Perform Surprise Show to Open London’s Apple Music Hall: See Opening Season Lineup",
+        "original": "Elton John to Perform Surprise Show to Open London’s Apple Music Hall: See Opening Season Lineup",
+        "traffic": "billboard.com"
+      },
+      {
+        "title": "MLB playoffs 2026: Ranking teams by World Series pressure",
+        "original": "MLB playoffs 2026: Ranking teams by World Series pressure",
+        "traffic": "ESPN"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-24",
     "trends_br": [],
     "trends_global": [],
@@ -1466,60 +1520,6 @@
         "title": "Taylor Swift lança videoclipe animado como 'Toy Story 5' definido para streaming - ABC News",
         "original": "Taylor Swift drops animated music video as 'Toy Story 5' set for streaming - ABC News",
         "traffic": "Notícias de última hora, últimas notícias e vídeos"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-26",
-    "trends_br": [
-      {
-        "title": "Xande de Pilares",
-        "traffic": "Sesc São Paulo"
-      },
-      {
-        "title": "Dolly Parton deixou música inédita em cápsula do tempo que só poderá ser aberta em 2045",
-        "traffic": "G1"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, quarta, 26 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "“Agenda Cultural” traz atrações em música, sarau literário, cinema na zona rural e mais",
-        "traffic": "Prefeitura de Mossoró"
-      },
-      {
-        "title": "José Loreto disseca preparação intensa para viver Chorão no cinema",
-        "traffic": "Omelete"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Little League Baseball® World Series – Game 27 Recap",
-        "original": "Little League Baseball® World Series – Game 27 Recap",
-        "traffic": "Little League"
-      },
-      {
-        "title": "Harry Styles and the Residencies Taking Over the Music Industry",
-        "original": "Harry Styles and the Residencies Taking Over the Music Industry",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "Dolly Parton, beloved music star, actor and philanthropist, dies at 80",
-        "original": "Dolly Parton, beloved music star, actor and philanthropist, dies at 80",
-        "traffic": "PBS"
-      },
-      {
-        "title": "Dolly Parton Movies Ranked by Tomatometer",
-        "original": "Dolly Parton Movies Ranked by Tomatometer",
-        "traffic": "Rotten Tomatoes"
-      },
-      {
-        "title": "Remembering Dolly Parton: A look at music icon's impact on Bay Area from LGBTQ community, human rights, and child literacy",
-        "original": "Remembering Dolly Parton: A look at music icon's impact on Bay Area from LGBTQ community, human rights, and child literacy",
-        "traffic": "ABC7 Bay Area"
       }
     ],
     "yt_br": [],
