@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-26",
+    "trends_br": [
+      {
+        "title": "'Sou muito mais privilegiado do que as pessoas acham', diz Pietro Antonelli",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Rebobinando Memórias: sucessos do cinema ganham vida em espetáculo de dança em Lucas do Rio Verde",
+        "traffic": "lucasdorioverde.mt.gov.br"
+      },
+      {
+        "title": "Final do Festival de Música Geraldo Azevedo terá premiação de vencedores e show de Ana Carolina",
+        "traffic": "G1"
+      },
+      {
+        "title": "5º Copão “Eu Amo Parintins” de Bairros começa com show, bois-bumbá e 25 bairros em festa",
+        "traffic": "Prefeitura de Parintins"
+      },
+      {
+        "title": "Shania Twain retorna ao Brasil com show exclusivo para convidados no interior de SP",
+        "traffic": "G1"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "The 100 Best TV Shows of the 21st Century",
+        "original": "The 100 Best TV Shows of the 21st Century",
+        "traffic": "nytimes.com"
+      },
+      {
+        "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
+        "original": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "K-pop, BTS, and What the Grammys Get Wrong About Asian Music",
+        "original": "K-pop, BTS, and What the Grammys Get Wrong About Asian Music",
+        "traffic": "Time Magazine"
+      },
+      {
+        "title": "Etentamig Shows Superior Efficacy vs SOC in Relapsed/Refractory Myeloma",
+        "original": "Etentamig Shows Superior Efficacy vs SOC in Relapsed/Refractory Myeloma",
+        "traffic": "CancerNetwork"
+      },
+      {
+        "title": "‘Tape Op’ Editor Larry Crane Explains What a Music Producer Actually Does",
+        "original": "‘Tape Op’ Editor Larry Crane Explains What a Music Producer Actually Does",
+        "traffic": "Willamette Week"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-25",
     "trends_br": [
       {
@@ -1466,60 +1520,6 @@
         "title": "Braves vs. Dodgers series recap: A spectacularly strange sweep",
         "original": "Braves vs. Dodgers series recap: A spectacularly strange sweep",
         "traffic": "Battery Power"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-27",
-    "trends_br": [
-      {
-        "title": "Resumo de Avenida Brasil: Próximo capítulo da novela, sexta, 28 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Humorista Marco Luque apresenta show “É disso que eu tô falando” em setembro no Teatro Mario Covas",
-        "traffic": "Prefeitura de Caraguatatuba"
-      },
-      {
-        "title": "Projeto ‘Um Canto no Botânico’ terá abertura da 18ª temporada com show de Pedro do Cordel e Bando neste domingo",
-        "traffic": "Prefeitura de Bauru"
-      },
-      {
-        "title": "SP Gastronomia volta ao Parque Villa-Lobos com show de Gabriel O Pensador e cerveja 'liberada' no começo da noite",
-        "traffic": "Valor Econômico"
-      },
-      {
-        "title": "Penedo Sabor & Jazz promove aula-show exclusiva para merendeiras da rede municipal",
-        "traffic": "Prefeitura de Penedo / AL"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Iowa eliminado da Little League World Series",
-        "original": "Iowa eliminated from Little League World Series",
-        "traffic": "KWQC"
-      },
-      {
-        "title": "VCSU Music apresentando \"Clarinet Day\" em 23 de setembro",
-        "original": "VCSU Music Hosting \"Clarinet Day\" on Sept. 23",
-        "traffic": "Universidade Estadual de Valley City"
-      },
-      {
-        "title": "SB Nation Reacts: Os fãs dos Cubs querem os Diamondbacks em uma série Wild Card. Você tem certeza disso?",
-        "original": "SB Nation Reacts: Cubs fans want the Diamondbacks in a Wild Card series. You sure about that?",
-        "traffic": "Sangrar Cubbie Azul"
-      },
-      {
-        "title": "15 noites de comédia pouco conhecidas em Los Angeles que farão você rir alto",
-        "original": "15 under-the-radar L.A. comedy nights that’ll make you laugh out loud",
-        "traffic": "Los Angeles Times"
-      },
-      {
-        "title": "Taylor Swift lança videoclipe animado como 'Toy Story 5' definido para streaming - ABC News",
-        "original": "Taylor Swift drops animated music video as 'Toy Story 5' set for streaming - ABC News",
-        "traffic": "Notícias de última hora, últimas notícias e vídeos"
       }
     ],
     "yt_br": [],
