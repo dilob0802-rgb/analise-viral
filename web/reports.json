@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-28",
+    "trends_br": [
+      {
+        "title": "Jão anuncia show no Rio. Veja quando será a venda de ingressos",
+        "traffic": "VEJA RIO"
+      },
+      {
+        "title": "NFL no Rio: saiba tudo sobre show de Pedro Sampaio e Ricky Martin",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Resumo de Por Você: Próximo capítulo da novela, segunda, 28 de setembro",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Cinema e música integram programação da semana no Sete de Abril",
+        "traffic": "Prefeitura de Pelotas"
+      },
+      {
+        "title": "OMG! Jão acaba de anunciar a turnê de Memória Póstumas com shows no Rio de Janeiro, Belo Horizonte, Recife e Brasília ainda este ano! No ano que vem, em 19 de março, tem show em Lisboa, Portugal, e no dia 27, ele retorna mais uma vez ao Nubank P",
+        "traffic": "instagram.com"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Phillies-Braves NL Wild Card Series Game 1 FAQ (Tues., 2 ET, NBC/Peacock)",
+        "original": "Phillies-Braves NL Wild Card Series Game 1 FAQ (Tues., 2 ET, NBC/Peacock)",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Best 2026 World Series matchups for every type of MLB fan",
+        "original": "Best 2026 World Series matchups for every type of MLB fan",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Wild Card Series predictions: Yankees or Red Sox? Can the Phillies find a spark? - The Athletic",
+        "original": "Wild Card Series predictions: Yankees or Red Sox? Can the Phillies find a spark? - The Athletic",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Dodgers Dugout: It’s official — Dodgers won’t win the World Series this year",
+        "original": "Dodgers Dugout: It’s official — Dodgers won’t win the World Series this year",
+        "traffic": "Los Angeles Times"
+      },
+      {
+        "title": "Save the Date! Greenville Country Music Fest announces return with new spring dates",
+        "original": "Save the Date! Greenville Country Music Fest announces return with new spring dates",
+        "traffic": "foxcarolina.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-27",
     "trends_br": [
       {
@@ -1466,60 +1520,6 @@
         "title": "Série Jon Sumrall, Parte II: O Ball Boy Texarkana que se esforçou em tudo",
         "original": "Jon Sumrall Series, Part II: The Texarkana Ball Boy Who Went Hard at Everything",
         "traffic": "Jacarés da Flórida"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-29",
-    "trends_br": [
-      {
-        "title": "Harry Potter E A Pedra Filosofal (Relançamento)",
-        "traffic": "Ingresso.com"
-      },
-      {
-        "title": "Casamento de Ana Hickmann e Edu Guedes terá show do Double You",
-        "traffic": "UOL"
-      },
-      {
-        "title": "‘O Brasil precisa entender que Rock Doido é música pop da Amazônia’, afirma Gaby Amarantos",
-        "traffic": "Brasil de Fato"
-      },
-      {
-        "title": "Zezé Di Camargo surpreende fãs com 'after' ao amanhecer na Festa do Peão de Barretos 2026",
-        "traffic": "G1"
-      },
-      {
-        "title": "Museu Audiovisual da UFF propõe viagem no tempo pela história do cinema",
-        "traffic": "A Tribuna RJ"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Olivia Rodrigo será a atração principal do Daisy Chain Fields, festival de música com programação exclusivamente feminina em Irvine hoje",
-        "original": "Olivia Rodrigo to headline Daisy Chain Fields, music festival with an all-women lineup in Irvine today",
-        "traffic": "ABC7 Los Angeles"
-      },
-      {
-        "title": "Conjunto de campo Chase da série 2026 O'Reilly Auto Parts",
-        "original": "2026 O’Reilly Auto Parts Series Chase field set",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Little League World Series chega às quatro finais neste fim de semana",
-        "original": "Little League World Series reaches final four this weekend",
-        "traffic": "Northeast Times"
-      },
-      {
-        "title": "September At SALA Brings Movies, Community Events, Science, Music And More To Los Alamos",
-        "original": "September At SALA Brings Movies, Community Events, Science, Music And More To Los Alamos",
-        "traffic": "Los Alamos Reporter"
-      },
-      {
-        "title": "Thievery or Innovation? The Music Industry Grapples With A.I.",
-        "original": "Thievery or Innovation? The Music Industry Grapples With A.I.",
-        "traffic": "O jornal New York Times"
       }
     ],
     "yt_br": [],
