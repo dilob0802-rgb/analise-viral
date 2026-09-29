@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-29",
+    "trends_br": [
+      {
+        "title": "5º Festival de Música de Jundiaí reúne talentos e diferentes estilos no Centro das Artes",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Cinema espanhol abre a programação de outubro do Cine Santa Tereza",
+        "traffic": "Prefeitura de Belo Horizonte"
+      },
+      {
+        "title": "Cultura popular será a estrela da próxima edição do Festival de Música de Penedo",
+        "traffic": "Universidade Federal de Alagoas"
+      },
+      {
+        "title": "Música no Centro de Cultura recebe participação especial do regente Isaac Kerr - UFLA",
+        "traffic": "Universidade Federal de Lavras"
+      },
+      {
+        "title": "Simininas aprendem Libras e violão em aulas que unem música e inclusão",
+        "traffic": "Prefeitura de Cuiabá"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Phillies-Braves NL Wild Card Series Game 1 FAQ, lineups (2 ET, NBC/Peacock)",
+        "original": "Phillies-Braves NL Wild Card Series Game 1 FAQ, lineups (2 ET, NBC/Peacock)",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "2026 MLB wild-card series: How to watch, full baseball playoffs schedule and more",
+        "original": "2026 MLB wild-card series: How to watch, full baseball playoffs schedule and more",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "Taylor Swift’s Audience Is Growing Up. Her Music Is Devolving.",
+        "original": "Taylor Swift’s Audience Is Growing Up. Her Music Is Devolving.",
+        "traffic": "The Atlantic"
+      },
+      {
+        "title": "2026 MLB wild-card series Day 1: Live updates, lineups, analysis",
+        "original": "2026 MLB wild-card series Day 1: Live updates, lineups, analysis",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Beshear creates new office to preserve music legacy, grow festival economy",
+        "original": "Beshear creates new office to preserve music legacy, grow festival economy",
+        "traffic": "spectrumnews1.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-28",
     "trends_br": [
       {
@@ -1466,60 +1520,6 @@
         "title": "Série do 30º Aniversário: Jogos Essenciais",
         "original": "30th Anniversary Series: Essential Games",
         "traffic": "Atletismo da USF"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-30",
-    "trends_br": [
-      {
-        "title": "O que aconteceu em show de MC Pipokinha em MS que terminou em condenação de R$ 100 mil",
-        "traffic": "G1"
-      },
-      {
-        "title": "Flashback reúne gerações com música e dança no Horto – CGNotícias",
-        "traffic": "Prefeitura de Campo Grande"
-      },
-      {
-        "title": "Temos que falar de sexo, diz Luisa Arraes, protagonista de filme de humor em motel",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Os famosos ‘quem’: defensores de famosos ganham notoriedade por ‘osmose’",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "Falta uma semana para 1º show de Maroon 5 no Brasil: veja tudo o que você precisa saber sobre o evento",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Campo Chase da NASCAR Cup Series 2026 definido após Daytona",
-        "original": "2026 NASCAR Cup Series Chase field set after Daytona",
-        "traffic": "NASCAR. com"
-      },
-      {
-        "title": "OPINIÃO: Como a música transformou minha experiência universitária",
-        "original": "OPINION: How music has transformed my college experience",
-        "traffic": "Estudante Diário de Indiana"
-      },
-      {
-        "title": "O mundo da música country abalou quando a lenda morreu durante o sono aos 89: ‘É o fim de uma era’",
-        "original": "Country music world rocked as legend dies in his sleep at 89: ‘It’s the end of an era’",
-        "traffic": "PennLive. com"
-      },
-      {
-        "title": "Editoras musicais processam a Anthropic, alegando “roubo flagrante” de músicas protegidas por direitos autorais",
-        "original": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-        "traffic": "Eixos"
-      },
-      {
-        "title": "Série Jon Sumrall, Parte II: O Ball Boy Texarkana que se esforçou em tudo",
-        "original": "Jon Sumrall Series, Part II: The Texarkana Ball Boy Who Went Hard at Everything",
-        "traffic": "Jacarés da Flórida"
       }
     ],
     "yt_br": [],
