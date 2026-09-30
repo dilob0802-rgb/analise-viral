@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-30",
+    "trends_br": [
+      {
+        "title": "Mostra de cinema gratuita da UFMT divulga programação com mais de 40 filmes; confira",
+        "traffic": "G1"
+      },
+      {
+        "title": "Bianca Comparato prestigia inauguração de cinema em SP com nova namorada",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Projeto Música na Igreja estreia temporada Lumen Sacrum em outubro | Notícias | Cultura",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Kleber Mendonça Filho ministra aula inaugural de cinema na FEBF",
+        "traffic": "uerj.br"
+      },
+      {
+        "title": "Festival de Música de Penedo acontece entre os dias 22 e 24 de outubro",
+        "traffic": "Prefeitura de Penedo / AL"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "‘Ted’ Animated Series Sets Peacock Release Date",
+        "original": "‘Ted’ Animated Series Sets Peacock Release Date",
+        "traffic": "Variety"
+      },
+      {
+        "title": "2026 MLB wild-card series Day 2: Live updates, lineups, analysis",
+        "original": "2026 MLB wild-card series Day 2: Live updates, lineups, analysis",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "‘Ted: The Animated Series’ Gets Peacock Release Date & First Look",
+        "original": "‘Ted: The Animated Series’ Gets Peacock Release Date & First Look",
+        "traffic": "Deadline"
+      },
+      {
+        "title": "Phillies-Braves NL Wild Card Series Game 2 FAQ, lineups (2 ET, NBC/Peacock)",
+        "original": "Phillies-Braves NL Wild Card Series Game 2 FAQ, lineups (2 ET, NBC/Peacock)",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Disney+ New Releases In October 2026, New Movies & Shows To Watch | Explore Disney+",
+        "original": "Disney+ New Releases In October 2026, New Movies & Shows To Watch | Explore Disney+",
+        "traffic": "Disney Plus"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-09-29",
     "trends_br": [
       {
@@ -1466,60 +1520,6 @@
         "title": "A carteira de pedidos do Medicaid no Texas cresce para mais de 210.000, mostram dados estaduais",
         "original": "Texas’ Medicaid application backlog grows to more than 210,000, state data shows",
         "traffic": "Mídia Pública de Houston"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-08-31",
-    "trends_br": [
-      {
-        "title": "Semana do Cinema 2026 oferece ingressos a R$ 10 em salas de todo o país; saiba como participar",
-        "traffic": "Ingresso.com"
-      },
-      {
-        "title": "Campinas/SP: encontro histórico da música litúrgica no Brasil com mons. Frisina",
-        "traffic": "Vatican News"
-      },
-      {
-        "title": "Participante da 'Dança dos Famosos' expõe incoerência do júri e vontade de desistir",
-        "traffic": "Terra"
-      },
-      {
-        "title": "Resumo de Avenida Brasil: Próximo capítulo da novela, segunda, 31 de agosto",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "SUMÉ PB – VI Mostra Sumé de Cinema promove cinco dias de programação com cinema, formação, cultura e debate sobre a memória dos cinemas de rua - Prefeitura de Sumé",
-        "traffic": "PB"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Equipes combatem fogo no Music Hall em Detroit",
-        "original": "Crews battle fire at Music Hall in Detroit",
-        "traffic": "ClickOnDetroit | WDIV Local 4"
-      },
-      {
-        "title": "Sony e Warner Music processam Anthropic por músicas usadas em treinamento de IA",
-        "original": "Sony, Warner Music sue Anthropic over songs used in AI training",
-        "traffic": "Reuters"
-      },
-      {
-        "title": "Shows de sucesso do festival Fringe de Edimburgo estão chegando à América. Aqui estão nossas principais escolhas",
-        "original": "Hit shows from Edinburgh’s Fringe festival are coming to America. Here are our top picks",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Novos lançamentos da Disney+ em setembro de 2026 | Novos filmes e programas para assistir",
-        "original": "Disney+ New Releases In September 2026 | New Movies & Shows to Watch",
-        "traffic": "Disney Plus"
-      },
-      {
-        "title": "Série do 30º Aniversário: Jogos Essenciais",
-        "original": "30th Anniversary Series: Essential Games",
-        "traffic": "Atletismo da USF"
       }
     ],
     "yt_br": [],
