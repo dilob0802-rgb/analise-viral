@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-03",
+    "trends_br": [
+      {
+        "title": "Campo Grande tem música, teatro e feiras neste fim de semana – CGNotícias",
+        "traffic": "Prefeitura de Campo Grande"
+      },
+      {
+        "title": "Maestro Roberto Tibiriçá deixa legado na música de concerto brasileira",
+        "traffic": "Prefeitura de Curitiba"
+      },
+      {
+        "title": "A aposta de dois mestres do entretenimento para criar uma ‘cidade da música’ em São Paulo",
+        "traffic": "Exame"
+      },
+      {
+        "title": "É hoje: Banda K7 encerra programação dos 112 anos de Port...",
+        "traffic": "Prefeitura de Porto Velho"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 3 de outubro",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Braves-Dodgers NLDS Game 1 FAQ (4 p.m. ET, FOX/FOX One)",
+        "original": "Braves-Dodgers NLDS Game 1 FAQ (4 p.m. ET, FOX/FOX One)",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard.",
+        "original": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard.",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "MLB playoff schedule: Four Division Series Games 1 on Saturday",
+        "original": "MLB playoff schedule: Four Division Series Games 1 on Saturday",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "2026 MLB Division Series open thread",
+        "original": "2026 MLB Division Series open thread",
+        "traffic": "Brew Crew Ball"
+      },
+      {
+        "title": "Dont @ Me, But These 6 Shows Were Rightfully Canceled After 1 Season",
+        "original": "Dont @ Me, But These 6 Shows Were Rightfully Canceled After 1 Season",
+        "traffic": "purewow.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-02",
     "trends_br": [
       {
@@ -1515,13 +1569,6 @@
         "traffic": "EUA hoje"
       }
     ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-03",
-    "trends_br": [],
-    "trends_global": [],
     "yt_br": [],
     "yt_global": []
   }
