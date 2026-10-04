@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-04",
+    "trends_br": [
+      {
+        "title": "Leandra Leal, Alinne Moraes e mais famosos vão às urnas para votar; veja fotos",
+        "traffic": "Terra"
+      },
+      {
+        "title": "Show infantil leva alegria para toda a família",
+        "traffic": "Prefeitura de Porto Velho"
+      },
+      {
+        "title": "Coral Municipal de Santos celebra o forró em noite de música e brasilidade",
+        "traffic": "Prefeitura de Santos |"
+      },
+      {
+        "title": "Artista moçambicano Otis Selimane apresenta show gratuito em SP",
+        "traffic": "Alma Preta Jornalismo"
+      },
+      {
+        "title": "Rádio MEC estreia série Eu Gosto de Música, apresentada por Ruy Castro",
+        "traffic": "Agência Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "2026 MLB division series Day 1: Takeaways, analysis",
+        "original": "2026 MLB division series Day 1: Takeaways, analysis",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Music icon dies at 91 after legendary 6-decade career",
+        "original": "Music icon dies at 91 after legendary 6-decade career",
+        "traffic": "cleveland.com"
+      },
+      {
+        "title": "Open Thread for Sunday’s Division Series Games",
+        "original": "Open Thread for Sunday’s Division Series Games",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+        "original": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+        "traffic": "CNBC"
+      },
+      {
+        "title": "Celebrities Front Row at Miu Miu Spring 2027 Ready-to-Wear Show [PHOTOS]",
+        "original": "Celebrities Front Row at Miu Miu Spring 2027 Ready-to-Wear Show [PHOTOS]",
+        "traffic": "WWD"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-03",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Aniversários famosos de hoje, 5 de setembro de 2026, incluem uma ex-estrela de “Charmed”, ator de James Bond",
         "original": "Famous birthdays today, September 5, 2026, include a former “Charmed” star, James Bond actor",
         "traffic": "Cleveland.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-04",
-    "trends_br": [
-      {
-        "title": "aespa em SP: tudo o que você precisa saber sobre o show",
-        "traffic": "billboard.com.br"
-      },
-      {
-        "title": "Rock in Rio 2026 anuncia mudança de horários de shows do dia 7, com Elton John",
-        "traffic": "G1"
-      },
-      {
-        "title": "Restauração do antigo Cinema Icaraí avança",
-        "traffic": "niteroi.rj.gov.br"
-      },
-      {
-        "title": "Resumo de Iludida: Capítulos da novela turca da Record - 4/9",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Sabadou Botucatu leva música, lazer e diversão para a Orl...",
-        "traffic": "Prefeitura Municipal de Botucatu"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Você pode trazer filmes de volta",
-        "original": "You Can Bring Movies Back",
-        "traffic": "O Oriente Bowdoin"
-      },
-      {
-        "title": "Um álbum de música artística e abstrata para seu próximo estudo bíblico",
-        "original": "An Abstract, Artistic Music Album For Your Next Bible Study",
-        "traffic": "Cristianismo hoje"
-      },
-      {
-        "title": "Relatório de empregos de agosto mostra que os EUA criaram 162 mil empregos, mais que o dobro das previsões dos economistas",
-        "original": "August jobs report shows U.S. added 162,000 jobs, more than double economists' forecasts",
-        "traffic": "cbsnews. com"
-      },
-      {
-        "title": "Enormes implicações pós-temporada em jogo na série Braves-Phillies",
-        "original": "Huge postseason implications at stake in Braves-Phillies series",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "De 'The Mandalorian and Grogu' a 'Mayday', 10 filmes para transmitir agora",
-        "original": "From 'The Mandalorian and Grogu' to 'Mayday,' 10 movies to stream now",
-        "traffic": "EUA hoje"
       }
     ],
     "yt_br": [],
