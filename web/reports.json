@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-07",
+    "trends_br": [
+      {
+        "title": "Espaço Expressa traz clássicos do cinema de terror no mês de outubro",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Festival de Cinema Colombiano começa nesta quarta em São Paulo",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Stray Kids nos cinemas: grupo transmite show no Japão ao vivo em novembro",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "Mavie ganha festa de 3 anos com famosos, palco e até atrações de K-pop",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Lançamento de “Fructus Nucleorum” celebra 50 anos do Núcleo de Cinema de Animação de Campinas",
+        "traffic": "Prefeitura de Campinas"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "MLB division series 2026: Live updates, analysis on Day 5",
+        "original": "MLB division series 2026: Live updates, analysis on Day 5",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Sunday Drive: The music of the road",
+        "original": "Sunday Drive: The music of the road",
+        "traffic": "Park Record | Park City, Utah"
+      },
+      {
+        "title": "Kasey Kahne joins Spire for full 2027 NASCAR Truck Series campaign",
+        "original": "Kasey Kahne joins Spire for full 2027 NASCAR Truck Series campaign",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Experimental vaccine shows promise against deadly brain cancer in some patients",
+        "original": "Experimental vaccine shows promise against deadly brain cancer in some patients",
+        "traffic": "NBC News"
+      },
+      {
+        "title": "Dr. Grier Williams School of Music to present the Symphonic Band in concert",
+        "original": "Dr. Grier Williams School of Music to present the Symphonic Band in concert",
+        "traffic": "University of West Florida"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-06",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "‘Vou usar isso para o resto da minha vida’: a masterclass em produção musical",
         "original": "'I am going to use this for the rest of my life': The masterclass in music production",
         "traffic": "Universidade de Ohio"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-07",
-    "trends_br": [
-      {
-        "title": "Semana do cinema 2ª edição: ingressos a partir de R$ 10 em todo o Brasil",
-        "traffic": "G1"
-      },
-      {
-        "title": "Dança dos Famosos: Breno Ferreira, Giovana Cordeiro, Kenya Sade e Otaviano vão para repescagem",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Sexta no Centro tem música, gastronomia e artesanato no dia 11 de setembro",
-        "traffic": "Prefeitura de Jundiaí"
-      },
-      {
-        "title": "Ex-namorados, Tatá Werneck e Renato Góes devem contracenar em novela das 9",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Bring Me the Horizon controla o público e faz o melhor show do Rock in Rio 2026 até aqui",
-        "traffic": "Omelete"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Interview: Amy Speace on Weaving Together Poetry and Music For “The Cardinals” And “Days Of Letting Go”",
-        "original": "Interview: Amy Speace on Weaving Together Poetry and Music For “The Cardinals” And “Days Of Letting Go”",
-        "traffic": "Americana Highways"
-      },
-      {
-        "title": "Music consumption trends 2026: Who's listening more – and what's driving discovery?",
-        "original": "Music consumption trends 2026: Who's listening more – and what's driving discovery?",
-        "traffic": "YouGov"
-      },
-      {
-        "title": "Covington Parks & Recreation to Host Free Historical Walking Series in Licking Riverside Neighborhood",
-        "original": "Covington Parks & Recreation to Host Free Historical Walking Series in Licking Riverside Neighborhood",
-        "traffic": "The City of Covington, KY (.gov)"
-      },
-      {
-        "title": "Yankees’ World Series champion pitcher dead at 89",
-        "original": "Yankees’ World Series champion pitcher dead at 89",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "Universal Music Group N.V. Reports Weekly Transactions under and Completion of its €250 Million Share Buyback Program",
-        "original": "Universal Music Group N.V. Reports Weekly Transactions under and Completion of its €250 Million Share Buyback Program",
-        "traffic": "PR Newswire"
       }
     ],
     "yt_br": [],
