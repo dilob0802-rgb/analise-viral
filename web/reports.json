@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-08",
+    "trends_br": [
+      {
+        "title": "SUHO, do EXO, faz primeiro show no Brasil em dezembro",
+        "traffic": "Billboard Brasil"
+      },
+      {
+        "title": "Cinema Walmir Almeida destaca trajetórias de Gonzaguinha em nova programação",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "Kolbe Arte: a expansão do cinema católico",
+        "traffic": "Vatican News"
+      },
+      {
+        "title": "Show arrecada brinquedos para o Fundo Social de Santos",
+        "traffic": "Prefeitura de Santos |"
+      },
+      {
+        "title": "Feira do Livro: talk show com Martha Medeiros foi destaque e programação segue intensa até segunda-feira",
+        "traffic": "Prefeitura Municipal de Canela"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "2026 postseason schedule, results and how to watch",
+        "original": "2026 postseason schedule, results and how to watch",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "The Breakout Music Video of the Year Has a Message for Men. What Is It?",
+        "original": "The Breakout Music Video of the Year Has a Message for Men. What Is It?",
+        "traffic": "The Atlantic"
+      },
+      {
+        "title": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
+        "original": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
+        "traffic": "WSJ"
+      },
+      {
+        "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+        "original": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+        "traffic": "Rockstar Games"
+      },
+      {
+        "title": "Bridgerton’s Spin-Off About Young Violet Is Officially on the Way",
+        "original": "Bridgerton’s Spin-Off About Young Violet Is Officially on the Way",
+        "traffic": "Netflix"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-07",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "How music at the Oklahoma State Fair unites people | Opinion",
         "original": "How music at the Oklahoma State Fair unites people | Opinion",
         "traffic": "oklahoman. com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-08",
-    "trends_br": [
-      {
-        "title": "Aos 79 anos, Elton John esquece aposentadoria em show no Rock in Rio com baladas imbatíveis",
-        "traffic": "G1"
-      },
-      {
-        "title": "Ex-namorados, Tatá Werneck e Renato Góes devem contracenar em novela das 9",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Outro Canal: Elton John faz exigência e Globo é obrigada a transmitir show no Rock in Rio com delay",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Elton John faz show apoteótico e entra para a história do Rock in Rio mais uma vez",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "10 canais de cultura pop, creators e entretenimento para assistir de graça na sua TV Samsung",
-        "traffic": "Samsung Global Newsroom"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "O violoncelista Jonathan Swensen é nomeado ganhador inaugural do Olesen Music Award",
-        "original": "Cellist Jonathan Swensen named inaugural recipient of Olesen Music Award",
-        "traffic": "A estrada"
-      },
-      {
-        "title": "Qual é a posição do Braves depois de dividir o set de 4 jogos com o Phillies?",
-        "original": "Where do Braves stand after splitting 4-game set with Phillies?",
-        "traffic": "MLB. com"
-      },
-      {
-        "title": "Fórum Universitário para Explorar Religião, Política, Literatura e Música neste outono",
-        "original": "University Forum to Explore Religion, Politics, Literature and Music This Fall",
-        "traffic": "A Universidade do Sul do Mississippi"
-      },
-      {
-        "title": "2026 Little League Baseball World Series atraiu o maior público desde 2015",
-        "original": "2026 Little League Baseball World Series Delivered Largest Audience Since 2015",
-        "traffic": "Liga Infantil"
-      },
-      {
-        "title": "‘Vou usar isso para o resto da minha vida’: a masterclass em produção musical",
-        "original": "'I am going to use this for the rest of my life': The masterclass in music production",
-        "traffic": "Universidade de Ohio"
       }
     ],
     "yt_br": [],
