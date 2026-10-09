@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-09",
+    "trends_br": [
+      {
+        "title": "Circuito Penedo de Cinema divulga lista de filmes selecionados para edição 2026",
+        "traffic": "Universidade Federal de Alagoas"
+      },
+      {
+        "title": "Lagum abre nova turnê nacional com show em BH; veja data e ingressos",
+        "traffic": "SouBH"
+      },
+      {
+        "title": "“Cinema: Eis a Questão” lança livreto e anuncia lives sobre filmes do Vestibular Uesb 2027",
+        "traffic": "UESB"
+      },
+      {
+        "title": "Cine Audiovisão promove sessão gratuita com cinema experimental e música ao vivo no Recife",
+        "traffic": "Brasil de Fato"
+      },
+      {
+        "title": "Projeto da UFPI promove educação musical inclusiva para pessoas com o Transtorno do Espectro Autista (TEA)",
+        "traffic": "UFPI"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "10 scary movies and TV shows to set the mood for Halloween",
+        "original": "10 scary movies and TV shows to set the mood for Halloween",
+        "traffic": "Emory News"
+      },
+      {
+        "title": "NASCAR adjusts Saturday schedule at Charlotte Motor Speedway",
+        "original": "NASCAR adjusts Saturday schedule at Charlotte Motor Speedway",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+        "original": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+        "traffic": "Rockstar Games"
+      },
+      {
+        "title": "On the Ground at the Power to the People Festival, a Day of Protest Music and Solidarity",
+        "original": "On the Ground at the Power to the People Festival, a Day of Protest Music and Solidarity",
+        "traffic": "Time Magazine"
+      },
+      {
+        "title": "The Decade’s 10 Most Defining Movies (So Far)",
+        "original": "The Decade’s 10 Most Defining Movies (So Far)",
+        "traffic": "The Atlantic"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-08",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "5 álbuns de música clássica que você pode ouvir agora mesmo",
         "original": "5 Classical Music Albums You Can Listen to Right Now",
         "traffic": "O jornal New York Times"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-09",
-    "trends_br": [
-      {
-        "title": "Prefeitura de Fortaleza promove sessão de cinema inclusivo para estudantes com deficiência da Rede Municipal",
-        "traffic": "Prefeitura de Fortaleza"
-      },
-      {
-        "title": "Semana do Cinema terá ingressos a partir de R$ 10 em Juiz de Fora",
-        "traffic": "G1"
-      },
-      {
-        "title": "IV Liberta Gravatá reúne música e louvor neste sábado (12)",
-        "traffic": "Prefeitura de Gravatá"
-      },
-      {
-        "title": "Consuni aprova novas habilitações em Música e títulos",
-        "traffic": "UnB Notícias"
-      },
-      {
-        "title": "9ª Mostra Sesc de Cinema levará produções independentes a 12 cidades do Rio Grande do Sul",
-        "traffic": "Sesc/RS"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Library Celebrates Hispanic Heritage Month with New Collections Resources, Music and Cultural Traditions",
-        "original": "Library Celebrates Hispanic Heritage Month with New Collections Resources, Music and Cultural Traditions",
-        "traffic": "Biblioteca do Congresso (.gov)"
-      },
-      {
-        "title": "Uma IA Giant se tornou inimigo das gravadoras. Pode jogar bem?",
-        "original": "An A.I. Giant Made an Enemy of Record Labels. Can It Play Nice?",
-        "traffic": "O jornal New York Times"
-      },
-      {
-        "title": "Federal data shows Enbridge leak is the largest reported oil and gas spill in Wisconsin",
-        "original": "Federal data shows Enbridge leak is the largest reported oil and gas spill in Wisconsin",
-        "traffic": "WPR"
-      },
-      {
-        "title": "Indonesian wildfire emissions surge to world's highest, data shows",
-        "original": "Indonesian wildfire emissions surge to world's highest, data shows",
-        "traffic": "Reuters"
-      },
-      {
-        "title": "How music at the Oklahoma State Fair unites people | Opinion",
-        "original": "How music at the Oklahoma State Fair unites people | Opinion",
-        "traffic": "oklahoman. com"
       }
     ],
     "yt_br": [],
