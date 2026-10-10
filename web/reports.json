@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-10",
+    "trends_br": [
+      {
+        "title": "Setlist, horários e mais: saiba tudo sobre o show do Zayn no Brasil",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Brincando na Morada reúne música e atrações gratuitas neste sábado na Capital – CGNotícias",
+        "traffic": "Prefeitura de Campo Grande"
+      },
+      {
+        "title": "Essa cidade é coisa de cinema: Festival do Rio exibe dezenas de filmes com personagens, lugares e histórias bem cariocas",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "As 10 Melhores Séries de 2026 Até Agora, Segundo o Rotten Tomatoes",
+        "traffic": "Forbes Brasil"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 10 de outubro",
+        "traffic": "Notícias da TV"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Every New Hallmark Christmas Movie in 2026: Dates, Casts and How to Stream",
+        "original": "Every New Hallmark Christmas Movie in 2026: Dates, Casts and How to Stream",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "MLB division series: ALDS Game 5 live updates, takeaways, analysis",
+        "original": "MLB division series: ALDS Game 5 live updates, takeaways, analysis",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "An Albany youth music program gave hundreds of free lessons, now faces an uncertain future - Oregon Public Broadcasting",
+        "original": "An Albany youth music program gave hundreds of free lessons, now faces an uncertain future - Oregon Public Broadcasting",
+        "traffic": "OPB"
+      },
+      {
+        "title": "NASCAR at Charlotte: Key info, links, results for Chase race weekend",
+        "original": "NASCAR at Charlotte: Key info, links, results for Chase race weekend",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "‘Stranger Things’ star is all grown up, bringing music project to S.F.",
+        "original": "‘Stranger Things’ star is all grown up, bringing music project to S.F.",
+        "traffic": "San Francisco Chronicle"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-09",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
         "original": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
         "traffic": "O Guardião"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-10",
-    "trends_br": [
-      {
-        "title": "Salvador terá 'Semana do Cinema' com ingressos a partir de R$ 10; saiba mais detalhes",
-        "traffic": "G1"
-      },
-      {
-        "title": "Semana do Cinema: veja quais filmes estão em cartaz a partir de R$ 10",
-        "traffic": "cnnbrasil.com.br"
-      },
-      {
-        "title": "Shows gospel levam música e fé ao público na quarta noite da Expofeira",
-        "traffic": "Prefeitura Municipal de Feira de Santana"
-      },
-      {
-        "title": "BTS exibirá mundialmente show do Brasil nos cinemas: saiba como comprar",
-        "traffic": "portalpopline.com.br"
-      },
-      {
-        "title": "Clássico do cinema, Nosferatu ganha sessão com trilha sonora ao vivo na Biblioteca Mário de Andrade nesta quinta (10)",
-        "traffic": "Prefeitura"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "O que assistir neste outono: aqui estão 16 programas de TV que estamos ansiosos",
-        "original": "What to watch this fall: Here are 16 TV shows we're looking forward to",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Apresentando o Apple Watch Series 12, com o novo Health Sensing System",
-        "original": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-        "traffic": "Maçã"
-      },
-      {
-        "title": "Informações do jogo: Semana 2 – Legacy Series no Alabama A&M",
-        "original": "Game Information: Week 2 — Legacy Series at Alabama A&M",
-        "traffic": "tsutigers.com"
-      },
-      {
-        "title": "VB definido para séries Home-and-Home com Illinois",
-        "original": "VB Set for Home-and-Home Series with Illinois",
-        "traffic": "Atletismo da Universidade Marquette"
-      },
-      {
-        "title": "5 álbuns de música clássica que você pode ouvir agora mesmo",
-        "original": "5 Classical Music Albums You Can Listen to Right Now",
-        "traffic": "O jornal New York Times"
       }
     ],
     "yt_br": [],
