@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-11",
+    "trends_br": [
+      {
+        "title": "Maria Rita volta a se agigantar como cantora no show 'Redescobrir vol. 2', embalada pelo colo da mãe, Elis Regina",
+        "traffic": "G1"
+      },
+      {
+        "title": "Mc Divertida: Modo Divertidamente - O Show | Rio de Janeiro | 10/10/2026",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Famoso Quem: Descubra quem é essa celebridade que ficou conhecida ainda na infância",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Sete Cores da Amazônia",
+        "traffic": "Sesc São Paulo"
+      },
+      {
+        "title": "Zayn Malik usa camisa do Flamengo em show no estádio do Palmeiras; veja",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "MLB championship round odds: Dodgers and Rays begin series as favorites",
+        "original": "MLB championship round odds: Dodgers and Rays begin series as favorites",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Head Trip music festival ends show early due to lightning in Indio, California",
+        "original": "Head Trip music festival ends show early due to lightning in Indio, California",
+        "traffic": "ABC7 Los Angeles"
+      },
+      {
+        "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
+        "original": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "NASCAR Cup Series Charlotte lineup, TV schedule for Sunday's race",
+        "original": "NASCAR Cup Series Charlotte lineup, TV schedule for Sunday's race",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "MLB League Championship Series Picks, World Series Predictions",
+        "original": "MLB League Championship Series Picks, World Series Predictions",
+        "traffic": "Sports Illustrated"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-10",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS",
         "original": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS",
         "traffic": "Clarksville Now"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-11",
-    "trends_br": [
-      {
-        "title": "Stray Kids no Rock in Rio: onde assistir e horário do show",
-        "traffic": "g1.globo.com"
-      },
-      {
-        "title": "Paulista amplia acesso à música com oficinas de musicalização para estudantes da rede municipal",
-        "traffic": "Paulista-PE"
-      },
-      {
-        "title": "Stray Kids no Rock in Rio 2026: que dia é o show, horário e onde assistir ao vivo",
-        "traffic": "Exame"
-      },
-      {
-        "title": "Curtas produzidos em Alvorada são selecionados para Festival Internacional de Cinema em Curitiba",
-        "traffic": "Prefeitura Municipal Alvorada"
-      },
-      {
-        "title": "Clássicos dos anos 80 marcam noite de música e nostalgia na Expofeira",
-        "traffic": "Prefeitura Municipal de Feira de Santana"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "24 new movies worth checking out this fall",
-        "original": "24 new movies worth checking out this fall",
-        "traffic": "NPR"
-      },
-      {
-        "title": "9 movies that best capture the mood of 9/11",
-        "original": "9 movies that best capture the mood of 9/11",
-        "traffic": "Los Angeles Times"
-      },
-      {
-        "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention",
-        "original": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention",
-        "traffic": "Mashable"
-      },
-      {
-        "title": "Inside Arc 2026",
-        "original": "Inside Arc 2026",
-        "traffic": "Música da Nova Cidade"
-      },
-      {
-        "title": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
-        "original": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
-        "traffic": "O Guardião"
       }
     ],
     "yt_br": [],
