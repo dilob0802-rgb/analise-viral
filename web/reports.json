@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-12",
+    "trends_br": [
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 12 de outubro",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Feriado de Nossa Senhora no DF terá missas na Catedral e show com Frei Gilson; veja detalhes",
+        "traffic": "G1"
+      },
+      {
+        "title": "Zeca Baleiro",
+        "traffic": "Sesc São Paulo"
+      },
+      {
+        "title": "Famosos celebram Dia das Crianças com os filhos; confira",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Caça às bruxas aos isentões? Público cobra posicionamento político de celebridades",
+        "traffic": "VEJA"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Marty Stuart’s Country Music Time Machine",
+        "original": "Marty Stuart’s Country Music Time Machine",
+        "traffic": "The Santa Barbara Independent"
+      },
+      {
+        "title": "Where to buy World Series tickets and how much they cost right now",
+        "original": "Where to buy World Series tickets and how much they cost right now",
+        "traffic": "Milwaukee Journal Sentinel"
+      },
+      {
+        "title": "Beatles Films Release Details: A Mega-Month of Moviegoing, Producers Hope",
+        "original": "Beatles Films Release Details: A Mega-Month of Moviegoing, Producers Hope",
+        "traffic": "The Hollywood Reporter"
+      },
+      {
+        "title": "2026 NASCAR Cup Series entry list for Phoenix Raceway Chase race",
+        "original": "2026 NASCAR Cup Series entry list for Phoenix Raceway Chase race",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "UConn Opens Preseason In HOF Series At Mohegan Sun",
+        "original": "UConn Opens Preseason In HOF Series At Mohegan Sun",
+        "traffic": "University of Connecticut Athletics"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-11",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
         "original": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
         "traffic": "NASCAR.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-12",
-    "trends_br": [
-      {
-        "title": "Qual foi o melhor show de ontem no Rock in Rio? Críticos do GLOBO dão notas para apresentações no dia do k-pop",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Centro Cultural São Paulo tem cinema a céu aberto, apresentações de piano, aulas de yoga e forró e muito mais",
-        "traffic": "Prefeitura"
-      },
-      {
-        "title": "Neste final de semana, Cinema do Dragão tem exibição gratuita de minissérie sobre a vida e obra de Belchior",
-        "traffic": "Brasil de Fato"
-      },
-      {
-        "title": "Curta Canedo celebra 10 anos com programação gratuita",
-        "traffic": "Prefeitura de Senador Canedo"
-      },
-      {
-        "title": "Resumo de Por Você: Próximo capítulo da novela, sábado, 12 de setembro",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Underselling? Overselling? Let's break down World Series odds",
-        "original": "Underselling? Overselling? Let's break down World Series odds",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-        "original": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-        "traffic": "Apple"
-      },
-      {
-        "title": "Calls for investigation after video shows ICE officers using batons on protesters",
-        "original": "Calls for investigation after video shows ICE officers using batons on protesters",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "Gary Oldman Says HBO's 'Harry Potter' TV Series Will Be \"More Satisfying\" Than The Movies",
-        "original": "Gary Oldman Says HBO's 'Harry Potter' TV Series Will Be \"More Satisfying\" Than The Movies",
-        "traffic": "Deadline"
-      },
-      {
-        "title": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS",
-        "original": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS",
-        "traffic": "Clarksville Now"
       }
     ],
     "yt_br": [],
