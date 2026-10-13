@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-13",
+    "trends_br": [
+      {
+        "title": "Famosos lamentam morte do cantor Netinho, símbolo do axé music: 'A música está triste com sua partida'",
+        "traffic": "G1"
+      },
+      {
+        "title": "Opinião - Rosana Hermann: Famosos em cima do muro: eles têm medo do quê?",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Circuito Penedo de Cinema abre inscrições para Mostra Cineclubista",
+        "traffic": "Universidade Federal de Alagoas"
+      },
+      {
+        "title": "Amigos e famosos lamentam morte de Netinho",
+        "traffic": "VEJA"
+      },
+      {
+        "title": "Mostra revisita os “grandes fracassos” da história do cinema",
+        "traffic": "Jornal da USP"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Momentum in every measure: Huntsville Music Month hits new high notes",
+        "original": "Momentum in every measure: Huntsville Music Month hits new high notes",
+        "traffic": "City of Huntsville (.gov)"
+      },
+      {
+        "title": "Encountering the Past in “Music Against the Night”",
+        "original": "Encountering the Past in “Music Against the Night”",
+        "traffic": "The New Yorker"
+      },
+      {
+        "title": "Book Review: ‘Music Against the Night,’ by Yiyun Li",
+        "original": "Book Review: ‘Music Against the Night,’ by Yiyun Li",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+        "original": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
+        "original": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
+        "traffic": "Apple"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-12",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "UNCG Connects Music, Art, and Culture at the N.C. Folk Festival",
         "original": "UNCG Connects Music, Art, and Culture at the N.C. Folk Festival",
         "traffic": "The University of North Carolina at Greensboro"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-13",
-    "trends_br": [
-      {
-        "title": "Zara Larsson no Rock in Rio: onde assistir e horário do show",
-        "traffic": "G1"
-      },
-      {
-        "title": "Teatro e cinema marcam penúltimo dia do festival ‘#SouManaus 2026’",
-        "traffic": "Prefeitura de Manaus"
-      },
-      {
-        "title": "Alceu Valença e Orquestra Ouro Preto farão show gratuito no Parque Ibirapuera",
-        "traffic": "viva.com.br"
-      },
-      {
-        "title": "Rock in Rio 2026: 'Também quero viver de música', diz Rainer Cadete, que se lançou cantor",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Sábado do Motociclista reuniu música, solidariedade e paixão pelas duas rodas em Gravatá",
-        "traffic": "gravata.pe.gov.br"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "How to be an ethical gossip",
-        "original": "How to be an ethical gossip",
-        "traffic": "vox.com"
-      },
-      {
-        "title": "“Ueck” documentary shows how Bob Uecker’s impact survives him",
-        "original": "“Ueck” documentary shows how Bob Uecker’s impact survives him",
-        "traffic": "Brew Crew Ball"
-      },
-      {
-        "title": "Beloved country music singer dead at 56: ‘He will be missed’",
-        "original": "Beloved country music singer dead at 56: ‘He will be missed’",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "Today’s famous birthdays list for September 13, 2026 includes celebrities Tyler Perry, Lili Reinhart",
-        "original": "Today’s famous birthdays list for September 13, 2026 includes celebrities Tyler Perry, Lili Reinhart",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
-        "original": "2026 Cup Series lineup for World Wide Technology Raceway at Gateway",
-        "traffic": "NASCAR.com"
       }
     ],
     "yt_br": [],
