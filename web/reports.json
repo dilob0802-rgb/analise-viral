@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-14",
+    "trends_br": [
+      {
+        "title": "Frei Gilson em Belém: fãs se concentram na praça Santuário horas antes do show",
+        "traffic": "G1"
+      },
+      {
+        "title": "10º Festival de Cinema Curta Caraguá começa nesta quinta e segue até 29 de outubro",
+        "traffic": "Prefeitura de Caraguatatuba"
+      },
+      {
+        "title": "Wine Rock Festival leva show de Digão, do Raimundos, à orla da Pampulha",
+        "traffic": "SouBH"
+      },
+      {
+        "title": "Artistas da 10ª edição do Bolsa Pampulha apresentam sessão especial de cinema no MIS BH",
+        "traffic": "Prefeitura de Belo Horizonte"
+      },
+      {
+        "title": "Quem é Milla, citada na música cantada por Netinho e que viveu romance com compositor",
+        "traffic": "UOL"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Minnesota professor linked to series of bizarre incidents involving urine at university",
+        "original": "Minnesota professor linked to series of bizarre incidents involving urine at university",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "OSU Announces Home-and-Home Series with Mississippi State",
+        "original": "OSU Announces Home-and-Home Series with Mississippi State",
+        "traffic": "Oklahoma State University Athletics"
+      },
+      {
+        "title": "UM Music Ed Student a First for New Statewide Partnership",
+        "original": "UM Music Ed Student a First for New Statewide Partnership",
+        "traffic": "University of Montana"
+      },
+      {
+        "title": "Kacey Musgraves and Miranda Lambert Have a Lot in Common. Their Live Shows Don’t.",
+        "original": "Kacey Musgraves and Miranda Lambert Have a Lot in Common. Their Live Shows Don’t.",
+        "traffic": "Texas Monthly"
+      },
+      {
+        "title": "Guards head home with series tied after costly error on Rays' turf",
+        "original": "Guards head home with series tied after costly error on Rays' turf",
+        "traffic": "MLB.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-13",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "PGA Tour announces membership criteria and eligibility for new competitive structure",
         "original": "PGA Tour announces membership criteria and eligibility for new competitive structure",
         "traffic": "PGA Tour"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-14",
-    "trends_br": [
-      {
-        "title": "Rock in Rio 2026: qual foi o melhor show do festival? Vote",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Demi Lovato - São Paulo - 15/09/2026 - Venda Geral",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Semana do Cinema e tempo chuvoso impulsionam bilheterias dos cinemas no fim de semana",
-        "traffic": "Valor Econômico"
-      },
-      {
-        "title": "Bienal de Música Eletroacústica anuncia programação para outubro",
-        "traffic": "CONCERTO | Home"
-      },
-      {
-        "title": "Pianista basca Garazi Goñi apresenta recital gratuito dedicado à música brasileira no Multipalco Eva Sopher",
-        "traffic": "cultura.rs.gov.br"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Rookie Series: Five Takeaways from Flyers Sweep",
-        "original": "Rookie Series: Five Takeaways from Flyers Sweep",
-        "traffic": "NHL.com"
-      },
-      {
-        "title": "LETTER: Help keep the music playing",
-        "original": "LETTER: Help keep the music playing",
-        "traffic": "Marblehead Current"
-      },
-      {
-        "title": "WPR Music Library picks: Vol. 4",
-        "original": "WPR Music Library picks: Vol. 4",
-        "traffic": "WPR"
-      },
-      {
-        "title": "Country music star’s fans praying after ‘family emergency’ forces him to postpone shows",
-        "original": "Country music star’s fans praying after ‘family emergency’ forces him to postpone shows",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "UNCG Connects Music, Art, and Culture at the N.C. Folk Festival",
-        "original": "UNCG Connects Music, Art, and Culture at the N.C. Folk Festival",
-        "traffic": "The University of North Carolina at Greensboro"
       }
     ],
     "yt_br": [],
