@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-15",
+    "trends_br": [
+      {
+        "title": "Mostra Internacional de Cinema de SP começa nesta quinta-feira",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "CINE ESCOLA DUQUE DE CAXIAS RECEBE MOSTRA DE CINEMA CHINÊS GRATUITA. CONFIRA OS FILMES DA PROGRAMAÇÃO",
+        "traffic": "Prefeitura Municipal de Duque de Caxias"
+      },
+      {
+        "title": "Sesc Digital recebe programação da 15ª Mostra de Cinema Coreano",
+        "traffic": "Sesc São Paulo"
+      },
+      {
+        "title": "Elas Que Lutem é a próxima novela das 7 da Globo; saiba mais!",
+        "traffic": "Gshow"
+      },
+      {
+        "title": "28ª Feira do Livro terá cinema, teatro, oficinas e lançamentos nesta quinta-feira",
+        "traffic": "Prefeitura de Bagé"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Iconic punk rock band returns with new music after nearly 50-year career",
+        "original": "Iconic punk rock band returns with new music after nearly 50-year career",
+        "traffic": "Syracuse.com"
+      },
+      {
+        "title": "Finding the groove: what’s the best genre of music to dance to?",
+        "original": "Finding the groove: what’s the best genre of music to dance to?",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "Why I’m rooting for the Cleveland Guardians to win the World Series",
+        "original": "Why I’m rooting for the Cleveland Guardians to win the World Series",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "The Myth of the Gifted Writer, and What Sylvester Stallone Shows Us About Being a Storyteller",
+        "original": "The Myth of the Gifted Writer, and What Sylvester Stallone Shows Us About Being a Storyteller",
+        "traffic": "Jane Friedman"
+      },
+      {
+        "title": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
+        "original": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
+        "traffic": "MLB.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-14",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "10 great sci-fi and horror TV shows that ran for 10+ seasons - the ultimate long-term binge guide",
         "original": "10 great sci-fi and horror TV shows that ran for 10+ seasons - the ultimate long-term binge guide",
         "traffic": "Substack"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-15",
-    "trends_br": [
-      {
-        "title": "Demi Lovato - São Paulo - 15/09/2026 - Venda Geral",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Péricles canta Motown é eleito o melhor show nacional do Rock in Rio 2026 pelo g1",
-        "traffic": "G1"
-      },
-      {
-        "title": "Sete de Abril recebe show internacional, peça teatral e mostra de dança nesta semana",
-        "traffic": "Prefeitura de Pelotas"
-      },
-      {
-        "title": "Resumo Quem Ama Cuida: tudo sobre a novela de 15 a 19/09",
-        "traffic": "Terra"
-      },
-      {
-        "title": "Resumo de Iludida: Capítulos da novela turca da Record - 15 a 18/9",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Democracy indicators in US at lowest levels for 50 years, data shows",
-        "original": "Democracy indicators in US at lowest levels for 50 years, data shows",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "‘Harry Potter’ HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey",
-        "original": "‘Harry Potter’ HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey",
-        "traffic": "Variety"
-      },
-      {
-        "title": "'Harry Potter' Series Casts Arthur Weasley, Moaning Myrtle",
-        "original": "'Harry Potter' Series Casts Arthur Weasley, Moaning Myrtle",
-        "traffic": "Deadline"
-      },
-      {
-        "title": "PGA Tour shares details of its 2 new series debuting in 2028",
-        "original": "PGA Tour shares details of its 2 new series debuting in 2028",
-        "traffic": "espn.com"
-      },
-      {
-        "title": "PGA Tour announces membership criteria and eligibility for new competitive structure",
-        "original": "PGA Tour announces membership criteria and eligibility for new competitive structure",
-        "traffic": "PGA Tour"
       }
     ],
     "yt_br": [],
