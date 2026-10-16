@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-16",
+    "trends_br": [
+      {
+        "title": "Cê Ta Doido Festival - São Paulo - 17/10/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Sesc RJ lança festival de cinema que articula exibição, formação e fomento",
+        "traffic": "Portal Sesc RJ"
+      },
+      {
+        "title": "Alessandra Ambrósio volta ao desfile da Victoria's Secret para sua 20ª participação",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Os Sons da Paz - Música e Movimento",
+        "traffic": "Prefeitura de São Paulo"
+      },
+      {
+        "title": "Show de Chico César, programação infantil, samba, rock, reggae e hip-hop movimentam o Pelourinho nesta semana; confira a agenda",
+        "traffic": "ba.gov.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Inside night Brewers booked World Series trip, ousted Dodgers",
+        "original": "Inside night Brewers booked World Series trip, ousted Dodgers",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "When does the World Series start? Schedule, format, how to watch and more to know",
+        "original": "When does the World Series start? Schedule, format, how to watch and more to know",
+        "traffic": "NBC Los Angeles"
+      },
+      {
+        "title": "Bauers takes home NLCS MVP after series filled with signature moments",
+        "original": "Bauers takes home NLCS MVP after series filled with signature moments",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "The Brewers are World Series-bound, and the fans are ECSTATIC!",
+        "original": "The Brewers are World Series-bound, and the fans are ECSTATIC!",
+        "traffic": "FOX6 News Milwaukee"
+      },
+      {
+        "title": "After a failed World Series attempt, Dodgers are left wondering what happened to their season, and their star",
+        "original": "After a failed World Series attempt, Dodgers are left wondering what happened to their season, and their star",
+        "traffic": "NBC News"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-15",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Intermittent fasting shows promise in slowing Huntington’s disease progression",
         "original": "Intermittent fasting shows promise in slowing Huntington’s disease progression",
         "traffic": "OHSU News"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-16",
-    "trends_br": [
-      {
-        "title": "Jovem de 16 anos morre antes de show do Stray Kids na Argentina",
-        "traffic": "G1"
-      },
-      {
-        "title": "Loyle Carner fará sua estreia no Brasil com show único em São Paulo",
-        "traffic": "Tenho Mais Discos Que Amigos"
-      },
-      {
-        "title": "Fernanda Torres fala de amizade com Débora Bloch: 'Passamos horas no telefone'",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Notícia - Sabadou Botucatu leva música, cultura e lazer gratuitos à Vila Cidade Jardim",
-        "traffic": "botucatu.sp.gov.br"
-      },
-      {
-        "title": "Festival MAIS celebra a diversidade da música autoral em Santos",
-        "traffic": "Prefeitura de Santos |"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "865 Neyland Unveiled as Official Name of University of Tennessee Entertainment District",
-        "original": "865 Neyland Unveiled as Official Name of University of Tennessee Entertainment District",
-        "traffic": "University of Tennessee Athletics"
-      },
-      {
-        "title": "Nebraska, Notre Dame Announce Home-and-Home Football Series - University of Nebraska - Official Athletics Website",
-        "original": "Nebraska, Notre Dame Announce Home-and-Home Football Series - University of Nebraska - Official Athletics Website",
-        "traffic": "huskers.com"
-      },
-      {
-        "title": "Tennessee reveals official name of Neyland entertainment district, new renderings",
-        "original": "Tennessee reveals official name of Neyland entertainment district, new renderings",
-        "traffic": "Knoxville News Sentinel"
-      },
-      {
-        "title": "All of Taylor Swift’s Official Music Videos Are Now on Spotify",
-        "original": "All of Taylor Swift’s Official Music Videos Are Now on Spotify",
-        "traffic": "Spotify"
-      },
-      {
-        "title": "10 great sci-fi and horror TV shows that ran for 10+ seasons - the ultimate long-term binge guide",
-        "original": "10 great sci-fi and horror TV shows that ran for 10+ seasons - the ultimate long-term binge guide",
-        "traffic": "Substack"
       }
     ],
     "yt_br": [],
