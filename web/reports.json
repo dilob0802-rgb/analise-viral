@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-17",
+    "trends_br": [
+      {
+        "title": "Cê Ta Doido Festival - São Paulo - 17/10/2026 - Venda Geral",
+        "traffic": "Ticketmaster Brasil"
+      },
+      {
+        "title": "Os Filmes Imperdíveis da 50ª Mostra Internacional de Cinema de São Paulo",
+        "traffic": "Forbes Brasil"
+      },
+      {
+        "title": "Prima de Luísa Sonza, Nadine Gerloff fala sobre papel em nova novela vertical do Globoplay: 'Tenho sonhos grandes'",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 17 de outubro",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "KAMIJO faz show em São Paulo em fevereiro de 2027",
+        "traffic": "Crunchyroll"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Honeycutt strikes back, wins Truck Series Chase race at Phoenix",
+        "original": "Honeycutt strikes back, wins Truck Series Chase race at Phoenix",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Who should Brewers want to face in the World Series?",
+        "original": "Who should Brewers want to face in the World Series?",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Cheapest Brewers World Series Game 1 seat now costs more than $3,000",
+        "original": "Cheapest Brewers World Series Game 1 seat now costs more than $3,000",
+        "traffic": "USA Today"
+      },
+      {
+        "title": "Volleyball Returns To HTC Center For Marshall Series",
+        "original": "Volleyball Returns To HTC Center For Marshall Series",
+        "traffic": "Coastal Carolina University Athletics"
+      },
+      {
+        "title": "One of My Top Three Shows of 2026 Was Just Renewed—Finally",
+        "original": "One of My Top Three Shows of 2026 Was Just Renewed—Finally",
+        "traffic": "PureWow"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-16",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "169th edition edition of My Random Thoughts: Sports, TV, music, food, life.....",
         "original": "169th edition edition of My Random Thoughts: Sports, TV, music, food, life.....",
         "traffic": "700WLW"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-17",
-    "trends_br": [
-      {
-        "title": "XBOX na Tokyo Game Show 2026: todos os anúncios, incluindo uma aparição de Hideo Kojima",
-        "traffic": "XBOX Wire"
-      },
-      {
-        "title": "Cinema nacional é destaque no Cine Walmir Almeida; confira a programação",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "Shopping Uberaba participa do Circuito Jazz e traz show à Praça de Alimentação",
-        "traffic": "G1"
-      },
-      {
-        "title": "Primeira edição da Seresta Dançante 60 Up leva música, cultura e lazer para a Zona Norte de Niterói",
-        "traffic": "niteroi.rj.gov.br"
-      },
-      {
-        "title": "Paula Lima estreia novo show em São Paulo; saiba mais",
-        "traffic": "Rolling Stone Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "NASCAR and FedEx Freight announce long-term Truck Series entitlement partnership starting in 2027",
-        "original": "NASCAR and FedEx Freight announce long-term Truck Series entitlement partnership starting in 2027",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Apple Watch Series 12 Review: I’m Loving the Subscription-Free Life",
-        "original": "Apple Watch Series 12 Review: I’m Loving the Subscription-Free Life",
-        "traffic": "cnet.com"
-      },
-      {
-        "title": "How classical music became Alec Baldwin's companion and muse",
-        "original": "How classical music became Alec Baldwin's companion and muse",
-        "traffic": "WHYY"
-      },
-      {
-        "title": "‘Rose Hill’ Amazon Series Adds Siobhan McGroarty, Sophia Reid-Gantzert, West Mulholland",
-        "original": "‘Rose Hill’ Amazon Series Adds Siobhan McGroarty, Sophia Reid-Gantzert, West Mulholland",
-        "traffic": "variety.com"
-      },
-      {
-        "title": "Intermittent fasting shows promise in slowing Huntington’s disease progression",
-        "original": "Intermittent fasting shows promise in slowing Huntington’s disease progression",
-        "traffic": "OHSU News"
       }
     ],
     "yt_br": [],
