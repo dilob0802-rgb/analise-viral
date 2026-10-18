@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-18",
+    "trends_br": [
+      {
+        "title": "'Aquarelas' de Ary Barroso e Tom Jobim colorem com a bossa brasileira o show de Dionne Warwick no Rio de Janeiro",
+        "traffic": "G1"
+      },
+      {
+        "title": "Outro Canal: Em alta na Globo, Mariana Sena é cotada para próxima novela das seis com Maisa",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Como assistir ao Victoria’s Secret Fashion Show 2026 ao vivo neste domingo?",
+        "traffic": "Exame"
+      },
+      {
+        "title": "Festival de Cinema valoriza produções de crianças e adolescentes",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Os Filmes Imperdíveis da 50ª Mostra Internacional de Cinema de São Paulo",
+        "traffic": "Forbes Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Helicopter crash claims country music star’s life amid terrifying wave of air scares",
+        "original": "Helicopter crash claims country music star’s life amid terrifying wave of air scares",
+        "traffic": "PennLive.com"
+      },
+      {
+        "title": "Rays defeat Guardians to level MLB playoff series",
+        "original": "Rays defeat Guardians to level MLB playoff series",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "MOTR to host Cincinnati Music Book Show",
+        "original": "MOTR to host Cincinnati Music Book Show",
+        "traffic": "Cincinnati CityBeat"
+      },
+      {
+        "title": "Rays vs. Guardians (Oct 18, 2026) Live Score",
+        "original": "Rays vs. Guardians (Oct 18, 2026) Live Score",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "River Hawks Drop Series Finale to Arizona State, 4-2",
+        "original": "River Hawks Drop Series Finale to Arizona State, 4-2",
+        "traffic": "UMass Lowell Athletics"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-17",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Lake Oswego event to showcase music, food and more from many cultures",
         "original": "Lake Oswego event to showcase music, food and more from many cultures",
         "traffic": "Lake Oswego Review"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-18",
-    "trends_br": [
-      {
-        "title": "Dança, música, arte e oficinas movimentam a programação cultural de Jundiaí neste final de semana",
-        "traffic": "Prefeitura de Jundiaí"
-      },
-      {
-        "title": "Quinta na Praça encerra temporada 2026 com música, cultura e diversidade de ritmos",
-        "traffic": "Prefeitura Municipal de Feira de Santana"
-      },
-      {
-        "title": "Tardezinha no Dique vai levar música e lazer neste domingo em Cabedelo - Prefeitura de Cabedelo",
-        "traffic": "PB"
-      },
-      {
-        "title": "Cena de Mulher une música e dança com ‘O Groove Delas’",
-        "traffic": "Prefeitura de São José dos Campos"
-      },
-      {
-        "title": "“Vontade de Querer” une música neoclássica com experiência imersiva no Palco Central - UFJF",
-        "traffic": "Universidade Federal de Juiz de Fora"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Jake Garcia scores first Truck win at Bristol; top Chase drivers struggle in final stage",
-        "original": "Jake Garcia scores first Truck win at Bristol; top Chase drivers struggle in final stage",
-        "traffic": "nascar.com"
-      },
-      {
-        "title": "2027 BMW 3 Series Rendering Is Likely Close To The Real Thing",
-        "original": "2027 BMW 3 Series Rendering Is Likely Close To The Real Thing",
-        "traffic": "bmwblog"
-      },
-      {
-        "title": "Resident Evil is one of the best horror movies of the year - and a perfect reset for the franchise",
-        "original": "Resident Evil is one of the best horror movies of the year - and a perfect reset for the franchise",
-        "traffic": "Substack"
-      },
-      {
-        "title": "Changes to the Rochester music scene",
-        "original": "Changes to the Rochester music scene",
-        "traffic": "WXXI News"
-      },
-      {
-        "title": "169th edition edition of My Random Thoughts: Sports, TV, music, food, life.....",
-        "original": "169th edition edition of My Random Thoughts: Sports, TV, music, food, life.....",
-        "traffic": "700WLW"
       }
     ],
     "yt_br": [],
