@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-19",
+    "trends_br": [
+      {
+        "title": "Último show de Benito di Paula foi ao lado do filho e teve participação de Zeca Baleiro em SP",
+        "traffic": "G1"
+      },
+      {
+        "title": "CineFé em Fátima: três dias dedicados ao cinema, à cultura e à fé",
+        "traffic": "Vatican News"
+      },
+      {
+        "title": "Festival UFU de Cultura Afro reúne arte, música e debates sobre relações étnico-raciais em novembro",
+        "traffic": "Comunica UFU"
+      },
+      {
+        "title": "Mostra recebe lançamentos de livros sobre cinema em São Paulo",
+        "traffic": "PublishNews"
+      },
+      {
+        "title": "Daniil Trifonov lança disco com música latino-americana e participação da Osesp",
+        "traffic": "CONCERTO | Home"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "US Supreme Court rejects music labels' challenge to copyright termination ruling",
+        "original": "US Supreme Court rejects music labels' challenge to copyright termination ruling",
+        "traffic": "Reuters"
+      },
+      {
+        "title": "2026 postseason schedule, results and how to watch",
+        "original": "2026 postseason schedule, results and how to watch",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "ALCS Game 6: Lineups, live updates for Guardians-Rays",
+        "original": "ALCS Game 6: Lineups, live updates for Guardians-Rays",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Making music is magic. Understanding it is even better.",
+        "original": "Making music is magic. Understanding it is even better.",
+        "traffic": "Harvard Gazette"
+      },
+      {
+        "title": "Brewers advance to World Series, Milwaukee reacts to NLCS win",
+        "original": "Brewers advance to World Series, Milwaukee reacts to NLCS win",
+        "traffic": "FOX6 News Milwaukee"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-18",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Music Guild at St. Matthew’s Announces 2026–2027 Season",
         "original": "Music Guild at St. Matthew’s Announces 2026–2027 Season",
         "traffic": "Palisadian-Post"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-19",
-    "trends_br": [
-      {
-        "title": "Moradores de 90% das cidades de MT precisam viajar para ter acesso a cinema",
-        "traffic": "G1"
-      },
-      {
-        "title": "Letícia Colin fala sobre morar separada do marido após reconciliação: 'A vida pede adaptação'",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Lauren Jauregui chega a São Paulo para show neste sábado",
-        "traffic": "Portal ABC do ABC"
-      },
-      {
-        "title": "Ildefonso Milcharek leva música e tradição aos Festejos Farroupilhas de Alvorada",
-        "traffic": "Prefeitura Municipal Alvorada"
-      },
-      {
-        "title": "Após polêmica, show de Ed Sheeran tem ingressos sobrando e preço reduzido",
-        "traffic": "cnnbrasil.com.br"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Here are 8 movies we loved at the Toronto International Film Festival",
-        "original": "Here are 8 movies we loved at the Toronto International Film Festival",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Cup Series qualifying canceled by rain; Larson on pole for Bristol Night Race",
-        "original": "Cup Series qualifying canceled by rain; Larson on pole for Bristol Night Race",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Duncan Sheik, celebrated music artist, dies",
-        "original": "Duncan Sheik, celebrated music artist, dies",
-        "traffic": "The Arkansas Democrat-Gazette"
-      },
-      {
-        "title": "Rad Radio DFW launches with focus on local personalities, 1990s alternative music",
-        "original": "Rad Radio DFW launches with focus on local personalities, 1990s alternative music",
-        "traffic": "NBC 5 Dallas-Fort Worth"
-      },
-      {
-        "title": "Lake Oswego event to showcase music, food and more from many cultures",
-        "original": "Lake Oswego event to showcase music, food and more from many cultures",
-        "traffic": "Lake Oswego Review"
       }
     ],
     "yt_br": [],
