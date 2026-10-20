@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-20",
+    "trends_br": [
+      {
+        "title": "Cinema Ponto MIS apresenta documentário sobre o Ballet Paraisópolis",
+        "traffic": "Prefeitura de Várzea Paulista"
+      },
+      {
+        "title": "Jockey Plaza promove sessão de cinema e crochê em prol de hospital",
+        "traffic": "G1"
+      },
+      {
+        "title": "Hunter Schafer, de 'Euphoria', revela cirurgia de redesignação sexual",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Associação Brasileira \"Carlos Gomes\" de Artistas Líricos celebra 45 anos com música",
+        "traffic": "Prefeitura de Campinas"
+      },
+      {
+        "title": "‘Vem Pra Praça, Minha Gente!” leva diversão, guloseimas e música à Orla Lagunar de Marechal Deodoro",
+        "traffic": "Marechal Deodoro"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Where 2026 ranks among best World Series matchups since 2000",
+        "original": "Where 2026 ranks among best World Series matchups since 2000",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "This year's World Series champ will be a 1st-time winner ... either way",
+        "original": "This year's World Series champ will be a 1st-time winner ... either way",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Rays will face Brewers in World Series to produce a first-time champion",
+        "original": "Rays will face Brewers in World Series to produce a first-time champion",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Where are all the comedy movies?",
+        "original": "Where are all the comedy movies?",
+        "traffic": "UConn Daily Campus"
+      },
+      {
+        "title": "September data shows housing market in a deep freeze",
+        "original": "September data shows housing market in a deep freeze",
+        "traffic": "CNBC"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-19",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "AMC Entertainment Holdings, Inc. Announces Cash Tender Offer for 7.500% Senior Secured Notes Due 2029",
         "original": "AMC Entertainment Holdings, Inc. Announces Cash Tender Offer for 7.500% Senior Secured Notes Due 2029",
         "traffic": "AMC Entertainment Holdings, Inc."
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-20",
-    "trends_br": [
-      {
-        "title": "Veja os filmes premiados no 59º Festival de Brasília do Cinema Brasileiro",
-        "traffic": "G1"
-      },
-      {
-        "title": "Cinema da Boca apresenta ficção científica neste domingo – CGNotícias",
-        "traffic": "Prefeitura de Campo Grande"
-      },
-      {
-        "title": "Ed Sheeran admite ter cometido 'erros' após polêmica pela exclusão do rapper Macklemore de turnê nos EUA",
-        "traffic": "BBC"
-      },
-      {
-        "title": "BK’ faz história no rap com show para 50 mil pessoas em São Paulo; veja setlist",
-        "traffic": "Billboard Brasil"
-      },
-      {
-        "title": "MC Cabelinho, Guilherme Magon e artistas prestigiam livro de Manuela Dias",
-        "traffic": "UOL"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Jelly Roll reveals what could make him leave music",
-        "original": "Jelly Roll reveals what could make him leave music",
-        "traffic": "Cleveland.com"
-      },
-      {
-        "title": "Denny Hamlin set for 750th career Cup Series start at Bristol",
-        "original": "Denny Hamlin set for 750th career Cup Series start at Bristol",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Mobile to look at expanding entertainment districts",
-        "original": "Mobile to look at expanding entertainment districts",
-        "traffic": "fox10tv.com"
-      },
-      {
-        "title": "'Good chance' Ohtani will be activated for next series",
-        "original": "'Good chance' Ohtani will be activated for next series",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Music Guild at St. Matthew’s Announces 2026–2027 Season",
-        "original": "Music Guild at St. Matthew’s Announces 2026–2027 Season",
-        "traffic": "Palisadian-Post"
       }
     ],
     "yt_br": [],
