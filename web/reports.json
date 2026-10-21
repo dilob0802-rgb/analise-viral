@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-21",
+    "trends_br": [
+      {
+        "title": "Qual é a música de Rubel usada em vídeo de Nikolas Ferreira que teve áudio removido pelo Instagram?",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Theatro Sete de Abril recebe mostra de cinema na próxima semana",
+        "traffic": "Prefeitura de Pelotas"
+      },
+      {
+        "title": "Judcultura: servidor do TJMT encontra na música equilíbrio para a rotina profissional",
+        "traffic": "Poder Judiciário do Estado de Mato Grosso"
+      },
+      {
+        "title": "MIS CE tem show e lançamento de livro em homenagem a Belchior",
+        "traffic": "Governo do Estado do Ceará"
+      },
+      {
+        "title": "Cinema em casa: o que procurar em uma TV Samsung para filmes e séries?",
+        "traffic": "samsung.com"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
+        "original": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Apple Music’s new visual identity ripples into view – with help from Fred Again..",
+        "original": "Apple Music’s new visual identity ripples into view – with help from Fred Again..",
+        "traffic": "Wallpaper*"
+      },
+      {
+        "title": "As fans reject AI-generated music, even boosters are drawing the line",
+        "original": "As fans reject AI-generated music, even boosters are drawing the line",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "Brewers’ Brandon Woodruff wants to return for World Series, but rules may get in the way - The Athletic",
+        "original": "Brewers’ Brandon Woodruff wants to return for World Series, but rules may get in the way - The Athletic",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Music professor explores creative process behind Canadian composer’s songs",
+        "original": "Music professor explores creative process behind Canadian composer’s songs",
+        "traffic": "Binghamton University"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-20",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "Jensen Ackles to Star in Crime Thriller Series ‘Rules of Prey’ at MGM+",
         "original": "Jensen Ackles to Star in Crime Thriller Series ‘Rules of Prey’ at MGM+",
         "traffic": "Variety"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-21",
-    "trends_br": [
-      {
-        "title": "'Toquei como fosse 67 mil', diz Fiuk sobre show de despedida da carreira solo com público de 67 pessoas",
-        "traffic": "G1"
-      },
-      {
-        "title": "Teatro Mario Covas recebe show de lançamento do novo álbum de NiAn neste domingo",
-        "traffic": "Prefeitura de Caraguatatuba"
-      },
-      {
-        "title": "Fiuk comenta repercussão de show para 67 pessoas: 'Deveria estar envergonhado?'",
-        "traffic": "UOL"
-      },
-      {
-        "title": "XXX Mostra de Cinema",
-        "traffic": "Portal PUC-Campinas"
-      },
-      {
-        "title": "Show do Demônios da Garoa abre o Festival da Primavera e lota o Memorial de Curitiba; confira as próximas atrações",
-        "traffic": "Prefeitura de Curitiba"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Lumen Field & WAMU Theater Named Best Live Music Venue In The PNW",
-        "original": "Lumen Field & WAMU Theater Named Best Live Music Venue In The PNW",
-        "traffic": "Seattle Seahawks"
-      },
-      {
-        "title": "UTA Baseball Reveals 2027 Cleburne College Baseball Series Schedule",
-        "original": "UTA Baseball Reveals 2027 Cleburne College Baseball Series Schedule",
-        "traffic": "University of Texas Arlington Athletics"
-      },
-      {
-        "title": "Beloved country music singer dead at 75: ‘Rest in peace Chief’",
-        "original": "Beloved country music singer dead at 75: ‘Rest in peace Chief’",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "Manfred Honeck to Lead San Francisco Symphony’s Newly Created Music Festival, Debuting in 2028-29",
-        "original": "Manfred Honeck to Lead San Francisco Symphony’s Newly Created Music Festival, Debuting in 2028-29",
-        "traffic": "symphony.org"
-      },
-      {
-        "title": "AMC Entertainment Holdings, Inc. Announces Cash Tender Offer for 7.500% Senior Secured Notes Due 2029",
-        "original": "AMC Entertainment Holdings, Inc. Announces Cash Tender Offer for 7.500% Senior Secured Notes Due 2029",
-        "traffic": "AMC Entertainment Holdings, Inc."
       }
     ],
     "yt_br": [],
