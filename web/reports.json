@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-22",
+    "trends_br": [
+      {
+        "title": "Meta derruba áudio de vídeo de Nikolas Ferreira com música de Rubel por direitos autorais",
+        "traffic": "G1"
+      },
+      {
+        "title": "Aula-show utiliza paródias na preparação dos estudantes para o Enem 2026",
+        "traffic": "Secretaria de Estado da Educação de Sergipe"
+      },
+      {
+        "title": "Como comprar ingressos para o show do U2",
+        "traffic": "GZH"
+      },
+      {
+        "title": "Defensoria com a Meninada leva crianças acolhidas ao cinema para falar sobre direitos -",
+        "traffic": "Defensoria Pública do Espírito Santo"
+      },
+      {
+        "title": "Primeiro dia da Exporandi 2026 é marcado por show de Fernandinho, emoção e novidades em Sarandi",
+        "traffic": "Prefeitura de Sarandi"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "A first-time World Series champion? What Brewers-Rays means",
+        "original": "A first-time World Series champion? What Brewers-Rays means",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Thoughts on the World Series",
+        "original": "Thoughts on the World Series",
+        "traffic": "Viva El Birdos"
+      },
+      {
+        "title": "John Anderson, country music Hall of Famer, dies at 71",
+        "original": "John Anderson, country music Hall of Famer, dies at 71",
+        "traffic": "CBS News"
+      },
+      {
+        "title": "Tepper Sports & Entertainment Selects Marsh and Partners Risk Strategies as Insurance Brokers for Bank of America Stadium's Multi-Year Transformation",
+        "original": "Tepper Sports & Entertainment Selects Marsh and Partners Risk Strategies as Insurance Brokers for Bank of America Stadium's Multi-Year Transformation",
+        "traffic": "Panthers.com"
+      },
+      {
+        "title": "Music can enhance the flavor of your food",
+        "original": "Music can enhance the flavor of your food",
+        "traffic": "Phys.org"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-21",
     "trends_br": [
       {
@@ -1513,60 +1567,6 @@
         "title": "JAMBALOO announces 2027 free week festival & music prize dates",
         "original": "JAMBALOO announces 2027 free week festival & music prize dates",
         "traffic": "fortworthreport.org"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-22",
-    "trends_br": [
-      {
-        "title": "Rick fez show em Campo Grande três dias antes de desaparecer em helicóptero em SC",
-        "traffic": "G1"
-      },
-      {
-        "title": "Cinema Pontos MIS apresenta clássicos “Sabrina” e “Charada” no Anfiteatro Municipal",
-        "traffic": "Prefeitura de Leme"
-      },
-      {
-        "title": "Fábricas de Cultura têm programação gratuita com música, moda, ciência e cultura em Diadema, Iguape e Osasco",
-        "traffic": "agenciasp.sp.gov.br"
-      },
-      {
-        "title": "Bom Gosto reúne multidão em show de comemoração pelos 248 anos de Corumbá",
-        "traffic": "Município de Corumbá"
-      },
-      {
-        "title": "Da magia do cinema aos clássicos: confira a programação da Sinfônica de Campinas em outubro",
-        "traffic": "Prefeitura de Campinas"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "The Cubs’ final series of the year at Fenway Park could be threatened by a nor’easter",
-        "original": "The Cubs’ final series of the year at Fenway Park could be threatened by a nor’easter",
-        "traffic": "Bleed Cubbie Blue"
-      },
-      {
-        "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-        "original": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-        "traffic": "Apple"
-      },
-      {
-        "title": "St. Paul & the Broken Bones: Proxy Music",
-        "original": "St. Paul & the Broken Bones: Proxy Music",
-        "traffic": "Relix"
-      },
-      {
-        "title": "A celebration of “maple-fired” punk highlights challenging times for Vermont’s live music",
-        "original": "A celebration of “maple-fired” punk highlights challenging times for Vermont’s live music",
-        "traffic": "VTDigger"
-      },
-      {
-        "title": "Jensen Ackles to Star in Crime Thriller Series ‘Rules of Prey’ at MGM+",
-        "original": "Jensen Ackles to Star in Crime Thriller Series ‘Rules of Prey’ at MGM+",
-        "traffic": "Variety"
       }
     ],
     "yt_br": [],
