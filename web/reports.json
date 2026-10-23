@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-23",
+    "trends_br": [
+      {
+        "title": "Capital tem exposições e recital de música com entrada livre – CGNotícias",
+        "traffic": "Prefeitura de Campo Grande"
+      },
+      {
+        "title": "Show de Talentos da Educação reúne alunos da Rede Municipal de Ensino",
+        "traffic": "Prefeitura de São Pedro da Aldeia"
+      },
+      {
+        "title": "Chico César apresenta o show “Vestido de Amor” no Teatro Sesc Ginástico",
+        "traffic": "Portal Sesc RJ"
+      },
+      {
+        "title": "Exporandi 2026 bate recorde de público no segundo dia com show de Zé Neto e Cristiano",
+        "traffic": "Prefeitura de Sarandi"
+      },
+      {
+        "title": "Festival de cinema independente do Rio anuncia filmes selecionados para sua segunda edição",
+        "traffic": "O GLOBO"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Our experts make their World Series predictions",
+        "original": "Our experts make their World Series predictions",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Rays-Brewers World Series preview, predictions, odds",
+        "original": "Rays-Brewers World Series preview, predictions, odds",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "With MLB lockout looming, World Series readies for two small-market teams",
+        "original": "With MLB lockout looming, World Series readies for two small-market teams",
+        "traffic": "NBC News"
+      },
+      {
+        "title": "World Series 2026 predictions: will the Rays or Brewers claim their first title?",
+        "original": "World Series 2026 predictions: will the Rays or Brewers claim their first title?",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "Q&A: Alaskan Music Group Blackwater Railroad",
+        "original": "Q&A: Alaskan Music Group Blackwater Railroad",
+        "traffic": "The Daily Yonder"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-22",
     "trends_br": [
       {
@@ -1515,60 +1569,6 @@
     "date": "2026-09-24",
     "trends_br": [],
     "trends_global": [],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-23",
-    "trends_br": [
-      {
-        "title": "Hilary Duff anuncia show único no Brasil em 2027; data, preços, cidade, ingressos e mais",
-        "traffic": "Rolling Stone Brasil"
-      },
-      {
-        "title": "Biblioteca tem recital de piano na sexta e tarde de cinema no sábado",
-        "traffic": "Portal do Município de Piracicaba"
-      },
-      {
-        "title": "Hilary Duff anuncia show em São Paulo para 2027; saiba mais",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Centro Cultural São Paulo recebe show gratuito de grupo de Cabo Verde",
-        "traffic": "Prefeitura de São Paulo"
-      },
-      {
-        "title": "Ufal lança programação oficial do Festival de Música de Penedo 2026",
-        "traffic": "Universidade Federal de Alagoas"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
-        "original": "How weather in Boston could affect a series vs. Cubs with seeding implications",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Notre Dame and Purdue do music badly, but who does it worse?",
-        "original": "Notre Dame and Purdue do music badly, but who does it worse?",
-        "traffic": "One Foot Down"
-      },
-      {
-        "title": "UNCG’s Concert and Lecture Series hosts a wide array of talent",
-        "original": "UNCG’s Concert and Lecture Series hosts a wide array of talent",
-        "traffic": "UNC Greensboro"
-      },
-      {
-        "title": "Honoring Indiana Avenue means keeping the music alive",
-        "original": "Honoring Indiana Avenue means keeping the music alive",
-        "traffic": "Indianapolis Recorder"
-      },
-      {
-        "title": "JAMBALOO announces 2027 free week festival & music prize dates",
-        "original": "JAMBALOO announces 2027 free week festival & music prize dates",
-        "traffic": "fortworthreport.org"
-      }
-    ],
     "yt_br": [],
     "yt_global": []
   }
