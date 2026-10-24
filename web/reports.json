@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-24",
+    "trends_br": [
+      {
+        "title": "Programação da Globo hoje: tem novela 'Quem Ama Cuida' com o debate? Veja horários",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Cinema: o que atrai e o que afasta os espectadores",
+        "traffic": "Meio e Mensagem"
+      },
+      {
+        "title": "BTS World Tour 'Arirang' In Buenos Aires: Live Viewing",
+        "traffic": "Ingresso.com"
+      },
+      {
+        "title": "Como Jane Austen se tornou uma fonte inesgotável de adaptações no cinema e na TV",
+        "traffic": "VEJA"
+      },
+      {
+        "title": "Chico Chico traz novo show “Let It Burn – Deixa Arder” ao TCA",
+        "traffic": "Portal Soteropreta"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "4 key takeaways after Brewers win a thriller to start World Series",
+        "original": "4 key takeaways after Brewers win a thriller to start World Series",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Trevor Megill escapes ninth-inning jam to close out Brewers' Game 1 win",
+        "original": "Trevor Megill escapes ninth-inning jam to close out Brewers' Game 1 win",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Controversial 9th inning in Game 1 of the World Series reignites debate about “the neighborhood play”",
+        "original": "Controversial 9th inning in Game 1 of the World Series reignites debate about “the neighborhood play”",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
+        "original": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Sammy Smith wins chaotic Truck Series race at Talladega in overtime",
+        "original": "Sammy Smith wins chaotic Truck Series race at Talladega in overtime",
+        "traffic": "NASCAR.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-23",
     "trends_br": [
       {
@@ -1562,13 +1616,6 @@
         "traffic": "ESPN"
       }
     ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-24",
-    "trends_br": [],
-    "trends_global": [],
     "yt_br": [],
     "yt_global": []
   }
