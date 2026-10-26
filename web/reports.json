@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-26",
+    "trends_br": [
+      {
+        "title": "‘Limite’, clássico do cinema brasileiro, ganha trilha de Leonardo Martinelli",
+        "traffic": "CONCERTO | Home"
+      },
+      {
+        "title": "Resumo da novela 'Quem Ama Cuida': capítulos de 26 a 31 de outubro",
+        "traffic": "Globo"
+      },
+      {
+        "title": "Dragão do Mar recebe Bienal Internacional de Dança, Festival de Cinema Francês e programação musical nesta semana",
+        "traffic": "Governo do Estado do Ceará"
+      },
+      {
+        "title": "Halloween tem cinema, games, HQs e fantasias em 12 horas de terror",
+        "traffic": "Prefeitura de Curitiba"
+      },
+      {
+        "title": "Filmes premiados entram na programação do Circuito Penedo de Cinema",
+        "traffic": "Universidade Federal de Alagoas"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+        "original": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Harry Styles Waltzes His Way Through ‘Coming Up Roses’ Music Video",
+        "original": "Harry Styles Waltzes His Way Through ‘Coming Up Roses’ Music Video",
+        "traffic": "Variety"
+      },
+      {
+        "title": "The 31 Best Screams in Music History",
+        "original": "The 31 Best Screams in Music History",
+        "traffic": "Rolling Stone"
+      },
+      {
+        "title": "What we've learned about Rays, Brewers early in World Series",
+        "original": "What we've learned about Rays, Brewers early in World Series",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Wieden+Kennedy launches entertainment division to make movies and shows—with and without brands",
+        "original": "Wieden+Kennedy launches entertainment division to make movies and shows—with and without brands",
+        "traffic": "Ad Age"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-25",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Kaden Honeycutt wins Craftsman Truck Series Chase race at Kansas",
         "original": "Kaden Honeycutt wins Craftsman Truck Series Chase race at Kansas",
         "traffic": "nascar.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-26",
-    "trends_br": [
-      {
-        "title": "'Sou muito mais privilegiado do que as pessoas acham', diz Pietro Antonelli",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Rebobinando Memórias: sucessos do cinema ganham vida em espetáculo de dança em Lucas do Rio Verde",
-        "traffic": "lucasdorioverde.mt.gov.br"
-      },
-      {
-        "title": "Final do Festival de Música Geraldo Azevedo terá premiação de vencedores e show de Ana Carolina",
-        "traffic": "G1"
-      },
-      {
-        "title": "5º Copão “Eu Amo Parintins” de Bairros começa com show, bois-bumbá e 25 bairros em festa",
-        "traffic": "Prefeitura de Parintins"
-      },
-      {
-        "title": "Shania Twain retorna ao Brasil com show exclusivo para convidados no interior de SP",
-        "traffic": "G1"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "The 100 Best TV Shows of the 21st Century",
-        "original": "The 100 Best TV Shows of the 21st Century",
-        "traffic": "nytimes.com"
-      },
-      {
-        "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
-        "original": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "K-pop, BTS, and What the Grammys Get Wrong About Asian Music",
-        "original": "K-pop, BTS, and What the Grammys Get Wrong About Asian Music",
-        "traffic": "Time Magazine"
-      },
-      {
-        "title": "Etentamig Shows Superior Efficacy vs SOC in Relapsed/Refractory Myeloma",
-        "original": "Etentamig Shows Superior Efficacy vs SOC in Relapsed/Refractory Myeloma",
-        "traffic": "CancerNetwork"
-      },
-      {
-        "title": "‘Tape Op’ Editor Larry Crane Explains What a Music Producer Actually Does",
-        "original": "‘Tape Op’ Editor Larry Crane Explains What a Music Producer Actually Does",
-        "traffic": "Willamette Week"
       }
     ],
     "yt_br": [],
