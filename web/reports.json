@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-27",
+    "trends_br": [
+      {
+        "title": "U2 anuncia quarto e último show no Brasil em 2027; data, ingressos e mais",
+        "traffic": "Rolling Stone Brasil"
+      },
+      {
+        "title": "Última Quinta no Cinema de outubro exibe animação “Curta Diferenças” nesta quinta-feira (29) | Notícias | Cultura",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Entorno da Arena da Baixada terá bloqueios para show do Iron MaidenNotícia",
+        "traffic": "Secretaria Municipal de Defesa Social e Trânsito"
+      },
+      {
+        "title": "NFL anuncia Jay Z como atração do show do intervalo do Super Bowl LXI",
+        "traffic": "G1"
+      },
+      {
+        "title": "BTS em São Paulo: que horas começa o show e como chegar ao MorumBIS?",
+        "traffic": "Exame"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
+        "original": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead",
+        "original": "Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
+        "original": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Brewers just pulled off something no World Series team had ever done before",
+        "original": "Brewers just pulled off something no World Series team had ever done before",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "Baseball To Host Fall World Series",
+        "original": "Baseball To Host Fall World Series",
+        "traffic": "Alabama Athletics"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-26",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Save the Date! Greenville Country Music Fest announces return with new spring dates",
         "original": "Save the Date! Greenville Country Music Fest announces return with new spring dates",
         "traffic": "foxcarolina.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-27",
-    "trends_br": [
-      {
-        "title": "Curta Canedo encerra edição comemorativa de 10 anos com cinema, homenagens e música",
-        "traffic": "Prefeitura Municipal de Senador Canedo"
-      },
-      {
-        "title": "'Agudo grave' de Zélia Duncan se abre na pulsação transformadora de show com direção musical de Maria Beraldo",
-        "traffic": "G1"
-      },
-      {
-        "title": "Filipe Bragança vai de Sidney Magal a Amyr Klink no cinema: 'Não quero me encaixar em estereótipos'",
-        "traffic": "f5.folha.uol.com.br"
-      },
-      {
-        "title": "Prosa Brasil recebe dois representantes da música raiz",
-        "traffic": "Portal A12"
-      },
-      {
-        "title": "Ricky Martin posa na arquibancada do Maracanã antes de show",
-        "traffic": "CNN Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Wild Card Series game times announced",
-        "original": "Wild Card Series game times announced",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "The New Season: Fall 2026 – New music",
-        "original": "The New Season: Fall 2026 – New music",
-        "traffic": "CBS News"
-      },
-      {
-        "title": "John Medeski, Jon Fishman and “VERY Special Guests” to Play the Music of Sun Ra at The Stone",
-        "original": "John Medeski, Jon Fishman and “VERY Special Guests” to Play the Music of Sun Ra at The Stone",
-        "traffic": "Relix"
-      },
-      {
-        "title": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
-        "original": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "Kaden Honeycutt wins Craftsman Truck Series Chase race at Kansas",
-        "original": "Kaden Honeycutt wins Craftsman Truck Series Chase race at Kansas",
-        "traffic": "nascar.com"
       }
     ],
     "yt_br": [],
