@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-28",
+    "trends_br": [
+      {
+        "title": "Pitbull anuncia show único em São Paulo para 2027; saiba detalhes",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Oficina: CINEMA X TEATRO – O trabalho do ator entre o palco e a câmera – Pontos MIS",
+        "traffic": "Cultura Jundiaí"
+      },
+      {
+        "title": "Que horas começa o show do BTS hoje em São Paulo? Veja horário",
+        "traffic": "Exame"
+      },
+      {
+        "title": "BTS no Brasil: Fãs enfrentam chuva e filas para show no MorumBis",
+        "traffic": "Gshow"
+      },
+      {
+        "title": "Outro Canal: Thiago Martins acerta volta à Globo na próxima novela das sete",
+        "traffic": "UOL"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Lineups, live updates from Brewers-Rays World Series Game 5",
+        "original": "Lineups, live updates from Brewers-Rays World Series Game 5",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
+        "original": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
+        "original": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "‘Shock at that Trop’, Rays beat Brewers in World Series Game 4",
+        "original": "‘Shock at that Trop’, Rays beat Brewers in World Series Game 4",
+        "traffic": "ABC7 WWSB"
+      },
+      {
+        "title": "An app for fans of live local music",
+        "original": "An app for fans of live local music",
+        "traffic": "Rochester Beacon"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-27",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Beshear creates new office to preserve music legacy, grow festival economy",
         "original": "Beshear creates new office to preserve music legacy, grow festival economy",
         "traffic": "spectrumnews1.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-28",
-    "trends_br": [
-      {
-        "title": "Jão anuncia show no Rio. Veja quando será a venda de ingressos",
-        "traffic": "VEJA RIO"
-      },
-      {
-        "title": "NFL no Rio: saiba tudo sobre show de Pedro Sampaio e Ricky Martin",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Resumo de Por Você: Próximo capítulo da novela, segunda, 28 de setembro",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Cinema e música integram programação da semana no Sete de Abril",
-        "traffic": "Prefeitura de Pelotas"
-      },
-      {
-        "title": "OMG! Jão acaba de anunciar a turnê de Memória Póstumas com shows no Rio de Janeiro, Belo Horizonte, Recife e Brasília ainda este ano! No ano que vem, em 19 de março, tem show em Lisboa, Portugal, e no dia 27, ele retorna mais uma vez ao Nubank P",
-        "traffic": "instagram.com"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Phillies-Braves NL Wild Card Series Game 1 FAQ (Tues., 2 ET, NBC/Peacock)",
-        "original": "Phillies-Braves NL Wild Card Series Game 1 FAQ (Tues., 2 ET, NBC/Peacock)",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Best 2026 World Series matchups for every type of MLB fan",
-        "original": "Best 2026 World Series matchups for every type of MLB fan",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Wild Card Series predictions: Yankees or Red Sox? Can the Phillies find a spark? - The Athletic",
-        "original": "Wild Card Series predictions: Yankees or Red Sox? Can the Phillies find a spark? - The Athletic",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "Dodgers Dugout: It’s official — Dodgers won’t win the World Series this year",
-        "original": "Dodgers Dugout: It’s official — Dodgers won’t win the World Series this year",
-        "traffic": "Los Angeles Times"
-      },
-      {
-        "title": "Save the Date! Greenville Country Music Fest announces return with new spring dates",
-        "original": "Save the Date! Greenville Country Music Fest announces return with new spring dates",
-        "traffic": "foxcarolina.com"
       }
     ],
     "yt_br": [],
