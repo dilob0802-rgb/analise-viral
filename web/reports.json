@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-30",
+    "trends_br": [
+      {
+        "title": "Filme colombiano vence Mostra Internacional de Cinema de São Paulo",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Sítio arqueológico de 400 anos no RS recebe festival de cinema com sessões dentro de ruínas",
+        "traffic": "G1"
+      },
+      {
+        "title": "Que horas começa o show do BTS hoje em São Paulo? Veja horário desta sexta-feira",
+        "traffic": "Exame"
+      },
+      {
+        "title": "A Aposta do Cinema de Rua para Vencer a Era Digital? Charme e Hospitalidade",
+        "traffic": "Forbes Brasil"
+      },
+      {
+        "title": "Hugh Jackman e outros famosos lamentam a morte de Patrick Stewart",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Watch LIVE: Milwaukee holding a parade for World Series champs",
+        "original": "Watch LIVE: Milwaukee holding a parade for World Series champs",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+        "original": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+        "traffic": "CNBC"
+      },
+      {
+        "title": "LIVE | Milwaukee Brewers 2026 World Series Parade",
+        "original": "LIVE | Milwaukee Brewers 2026 World Series Parade",
+        "traffic": "WISN"
+      },
+      {
+        "title": "Opinion | I wondered what became of my high school music teacher. It was spooky.",
+        "original": "Opinion | I wondered what became of my high school music teacher. It was spooky.",
+        "traffic": "The Washington Post"
+      },
+      {
+        "title": "Where play meets music: Sony Interactive and Sony Music team up with LISA",
+        "original": "Where play meets music: Sony Interactive and Sony Music team up with LISA",
+        "traffic": "Sony Interactive Entertainment"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-29",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "MLB playoffs 2026: First-look preview of division series matchups",
         "original": "MLB playoffs 2026: First-look preview of division series matchups",
         "traffic": "ESPN"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-09-30",
-    "trends_br": [
-      {
-        "title": "Mostra de cinema gratuita da UFMT divulga programação com mais de 40 filmes; confira",
-        "traffic": "G1"
-      },
-      {
-        "title": "Bianca Comparato prestigia inauguração de cinema em SP com nova namorada",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Projeto Música na Igreja estreia temporada Lumen Sacrum em outubro | Notícias | Cultura",
-        "traffic": "Prefeitura de Anápolis"
-      },
-      {
-        "title": "Kleber Mendonça Filho ministra aula inaugural de cinema na FEBF",
-        "traffic": "uerj.br"
-      },
-      {
-        "title": "Festival de Música de Penedo acontece entre os dias 22 e 24 de outubro",
-        "traffic": "Prefeitura de Penedo / AL"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "‘Ted’ Animated Series Sets Peacock Release Date",
-        "original": "‘Ted’ Animated Series Sets Peacock Release Date",
-        "traffic": "Variety"
-      },
-      {
-        "title": "2026 MLB wild-card series Day 2: Live updates, lineups, analysis",
-        "original": "2026 MLB wild-card series Day 2: Live updates, lineups, analysis",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "‘Ted: The Animated Series’ Gets Peacock Release Date & First Look",
-        "original": "‘Ted: The Animated Series’ Gets Peacock Release Date & First Look",
-        "traffic": "Deadline"
-      },
-      {
-        "title": "Phillies-Braves NL Wild Card Series Game 2 FAQ, lineups (2 ET, NBC/Peacock)",
-        "original": "Phillies-Braves NL Wild Card Series Game 2 FAQ, lineups (2 ET, NBC/Peacock)",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Disney+ New Releases In October 2026, New Movies & Shows To Watch | Explore Disney+",
-        "original": "Disney+ New Releases In October 2026, New Movies & Shows To Watch | Explore Disney+",
-        "traffic": "Disney Plus"
       }
     ],
     "yt_br": [],
