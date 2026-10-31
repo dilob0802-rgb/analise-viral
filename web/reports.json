@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-10-31",
+    "trends_br": [
+      {
+        "title": "Cena Musical, da TV Brasil exibe show exclusivo do sambista Caxtrinho",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "VÍDEO: Ivete Sangalo lamenta e explica decisão de adiar show após receber críticas de fãs",
+        "traffic": "G1"
+      },
+      {
+        "title": "Resumo de Roque Santeiro: Capítulos da novela do Edição Especial - 31/10 a 7/11",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Harry Styles usa mesmo look da audição do “X-Factor\" em show em Nova York",
+        "traffic": "CNN Brasil"
+      },
+      {
+        "title": "Festival de Cinema Francês - Cine Roxy",
+        "traffic": "Turismo Santos"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Which long World Series title drought is most likely to end next?",
+        "original": "Which long World Series title drought is most likely to end next?",
+        "traffic": "MLB.com"
+      },
+      {
+        "title": "Sean Kirst: Pat Murphy, World Series-winning manager, played sandlot baseball as a kid. What about you?",
+        "original": "Sean Kirst: Pat Murphy, World Series-winning manager, played sandlot baseball as a kid. What about you?",
+        "traffic": "Central Current"
+      },
+      {
+        "title": "Michael Penix Jr. shows he could be Atlanta's QB1",
+        "original": "Michael Penix Jr. shows he could be Atlanta's QB1",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "Saturday Sports: WNBA Finals; injuries in the NBA; Milwaukee Brewers' World Series title",
+        "original": "Saturday Sports: WNBA Finals; injuries in the NBA; Milwaukee Brewers' World Series title",
+        "traffic": "NPR"
+      },
+      {
+        "title": "Best of The Bay Music Fest canceled Sunday due to forecast",
+        "original": "Best of The Bay Music Fest canceled Sunday due to forecast",
+        "traffic": "ABC7 WWSB"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-30",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Fair Oaks music teacher arrested after child sex abuse material found",
         "original": "Fair Oaks music teacher arrested after child sex abuse material found",
         "traffic": "KCRA"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-01",
-    "trends_br": [
-      {
-        "title": "Ingressos à venda para show que reúne tributos ao ABBA e Elvis Presley no Teatro Mario Covas",
-        "traffic": "Prefeitura de Caraguatatuba"
-      },
-      {
-        "title": "'Galinha Pintadinha - O filme' marca estreia da 'diva pop' animada no cinema em aniversário de 20 anos",
-        "traffic": "G1"
-      },
-      {
-        "title": "Coral Pró-Música leva ao Central diferentes expressões da religiosidade na música - UFJF",
-        "traffic": "Universidade Federal de Juiz de Fora"
-      },
-      {
-        "title": "Quem Ama Cuida não será exibida hoje; entenda",
-        "traffic": "GZH"
-      },
-      {
-        "title": "Cinema Walmir Almeida recebe estreia de comédia norte-americana e clássico japonês na programação da semana",
-        "traffic": "Prefeitura de Aracaju"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "31 Days of Horror: Halloween Scary Movies to Watch in October",
-        "original": "31 Days of Horror: Halloween Scary Movies to Watch in October",
-        "traffic": "Netflix"
-      },
-      {
-        "title": "San Antonio’s Local Music Spotlight",
-        "original": "San Antonio’s Local Music Spotlight",
-        "traffic": "City of San Antonio (.gov)"
-      },
-      {
-        "title": "Star power, pitching and more takeaways from Cubs-Padres Wild Card Series",
-        "original": "Star power, pitching and more takeaways from Cubs-Padres Wild Card Series",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "The 13 best horror music videos of 2026",
-        "original": "The 13 best horror music videos of 2026",
-        "traffic": "Colorado Public Radio"
-      },
-      {
-        "title": "MLB playoffs 2026: First-look preview of division series matchups",
-        "original": "MLB playoffs 2026: First-look preview of division series matchups",
-        "traffic": "ESPN"
       }
     ],
     "yt_br": [],
