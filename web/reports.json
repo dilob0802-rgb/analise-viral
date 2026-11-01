@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-01",
+    "trends_br": [
+      {
+        "title": "Cinema chinês gratuito chega ao Espaço Expressa com quatro filmes em novembro",
+        "traffic": "Prefeitura de Jundiaí"
+      },
+      {
+        "title": "Ivete Sangalo cancela show em SP e remarca data; entenda o motivo",
+        "traffic": "Terra"
+      },
+      {
+        "title": "Em novembro, Emicida faz show gratuito no Museu do Hip Hop em Porto Alegre",
+        "traffic": "G1"
+      },
+      {
+        "title": "MARO encerra Encontros Musicais 2026 com show em BH",
+        "traffic": "Culturadoria"
+      },
+      {
+        "title": "Como o cinema de horror influenciou o visual de bandas de rock",
+        "traffic": "Rolling Stone Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Here Are Some of the Celebrities Running in the NYC Marathon",
+        "original": "Here Are Some of the Celebrities Running in the NYC Marathon",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "The Brewers won the World Series. These are your celebration stories.",
+        "original": "The Brewers won the World Series. These are your celebration stories.",
+        "traffic": "Milwaukee Journal Sentinel"
+      },
+      {
+        "title": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+        "original": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+        "traffic": "Pitchfork"
+      },
+      {
+        "title": "9 Inspiring Movies and Shows to Celebrate Native American Heritage Month",
+        "original": "9 Inspiring Movies and Shows to Celebrate Native American Heritage Month",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "No. 3 Denver Sweeps Halloween Series vs. Omaha",
+        "original": "No. 3 Denver Sweeps Halloween Series vs. Omaha",
+        "traffic": "University of Denver Athletics"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-10-31",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Dont @ Me, But These 6 Shows Were Rightfully Canceled After 1 Season",
         "original": "Dont @ Me, But These 6 Shows Were Rightfully Canceled After 1 Season",
         "traffic": "purewow.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-02",
-    "trends_br": [
-      {
-        "title": "FGV integra circuito do Festival de Cinema do Rio 2026 com exibições e programação acadêmica",
-        "traffic": "Fundação Getulio Vargas"
-      },
-      {
-        "title": "Dia do Idoso: Público 60+ curte cinema e celebra data com muita animação",
-        "traffic": "Prefeitura de Vitória"
-      },
-      {
-        "title": "Famosos lamentam morte do influenciador Lito Sousa",
-        "traffic": "g1.globo.com"
-      },
-      {
-        "title": "Cinema espanhol de graça em BH: mostra reúne filmes de diferentes épocas",
-        "traffic": "SouBH"
-      },
-      {
-        "title": "Lito Sousa: Famosos lamentam a morte do influenciador - 01/10/2026 - Celebridades",
-        "traffic": "UOL"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Padres get revenge with commanding sweep of Cubs in Wild Card Series",
-        "original": "Padres get revenge with commanding sweep of Cubs in Wild Card Series",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "HATER FRIDAY | Cringey Teen and Young Adult Shows",
-        "original": "HATER FRIDAY | Cringey Teen and Young Adult Shows",
-        "traffic": "The Cornell Daily Sun"
-      },
-      {
-        "title": "Disney Licenses Titles to Netflix Including 'Ice Age' Movies, 'Will Trent,' 'Percy Jackson and the Olympians,' 'Felicity'",
-        "original": "Disney Licenses Titles to Netflix Including 'Ice Age' Movies, 'Will Trent,' 'Percy Jackson and the Olympians,' 'Felicity'",
-        "traffic": "Variety"
-      },
-      {
-        "title": "Connoisseurs Series Brings World-Class Artists to Southern Miss",
-        "original": "Connoisseurs Series Brings World-Class Artists to Southern Miss",
-        "traffic": "The University of Southern Mississippi"
-      },
-      {
-        "title": "Fair Oaks music teacher arrested after child sex abuse material found",
-        "original": "Fair Oaks music teacher arrested after child sex abuse material found",
-        "traffic": "KCRA"
       }
     ],
     "yt_br": [],
