@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-02",
+    "trends_br": [
+      {
+        "title": "Rita Guedes, Gracyanne, Junno Andrade e Ticiane Pinheiro são eliminados da Dança dos Famosos",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Nós descentralizamos o cinema no peito e na raça, afirma atriz Rejane Faria",
+        "traffic": "Brasil de Fato"
+      },
+      {
+        "title": "Belém sedia até domingo o 38º Festival Internacional de Música do Pará | Radioagência Nacional",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Nicole Carrion une Brasil e Uruguai em show que celebra fronteira",
+        "traffic": "Diário Gaúcho"
+      },
+      {
+        "title": "Porto da Música chega à 7ª edição com apresentação gratuita de Clarissa Ferreira e Helô Marshall",
+        "traffic": "Sul 21"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "10 Acclaimed Horror Films and Shows That Have Critics Screaming",
+        "original": "10 Acclaimed Horror Films and Shows That Have Critics Screaming",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "Taylor Swift & Jack Antonoff, Ludwig Göransson Nominated for Hollywood Music in Media Awards: Full List",
+        "original": "Taylor Swift & Jack Antonoff, Ludwig Göransson Nominated for Hollywood Music in Media Awards: Full List",
+        "traffic": "Billboard"
+      },
+      {
+        "title": "Farmer Music Center announces country star as first concert at new venue",
+        "original": "Farmer Music Center announces country star as first concert at new venue",
+        "traffic": "Cincinnati Enquirer"
+      },
+      {
+        "title": "When does 93.9 LITE FM start Christmas music? Their latest update",
+        "original": "When does 93.9 LITE FM start Christmas music? Their latest update",
+        "traffic": "NBC 5 Chicago"
+      },
+      {
+        "title": "Hollywood Music In Media Awards Nominations: ‘Michael,’ ‘The Odyssey’ & More",
+        "original": "Hollywood Music In Media Awards Nominations: ‘Michael,’ ‘The Odyssey’ & More",
+        "traffic": "Deadline"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-01",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Celebrities Front Row at Miu Miu Spring 2027 Ready-to-Wear Show [PHOTOS]",
         "original": "Celebrities Front Row at Miu Miu Spring 2027 Ready-to-Wear Show [PHOTOS]",
         "traffic": "WWD"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-03",
-    "trends_br": [
-      {
-        "title": "Campo Grande tem música, teatro e feiras neste fim de semana – CGNotícias",
-        "traffic": "Prefeitura de Campo Grande"
-      },
-      {
-        "title": "Maestro Roberto Tibiriçá deixa legado na música de concerto brasileira",
-        "traffic": "Prefeitura de Curitiba"
-      },
-      {
-        "title": "A aposta de dois mestres do entretenimento para criar uma ‘cidade da música’ em São Paulo",
-        "traffic": "Exame"
-      },
-      {
-        "title": "É hoje: Banda K7 encerra programação dos 112 anos de Port...",
-        "traffic": "Prefeitura de Porto Velho"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 3 de outubro",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Braves-Dodgers NLDS Game 1 FAQ (4 p.m. ET, FOX/FOX One)",
-        "original": "Braves-Dodgers NLDS Game 1 FAQ (4 p.m. ET, FOX/FOX One)",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard.",
-        "original": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard.",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "MLB playoff schedule: Four Division Series Games 1 on Saturday",
-        "original": "MLB playoff schedule: Four Division Series Games 1 on Saturday",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "2026 MLB Division Series open thread",
-        "original": "2026 MLB Division Series open thread",
-        "traffic": "Brew Crew Ball"
-      },
-      {
-        "title": "Dont @ Me, But These 6 Shows Were Rightfully Canceled After 1 Season",
-        "original": "Dont @ Me, But These 6 Shows Were Rightfully Canceled After 1 Season",
-        "traffic": "purewow.com"
       }
     ],
     "yt_br": [],
