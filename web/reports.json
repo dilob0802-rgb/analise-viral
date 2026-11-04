@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-04",
+    "trends_br": [
+      {
+        "title": "Jorge e Mateus: o que prefeitura alegou ao cancelar show após apoio a Flávio",
+        "traffic": "G1"
+      },
+      {
+        "title": "Quinta no Cinema abre programação de novembro com exibição do curta “Dudu e o Lápis Cor da Pele”",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Durante uma semana, Penedo celebra o audiovisual brasileiro com Circuito de Cinema",
+        "traffic": "Prefeitura de Penedo / AL"
+      },
+      {
+        "title": "Música Popular na Biblioteca (MPB) apresenta Yago O'Próprio na Biblioteca Monteiro Lobato na terça (10)",
+        "traffic": "Prefeitura de São Paulo"
+      },
+      {
+        "title": "Com legislação em vigor, autistas passam a contar com sessões de cinema adaptadas",
+        "traffic": "Assembleia Legislativa do Estado de Mato Grosso"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "‘Christmas at the Kringles’ and the Joy of Bad Christmas Movies",
+        "original": "‘Christmas at the Kringles’ and the Joy of Bad Christmas Movies",
+        "traffic": "The Cornell Daily Sun"
+      },
+      {
+        "title": "Phoenix Heads To N.C. A&T For Final CAA Series",
+        "original": "Phoenix Heads To N.C. A&T For Final CAA Series",
+        "traffic": "Elon University Athletics"
+      },
+      {
+        "title": "Nathan Johnson Made Dragon Ball Z Music Before Texas Attorney General Win",
+        "original": "Nathan Johnson Made Dragon Ball Z Music Before Texas Attorney General Win",
+        "traffic": "Variety"
+      },
+      {
+        "title": "UWF Dr. Grier Williams School of Music presents \"Sunshine and Clouds,\" a special musical event featuring the UWF Singers, Concert Choir, Runge Strings and Guests",
+        "original": "UWF Dr. Grier Williams School of Music presents \"Sunshine and Clouds,\" a special musical event featuring the UWF Singers, Concert Choir, Runge Strings and Guests",
+        "traffic": "University of West Florida"
+      },
+      {
+        "title": "The Unruly World of Early Music",
+        "original": "The Unruly World of Early Music",
+        "traffic": "The UCLA Herb Alpert School of Music"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-03",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "URI lecture series explores regenerative landscapes through science, planning, and design – Rhody Today",
         "original": "URI lecture series explores regenerative landscapes through science, planning, and design – Rhody Today",
         "traffic": "The University of Rhode Island"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-05",
-    "trends_br": [
-      {
-        "title": "Famosos nas urnas: Veja quem conquistou vaga no Legislativo",
-        "traffic": "Congresso em Foco"
-      },
-      {
-        "title": "Thammy, Caneta Azul e Sheherazade: Veja os famosos eleitos e os que não conseguiram",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Cinedebate de ‘Memória-Veneno’ reúne cinema e música no Centro de Ciências, Letras e Artes (CCLA)",
-        "traffic": "Prefeitura de Campinas"
-      },
-      {
-        "title": "Da fama às urnas: veja celebridades que se elegeram em 2026",
-        "traffic": "G1"
-      },
-      {
-        "title": "De Silvia Abravanel a Tiririca: os famosos que não conseguiram se eleger em 2026",
-        "traffic": "VEJA"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Movies Are Undeniably Back",
-        "original": "Movies Are Undeniably Back",
-        "traffic": "theatlantic.com"
-      },
-      {
-        "title": "Dodgers, mired in Division Series drama again, aren’t thinking three-peat now - The Athletic",
-        "original": "Dodgers, mired in Division Series drama again, aren’t thinking three-peat now - The Athletic",
-        "traffic": "nytimes.com"
-      },
-      {
-        "title": "Live Music Lunch Series",
-        "original": "Live Music Lunch Series",
-        "traffic": "Chase Center"
-      },
-      {
-        "title": "Live music: What Huskies need right now",
-        "original": "Live music: What Huskies need right now",
-        "traffic": "dailycampus.com"
-      },
-      {
-        "title": "‘ARC Raiders,’ ‘The Finals’ Video Games Set TV Series and Film Adaptations at Chernin Entertainment",
-        "original": "‘ARC Raiders,’ ‘The Finals’ Video Games Set TV Series and Film Adaptations at Chernin Entertainment",
-        "traffic": "Variety"
       }
     ],
     "yt_br": [],
