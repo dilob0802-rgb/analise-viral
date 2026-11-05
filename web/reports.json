@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-05",
+    "trends_br": [
+      {
+        "title": "Outro Canal: Globo busca atores novatos para lançar em novela estrelada por Marina Ruy Barbosa",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Carol Pacheco homenageia Rita Lee em show no Teatro Marília",
+        "traffic": "Prefeitura de Belo Horizonte"
+      },
+      {
+        "title": "Oficinas de audiovisual dão início à programação da 16ª Mostra de Cinema e Direitos Humanos nas cinco regiões",
+        "traffic": "GOV.BR"
+      },
+      {
+        "title": "Cinema mineiro impulsiona oportunidades no audiovisual",
+        "traffic": "FIEMG"
+      },
+      {
+        "title": "Cinema Brasileiro: conheça 5 filmes que falam de ciência",
+        "traffic": "Fundação Oswaldo Cruz (Fiocruz)"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "My Music Row Story: Big Machine Music’s Alex Heddle",
+        "original": "My Music Row Story: Big Machine Music’s Alex Heddle",
+        "traffic": "MusicRow.com"
+      },
+      {
+        "title": "Now We Act -- a new series",
+        "original": "Now We Act -- a new series",
+        "traffic": "Thinking about... | Timothy Snyder"
+      },
+      {
+        "title": "Panther football announces future home-and-home series with Weber State and NAU",
+        "original": "Panther football announces future home-and-home series with Weber State and NAU",
+        "traffic": "UNI Athletics"
+      },
+      {
+        "title": "Middle Path medleys: Students share their favorite fall music",
+        "original": "Middle Path medleys: Students share their favorite fall music",
+        "traffic": "The Kenyon Collegian"
+      },
+      {
+        "title": "Alumnus makes $1 million gift to UC College-Conservatory of Music",
+        "original": "Alumnus makes $1 million gift to UC College-Conservatory of Music",
+        "traffic": "University of Cincinnati"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-04",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Dr. Grier Williams School of Music to present the Symphonic Band in concert",
         "original": "Dr. Grier Williams School of Music to present the Symphonic Band in concert",
         "traffic": "University of West Florida"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-06",
-    "trends_br": [
-      {
-        "title": "SP: mostra abriu as portas para o cinema mundial",
-        "traffic": "Agência Brasil"
-      },
-      {
-        "title": "117 ANOS DE ITUMBIARA: SHOW COM ARTISTAS LOCAIS NO DOMINGO, DIA 11 DE OUTUBRO",
-        "traffic": "Prefeitura Municipal de Itumbiara"
-      },
-      {
-        "title": "Sessão especial aproxima Bahia e Irlanda por meio do cinema | FUNCEB - Fundação Cultural",
-        "traffic": "ba.gov.br"
-      },
-      {
-        "title": "Mostra de cinema homenageia Helena Ignez",
-        "traffic": "Itaú Cultural"
-      },
-      {
-        "title": "Banda Tchê Guri une música e gestão em palestra-show no Teatro Municipal",
-        "traffic": "Município de São Leopoldo"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Dodgers, mired in Division Series drama again, aren’t thinking three-peat now - The Athletic",
-        "original": "Dodgers, mired in Division Series drama again, aren’t thinking three-peat now - The Athletic",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "Philadelphia musician's original music featured on 'Abbott Elementary'",
-        "original": "Philadelphia musician's original music featured on 'Abbott Elementary'",
-        "traffic": "6abc Philadelphia"
-      },
-      {
-        "title": "How gender shapes perceptions of workplace gossip",
-        "original": "How gender shapes perceptions of workplace gossip",
-        "traffic": "Phys.org"
-      },
-      {
-        "title": "Montana State’s Jason Bolte to kick off Provost’s Distinguished Lecturer Series",
-        "original": "Montana State’s Jason Bolte to kick off Provost’s Distinguished Lecturer Series",
-        "traffic": "Montana State University"
-      },
-      {
-        "title": "URI lecture series explores regenerative landscapes through science, planning, and design – Rhody Today",
-        "original": "URI lecture series explores regenerative landscapes through science, planning, and design – Rhody Today",
-        "traffic": "The University of Rhode Island"
       }
     ],
     "yt_br": [],
