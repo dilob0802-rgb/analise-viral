@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-07",
+    "trends_br": [
+      {
+        "title": "Mostra de Cinema Adelia Sampaio homenageará cineastas de duas gerações",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "MIS exibe 'Sirât', de Oliver Laxe, com debate no Ciclo de Cinema e Psicanálise",
+        "traffic": "Folha de S.Paulo"
+      },
+      {
+        "title": "Palestra show reúne comunidade para refletir sobre prevenção e cuidado com a saúde",
+        "traffic": "MUNICÍPIO de Jardinópolis"
+      },
+      {
+        "title": "Zé Felipe compartilha pane em jatinho e cancela show na festa do influenciador Alvaro Xaro; vídeo",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Festival Fortaleza de Cinema abre laboratório gratuito para novos cineastas",
+        "traffic": "OpiniãoCE"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Kaden Honeycutt wins Craftsman Truck Series finale to secure 2026 championship",
+        "original": "Kaden Honeycutt wins Craftsman Truck Series finale to secure 2026 championship",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "10 forgotten sci-fi and horror movies added to Tubi in November 2026 you can stream for free",
+        "original": "10 forgotten sci-fi and horror movies added to Tubi in November 2026 you can stream for free",
+        "traffic": "Substack"
+      },
+      {
+        "title": "NOTES: No. 10 NoDak looks for series win against No. 5 WMU - University of North Dakota Athletics",
+        "original": "NOTES: No. 10 NoDak looks for series win against No. 5 WMU - University of North Dakota Athletics",
+        "traffic": "University of North Dakota Athletics"
+      },
+      {
+        "title": "Cleveland Clinic Trial Shows Novel Lipoprotein(a) Drug Did Not Reduce Major Cardiovascular Events After Nearly 5 Years",
+        "original": "Cleveland Clinic Trial Shows Novel Lipoprotein(a) Drug Did Not Reduce Major Cardiovascular Events After Nearly 5 Years",
+        "traffic": "Cleveland Clinic Newsroom"
+      },
+      {
+        "title": "Gulls Look to Even Series with Silver Knights",
+        "original": "Gulls Look to Even Series with Silver Knights",
+        "traffic": "San Diego Gulls"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-06",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "The Decade’s 10 Most Defining Movies (So Far)",
         "original": "The Decade’s 10 Most Defining Movies (So Far)",
         "traffic": "The Atlantic"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-08",
-    "trends_br": [
-      {
-        "title": "SUHO, do EXO, faz primeiro show no Brasil em dezembro",
-        "traffic": "Billboard Brasil"
-      },
-      {
-        "title": "Cinema Walmir Almeida destaca trajetórias de Gonzaguinha em nova programação",
-        "traffic": "Prefeitura de Aracaju"
-      },
-      {
-        "title": "Kolbe Arte: a expansão do cinema católico",
-        "traffic": "Vatican News"
-      },
-      {
-        "title": "Show arrecada brinquedos para o Fundo Social de Santos",
-        "traffic": "Prefeitura de Santos |"
-      },
-      {
-        "title": "Feira do Livro: talk show com Martha Medeiros foi destaque e programação segue intensa até segunda-feira",
-        "traffic": "Prefeitura Municipal de Canela"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "2026 postseason schedule, results and how to watch",
-        "original": "2026 postseason schedule, results and how to watch",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "The Breakout Music Video of the Year Has a Message for Men. What Is It?",
-        "original": "The Breakout Music Video of the Year Has a Message for Men. What Is It?",
-        "traffic": "The Atlantic"
-      },
-      {
-        "title": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-        "original": "Exclusive | Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding",
-        "traffic": "WSJ"
-      },
-      {
-        "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
-        "original": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
-        "traffic": "Rockstar Games"
-      },
-      {
-        "title": "Bridgerton’s Spin-Off About Young Violet Is Officially on the Way",
-        "original": "Bridgerton’s Spin-Off About Young Violet Is Officially on the Way",
-        "traffic": "Netflix"
       }
     ],
     "yt_br": [],
