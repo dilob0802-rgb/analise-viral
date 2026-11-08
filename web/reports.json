@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-08",
+    "trends_br": [
+      {
+        "title": "PM cancela show de Natanzinho Lima na favela de Paraisópolis por falta de alvará; comunidade se revolta e cantor pede desculpa: ‘público acima do esperado’",
+        "traffic": "G1"
+      },
+      {
+        "title": "Mostra reúne 40 filmes e celebra força do cinema realizado por mulheres",
+        "traffic": "Alma Preta Jornalismo"
+      },
+      {
+        "title": "Sepultura dá adeus com show longo e repleto de participações em SP",
+        "traffic": "Rolling Stone Brasil"
+      },
+      {
+        "title": "Abertura da F1 em São Paulo tem show de Iza e hino cantado por Ana Castela",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Música, alegria e solidariedade marcam a Noite do Servidor 2026 em Santos",
+        "traffic": "Prefeitura de Santos |"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Opinion | Everything about life I learned from ‘The Sound of Music’",
+        "original": "Opinion | Everything about life I learned from ‘The Sound of Music’",
+        "traffic": "The Washington Post"
+      },
+      {
+        "title": "Allgaier’s resilience yields second O’Reilly Series title in three years",
+        "original": "Allgaier’s resilience yields second O’Reilly Series title in three years",
+        "traffic": "NASCAR.com"
+      },
+      {
+        "title": "Soprano De Bique shows deep and refined artistry in genre-crossing Apollo’s Fire program",
+        "original": "Soprano De Bique shows deep and refined artistry in genre-crossing Apollo’s Fire program",
+        "traffic": "Chicago Classical Review"
+      },
+      {
+        "title": "Nanooks Split Weekend Series at Stonehill: Fall in Game Two 6-3",
+        "original": "Nanooks Split Weekend Series at Stonehill: Fall in Game Two 6-3",
+        "traffic": "University of Alaska Fairbanks Athletics"
+      },
+      {
+        "title": "Azacitidine Plus Ruxolitinib Shows Durable Responses in Myelofibrosis",
+        "original": "Azacitidine Plus Ruxolitinib Shows Durable Responses in Myelofibrosis",
+        "traffic": "CancerNetwork"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-07",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "‘Stranger Things’ star is all grown up, bringing music project to S.F.",
         "original": "‘Stranger Things’ star is all grown up, bringing music project to S.F.",
         "traffic": "San Francisco Chronicle"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-09",
-    "trends_br": [
-      {
-        "title": "Circuito Penedo de Cinema divulga lista de filmes selecionados para edição 2026",
-        "traffic": "Universidade Federal de Alagoas"
-      },
-      {
-        "title": "Lagum abre nova turnê nacional com show em BH; veja data e ingressos",
-        "traffic": "SouBH"
-      },
-      {
-        "title": "“Cinema: Eis a Questão” lança livreto e anuncia lives sobre filmes do Vestibular Uesb 2027",
-        "traffic": "UESB"
-      },
-      {
-        "title": "Cine Audiovisão promove sessão gratuita com cinema experimental e música ao vivo no Recife",
-        "traffic": "Brasil de Fato"
-      },
-      {
-        "title": "Projeto da UFPI promove educação musical inclusiva para pessoas com o Transtorno do Espectro Autista (TEA)",
-        "traffic": "UFPI"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "10 scary movies and TV shows to set the mood for Halloween",
-        "original": "10 scary movies and TV shows to set the mood for Halloween",
-        "traffic": "Emory News"
-      },
-      {
-        "title": "NASCAR adjusts Saturday schedule at Charlotte Motor Speedway",
-        "original": "NASCAR adjusts Saturday schedule at Charlotte Motor Speedway",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
-        "original": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
-        "traffic": "Rockstar Games"
-      },
-      {
-        "title": "On the Ground at the Power to the People Festival, a Day of Protest Music and Solidarity",
-        "original": "On the Ground at the Power to the People Festival, a Day of Protest Music and Solidarity",
-        "traffic": "Time Magazine"
-      },
-      {
-        "title": "The Decade’s 10 Most Defining Movies (So Far)",
-        "original": "The Decade’s 10 Most Defining Movies (So Far)",
-        "traffic": "The Atlantic"
       }
     ],
     "yt_br": [],
