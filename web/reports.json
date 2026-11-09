@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-09",
+    "trends_br": [
+      {
+        "title": "Lá na Minha Terra: Confira quem canta a música de abertura e veja a trilha sonora",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Capital Inicial grava ao vivo show em estádio de São Paulo, em junho de 2027, para documentar 45 anos de carreira",
+        "traffic": "G1"
+      },
+      {
+        "title": "Projeto aproxima adolescentes do Judiciário por meio do cinema em Vila Bela da Santíssima Trindade",
+        "traffic": "Poder Judiciário do Estado de Mato Grosso"
+      },
+      {
+        "title": "Fundart abre troca de ingressos para show de Jazz do “Arte Para Todos”",
+        "traffic": "Prefeitura de Ubatuba"
+      },
+      {
+        "title": "IX Mostra Sesc de Cinema chega às unidades do Sesc RJ",
+        "traffic": "Portal Sesc RJ"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Is 2026 the fakest year in music?",
+        "original": "Is 2026 the fakest year in music?",
+        "traffic": "Colorado Public Radio"
+      },
+      {
+        "title": "TCU Music, Fashion Researchers Team Up to Study Marching Band Uniform Safety",
+        "original": "TCU Music, Fashion Researchers Team Up to Study Marching Band Uniform Safety",
+        "traffic": "Texas Christian University"
+      },
+      {
+        "title": "ANNOUNCING THE 2027 LINE-UP OF THE TONE POET VINYL SERIES",
+        "original": "ANNOUNCING THE 2027 LINE-UP OF THE TONE POET VINYL SERIES",
+        "traffic": "Blue Note Records"
+      },
+      {
+        "title": "Laser Shows Return to McDonnell Planetarium in December, January",
+        "original": "Laser Shows Return to McDonnell Planetarium in December, January",
+        "traffic": "Saint Louis Science Center"
+      },
+      {
+        "title": "UCSB Department of Music Presents Fall 2026 Concert Series",
+        "original": "UCSB Department of Music Presents Fall 2026 Concert Series",
+        "traffic": "The Santa Barbara Independent"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-08",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "MLB League Championship Series Picks, World Series Predictions",
         "original": "MLB League Championship Series Picks, World Series Predictions",
         "traffic": "Sports Illustrated"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-10",
-    "trends_br": [
-      {
-        "title": "Setlist, horários e mais: saiba tudo sobre o show do Zayn no Brasil",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Brincando na Morada reúne música e atrações gratuitas neste sábado na Capital – CGNotícias",
-        "traffic": "Prefeitura de Campo Grande"
-      },
-      {
-        "title": "Essa cidade é coisa de cinema: Festival do Rio exibe dezenas de filmes com personagens, lugares e histórias bem cariocas",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "As 10 Melhores Séries de 2026 Até Agora, Segundo o Rotten Tomatoes",
-        "traffic": "Forbes Brasil"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 10 de outubro",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Every New Hallmark Christmas Movie in 2026: Dates, Casts and How to Stream",
-        "original": "Every New Hallmark Christmas Movie in 2026: Dates, Casts and How to Stream",
-        "traffic": "Forbes"
-      },
-      {
-        "title": "MLB division series: ALDS Game 5 live updates, takeaways, analysis",
-        "original": "MLB division series: ALDS Game 5 live updates, takeaways, analysis",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "An Albany youth music program gave hundreds of free lessons, now faces an uncertain future - Oregon Public Broadcasting",
-        "original": "An Albany youth music program gave hundreds of free lessons, now faces an uncertain future - Oregon Public Broadcasting",
-        "traffic": "OPB"
-      },
-      {
-        "title": "NASCAR at Charlotte: Key info, links, results for Chase race weekend",
-        "original": "NASCAR at Charlotte: Key info, links, results for Chase race weekend",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "‘Stranger Things’ star is all grown up, bringing music project to S.F.",
-        "original": "‘Stranger Things’ star is all grown up, bringing music project to S.F.",
-        "traffic": "San Francisco Chronicle"
       }
     ],
     "yt_br": [],
