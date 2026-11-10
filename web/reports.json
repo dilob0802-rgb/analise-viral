@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-10",
+    "trends_br": [
+      {
+        "title": "Shakira em Cariacica: estádio Kleber Andrade é reservado para show da cantora em janeiro",
+        "traffic": "G1"
+      },
+      {
+        "title": "Globo compra briga com Nordeste por causa de nova novela, ‘Lá na Minha Terra’",
+        "traffic": "VEJA"
+      },
+      {
+        "title": "Mostra de Cinema Infantil reúne estudantes de Penedo e Neópolis em manhã de cinema e interação",
+        "traffic": "Universidade Federal de Alagoas"
+      },
+      {
+        "title": "Sociedade Pelotense Música pela Música se apresenta no palco do Sete",
+        "traffic": "Prefeitura de Pelotas"
+      },
+      {
+        "title": "Jovens da Fundhas têm aula de música com artistas alemães",
+        "traffic": "Prefeitura de São José dos Campos"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Review: Amanda Gookin \"Forward Music Project 3.0\"",
+        "original": "Review: Amanda Gookin \"Forward Music Project 3.0\"",
+        "traffic": "I Care If You Listen"
+      },
+      {
+        "title": "Bringing Life into an Ancient Culture & Music",
+        "original": "Bringing Life into an Ancient Culture & Music",
+        "traffic": "WORT-FM 89.9"
+      },
+      {
+        "title": "EPCOT Festival of the Arts 2027 Disney on Broadway Concert Series Schedule",
+        "original": "EPCOT Festival of the Arts 2027 Disney on Broadway Concert Series Schedule",
+        "traffic": "Disney Parks Blog"
+      },
+      {
+        "title": "Is alternative music finally taking over the Latin Grammys?",
+        "original": "Is alternative music finally taking over the Latin Grammys?",
+        "traffic": "Colorado Public Radio"
+      },
+      {
+        "title": "Beyond the Stage: Marie Rader Series Brings Artists Into the Rowan Community",
+        "original": "Beyond the Stage: Marie Rader Series Brings Artists Into the Rowan Community",
+        "traffic": "Rowan Today"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-09",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "UConn Opens Preseason In HOF Series At Mohegan Sun",
         "original": "UConn Opens Preseason In HOF Series At Mohegan Sun",
         "traffic": "University of Connecticut Athletics"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-11",
-    "trends_br": [
-      {
-        "title": "Maria Rita volta a se agigantar como cantora no show 'Redescobrir vol. 2', embalada pelo colo da mãe, Elis Regina",
-        "traffic": "G1"
-      },
-      {
-        "title": "Mc Divertida: Modo Divertidamente - O Show | Rio de Janeiro | 10/10/2026",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Famoso Quem: Descubra quem é essa celebridade que ficou conhecida ainda na infância",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Sete Cores da Amazônia",
-        "traffic": "Sesc São Paulo"
-      },
-      {
-        "title": "Zayn Malik usa camisa do Flamengo em show no estádio do Palmeiras; veja",
-        "traffic": "CNN Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "MLB championship round odds: Dodgers and Rays begin series as favorites",
-        "original": "MLB championship round odds: Dodgers and Rays begin series as favorites",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Head Trip music festival ends show early due to lightning in Indio, California",
-        "original": "Head Trip music festival ends show early due to lightning in Indio, California",
-        "traffic": "ABC7 Los Angeles"
-      },
-      {
-        "title": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
-        "original": "World Series odds: Dodgers still lead the way, Rays favored against Guardians",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "NASCAR Cup Series Charlotte lineup, TV schedule for Sunday's race",
-        "original": "NASCAR Cup Series Charlotte lineup, TV schedule for Sunday's race",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "MLB League Championship Series Picks, World Series Predictions",
-        "original": "MLB League Championship Series Picks, World Series Predictions",
-        "traffic": "Sports Illustrated"
       }
     ],
     "yt_br": [],
