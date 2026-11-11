@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-11",
+    "trends_br": [
+      {
+        "title": "Cantora do Katseye faz show sentada após concussão e levanta debate sobre rotina exaustiva",
+        "traffic": "G1"
+      },
+      {
+        "title": "34º Festival MixBrasil reúne cinema, teatro, games e literatura em SP",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Quinta no Cinema exibe curta goiano “Eu Não Nasci Para Isso” nesta quinta-feira (12) | Notícias | Cultura",
+        "traffic": "Prefeitura de Anápolis"
+      },
+      {
+        "title": "Dia Nacional da Música Instrumental Hermeto Pascoal vai a sanção",
+        "traffic": "Senado"
+      },
+      {
+        "title": "Exposição “Dia da Música – A música que nos move” é atração gratuita na Biblioteca Municipal de Sorocaba",
+        "traffic": "Prefeitura de Sorocaba"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Why Music Must Remain Human",
+        "original": "Why Music Must Remain Human",
+        "traffic": "The Boston Musical Intelligencer"
+      },
+      {
+        "title": "The Body Soundtrack: Listen to Every ’90s and Y2K ‘Turn Up’ Song from the Series",
+        "original": "The Body Soundtrack: Listen to Every ’90s and Y2K ‘Turn Up’ Song from the Series",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "Gesa Pavilion Concert Series Welcomes New Concert Promoter",
+        "original": "Gesa Pavilion Concert Series Welcomes New Concert Promoter",
+        "traffic": "City of Spokane, Washington"
+      },
+      {
+        "title": "Taylor Swift Will Be Honored at THR's Women in Entertainment Gala",
+        "original": "Taylor Swift Will Be Honored at THR's Women in Entertainment Gala",
+        "traffic": "The Hollywood Reporter"
+      },
+      {
+        "title": "Entertainment 360 Acquires Max Stein’s Brigade",
+        "original": "Entertainment 360 Acquires Max Stein’s Brigade",
+        "traffic": "Deadline"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-10",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
         "original": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
         "traffic": "Apple"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-12",
-    "trends_br": [
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 12 de outubro",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "Feriado de Nossa Senhora no DF terá missas na Catedral e show com Frei Gilson; veja detalhes",
-        "traffic": "G1"
-      },
-      {
-        "title": "Zeca Baleiro",
-        "traffic": "Sesc São Paulo"
-      },
-      {
-        "title": "Famosos celebram Dia das Crianças com os filhos; confira",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Caça às bruxas aos isentões? Público cobra posicionamento político de celebridades",
-        "traffic": "VEJA"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Marty Stuart’s Country Music Time Machine",
-        "original": "Marty Stuart’s Country Music Time Machine",
-        "traffic": "The Santa Barbara Independent"
-      },
-      {
-        "title": "Where to buy World Series tickets and how much they cost right now",
-        "original": "Where to buy World Series tickets and how much they cost right now",
-        "traffic": "Milwaukee Journal Sentinel"
-      },
-      {
-        "title": "Beatles Films Release Details: A Mega-Month of Moviegoing, Producers Hope",
-        "original": "Beatles Films Release Details: A Mega-Month of Moviegoing, Producers Hope",
-        "traffic": "The Hollywood Reporter"
-      },
-      {
-        "title": "2026 NASCAR Cup Series entry list for Phoenix Raceway Chase race",
-        "original": "2026 NASCAR Cup Series entry list for Phoenix Raceway Chase race",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "UConn Opens Preseason In HOF Series At Mohegan Sun",
-        "original": "UConn Opens Preseason In HOF Series At Mohegan Sun",
-        "traffic": "University of Connecticut Athletics"
       }
     ],
     "yt_br": [],
