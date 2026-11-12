@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-12",
+    "trends_br": [
+      {
+        "title": "Fundo Social: 2º Show de Prêmios acontece no dia 17/11 em prol da Apae",
+        "traffic": "Portal do Município de Piracicaba"
+      },
+      {
+        "title": "22 de junho deve se tornar o Dia Nacional da Música Instrumental Hermeto Pascoal",
+        "traffic": "Senado"
+      },
+      {
+        "title": "Festival de Cinema Italiano é destaque na programação do Cine Walmir Almeida",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "XV Semana de Turismo debate sobre literatura, cinema e destinos turísticos - UFJF",
+        "traffic": "Universidade Federal de Juiz de Fora"
+      },
+      {
+        "title": "2º Festival Universitário de Artes da UFU reúne oficinas, teatro, música e performances",
+        "traffic": "Comunica UFU"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Kenny Loggins, Bucky Heard highlight Sunday's gameday entertainment",
+        "original": "Kenny Loggins, Bucky Heard highlight Sunday's gameday entertainment",
+        "traffic": "Raiders.com"
+      },
+      {
+        "title": "Teyonah Parris & Danielle Brooks To Star In ‘Before I Let Go’ Peacock Series Based On Kennedy Ryan’s Book",
+        "original": "Teyonah Parris & Danielle Brooks To Star In ‘Before I Let Go’ Peacock Series Based On Kennedy Ryan’s Book",
+        "traffic": "Deadline"
+      },
+      {
+        "title": "Hendrix faculty and students publish research connecting music and well-being",
+        "original": "Hendrix faculty and students publish research connecting music and well-being",
+        "traffic": "Hendrix College"
+      },
+      {
+        "title": "Made by Music: Dallas Turner Visits Electric Fetus & Talks Gameday Music & Unexpected Favorites",
+        "original": "Made by Music: Dallas Turner Visits Electric Fetus & Talks Gameday Music & Unexpected Favorites",
+        "traffic": "Minnesota Vikings"
+      },
+      {
+        "title": "SIU Wind Ensemble pairs music and wine for ‘Variations on America’",
+        "original": "SIU Wind Ensemble pairs music and wine for ‘Variations on America’",
+        "traffic": "SIU News"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-11",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "Guards head home with series tied after costly error on Rays' turf",
         "original": "Guards head home with series tied after costly error on Rays' turf",
         "traffic": "MLB.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-13",
-    "trends_br": [
-      {
-        "title": "Famosos lamentam morte do cantor Netinho, símbolo do axé music: 'A música está triste com sua partida'",
-        "traffic": "G1"
-      },
-      {
-        "title": "Opinião - Rosana Hermann: Famosos em cima do muro: eles têm medo do quê?",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Circuito Penedo de Cinema abre inscrições para Mostra Cineclubista",
-        "traffic": "Universidade Federal de Alagoas"
-      },
-      {
-        "title": "Amigos e famosos lamentam morte de Netinho",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "Mostra revisita os “grandes fracassos” da história do cinema",
-        "traffic": "Jornal da USP"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Momentum in every measure: Huntsville Music Month hits new high notes",
-        "original": "Momentum in every measure: Huntsville Music Month hits new high notes",
-        "traffic": "City of Huntsville (.gov)"
-      },
-      {
-        "title": "Encountering the Past in “Music Against the Night”",
-        "original": "Encountering the Past in “Music Against the Night”",
-        "traffic": "The New Yorker"
-      },
-      {
-        "title": "Book Review: ‘Music Against the Night,’ by Yiyun Li",
-        "original": "Book Review: ‘Music Against the Night,’ by Yiyun Li",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
-        "original": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
-        "original": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
-        "traffic": "Apple"
       }
     ],
     "yt_br": [],
