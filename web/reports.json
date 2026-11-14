@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-14",
+    "trends_br": [
+      {
+        "title": "Show da Xuxa em BH: metrô terá funcionamento ampliado e ônibus extras circularão; veja esquema de trânsito",
+        "traffic": "G1"
+      },
+      {
+        "title": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Prefeitura de Florianópolis banca o show mais caro de Ana Castela contratado por órgãos públicos",
+        "traffic": "ICL Notícias"
+      },
+      {
+        "title": "'Lá na Minha Terra': Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
+        "traffic": "BBC"
+      },
+      {
+        "title": "Música chiclete: entenda por que ela gruda na sua mente",
+        "traffic": "CNN Brasil"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Retailers are turning to entertainment to win shoppers’ attention",
+        "original": "Retailers are turning to entertainment to win shoppers’ attention",
+        "traffic": "CNBC"
+      },
+      {
+        "title": "Ryan Trares: Christmas music to the rescue",
+        "original": "Ryan Trares: Christmas music to the rescue",
+        "traffic": "Daily Journal"
+      },
+      {
+        "title": "Today’s famous birthdays list for November 14, 2026 includes celebrities Olga Kurylenko, Patrick Warburton",
+        "original": "Today’s famous birthdays list for November 14, 2026 includes celebrities Olga Kurylenko, Patrick Warburton",
+        "traffic": "Cleveland.com"
+      },
+      {
+        "title": "Liberty music alumni amplify Christ in film scoring careers",
+        "original": "Liberty music alumni amplify Christ in film scoring careers",
+        "traffic": "Liberty University"
+      },
+      {
+        "title": "Firkus to make NHL debut for Kraken in Global Series finale",
+        "original": "Firkus to make NHL debut for Kraken in Global Series finale",
+        "traffic": "NHL.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-13",
     "trends_br": [
       {
@@ -1560,60 +1614,6 @@
         "title": "After a failed World Series attempt, Dodgers are left wondering what happened to their season, and their star",
         "original": "After a failed World Series attempt, Dodgers are left wondering what happened to their season, and their star",
         "traffic": "NBC News"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-15",
-    "trends_br": [
-      {
-        "title": "Mostra Internacional de Cinema de SP começa nesta quinta-feira",
-        "traffic": "Agência Brasil"
-      },
-      {
-        "title": "CINE ESCOLA DUQUE DE CAXIAS RECEBE MOSTRA DE CINEMA CHINÊS GRATUITA. CONFIRA OS FILMES DA PROGRAMAÇÃO",
-        "traffic": "Prefeitura Municipal de Duque de Caxias"
-      },
-      {
-        "title": "Sesc Digital recebe programação da 15ª Mostra de Cinema Coreano",
-        "traffic": "Sesc São Paulo"
-      },
-      {
-        "title": "Elas Que Lutem é a próxima novela das 7 da Globo; saiba mais!",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "28ª Feira do Livro terá cinema, teatro, oficinas e lançamentos nesta quinta-feira",
-        "traffic": "Prefeitura de Bagé"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Iconic punk rock band returns with new music after nearly 50-year career",
-        "original": "Iconic punk rock band returns with new music after nearly 50-year career",
-        "traffic": "Syracuse.com"
-      },
-      {
-        "title": "Finding the groove: what’s the best genre of music to dance to?",
-        "original": "Finding the groove: what’s the best genre of music to dance to?",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "Why I’m rooting for the Cleveland Guardians to win the World Series",
-        "original": "Why I’m rooting for the Cleveland Guardians to win the World Series",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "The Myth of the Gifted Writer, and What Sylvester Stallone Shows Us About Being a Storyteller",
-        "original": "The Myth of the Gifted Writer, and What Sylvester Stallone Shows Us About Being a Storyteller",
-        "traffic": "Jane Friedman"
-      },
-      {
-        "title": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
-        "original": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
-        "traffic": "MLB.com"
       }
     ],
     "yt_br": [],
