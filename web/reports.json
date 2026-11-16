@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-16",
+    "trends_br": [
+      {
+        "title": "Pista Baile Black recebe 17 horas ininterruptas de música preta no Festival da Consciência Negra",
+        "traffic": "Prefeitura de São Paulo"
+      },
+      {
+        "title": "Várzea Paulista participa da 11ª Mostra de Cinema Chinês com duas exibições gratuitas",
+        "traffic": "Prefeitura de Várzea Paulista"
+      },
+      {
+        "title": "Pinacoteca recebe 16ª Mostra de Cinema e Direitos Humanos, com filmes e debates sobre protagonismo das pessoas idosas",
+        "traffic": "Governo do Estado do Ceará"
+      },
+      {
+        "title": "Baile do Havaí vai reunir gerações em uma tarde de música e diversão",
+        "traffic": "Prefeitura de Cotia"
+      },
+      {
+        "title": "Música, teatro e alegria marcam programação do Natal do Bem",
+        "traffic": "Goias.GOV"
+      }
+    ],
+    "trends_global": [],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-15",
     "trends_br": [
       {
@@ -1560,60 +1588,6 @@
         "title": "River Hawks Drop Series Finale to Arizona State, 4-2",
         "original": "River Hawks Drop Series Finale to Arizona State, 4-2",
         "traffic": "UMass Lowell Athletics"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-17",
-    "trends_br": [
-      {
-        "title": "Cê Ta Doido Festival - São Paulo - 17/10/2026 - Venda Geral",
-        "traffic": "Ticketmaster Brasil"
-      },
-      {
-        "title": "Os Filmes Imperdíveis da 50ª Mostra Internacional de Cinema de São Paulo",
-        "traffic": "Forbes Brasil"
-      },
-      {
-        "title": "Prima de Luísa Sonza, Nadine Gerloff fala sobre papel em nova novela vertical do Globoplay: 'Tenho sonhos grandes'",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 17 de outubro",
-        "traffic": "Notícias da TV"
-      },
-      {
-        "title": "KAMIJO faz show em São Paulo em fevereiro de 2027",
-        "traffic": "Crunchyroll"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Honeycutt strikes back, wins Truck Series Chase race at Phoenix",
-        "original": "Honeycutt strikes back, wins Truck Series Chase race at Phoenix",
-        "traffic": "NASCAR.com"
-      },
-      {
-        "title": "Who should Brewers want to face in the World Series?",
-        "original": "Who should Brewers want to face in the World Series?",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Cheapest Brewers World Series Game 1 seat now costs more than $3,000",
-        "original": "Cheapest Brewers World Series Game 1 seat now costs more than $3,000",
-        "traffic": "USA Today"
-      },
-      {
-        "title": "Volleyball Returns To HTC Center For Marshall Series",
-        "original": "Volleyball Returns To HTC Center For Marshall Series",
-        "traffic": "Coastal Carolina University Athletics"
-      },
-      {
-        "title": "One of My Top Three Shows of 2026 Was Just Renewed—Finally",
-        "original": "One of My Top Three Shows of 2026 Was Just Renewed—Finally",
-        "traffic": "PureWow"
       }
     ],
     "yt_br": [],
