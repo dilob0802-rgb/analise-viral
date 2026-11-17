@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-17",
+    "trends_br": [
+      {
+        "title": "CINE SOBRE RODAS LEVA SESSÕES GRATUITAS DE CINEMA AO BAIRRO CÉU AZUL NESTE FIM DE SEMANA",
+        "traffic": "Prefeitura Municipal de Valparaíso de Goiás"
+      },
+      {
+        "title": "Jonathan Ferr estreia em Fortaleza com show domingo (22) no Cineteatro São Luiz",
+        "traffic": "Governo do Estado do Ceará"
+      },
+      {
+        "title": "Notícias - Festival de Culturas Pretas recebe show do Pagode da 27 nesta sexta-feira (20/11)",
+        "traffic": "Prefeitura de Mogi das Cruzes -"
+      },
+      {
+        "title": "14º Festival de Música Erudita do Espírito Santo inaugura projeto Orquestras em Rede",
+        "traffic": "CONCERTO | Home"
+      },
+      {
+        "title": "Primeiros detalhes sobre o MLB The Show 27",
+        "traffic": "PlayStation.Blog BR"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
+        "original": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "‘Ted’ Animated Series Drops Foul-Mouthed, Pot-Filled First Trailer",
+        "original": "‘Ted’ Animated Series Drops Foul-Mouthed, Pot-Filled First Trailer",
+        "traffic": "Variety"
+      },
+      {
+        "title": "Isomorphic Labs announces Series C investment round",
+        "original": "Isomorphic Labs announces Series C investment round",
+        "traffic": "Isomorphic Labs"
+      },
+      {
+        "title": "Pitt State announces lineup of holiday music performances",
+        "original": "Pitt State announces lineup of holiday music performances",
+        "traffic": "Pittsburg State University"
+      },
+      {
+        "title": "Entertainment News",
+        "original": "Entertainment News",
+        "traffic": "USA Today"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-16",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Brewers advance to World Series, Milwaukee reacts to NLCS win",
         "original": "Brewers advance to World Series, Milwaukee reacts to NLCS win",
         "traffic": "FOX6 News Milwaukee"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-18",
-    "trends_br": [
-      {
-        "title": "'Aquarelas' de Ary Barroso e Tom Jobim colorem com a bossa brasileira o show de Dionne Warwick no Rio de Janeiro",
-        "traffic": "G1"
-      },
-      {
-        "title": "Outro Canal: Em alta na Globo, Mariana Sena é cotada para próxima novela das seis com Maisa",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Como assistir ao Victoria’s Secret Fashion Show 2026 ao vivo neste domingo?",
-        "traffic": "Exame"
-      },
-      {
-        "title": "Festival de Cinema valoriza produções de crianças e adolescentes",
-        "traffic": "Agência Brasil"
-      },
-      {
-        "title": "Os Filmes Imperdíveis da 50ª Mostra Internacional de Cinema de São Paulo",
-        "traffic": "Forbes Brasil"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Helicopter crash claims country music star’s life amid terrifying wave of air scares",
-        "original": "Helicopter crash claims country music star’s life amid terrifying wave of air scares",
-        "traffic": "PennLive.com"
-      },
-      {
-        "title": "Rays defeat Guardians to level MLB playoff series",
-        "original": "Rays defeat Guardians to level MLB playoff series",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "MOTR to host Cincinnati Music Book Show",
-        "original": "MOTR to host Cincinnati Music Book Show",
-        "traffic": "Cincinnati CityBeat"
-      },
-      {
-        "title": "Rays vs. Guardians (Oct 18, 2026) Live Score",
-        "original": "Rays vs. Guardians (Oct 18, 2026) Live Score",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "River Hawks Drop Series Finale to Arizona State, 4-2",
-        "original": "River Hawks Drop Series Finale to Arizona State, 4-2",
-        "traffic": "UMass Lowell Athletics"
       }
     ],
     "yt_br": [],
