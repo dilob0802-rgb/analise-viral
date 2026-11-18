@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-18",
+    "trends_br": [
+      {
+        "title": "Portal UFS - Filme produzido na UFS vence Circuito Penedo de Cinema",
+        "traffic": "Portal UFS"
+      },
+      {
+        "title": "Com música, cinema e debate, Arapiraca celebra Dia da Consciência Negra - Home",
+        "traffic": "Prefeitura de Arapiraca"
+      },
+      {
+        "title": "Cinema do Dragão recebe 20º FOR RAINBOW e apresenta programação especial Cinemas Negros em Perspectivas",
+        "traffic": "Governo do Estado do Ceará"
+      },
+      {
+        "title": "Pianista Sonia Rubinsky é eleita para a Academia Brasileira de Música",
+        "traffic": "CONCERTO | Home"
+      },
+      {
+        "title": "Chapecó abre programação de Natal com show nacional",
+        "traffic": "Prefeitura de Chapecó"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "'GTA 6' on Xbox Series S: How well it actually runs",
+        "original": "'GTA 6' on Xbox Series S: How well it actually runs",
+        "traffic": "Mashable"
+      },
+      {
+        "title": "Newly reopened Forest Theater will host a music video festival this weekend",
+        "original": "Newly reopened Forest Theater will host a music video festival this weekend",
+        "traffic": "www.kera.org"
+      },
+      {
+        "title": "‘Grendel’ Animated Series Based On Dark Horse Comic Greenlighted At Netflix",
+        "original": "‘Grendel’ Animated Series Based On Dark Horse Comic Greenlighted At Netflix",
+        "traffic": "Deadline"
+      },
+      {
+        "title": "Mercury Music Picks: The Reunion of Sallie Ford & the Sound Outside, a Yussef Dayes Listening Party, and Growing Pains",
+        "original": "Mercury Music Picks: The Reunion of Sallie Ford & the Sound Outside, a Yussef Dayes Listening Party, and Growing Pains",
+        "traffic": "Portland Mercury"
+      },
+      {
+        "title": "WBTV, Paramount TV studios to merge into single entity",
+        "original": "WBTV, Paramount TV studios to merge into single entity",
+        "traffic": "Bay News 9"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-17",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "September data shows housing market in a deep freeze",
         "original": "September data shows housing market in a deep freeze",
         "traffic": "CNBC"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-19",
-    "trends_br": [
-      {
-        "title": "Último show de Benito di Paula foi ao lado do filho e teve participação de Zeca Baleiro em SP",
-        "traffic": "G1"
-      },
-      {
-        "title": "CineFé em Fátima: três dias dedicados ao cinema, à cultura e à fé",
-        "traffic": "Vatican News"
-      },
-      {
-        "title": "Festival UFU de Cultura Afro reúne arte, música e debates sobre relações étnico-raciais em novembro",
-        "traffic": "Comunica UFU"
-      },
-      {
-        "title": "Mostra recebe lançamentos de livros sobre cinema em São Paulo",
-        "traffic": "PublishNews"
-      },
-      {
-        "title": "Daniil Trifonov lança disco com música latino-americana e participação da Osesp",
-        "traffic": "CONCERTO | Home"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "US Supreme Court rejects music labels' challenge to copyright termination ruling",
-        "original": "US Supreme Court rejects music labels' challenge to copyright termination ruling",
-        "traffic": "Reuters"
-      },
-      {
-        "title": "2026 postseason schedule, results and how to watch",
-        "original": "2026 postseason schedule, results and how to watch",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "ALCS Game 6: Lineups, live updates for Guardians-Rays",
-        "original": "ALCS Game 6: Lineups, live updates for Guardians-Rays",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Making music is magic. Understanding it is even better.",
-        "original": "Making music is magic. Understanding it is even better.",
-        "traffic": "Harvard Gazette"
-      },
-      {
-        "title": "Brewers advance to World Series, Milwaukee reacts to NLCS win",
-        "original": "Brewers advance to World Series, Milwaukee reacts to NLCS win",
-        "traffic": "FOX6 News Milwaukee"
       }
     ],
     "yt_br": [],
