@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-19",
+    "trends_br": [
+      {
+        "title": "Cinema Walmir Almeida destaca animação franco-brasileira e drama chileno na programação semanal",
+        "traffic": "Prefeitura de Aracaju"
+      },
+      {
+        "title": "Festival de música e dança no Rio de Janeiro valoriza cultura negra",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Pingo de Fortaleza celebra 45 anos de trajetória artística em show gratuito promovido pela Vila da Música, em Crato",
+        "traffic": "Governo do Estado do Ceará"
+      },
+      {
+        "title": "Na Ufam, Mostra de Cinema Indigena apresenta retrospectiva do cinema Matis, entre os dias 23 e 27 de novembro",
+        "traffic": "UFAM"
+      },
+      {
+        "title": "Conservatório de Música apresenta legado de compositores negros sergipanos a estudantes da rede pública",
+        "traffic": "Secretaria de Estado da Educação de Sergipe"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Making Music with Matt Persin",
+        "original": "Making Music with Matt Persin",
+        "traffic": "Door County Pulse"
+      },
+      {
+        "title": "Review: I Play Rocky — Movies for the Rest of Us with Bill Newcott",
+        "original": "Review: I Play Rocky — Movies for the Rest of Us with Bill Newcott",
+        "traffic": "The Saturday Evening Post"
+      },
+      {
+        "title": "Taylor Swift & Jack Antonoff, Ludwig Göransson Win at 2026 Hollywood Music in Media Awards: Full Winners List",
+        "original": "Taylor Swift & Jack Antonoff, Ludwig Göransson Win at 2026 Hollywood Music in Media Awards: Full Winners List",
+        "traffic": "Billboard"
+      },
+      {
+        "title": "Music taste should not be a ‘niche off’",
+        "original": "Music taste should not be a ‘niche off’",
+        "traffic": "Daily Trojan"
+      },
+      {
+        "title": "Mia Lovell returns to Nitro Motorsports for 2027 ARCA Menards Series West campaign",
+        "original": "Mia Lovell returns to Nitro Motorsports for 2027 ARCA Menards Series West campaign",
+        "traffic": "arcaracing.com"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-18",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Music professor explores creative process behind Canadian composer’s songs",
         "original": "Music professor explores creative process behind Canadian composer’s songs",
         "traffic": "Binghamton University"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-20",
-    "trends_br": [
-      {
-        "title": "Cinema Ponto MIS apresenta documentário sobre o Ballet Paraisópolis",
-        "traffic": "Prefeitura de Várzea Paulista"
-      },
-      {
-        "title": "Jockey Plaza promove sessão de cinema e crochê em prol de hospital",
-        "traffic": "G1"
-      },
-      {
-        "title": "Hunter Schafer, de 'Euphoria', revela cirurgia de redesignação sexual",
-        "traffic": "UOL"
-      },
-      {
-        "title": "Associação Brasileira \"Carlos Gomes\" de Artistas Líricos celebra 45 anos com música",
-        "traffic": "Prefeitura de Campinas"
-      },
-      {
-        "title": "‘Vem Pra Praça, Minha Gente!” leva diversão, guloseimas e música à Orla Lagunar de Marechal Deodoro",
-        "traffic": "Marechal Deodoro"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Where 2026 ranks among best World Series matchups since 2000",
-        "original": "Where 2026 ranks among best World Series matchups since 2000",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "This year's World Series champ will be a 1st-time winner ... either way",
-        "original": "This year's World Series champ will be a 1st-time winner ... either way",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Rays will face Brewers in World Series to produce a first-time champion",
-        "original": "Rays will face Brewers in World Series to produce a first-time champion",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Where are all the comedy movies?",
-        "original": "Where are all the comedy movies?",
-        "traffic": "UConn Daily Campus"
-      },
-      {
-        "title": "September data shows housing market in a deep freeze",
-        "original": "September data shows housing market in a deep freeze",
-        "traffic": "CNBC"
       }
     ],
     "yt_br": [],
