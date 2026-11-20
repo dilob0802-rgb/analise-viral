@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-20",
+    "trends_br": [
+      {
+        "title": "'Não dá para sudestino escrever para nordestino', diz atriz ao criticar novela da Globo",
+        "traffic": "UOL"
+      },
+      {
+        "title": "Jovens quilombolas levam suas histórias ao cinema em mostra inédita na Chapada Diamantina",
+        "traffic": "ba.gov.br"
+      },
+      {
+        "title": "SP: empreendedorismo, marcha e música marcam Dia da Consciência Negra",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "ZZ Top faz show em SP neste sábado após mais de 16 anos longe do Brasil; veja horários e ingressos",
+        "traffic": "G1"
+      },
+      {
+        "title": "Prévia da 16ª Mostra de Cinema e Direitos Humanos: oficina gratuita de audiovisual em Natal está com inscrições abertas",
+        "traffic": "www.gov.br"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
+        "original": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "How Orchestra Noir turned classical music into a cultural movement",
+        "original": "How Orchestra Noir turned classical music into a cultural movement",
+        "traffic": "NPR"
+      },
+      {
+        "title": "The Melania Series Has One Accidental Purpose",
+        "original": "The Melania Series Has One Accidental Purpose",
+        "traffic": "Mother Jones"
+      },
+      {
+        "title": "DSBF Final: Aeneas completes series sweep",
+        "original": "DSBF Final: Aeneas completes series sweep",
+        "traffic": "State of Delaware News (.gov)"
+      },
+      {
+        "title": "5 leadership lessons the music industry taught me",
+        "original": "5 leadership lessons the music industry taught me",
+        "traffic": "Fast Company"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-19",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Music can enhance the flavor of your food",
         "original": "Music can enhance the flavor of your food",
         "traffic": "Phys.org"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-21",
-    "trends_br": [
-      {
-        "title": "Qual é a música de Rubel usada em vídeo de Nikolas Ferreira que teve áudio removido pelo Instagram?",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Theatro Sete de Abril recebe mostra de cinema na próxima semana",
-        "traffic": "Prefeitura de Pelotas"
-      },
-      {
-        "title": "Judcultura: servidor do TJMT encontra na música equilíbrio para a rotina profissional",
-        "traffic": "Poder Judiciário do Estado de Mato Grosso"
-      },
-      {
-        "title": "MIS CE tem show e lançamento de livro em homenagem a Belchior",
-        "traffic": "Governo do Estado do Ceará"
-      },
-      {
-        "title": "Cinema em casa: o que procurar em uma TV Samsung para filmes e séries?",
-        "traffic": "samsung.com"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
-        "original": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Apple Music’s new visual identity ripples into view – with help from Fred Again..",
-        "original": "Apple Music’s new visual identity ripples into view – with help from Fred Again..",
-        "traffic": "Wallpaper*"
-      },
-      {
-        "title": "As fans reject AI-generated music, even boosters are drawing the line",
-        "original": "As fans reject AI-generated music, even boosters are drawing the line",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "Brewers’ Brandon Woodruff wants to return for World Series, but rules may get in the way - The Athletic",
-        "original": "Brewers’ Brandon Woodruff wants to return for World Series, but rules may get in the way - The Athletic",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "Music professor explores creative process behind Canadian composer’s songs",
-        "original": "Music professor explores creative process behind Canadian composer’s songs",
-        "traffic": "Binghamton University"
       }
     ],
     "yt_br": [],
