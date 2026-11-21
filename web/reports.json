@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-21",
+    "trends_br": [
+      {
+        "title": "Fim de semana em Campo Grande reúne música, teatro, feiras e atrações gratuitas – CGNotícias",
+        "traffic": "Prefeitura de Campo Grande"
+      },
+      {
+        "title": "Última edição da “Mostra Especial Preservação e História do Cinema Gaúcho” destaca legado da Wilkens Filmes",
+        "traffic": "cultura RS"
+      },
+      {
+        "title": "Feira Orgulho Nerd, em SP, tem cinema, oficinas e games",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Felipe Araújo interrompe show após temporal no Paraná: 'O vento estava me empurrando no palco'",
+        "traffic": "G1"
+      },
+      {
+        "title": "Cinco produções que desafiam a invisibilidade do cinema negro no Brasil",
+        "traffic": "Alma Preta Jornalismo"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "From 'Obsession' to 'Madden,' 10 movies you need to stream right now",
+        "original": "From 'Obsession' to 'Madden,' 10 movies you need to stream right now",
+        "traffic": "USA Today"
+      },
+      {
+        "title": "The 90-Second Shows Addicting America",
+        "original": "The 90-Second Shows Addicting America",
+        "traffic": "The Free Press"
+      },
+      {
+        "title": "Pope: In an age of conflicts music teaches us to not be in opposition to one another",
+        "original": "Pope: In an age of conflicts music teaches us to not be in opposition to one another",
+        "traffic": "Vatican News"
+      },
+      {
+        "title": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
+        "original": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
+        "traffic": "Billboard"
+      },
+      {
+        "title": "Asking Eric: Music question causes racial offense",
+        "original": "Asking Eric: Music question causes racial offense",
+        "traffic": "Chicago Tribune"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-20",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Q&A: Alaskan Music Group Blackwater Railroad",
         "original": "Q&A: Alaskan Music Group Blackwater Railroad",
         "traffic": "The Daily Yonder"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-22",
-    "trends_br": [
-      {
-        "title": "Meta derruba áudio de vídeo de Nikolas Ferreira com música de Rubel por direitos autorais",
-        "traffic": "G1"
-      },
-      {
-        "title": "Aula-show utiliza paródias na preparação dos estudantes para o Enem 2026",
-        "traffic": "Secretaria de Estado da Educação de Sergipe"
-      },
-      {
-        "title": "Como comprar ingressos para o show do U2",
-        "traffic": "GZH"
-      },
-      {
-        "title": "Defensoria com a Meninada leva crianças acolhidas ao cinema para falar sobre direitos -",
-        "traffic": "Defensoria Pública do Espírito Santo"
-      },
-      {
-        "title": "Primeiro dia da Exporandi 2026 é marcado por show de Fernandinho, emoção e novidades em Sarandi",
-        "traffic": "Prefeitura de Sarandi"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "A first-time World Series champion? What Brewers-Rays means",
-        "original": "A first-time World Series champion? What Brewers-Rays means",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Thoughts on the World Series",
-        "original": "Thoughts on the World Series",
-        "traffic": "Viva El Birdos"
-      },
-      {
-        "title": "John Anderson, country music Hall of Famer, dies at 71",
-        "original": "John Anderson, country music Hall of Famer, dies at 71",
-        "traffic": "CBS News"
-      },
-      {
-        "title": "Tepper Sports & Entertainment Selects Marsh and Partners Risk Strategies as Insurance Brokers for Bank of America Stadium's Multi-Year Transformation",
-        "original": "Tepper Sports & Entertainment Selects Marsh and Partners Risk Strategies as Insurance Brokers for Bank of America Stadium's Multi-Year Transformation",
-        "traffic": "Panthers.com"
-      },
-      {
-        "title": "Music can enhance the flavor of your food",
-        "original": "Music can enhance the flavor of your food",
-        "traffic": "Phys.org"
       }
     ],
     "yt_br": [],
