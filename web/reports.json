@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-22",
+    "trends_br": [
+      {
+        "title": "Niterói 453 anos: Gilberto Gil e Gilsons fazem show na Praia de Icaraí neste domingo",
+        "traffic": "O GLOBO"
+      },
+      {
+        "title": "Muito além das notas: a música como parte da formação dos estudantes do IFRN",
+        "traffic": "IFRN"
+      },
+      {
+        "title": "Festival Recanto do Cinema exibe filmes brasileiros e mexicanos de 24 a 28 de novembro",
+        "traffic": "Agência Brasília"
+      },
+      {
+        "title": "Música, sabores e tradição marcam segunda noite do Festival do Açaí em Santana - Prefeitura Municipal de Santana",
+        "traffic": "AP"
+      },
+      {
+        "title": "Expo Quatis 35 Anos é marcada pelo estilo rock com show de Barão Vermelho em segunda noite de programação",
+        "traffic": "Prefeitura Municipal de Quatis"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "'GTA 6' on Xbox Series S: How well it actually runs",
+        "original": "'GTA 6' on Xbox Series S: How well it actually runs",
+        "traffic": "Mashable"
+      },
+      {
+        "title": "When Are Kids Old Enough for R-Rated Movies?",
+        "original": "When Are Kids Old Enough for R-Rated Movies?",
+        "traffic": "Boston Magazine"
+      },
+      {
+        "title": "WWE Survivor Series: WarGames 2026 — Date, Match Card, Start Time, and News",
+        "original": "WWE Survivor Series: WarGames 2026 — Date, Match Card, Start Time, and News",
+        "traffic": "Netflix"
+      },
+      {
+        "title": "Rondeau surveys French harpsichord music for CMM, making it his own",
+        "original": "Rondeau surveys French harpsichord music for CMM, making it his own",
+        "traffic": "Washington Classical Review"
+      },
+      {
+        "title": "Opinion | In Movies and Politics, Money Gets You Only So Far",
+        "original": "Opinion | In Movies and Politics, Money Gets You Only So Far",
+        "traffic": "The New York Times"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-21",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Sammy Smith wins chaotic Truck Series race at Talladega in overtime",
         "original": "Sammy Smith wins chaotic Truck Series race at Talladega in overtime",
         "traffic": "NASCAR.com"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-23",
-    "trends_br": [
-      {
-        "title": "Capital tem exposições e recital de música com entrada livre – CGNotícias",
-        "traffic": "Prefeitura de Campo Grande"
-      },
-      {
-        "title": "Show de Talentos da Educação reúne alunos da Rede Municipal de Ensino",
-        "traffic": "Prefeitura de São Pedro da Aldeia"
-      },
-      {
-        "title": "Chico César apresenta o show “Vestido de Amor” no Teatro Sesc Ginástico",
-        "traffic": "Portal Sesc RJ"
-      },
-      {
-        "title": "Exporandi 2026 bate recorde de público no segundo dia com show de Zé Neto e Cristiano",
-        "traffic": "Prefeitura de Sarandi"
-      },
-      {
-        "title": "Festival de cinema independente do Rio anuncia filmes selecionados para sua segunda edição",
-        "traffic": "O GLOBO"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Our experts make their World Series predictions",
-        "original": "Our experts make their World Series predictions",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Rays-Brewers World Series preview, predictions, odds",
-        "original": "Rays-Brewers World Series preview, predictions, odds",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "With MLB lockout looming, World Series readies for two small-market teams",
-        "original": "With MLB lockout looming, World Series readies for two small-market teams",
-        "traffic": "NBC News"
-      },
-      {
-        "title": "World Series 2026 predictions: will the Rays or Brewers claim their first title?",
-        "original": "World Series 2026 predictions: will the Rays or Brewers claim their first title?",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "Q&A: Alaskan Music Group Blackwater Railroad",
-        "original": "Q&A: Alaskan Music Group Blackwater Railroad",
-        "traffic": "The Daily Yonder"
       }
     ],
     "yt_br": [],
