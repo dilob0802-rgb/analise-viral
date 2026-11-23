@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-23",
+    "trends_br": [
+      {
+        "title": "Grandes filmes, grandes trilhas: Gil, Caetano e a música no cinema",
+        "traffic": "Itaú Cultural"
+      },
+      {
+        "title": "Shakira no Réveillon de Balneário Camboriú: ingressos, local e tudo o que já se sabe do megashow",
+        "traffic": "G1"
+      },
+      {
+        "title": "Banda de Música da Base Aérea de Manaus realiza concerto no Teatro Amazonas em homenagem aos 120 anos do 14-Bis – Força Aérea Brasileira",
+        "traffic": "Força Aérea Brasileira"
+      },
+      {
+        "title": "Escola de Música de Biguaçu apresenta recital gratuito de violão nesta terça-feira (24)",
+        "traffic": "Prefeitura de Biguaçu"
+      },
+      {
+        "title": "Abertura natalina em Chapecó tem show e luzes natalinas",
+        "traffic": "Prefeitura de Chapecó"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "Series F (Building the digital front door)",
+        "original": "Series F (Building the digital front door)",
+        "traffic": "Sierra AI Agents"
+      },
+      {
+        "title": "New Mexico teacher vacancy rate declines, annual report shows",
+        "original": "New Mexico teacher vacancy rate declines, annual report shows",
+        "traffic": "Source New Mexico"
+      },
+      {
+        "title": "Second annual A FLY Christmas returns to Mars Music Hall Dec. 5",
+        "original": "Second annual A FLY Christmas returns to Mars Music Hall Dec. 5",
+        "traffic": "City of Huntsville (.gov)"
+      },
+      {
+        "title": "Warner And Sony’s Earnings Reveal What Lies Ahead For The Music Business: Surging Profits",
+        "original": "Warner And Sony’s Earnings Reveal What Lies Ahead For The Music Business: Surging Profits",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "Black Friday and Cyber Monday Deals at Hershey Entertainment Venues",
+        "original": "Black Friday and Cyber Monday Deals at Hershey Entertainment Venues",
+        "traffic": "Hershey Blog"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-22",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "The Rays Are Down, But Not Out, As The World Series Heads To Tampa Bay",
         "original": "The Rays Are Down, But Not Out, As The World Series Heads To Tampa Bay",
         "traffic": "FOX Sports"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-24",
-    "trends_br": [
-      {
-        "title": "Programação da Globo hoje: tem novela 'Quem Ama Cuida' com o debate? Veja horários",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Cinema: o que atrai e o que afasta os espectadores",
-        "traffic": "Meio e Mensagem"
-      },
-      {
-        "title": "BTS World Tour 'Arirang' In Buenos Aires: Live Viewing",
-        "traffic": "Ingresso.com"
-      },
-      {
-        "title": "Como Jane Austen se tornou uma fonte inesgotável de adaptações no cinema e na TV",
-        "traffic": "VEJA"
-      },
-      {
-        "title": "Chico Chico traz novo show “Let It Burn – Deixa Arder” ao TCA",
-        "traffic": "Portal Soteropreta"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "4 key takeaways after Brewers win a thriller to start World Series",
-        "original": "4 key takeaways after Brewers win a thriller to start World Series",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Trevor Megill escapes ninth-inning jam to close out Brewers' Game 1 win",
-        "original": "Trevor Megill escapes ninth-inning jam to close out Brewers' Game 1 win",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Controversial 9th inning in Game 1 of the World Series reignites debate about “the neighborhood play”",
-        "original": "Controversial 9th inning in Game 1 of the World Series reignites debate about “the neighborhood play”",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
-        "original": "In this World Series, the ghosts have home-field advantage: Haunted hotels await both teams",
-        "traffic": "The New York Times"
-      },
-      {
-        "title": "Sammy Smith wins chaotic Truck Series race at Talladega in overtime",
-        "original": "Sammy Smith wins chaotic Truck Series race at Talladega in overtime",
-        "traffic": "NASCAR.com"
       }
     ],
     "yt_br": [],
