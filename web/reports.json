@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-24",
+    "trends_br": [
+      {
+        "title": "Show Safra Mato Grosso apresenta novidades para a edição de 2027",
+        "traffic": "Prefeitura de Lucas do Rio Verde"
+      },
+      {
+        "title": "Festival Cinema Negro em Ação chega à sétima edição em Porto Alegre",
+        "traffic": "cultura.rs.gov.br"
+      },
+      {
+        "title": "Resumo de A Dona do Pedaço: Próximo capítulo da novela, quarta, 25 de novembro",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Samba de raiz reúne grande público em programação especial do “Música na Praça”",
+        "traffic": "Prefeitura de São Pedro da Aldeia"
+      },
+      {
+        "title": "Itapipoca conecta formação e arte em 8ª Semana da Música",
+        "traffic": "Home — IFCE"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+        "original": "In 'GTA VI,' every stolen car is a music discovery machine",
+        "traffic": "NPR"
+      },
+      {
+        "title": "ARCA Menards Series East and West 2027 schedules announced",
+        "original": "ARCA Menards Series East and West 2027 schedules announced",
+        "traffic": "arcaracing.com"
+      },
+      {
+        "title": "‘Aquamarine’ TV Series Greenlit at Disney+, Disney Channel",
+        "original": "‘Aquamarine’ TV Series Greenlit at Disney+, Disney Channel",
+        "traffic": "Variety"
+      },
+      {
+        "title": "The 6 Best Shows of November, Hands-Down",
+        "original": "The 6 Best Shows of November, Hands-Down",
+        "traffic": "PureWow"
+      },
+      {
+        "title": "VCSU Music Presents 5 Concerts from Dec. 1-11",
+        "original": "VCSU Music Presents 5 Concerts from Dec. 1-11",
+        "traffic": "Valley City State University"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-23",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Wieden+Kennedy launches entertainment division to make movies and shows—with and without brands",
         "original": "Wieden+Kennedy launches entertainment division to make movies and shows—with and without brands",
         "traffic": "Ad Age"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-25",
-    "trends_br": [
-      {
-        "title": "Anitta, Virginia e mais famosos com pendências na Justiça Eleitoral",
-        "traffic": "Metrópoles"
-      },
-      {
-        "title": "3 filmes para conferir no Festival de Cinema Francês no Brasil",
-        "traffic": "VEJA RIO"
-      },
-      {
-        "title": "Artistas fazem show contra vandalismo do qual foi vítima o Clube da Esquina",
-        "traffic": "Click Guarulhos"
-      },
-      {
-        "title": "Castorine fala do papel na nova novela das 18h e do fim do casamento com ator de 'Coração acelerado'",
-        "traffic": "O GLOBO"
-      },
-      {
-        "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 26 de outubro",
-        "traffic": "Notícias da TV"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Key takeaways as Brewers take commanding 2-0 lead in World Series",
-        "original": "Key takeaways as Brewers take commanding 2-0 lead in World Series",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Brewers rally vs. Rays in Game 2 to take 2-0 lead in World Series",
-        "original": "Brewers rally vs. Rays in Game 2 to take 2-0 lead in World Series",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Is there a World Series game today? Full TV schedule, times, channels for Brewers vs. Rays Game 3",
-        "original": "Is there a World Series game today? Full TV schedule, times, channels for Brewers vs. Rays Game 3",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "Brewers erase four-run deficit to stun Rays and take 2-0 World Series lead",
-        "original": "Brewers erase four-run deficit to stun Rays and take 2-0 World Series lead",
-        "traffic": "The Guardian"
-      },
-      {
-        "title": "The Rays Are Down, But Not Out, As The World Series Heads To Tampa Bay",
-        "original": "The Rays Are Down, But Not Out, As The World Series Heads To Tampa Bay",
-        "traffic": "FOX Sports"
       }
     ],
     "yt_br": [],
