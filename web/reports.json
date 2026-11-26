@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-26",
+    "trends_br": [
+      {
+        "title": "Festival de Música Rádio Nacional celebra 90 anos da emissora com show",
+        "traffic": "Agência Brasil"
+      },
+      {
+        "title": "Veja como comprar ingressos para show de Shakira em Salvador; preços variam entre R$ 295 e R$ 2.600",
+        "traffic": "G1"
+      },
+      {
+        "title": "Fim! A liquidação da Escola de Música de Piracicaba",
+        "traffic": "CONCERTO | Home"
+      },
+      {
+        "title": "Resumo de A Dona do Pedaço: Próximo capítulo da novela, sexta, 27 de novembro",
+        "traffic": "Notícias da TV"
+      },
+      {
+        "title": "Expo São Miguel 2026 começa hoje (26) com show de Zé Neto & Cristiano",
+        "traffic": "Prefeitura Municipal de São Miguel do Iguaçu"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "The 8 best movies to watch this Thanksgiving",
+        "original": "The 8 best movies to watch this Thanksgiving",
+        "traffic": "National News Desk"
+      },
+      {
+        "title": "Wu-Tang Clan kicks off Thanksgiving Day football halftime shows",
+        "original": "Wu-Tang Clan kicks off Thanksgiving Day football halftime shows",
+        "traffic": "Yahoo Sports"
+      },
+      {
+        "title": "'Friday Night Lights' tops poll ranking 21st-century sports shows",
+        "original": "'Friday Night Lights' tops poll ranking 21st-century sports shows",
+        "traffic": "ESPN"
+      },
+      {
+        "title": "NFL Thanksgiving Day Halftime Shows Boast A Star-Studded Lineup: Here’s Who’s Performing",
+        "original": "NFL Thanksgiving Day Halftime Shows Boast A Star-Studded Lineup: Here’s Who’s Performing",
+        "traffic": "Forbes"
+      },
+      {
+        "title": "NOTES: No. 4 UND hosts Lindenwood for Thanksgiving Weekend series - University of North Dakota Athletics",
+        "original": "NOTES: No. 4 UND hosts Lindenwood for Thanksgiving Weekend series - University of North Dakota Athletics",
+        "traffic": "University of North Dakota Athletics"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-25",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "An app for fans of live local music",
         "original": "An app for fans of live local music",
         "traffic": "Rochester Beacon"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-27",
-    "trends_br": [
-      {
-        "title": "U2 anuncia quarto e último show no Brasil em 2027; data, ingressos e mais",
-        "traffic": "Rolling Stone Brasil"
-      },
-      {
-        "title": "Última Quinta no Cinema de outubro exibe animação “Curta Diferenças” nesta quinta-feira (29) | Notícias | Cultura",
-        "traffic": "Prefeitura de Anápolis"
-      },
-      {
-        "title": "Entorno da Arena da Baixada terá bloqueios para show do Iron MaidenNotícia",
-        "traffic": "Secretaria Municipal de Defesa Social e Trânsito"
-      },
-      {
-        "title": "NFL anuncia Jay Z como atração do show do intervalo do Super Bowl LXI",
-        "traffic": "G1"
-      },
-      {
-        "title": "BTS em São Paulo: que horas começa o show e como chegar ao MorumBIS?",
-        "traffic": "Exame"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
-        "original": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead",
-        "original": "Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
-        "original": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Brewers just pulled off something no World Series team had ever done before",
-        "original": "Brewers just pulled off something no World Series team had ever done before",
-        "traffic": "Yahoo Sports"
-      },
-      {
-        "title": "Baseball To Host Fall World Series",
-        "original": "Baseball To Host Fall World Series",
-        "traffic": "Alabama Athletics"
       }
     ],
     "yt_br": [],
