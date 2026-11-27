@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-27",
+    "trends_br": [
+      {
+        "title": "21º Festival Audiovisual Internacional Comunicurtas UEPB promove acesso ao cinema para estudantes da rede pública",
+        "traffic": "UEPB"
+      },
+      {
+        "title": "Mostra Timonense de Humor reunirá teatro, música e cultura popular",
+        "traffic": "Prefeitura de Timon"
+      },
+      {
+        "title": "IX Colóquio Internacional de Cinema e História promove debates e exibições de filmes paranaenses",
+        "traffic": "Universidade Federal do Paraná"
+      },
+      {
+        "title": "Com filmes de 84 países, Festival de Cinema Escolar de Alvorada premia melhores produções da 12ª edição",
+        "traffic": "Prefeitura Municipal Alvorada"
+      },
+      {
+        "title": "Concerto gratuito marca encerramento dos Cursos Livres de Música no dia 9 de dezembro",
+        "traffic": "Sesc MA"
+      }
+    ],
+    "trends_global": [
+      {
+        "title": "7 New Movies Our Critics Are Talking About This Week",
+        "original": "7 New Movies Our Critics Are Talking About This Week",
+        "traffic": "The New York Times"
+      },
+      {
+        "title": "Cozy escapism or festive trash? How Netflix holiday movies took over Christmas",
+        "original": "Cozy escapism or festive trash? How Netflix holiday movies took over Christmas",
+        "traffic": "The Guardian"
+      },
+      {
+        "title": "The Best Movies of 2026: Hollywood Bounces Back",
+        "original": "The Best Movies of 2026: Hollywood Bounces Back",
+        "traffic": "WSJ"
+      },
+      {
+        "title": "Movies You Need To See: The Further Mis-Adventures Of Cliff Booth",
+        "original": "Movies You Need To See: The Further Mis-Adventures Of Cliff Booth",
+        "traffic": "New Orleans Magazine"
+      },
+      {
+        "title": "Liz Harris: Music for Two Films About Water Album Review",
+        "original": "Liz Harris: Music for Two Films About Water Album Review",
+        "traffic": "Pitchfork"
+      }
+    ],
+    "yt_br": [],
+    "yt_global": []
+  },
+  {
     "date": "2026-11-26",
     "trends_br": [
       {
@@ -1534,60 +1588,6 @@
         "title": "Where to get copies of Brewers World Series championship front page",
         "original": "Where to get copies of Brewers World Series championship front page",
         "traffic": "Milwaukee Journal Sentinel"
-      }
-    ],
-    "yt_br": [],
-    "yt_global": []
-  },
-  {
-    "date": "2026-10-28",
-    "trends_br": [
-      {
-        "title": "Pitbull anuncia show único em São Paulo para 2027; saiba detalhes",
-        "traffic": "CNN Brasil"
-      },
-      {
-        "title": "Oficina: CINEMA X TEATRO – O trabalho do ator entre o palco e a câmera – Pontos MIS",
-        "traffic": "Cultura Jundiaí"
-      },
-      {
-        "title": "Que horas começa o show do BTS hoje em São Paulo? Veja horário",
-        "traffic": "Exame"
-      },
-      {
-        "title": "BTS no Brasil: Fãs enfrentam chuva e filas para show no MorumBis",
-        "traffic": "Gshow"
-      },
-      {
-        "title": "Outro Canal: Thiago Martins acerta volta à Globo na próxima novela das sete",
-        "traffic": "UOL"
-      }
-    ],
-    "trends_global": [
-      {
-        "title": "Lineups, live updates from Brewers-Rays World Series Game 5",
-        "original": "Lineups, live updates from Brewers-Rays World Series Game 5",
-        "traffic": "ESPN"
-      },
-      {
-        "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
-        "original": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
-        "traffic": "NPR"
-      },
-      {
-        "title": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
-        "original": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
-        "traffic": "MLB.com"
-      },
-      {
-        "title": "‘Shock at that Trop’, Rays beat Brewers in World Series Game 4",
-        "original": "‘Shock at that Trop’, Rays beat Brewers in World Series Game 4",
-        "traffic": "ABC7 WWSB"
-      },
-      {
-        "title": "An app for fans of live local music",
-        "original": "An app for fans of live local music",
-        "traffic": "Rochester Beacon"
       }
     ],
     "yt_br": [],
